@@ -1,0 +1,22 @@
+{
+  "id": "dansbecker/xgboost",
+  "id_no": 363959,
+  "title": "XGBoost",
+  "code_file": "xgboost.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "xgboost",
+    "gradient boosting"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "house-prices-advanced-regression-techniques"
+  ],
+  "model_sources": []
+}

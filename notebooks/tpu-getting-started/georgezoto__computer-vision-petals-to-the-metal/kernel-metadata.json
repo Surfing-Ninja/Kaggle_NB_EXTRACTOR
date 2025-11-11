@@ -1,0 +1,29 @@
+{
+  "id": "georgezoto/computer-vision-petals-to-the-metal",
+  "id_no": 13858092,
+  "title": "Computer Vision - Petals to the Metal\ud83c\udf3b\ud83c\udf38\ud83c\udf39",
+  "code_file": "computer-vision-petals-to-the-metal.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "keras",
+    "image",
+    "transfer learning"
+  ],
+  "dataset_sources": [
+    "georgezoto/images",
+    "georgezoto/models",
+    "kirillblinov/tf-flower-photo-tfrec"
+  ],
+  "kernel_sources": [
+    "ryanholbrook/petal-helper"
+  ],
+  "competition_sources": [
+    "tpu-getting-started"
+  ],
+  "model_sources": []
+}

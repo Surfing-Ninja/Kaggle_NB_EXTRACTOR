@@ -1,0 +1,29 @@
+{
+  "id": "faressayah/practical-introduction-to-10-regression-algorithm",
+  "id_no": 7133279,
+  "title": "Practical Introduction to 10 Regression Algorithm",
+  "code_file": "practical-introduction-to-10-regression-algorithm.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "linear regression",
+    "beginner",
+    "matplotlib",
+    "numpy",
+    "pandas",
+    "seaborn",
+    "sklearn"
+  ],
+  "dataset_sources": [
+    "vedavyasv/usa-housing"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "house-prices-advanced-regression-techniques"
+  ],
+  "model_sources": []
+}

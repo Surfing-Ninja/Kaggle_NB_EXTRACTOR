@@ -1,0 +1,21 @@
+{
+  "original_path": "notebooks/csiro-biomass/takaito__csiro-img2bio-tta-inference-notebook/csiro-img2bio-tta-inference-notebook.ipynb",
+  "quality_score": 44.2969,
+  "grade": "C",
+  "techniques": {
+    "hyperparameter": [
+      "cross_validation"
+    ],
+    "advanced_ml": [
+      "neural_network"
+    ]
+  },
+  "libraries": [
+    "pandas",
+    "numpy",
+    "sklearn",
+    "pytorch"
+  ],
+  "category": "eda_fe",
+  "competition": "csiro-biomass"
+}

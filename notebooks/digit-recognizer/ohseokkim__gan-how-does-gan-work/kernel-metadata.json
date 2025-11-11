@@ -1,0 +1,30 @@
+{
+  "id": "ohseokkim/gan-how-does-gan-work",
+  "id_no": 21321683,
+  "title": "[GAN] How does GAN work?",
+  "code_file": "gan-how-does-gan-work.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gan",
+    "adversarial learning",
+    "beginner",
+    "deep learning",
+    "intermediate",
+    "gpu"
+  ],
+  "dataset_sources": [
+    "hojjatk/mnist-dataset",
+    "brianon99/mnist-data",
+    "animatronbot/mnist-digit-recognizer"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "digit-recognizer"
+  ],
+  "model_sources": []
+}

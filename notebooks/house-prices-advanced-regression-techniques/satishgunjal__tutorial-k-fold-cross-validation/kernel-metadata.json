@@ -1,0 +1,23 @@
+{
+  "id": "satishgunjal/tutorial-k-fold-cross-validation",
+  "id_no": 10648796,
+  "title": "Tutorial: K Fold Cross Validation",
+  "code_file": "tutorial-k-fold-cross-validation.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "regression",
+    "classification"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "house-prices-advanced-regression-techniques",
+    "titanic"
+  ],
+  "model_sources": []
+}

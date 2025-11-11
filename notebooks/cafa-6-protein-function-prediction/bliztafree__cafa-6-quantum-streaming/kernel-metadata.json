@@ -1,0 +1,21 @@
+{
+  "id": "bliztafree/cafa-6-quantum-streaming",
+  "id_no": 95414597,
+  "title": "CAFA 6 Quantum Streaming",
+  "code_file": "cafa-6-quantum-streaming.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    ""
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "cafa-6-protein-function-prediction"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "doanquanvietnamca/the-beauty-of-cyclegan",
+  "id_no": 11453571,
+  "title": "The Beauty of CycleGAN",
+  "code_file": "the-beauty-of-cyclegan.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": true,
+  "enable_internet": true,
+  "keywords": [
+    "gan"
+  ],
+  "dataset_sources": [
+    "doanquanvietnamca/monet-2",
+    "doanquanvietnamca/monet-tfrecords-extdata",
+    "doanquanvietnamca/monetcheckpointtoimages",
+    "ibrahimserouis99/one-piece-image-classifier"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "gan-getting-started"
+  ],
+  "model_sources": []
+}

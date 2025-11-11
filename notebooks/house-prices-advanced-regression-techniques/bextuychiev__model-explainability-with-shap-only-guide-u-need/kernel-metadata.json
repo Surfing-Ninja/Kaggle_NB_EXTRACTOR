@@ -1,0 +1,31 @@
+{
+  "id": "bextuychiev/model-explainability-with-shap-only-guide-u-need",
+  "id_no": 21050276,
+  "title": "Model Explainability with SHAP: Only Guide U Need",
+  "code_file": "model-explainability-with-shap-only-guide-u-need.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "model explainability",
+    "matplotlib",
+    "xgboost",
+    "beginner",
+    "gpu"
+  ],
+  "dataset_sources": [
+    "shivam2503/diamonds"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "house-prices-advanced-regression-techniques",
+    "tabular-playground-series-aug-2021",
+    "tabular-playground-series-oct-2021",
+    "tabular-playground-series-sep-2021",
+    "titanic"
+  ],
+  "model_sources": []
+}

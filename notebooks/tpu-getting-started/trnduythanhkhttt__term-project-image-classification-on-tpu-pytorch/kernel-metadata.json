@@ -1,0 +1,21 @@
+{
+  "id": "trnduythanhkhttt/term-project-image-classification-on-tpu-pytorch",
+  "id_no": 30088095,
+  "title": "Term Project-Image Classification on TPU & PyTorch",
+  "code_file": "term-project-image-classification-on-tpu-pytorch.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "tpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "tpu-getting-started"
+  ],
+  "model_sources": []
+}

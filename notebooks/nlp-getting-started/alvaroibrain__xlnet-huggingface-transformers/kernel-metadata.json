@@ -1,0 +1,24 @@
+{
+  "id": "alvaroibrain/xlnet-huggingface-transformers",
+  "id_no": 7760491,
+  "title": "XLNet - HuggingFace Transformers",
+  "code_file": "xlnet-huggingface-transformers.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "deep learning",
+    "classification",
+    "transfer learning",
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nlp-getting-started"
+  ],
+  "model_sources": []
+}

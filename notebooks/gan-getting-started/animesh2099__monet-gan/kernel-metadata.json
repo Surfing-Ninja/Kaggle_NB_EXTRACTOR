@@ -1,0 +1,23 @@
+{
+  "id": "animesh2099/monet-gan",
+  "id_no": 11550292,
+  "title": "Monet GAN",
+  "code_file": "monet-gan.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "tpu"
+  ],
+  "dataset_sources": [
+    "doanquanvietnamca/monet-tfrecords-extdata"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "gan-getting-started"
+  ],
+  "model_sources": []
+}

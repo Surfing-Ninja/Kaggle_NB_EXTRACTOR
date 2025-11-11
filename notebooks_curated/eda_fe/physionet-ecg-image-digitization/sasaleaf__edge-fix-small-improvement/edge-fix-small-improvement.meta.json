@@ -1,0 +1,22 @@
+{
+  "original_path": "notebooks/physionet-ecg-image-digitization/sasaleaf__edge-fix-small-improvement/edge-fix-small-improvement.ipynb",
+  "quality_score": 48.75,
+  "grade": "C",
+  "techniques": {
+    "feature_engineering": [
+      "aggregation"
+    ],
+    "eda": [
+      "correlation",
+      "missing_analysis",
+      "visualization"
+    ]
+  },
+  "libraries": [
+    "pandas",
+    "numpy",
+    "matplotlib"
+  ],
+  "category": "eda_fe",
+  "competition": "physionet-ecg-image-digitization"
+}

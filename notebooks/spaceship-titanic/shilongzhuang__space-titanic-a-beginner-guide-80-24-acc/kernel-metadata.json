@@ -1,0 +1,25 @@
+{
+  "id": "shilongzhuang/space-titanic-a-beginner-guide-80-24-acc",
+  "id_no": 26527147,
+  "title": "\ud83d\ude80\ud83d\udef8 Space Titanic: A Beginner Guide (80.24% acc)",
+  "code_file": "space-titanic-a-beginner-guide-80-24-acc.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "beginner",
+    "data cleaning",
+    "exploratory data analysis",
+    "data visualization",
+    "feature engineering"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "spaceship-titanic"
+  ],
+  "model_sources": []
+}

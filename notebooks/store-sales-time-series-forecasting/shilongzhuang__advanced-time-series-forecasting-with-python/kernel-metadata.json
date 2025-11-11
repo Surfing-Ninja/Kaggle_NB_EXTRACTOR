@@ -1,0 +1,26 @@
+{
+  "id": "shilongzhuang/advanced-time-series-forecasting-with-python",
+  "id_no": 33679024,
+  "title": "\u23f0\ud83d\udcc8 Advanced Time Series Forecasting with Python",
+  "code_file": "advanced-time-series-forecasting-with-python.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "intermediate",
+    "pandas",
+    "beginner",
+    "time series analysis",
+    "advanced"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "godaddy-microbusiness-density-forecasting",
+    "store-sales-time-series-forecasting"
+  ],
+  "model_sources": []
+}

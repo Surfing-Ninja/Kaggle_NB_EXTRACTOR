@@ -1,0 +1,21 @@
+{
+  "id": "ehsanzx/featured-physics-nfl-26-prediction-lb-0-613",
+  "id_no": 95535766,
+  "title": "Featured, Physics , NFL 26 Prediction |Lb: 0.613",
+  "code_file": "featured-physics-nfl-26-prediction-lb-0-613.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nfl-big-data-bowl-2026-prediction"
+  ],
+  "model_sources": []
+}

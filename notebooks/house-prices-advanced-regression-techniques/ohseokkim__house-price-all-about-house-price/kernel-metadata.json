@@ -1,0 +1,25 @@
+{
+  "id": "ohseokkim/house-price-all-about-house-price",
+  "id_no": 23472951,
+  "title": "[House Price] All about House Price!",
+  "code_file": "house-price-all-about-house-price.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "automl",
+    "beginner",
+    "model explainability",
+    "intermediate",
+    "pytorch"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "house-prices-advanced-regression-techniques"
+  ],
+  "model_sources": []
+}

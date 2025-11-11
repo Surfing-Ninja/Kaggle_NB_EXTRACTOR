@@ -1,0 +1,23 @@
+{
+  "id": "fazilbtopal/variantional-autoencoders-vae",
+  "id_no": 3718994,
+  "title": "Variantional Autoencoders(VAE)",
+  "code_file": "variantional-autoencoders-vae.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "cnn"
+  ],
+  "dataset_sources": [
+    "zalando-research/fashionmnist"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "digit-recognizer"
+  ],
+  "model_sources": []
+}

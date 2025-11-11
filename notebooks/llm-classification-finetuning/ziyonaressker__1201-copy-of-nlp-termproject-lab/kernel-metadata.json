@@ -1,0 +1,26 @@
+{
+  "id": "ziyonaressker/1201-copy-of-nlp-termproject-lab",
+  "id_no": 72027469,
+  "title": "1201_Copy_of_NLP_TermProject_Lab",
+  "code_file": "1201-copy-of-nlp-termproject-lab.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "ziyonaressker/trainindataset"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "llm-classification-finetuning"
+  ],
+  "model_sources": [
+    "",
+    ""
+  ]
+}

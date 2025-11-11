@@ -1,0 +1,24 @@
+{
+  "id": "itslek/blend-stack-lr-gb-0-10649-house-prices-v57",
+  "id_no": 3077979,
+  "title": "Blend&Stack LR&GB = [0.10649] {House Prices} v57",
+  "code_file": "blend-stack-lr-gb-0-10649-house-prices-v57.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [
+    "zavodrobotov/lasso-model-for-regression-problem",
+    "massquantity/all-you-need-is-pca-lb-0-11421-top-4",
+    "agehsbarg/top-10-0-10943-stacking-mice-and-brutal-force",
+    "couyang/hybrid-svm-benchmark-approach-0-11180-lb-top-2"
+  ],
+  "competition_sources": [
+    "house-prices-advanced-regression-techniques"
+  ],
+  "model_sources": []
+}

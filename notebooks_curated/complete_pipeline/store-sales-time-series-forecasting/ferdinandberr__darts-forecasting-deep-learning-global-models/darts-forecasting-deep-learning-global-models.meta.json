@@ -1,0 +1,35 @@
+{
+  "original_path": "notebooks/store-sales-time-series-forecasting/ferdinandberr__darts-forecasting-deep-learning-global-models/darts-forecasting-deep-learning-global-models.ipynb",
+  "quality_score": 86.45,
+  "grade": "A",
+  "techniques": {
+    "feature_engineering": [
+      "aggregation",
+      "lag_features",
+      "onehot_encoding"
+    ],
+    "eda": [
+      "missing_analysis",
+      "statistics",
+      "visualization"
+    ],
+    "hyperparameter": [
+      "optuna"
+    ],
+    "advanced_ml": [
+      "lightgbm",
+      "catboost",
+      "neural_network"
+    ]
+  },
+  "libraries": [
+    "pandas",
+    "numpy",
+    "sklearn",
+    "lightgbm",
+    "matplotlib",
+    "pytorch"
+  ],
+  "category": "complete_pipeline",
+  "competition": "store-sales-time-series-forecasting"
+}

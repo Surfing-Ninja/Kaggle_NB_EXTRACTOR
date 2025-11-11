@@ -1,0 +1,19 @@
+{
+  "id": "qarisb/physionet-ecg-reconstruction-without-ml",
+  "id_no": 96717677,
+  "title": "PhysioNet \u2013 ECG Reconstruction without ML",
+  "code_file": "physionet-ecg-reconstruction-without-ml.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "physionet-ecg-image-digitization"
+  ],
+  "model_sources": []
+}

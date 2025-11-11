@@ -1,0 +1,26 @@
+{
+  "id": "cdeotte/25-million-images-0-99757-mnist",
+  "id_no": 1301491,
+  "title": "25 Million Images! [0.99757] MNIST",
+  "code_file": "25-million-images-0-99757-mnist.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "deep learning",
+    "neural networks",
+    "cnn",
+    "matplotlib",
+    "numpy",
+    "pandas"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "digit-recognizer"
+  ],
+  "model_sources": []
+}

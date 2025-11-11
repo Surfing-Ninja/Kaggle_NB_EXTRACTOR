@@ -1,0 +1,29 @@
+{
+  "original_path": "notebooks/house-prices-advanced-regression-techniques/pavansanagapati__knowledge-graph-nlp-tutorial-bert-spacy-nltk/knowledge-graph-nlp-tutorial-bert-spacy-nltk.ipynb",
+  "quality_score": 61.9,
+  "grade": "B",
+  "techniques": {
+    "feature_engineering": [
+      "text_features"
+    ],
+    "eda": [
+      "correlation",
+      "statistics",
+      "visualization"
+    ],
+    "advanced_ml": [
+      "neural_network"
+    ]
+  },
+  "libraries": [
+    "pandas",
+    "numpy",
+    "sklearn",
+    "matplotlib",
+    "tensorflow",
+    "keras",
+    "pytorch"
+  ],
+  "category": "eda_fe",
+  "competition": "house-prices-advanced-regression-techniques"
+}

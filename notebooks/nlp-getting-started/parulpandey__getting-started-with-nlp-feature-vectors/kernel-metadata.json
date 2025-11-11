@@ -1,0 +1,23 @@
+{
+  "id": "parulpandey/getting-started-with-nlp-feature-vectors",
+  "id_no": 7911374,
+  "title": "Getting started with NLP-Feature Vectors ",
+  "code_file": "getting-started-with-nlp-feature-vectors.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "beginner",
+    "nlp",
+    "text"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nlp-getting-started"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "rtatman/welcome-to-data-science-in-r-workbook",
+  "id_no": 417489,
+  "title": "Welcome to Data Science in R: Workbook",
+  "code_file": "welcome-to-data-science-in-r-workbook.irnb",
+  "language": "r",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "education"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "house-prices-advanced-regression-techniques"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,22 @@
+{
+  "original_path": "notebooks/nfl-big-data-bowl-2026-prediction/danpietrow__nfl-play-animation-player-movement/nfl-play-animation-player-movement.ipynb",
+  "quality_score": 35.4209,
+  "grade": "D",
+  "techniques": {
+    "feature_engineering": [
+      "aggregation"
+    ],
+    "eda": [
+      "scatter",
+      "missing_analysis",
+      "visualization"
+    ]
+  },
+  "libraries": [
+    "pandas",
+    "numpy",
+    "matplotlib"
+  ],
+  "category": "eda_fe",
+  "competition": "nfl-big-data-bowl-2026-prediction"
+}

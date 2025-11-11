@@ -1,0 +1,25 @@
+{
+  "id": "rumbleftw/multi-model-analysis-eda",
+  "id_no": 28702163,
+  "title": "\ud83d\ude80Multi-model analysis + EDA",
+  "code_file": "multi-model-analysis-eda.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "random forest",
+    "exploratory data analysis",
+    "beginner",
+    "data visualization",
+    "binary classification"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "spaceship-titanic"
+  ],
+  "model_sources": []
+}

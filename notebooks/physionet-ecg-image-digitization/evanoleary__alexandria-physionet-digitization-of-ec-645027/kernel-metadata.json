@@ -1,0 +1,21 @@
+{
+  "id": "evanoleary/alexandria-physionet-digitization-of-ec-645027",
+  "id_no": 96924228,
+  "title": "alexandria physionet digitization of ec 645027",
+  "code_file": "alexandria-physionet-digitization-of-ec-645027.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "physionet-ecg-image-digitization"
+  ],
+  "model_sources": []
+}

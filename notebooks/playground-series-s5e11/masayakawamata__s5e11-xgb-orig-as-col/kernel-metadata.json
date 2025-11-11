@@ -1,0 +1,23 @@
+{
+  "id": "masayakawamata/s5e11-xgb-orig-as-col",
+  "id_no": 97522377,
+  "title": "S5E11 | XGB - Orig as Col",
+  "code_file": "s5e11-xgb-orig-as-col.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "nabihazahid/loan-prediction-dataset-2025"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "playground-series-s5e11"
+  ],
+  "model_sources": []
+}

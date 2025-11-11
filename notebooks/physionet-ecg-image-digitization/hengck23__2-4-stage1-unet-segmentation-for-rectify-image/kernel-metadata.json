@@ -1,0 +1,23 @@
+{
+  "id": "hengck23/2-4-stage1-unet-segmentation-for-rectify-image",
+  "id_no": 97849916,
+  "title": "[2/4] Stage1: unet segmentation for rectify image",
+  "code_file": "2-4-stage1-unet-segmentation-for-rectify-image.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "hengck23/hengck23-rectification-net-demo"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "physionet-ecg-image-digitization"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "azminetoushikwasi/regression-eda-stacking-ensembling",
+  "id_no": 29631911,
+  "title": "Regression | EDA, Stacking & Ensembling",
+  "code_file": "regression-eda-stacking-ensembling.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "regression",
+    "housing",
+    "sklearn",
+    "xgboost",
+    "keras",
+    "ensembling",
+    "linear regression",
+    "tensorflow",
+    "gridExtra",
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "home-data-for-ml-course"
+  ],
+  "model_sources": []
+}

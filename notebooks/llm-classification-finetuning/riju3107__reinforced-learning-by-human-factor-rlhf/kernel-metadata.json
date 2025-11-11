@@ -1,0 +1,21 @@
+{
+  "id": "riju3107/reinforced-learning-by-human-factor-rlhf",
+  "id_no": 81711964,
+  "title": "Reinforced learning by Human Factor (RLHF)",
+  "code_file": "reinforced-learning-by-human-factor-rlhf.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "llm-classification-finetuning"
+  ],
+  "model_sources": [
+    "tensorflow/albert/TfLite/lite-base-squadv1/1"
+  ]
+}

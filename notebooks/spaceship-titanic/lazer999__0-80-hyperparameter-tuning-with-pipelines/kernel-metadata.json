@@ -1,0 +1,25 @@
+{
+  "id": "lazer999/0-80-hyperparameter-tuning-with-pipelines",
+  "id_no": 31339364,
+  "title": "[0.80+] Hyperparameter Tuning with Pipelines\u2728",
+  "code_file": "0-80-hyperparameter-tuning-with-pipelines.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "pandas",
+    "sklearn",
+    "feature engineering",
+    "beginner",
+    "public safety"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "spaceship-titanic"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "guanlintao/0-814-optuna-xgb-space-titanic",
+  "id_no": 45678289,
+  "title": "\ud83d\ude80\u2728 0.814 \ud83d\udd27\u300eOptuna XGB\u300f| Space Titanic",
+  "code_file": "0-814-optuna-xgb-space-titanic.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "xgboost",
+    "outlier analysis",
+    "optimization",
+    "exploratory data analysis",
+    "binary classification"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "spaceship-titanic"
+  ],
+  "model_sources": []
+}

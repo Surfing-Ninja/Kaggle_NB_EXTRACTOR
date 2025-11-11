@@ -1,0 +1,23 @@
+{
+  "id": "cdeotte/rotation-augmentation-gpu-tpu-0-96",
+  "id_no": 8122618,
+  "title": "Rotation Augmentation GPU/TPU - [0.96+]",
+  "code_file": "rotation-augmentation-gpu-tpu-0-96.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu",
+    "tpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "flower-classification-with-tpus",
+    "tpu-getting-started"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,33 @@
+{
+  "original_path": "notebooks/nfl-big-data-bowl-2026-prediction/llkh0a__nfl-big-data-bowl-2026-dynamic-specs-nn/nfl-big-data-bowl-2026-dynamic-specs-nn.ipynb",
+  "quality_score": 81.8815,
+  "grade": "A",
+  "techniques": {
+    "feature_engineering": [
+      "interaction",
+      "aggregation",
+      "lag_features",
+      "scaling",
+      "embedding"
+    ],
+    "eda": [
+      "missing_analysis"
+    ],
+    "hyperparameter": [
+      "cross_validation"
+    ],
+    "advanced_ml": [
+      "catboost",
+      "neural_network"
+    ]
+  },
+  "libraries": [
+    "pandas",
+    "numpy",
+    "sklearn",
+    "catboost",
+    "pytorch"
+  ],
+  "category": "complete_pipeline",
+  "competition": "nfl-big-data-bowl-2026-prediction"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "mandapallijahnavi/store-sales",
+  "id_no": 38998622,
+  "title": "Store_sales",
+  "code_file": "store-sales.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "store-sales-time-series-forecasting"
+  ],
+  "model_sources": []
+}

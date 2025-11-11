@@ -1,0 +1,23 @@
+{
+  "id": "eishkaran/cyclegan-implementation",
+  "id_no": 39693164,
+  "title": "CycleGan Implementation \ud83d\ude80",
+  "code_file": "cyclegan-implementation.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu",
+    "gan",
+    "pytorch"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "gan-getting-started"
+  ],
+  "model_sources": []
+}

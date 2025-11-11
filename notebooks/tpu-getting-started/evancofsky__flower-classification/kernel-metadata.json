@@ -1,0 +1,27 @@
+{
+  "id": "evancofsky/flower-classification",
+  "id_no": 20535343,
+  "title": "flower classification",
+  "code_file": "flower-classification.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": true,
+  "enable_internet": true,
+  "keywords": [
+    "tpu",
+    "matplotlib",
+    "numpy",
+    "tensorflow",
+    "ensembling"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [
+    "ryanholbrook/petal-helper"
+  ],
+  "competition_sources": [
+    "tpu-getting-started"
+  ],
+  "model_sources": []
+}

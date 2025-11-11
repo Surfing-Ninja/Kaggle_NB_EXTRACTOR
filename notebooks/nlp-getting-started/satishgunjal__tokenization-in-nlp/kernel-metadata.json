@@ -1,0 +1,35 @@
+{
+  "id": "satishgunjal/tokenization-in-nlp",
+  "id_no": 11870210,
+  "title": "Tokenization in NLP",
+  "code_file": "tokenization-in-nlp.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "nlp",
+    "text",
+    "beginner",
+    "spaCy",
+    "nltk"
+  ],
+  "dataset_sources": [
+    "sid321axn/amazon-alexa-reviews",
+    "olistbr/brazilian-ecommerce",
+    "krazy47/cola-the-corpus-of-linguistic-acceptability",
+    "datatattle/covid-19-nlp-text-classification",
+    "vstepanenko/disaster-tweets",
+    "rmisra/news-headlines-dataset-for-sarcasm-detection",
+    "arkhoshghalb/twitter-sentiment-analysis-hatred-speech",
+    "mikeortman/wikipedia-sentences",
+    "nicapotato/womens-ecommerce-clothing-reviews"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nlp-getting-started"
+  ],
+  "model_sources": []
+}

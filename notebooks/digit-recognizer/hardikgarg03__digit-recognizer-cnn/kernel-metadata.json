@@ -1,0 +1,19 @@
+{
+  "id": "hardikgarg03/digit-recognizer-cnn",
+  "id_no": 51287759,
+  "title": "Digit Recognizer CNN",
+  "code_file": "digit-recognizer-cnn.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "digit-recognizer"
+  ],
+  "model_sources": []
+}

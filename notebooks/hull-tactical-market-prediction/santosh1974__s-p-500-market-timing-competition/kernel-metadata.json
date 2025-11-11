@@ -1,0 +1,19 @@
+{
+  "id": "santosh1974/s-p-500-market-timing-competition",
+  "id_no": 92280239,
+  "title": "S&P 500 Market Timing Competition!",
+  "code_file": "s-p-500-market-timing-competition.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "hull-tactical-market-prediction"
+  ],
+  "model_sources": []
+}

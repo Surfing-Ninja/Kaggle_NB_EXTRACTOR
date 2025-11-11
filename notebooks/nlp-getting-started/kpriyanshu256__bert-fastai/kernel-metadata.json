@@ -1,0 +1,21 @@
+{
+  "id": "kpriyanshu256/bert-fastai",
+  "id_no": 7193189,
+  "title": "BERT_fastai",
+  "code_file": "bert-fastai.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nlp-getting-started"
+  ],
+  "model_sources": []
+}

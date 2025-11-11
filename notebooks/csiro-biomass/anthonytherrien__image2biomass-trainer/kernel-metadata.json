@@ -1,0 +1,21 @@
+{
+  "id": "anthonytherrien/image2biomass-trainer",
+  "id_no": 97279118,
+  "title": "Image2Biomass | Trainer",
+  "code_file": "image2biomass-trainer.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "csiro-biomass"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "kutlukatalay/advanced-time-series-forecasting-with-prophet",
+  "id_no": 76742441,
+  "title": "Advanced Time Series Forecasting with PROPHET",
+  "code_file": "advanced-time-series-forecasting-with-prophet.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "time series analysis",
+    "tabular",
+    "python",
+    "regression",
+    "retail and shopping"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "store-sales-time-series-forecasting"
+  ],
+  "model_sources": []
+}

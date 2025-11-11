@@ -1,0 +1,22 @@
+{
+  "id": "hengck23/3-4-stage2-unet-segmentation-for-wave-series",
+  "id_no": 96834210,
+  "title": "[3/4] Stage2: unet segmentation for wave series",
+  "code_file": "3-4-stage2-unet-segmentation-for-wave-series.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "hengck23/hengck23-gridpoint-demo",
+    "hengck23/kaggle-physionet-hengck-demo-00"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "physionet-ecg-image-digitization"
+  ],
+  "model_sources": []
+}

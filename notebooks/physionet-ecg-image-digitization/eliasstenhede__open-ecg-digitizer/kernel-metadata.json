@@ -1,0 +1,24 @@
+{
+  "id": "eliasstenhede/open-ecg-digitizer",
+  "id_no": 96988261,
+  "title": "Open-ECG-Digitizer",
+  "code_file": "open-ecg-digitizer.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "physionet-ecg-image-digitization"
+  ],
+  "model_sources": [
+    "eliasstenhede/open-ecg-digitizer/PyTorch/default/1",
+    "eliasstenhede/open-ecg-digitizer-weights/PyTorch/default/1"
+  ]
+}

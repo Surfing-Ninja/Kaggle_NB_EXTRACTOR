@@ -1,0 +1,23 @@
+{
+  "id": "maheenriaz1122/image-forgery-notebook-part-7",
+  "id_no": 98694134,
+  "title": "image forgery notebook part 7",
+  "code_file": "image-forgery-notebook-part-7.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "recodai-luc-scientific-image-forgery-detection"
+  ],
+  "model_sources": [
+    "metaresearch/dinov2/PyTorch/base/1"
+  ]
+}

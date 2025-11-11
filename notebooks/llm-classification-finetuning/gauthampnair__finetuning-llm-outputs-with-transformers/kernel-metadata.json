@@ -1,0 +1,21 @@
+{
+  "id": "gauthampnair/finetuning-llm-outputs-with-transformers",
+  "id_no": 73377092,
+  "title": "FineTuning LLM Outputs with Transformers\ud83e\udd16",
+  "code_file": "finetuning-llm-outputs-with-transformers.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "llm-classification-finetuning"
+  ],
+  "model_sources": [
+    "keras/bert/Keras/bert_base_en_uncased/2"
+  ]
+}

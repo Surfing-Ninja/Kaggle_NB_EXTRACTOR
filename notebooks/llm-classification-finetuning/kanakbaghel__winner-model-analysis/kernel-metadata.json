@@ -1,0 +1,25 @@
+{
+  "id": "kanakbaghel/winner-model-analysis",
+  "id_no": 81857822,
+  "title": "Winner_Model_Analysis",
+  "code_file": "winner-model-analysis.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "keras",
+    "data visualization",
+    "python"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "llm-classification-finetuning"
+  ],
+  "model_sources": [
+    "keras/deberta_v3/Keras/deberta_v3_extra_small_en/2"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "chikonzeroselemani/s5e11-xgboost-optuna-kfold",
+  "id_no": 97743312,
+  "title": "S5E11|XGBoost|Optuna|Kfold",
+  "code_file": "s5e11-xgboost-optuna-kfold.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "playground-series-s5e11"
+  ],
+  "model_sources": []
+}

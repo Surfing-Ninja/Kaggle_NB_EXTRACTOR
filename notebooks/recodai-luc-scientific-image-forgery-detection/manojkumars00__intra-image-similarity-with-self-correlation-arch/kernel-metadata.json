@@ -1,0 +1,21 @@
+{
+  "id": "manojkumars00/intra-image-similarity-with-self-correlation-arch",
+  "id_no": 96921007,
+  "title": "Intra Image Similarity With Self Correlation Arch",
+  "code_file": "intra-image-similarity-with-self-correlation-arch.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "utility script"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "recodai-luc-scientific-image-forgery-detection"
+  ],
+  "model_sources": []
+}

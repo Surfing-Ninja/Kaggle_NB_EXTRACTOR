@@ -1,0 +1,34 @@
+{
+  "original_path": "notebooks/hull-tactical-market-prediction/mafiosoquasar__hull-starter-notebook/hull-starter-notebook.ipynb",
+  "quality_score": 66.42099999999999,
+  "grade": "B",
+  "techniques": {
+    "feature_engineering": [
+      "scaling"
+    ],
+    "eda": [
+      "missing_analysis"
+    ],
+    "hyperparameter": [
+      "optuna",
+      "cross_validation"
+    ],
+    "advanced_ml": [
+      "stacking",
+      "xgboost",
+      "lightgbm",
+      "catboost",
+      "ensemble"
+    ]
+  },
+  "libraries": [
+    "pandas",
+    "numpy",
+    "sklearn",
+    "xgboost",
+    "lightgbm",
+    "catboost"
+  ],
+  "category": "complete_pipeline",
+  "competition": "hull-tactical-market-prediction"
+}

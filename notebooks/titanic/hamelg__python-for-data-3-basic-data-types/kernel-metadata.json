@@ -1,0 +1,21 @@
+{
+  "id": "hamelg/python-for-data-3-basic-data-types",
+  "id_no": 3465705,
+  "title": "Python for Data 3: Basic Data Types",
+  "code_file": "python-for-data-3-basic-data-types.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "programming"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "titanic"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "vinothkumarsekar89/recod-ai-sifd-a-toy-cnn-example",
+  "id_no": 97088257,
+  "title": "Recod-ai-SIFD--A-Toy-CNN-Example",
+  "code_file": "recod-ai-sifd-a-toy-cnn-example.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "recodai-luc-scientific-image-forgery-detection"
+  ],
+  "model_sources": []
+}

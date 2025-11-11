@@ -1,0 +1,23 @@
+{
+  "id": "cdeotte/rapids-gpu-knn-mnist-0-97",
+  "id_no": 7689561,
+  "title": "RAPIDS GPU kNN - MNIST - [0.97]",
+  "code_file": "rapids-gpu-knn-mnist-0-97.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "cdeotte/rapids"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "digit-recognizer"
+  ],
+  "model_sources": []
+}

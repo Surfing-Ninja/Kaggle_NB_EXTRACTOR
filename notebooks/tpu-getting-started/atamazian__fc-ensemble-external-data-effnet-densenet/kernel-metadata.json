@@ -1,0 +1,27 @@
+{
+  "id": "atamazian/fc-ensemble-external-data-effnet-densenet",
+  "id_no": 10764604,
+  "title": "FC Ensemble External Data (EffNet+DenseNet)",
+  "code_file": "fc-ensemble-external-data-effnet-densenet.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "matplotlib",
+    "numpy",
+    "tensorflow",
+    "software",
+    "tpu"
+  ],
+  "dataset_sources": [
+    "kirillblinov/tf-flower-photo-tfrec"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "tpu-getting-started"
+  ],
+  "model_sources": []
+}

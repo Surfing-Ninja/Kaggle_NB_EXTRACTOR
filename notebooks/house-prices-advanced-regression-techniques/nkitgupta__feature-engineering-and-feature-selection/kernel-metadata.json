@@ -1,0 +1,38 @@
+{
+  "id": "nkitgupta/feature-engineering-and-feature-selection",
+  "id_no": 26636451,
+  "title": "Feature Engineering and Feature Selection",
+  "code_file": "feature-engineering-and-feature-selection.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "feature engineering",
+    "data visualization",
+    "regression",
+    "tabular",
+    "intermediate"
+  ],
+  "dataset_sources": [
+    "",
+    "",
+    "kuchhbhi/cpga-iq-placement",
+    "vinitshah0110/covid19-india",
+    "iabhishekofficial/mobile-price-classification",
+    "rupakroy/online-payments-fraud-detection-dataset",
+    "uciml/red-wine-quality-cortez-et-al-2009",
+    "ayessa/salary-prediction-classification",
+    "mdmahmudulhasansuzan/students-adaptability-level-in-online-education",
+    "aslanahmedov/walmart-sales-forecast",
+    "fedesoriano/wind-speed-prediction-dataset"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "house-prices-advanced-regression-techniques",
+    "titanic"
+  ],
+  "model_sources": []
+}

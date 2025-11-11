@@ -1,0 +1,24 @@
+{
+  "id": "uysimty/get-start-image-classification",
+  "id_no": 1424277,
+  "title": "Get Start Image Classification ",
+  "code_file": "get-start-image-classification.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "beginner",
+    "computer vision",
+    "classification",
+    "neural networks"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "digit-recognizer"
+  ],
+  "model_sources": []
+}

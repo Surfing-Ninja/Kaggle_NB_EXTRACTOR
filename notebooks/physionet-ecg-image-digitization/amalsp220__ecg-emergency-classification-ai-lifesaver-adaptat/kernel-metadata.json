@@ -1,0 +1,27 @@
+{
+  "id": "amalsp220/ecg-emergency-classification-ai-lifesaver-adaptat",
+  "id_no": 97061857,
+  "title": "ECG Emergency Classification: AI LifeSaver Adaptat",
+  "code_file": "ecg-emergency-classification-ai-lifesaver-adaptat.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "deep learning",
+    "image",
+    "healthcare",
+    "heart conditions",
+    "beginner"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "physionet-ecg-image-digitization"
+  ],
+  "model_sources": [
+    "amalsp220/ai-lifesaver/PyTorch/default/1"
+  ]
+}

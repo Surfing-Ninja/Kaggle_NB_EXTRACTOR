@@ -1,0 +1,28 @@
+{
+  "id": "shaygu/house-prices-begginer-top-7",
+  "id_no": 4341267,
+  "title": "House prices Begginer top 7%",
+  "code_file": "house-prices-begginer-top-7.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "beginner",
+    "data visualization",
+    "feature engineering",
+    "matplotlib",
+    "numpy",
+    "pandas",
+    "scipy",
+    "seaborn"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "house-prices-advanced-regression-techniques"
+  ],
+  "model_sources": []
+}

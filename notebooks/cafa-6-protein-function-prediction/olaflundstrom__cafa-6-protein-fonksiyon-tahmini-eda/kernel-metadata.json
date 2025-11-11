@@ -1,0 +1,19 @@
+{
+  "id": "olaflundstrom/cafa-6-protein-fonksiyon-tahmini-eda",
+  "id_no": 95606506,
+  "title": "CAFA 6 Protein Fonksiyon Tahmini - EDA",
+  "code_file": "cafa-6-protein-fonksiyon-tahmini-eda.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "cafa-6-protein-function-prediction"
+  ],
+  "model_sources": []
+}

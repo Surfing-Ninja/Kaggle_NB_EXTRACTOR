@@ -1,0 +1,24 @@
+{
+  "id": "janiobachmann/house-prices-useful-regression-techniques",
+  "id_no": 558980,
+  "title": "House Prices ||  Useful Regression Techniques ",
+  "code_file": "house-prices-useful-regression-techniques.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "data visualization",
+    "feature engineering",
+    "beginner",
+    "exploratory data analysis"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "house-prices-advanced-regression-techniques"
+  ],
+  "model_sources": []
+}

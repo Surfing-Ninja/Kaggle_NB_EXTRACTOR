@@ -1,0 +1,30 @@
+{
+  "id": "johnyaldean/time-series-linear-regression",
+  "id_no": 49816576,
+  "title": "Time Series - Linear Regression \ud83d\udcc8",
+  "code_file": "time-series-linear-regression.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "",
+    "ramjasmaurya/indias-power-capacity",
+    "eugeniyosetrov/load-wind-and-solar-prices-in-hourly-resolution",
+    "eugeniyosetrov/national-generation-capacity",
+    "twinkle0705/state-wise-power-consumption-in-india",
+    "eugeniyosetrov/renewable-power-plants",
+    "pravdomirdobrev/texas-wind-turbine-dataset-simulated",
+    "ryanholbrook/ts-course-data",
+    "patricklford/water-and-air-quality",
+    "l3llff/wind-power"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "store-sales-time-series-forecasting"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "kospintr/luc-efficientnet-unet-base",
+  "id_no": 98420462,
+  "title": "LUC | EfficientNet + UNet | Base",
+  "code_file": "luc-efficientnet-unet-base.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    ""
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "recodai-luc-scientific-image-forgery-detection"
+  ],
+  "model_sources": []
+}

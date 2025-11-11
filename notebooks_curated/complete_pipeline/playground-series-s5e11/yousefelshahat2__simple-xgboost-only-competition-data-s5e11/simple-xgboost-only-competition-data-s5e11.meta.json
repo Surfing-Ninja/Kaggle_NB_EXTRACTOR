@@ -1,0 +1,30 @@
+{
+  "original_path": "notebooks/playground-series-s5e11/yousefelshahat2__simple-xgboost-only-competition-data-s5e11/simple-xgboost-only-competition-data-s5e11.ipynb",
+  "quality_score": 56.77535,
+  "grade": "C",
+  "techniques": {
+    "feature_engineering": [
+      "aggregation",
+      "target_encoding",
+      "binning"
+    ],
+    "eda": [
+      "missing_analysis",
+      "statistics"
+    ],
+    "hyperparameter": [
+      "cross_validation"
+    ],
+    "advanced_ml": [
+      "xgboost"
+    ]
+  },
+  "libraries": [
+    "pandas",
+    "numpy",
+    "sklearn",
+    "xgboost"
+  ],
+  "category": "complete_pipeline",
+  "competition": "playground-series-s5e11"
+}

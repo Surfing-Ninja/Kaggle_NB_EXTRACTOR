@@ -1,0 +1,27 @@
+{
+  "original_path": "notebooks/llm-classification-finetuning/mpwolke__model-s-battles-on-llm-finetuning/model-s-battles-on-llm-finetuning.ipynb",
+  "quality_score": 43.857,
+  "grade": "C",
+  "techniques": {
+    "feature_engineering": [
+      "embedding"
+    ],
+    "eda": [
+      "scatter",
+      "statistics",
+      "visualization"
+    ],
+    "dimensionality": [
+      "umap"
+    ]
+  },
+  "libraries": [
+    "pandas",
+    "numpy",
+    "matplotlib",
+    "seaborn",
+    "plotly"
+  ],
+  "category": "eda_fe",
+  "competition": "llm-classification-finetuning"
+}

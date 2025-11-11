@@ -1,0 +1,19 @@
+{
+  "id": "hengck23/4-4-placeholder-unet-direct-regression-loss",
+  "id_no": 98031574,
+  "title": "[4/4 placeholder] unet direct regression loss",
+  "code_file": "4-4-placeholder-unet-direct-regression-loss.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "physionet-ecg-image-digitization"
+  ],
+  "model_sources": []
+}

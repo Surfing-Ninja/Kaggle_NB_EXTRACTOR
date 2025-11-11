@@ -1,0 +1,19 @@
+{
+  "id": "krajasekhar1410/ecg-signal-reconstruction-pipeline",
+  "id_no": 96799401,
+  "title": "ECG Signal Reconstruction Pipeline",
+  "code_file": "ecg-signal-reconstruction-pipeline.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "physionet-ecg-image-digitization"
+  ],
+  "model_sources": []
+}

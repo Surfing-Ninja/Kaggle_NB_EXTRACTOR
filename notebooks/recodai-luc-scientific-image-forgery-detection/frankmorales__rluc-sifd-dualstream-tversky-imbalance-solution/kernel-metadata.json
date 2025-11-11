@@ -1,0 +1,19 @@
+{
+  "id": "frankmorales/rluc-sifd-dualstream-tversky-imbalance-solution",
+  "id_no": 97969749,
+  "title": "RLUC_SIFD_DualStream_Tversky_Imbalance_Solution",
+  "code_file": "rluc-sifd-dualstream-tversky-imbalance-solution.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "recodai-luc-scientific-image-forgery-detection"
+  ],
+  "model_sources": []
+}

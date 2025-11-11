@@ -1,0 +1,25 @@
+{
+  "id": "linheshen/fine-tune",
+  "id_no": 75331048,
+  "title": "fine_tune",
+  "code_file": "fine-tune.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": true,
+  "enable_internet": true,
+  "keywords": [
+    "tpu"
+  ],
+  "dataset_sources": [
+    "defdet/utils-xla"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "llm-classification-finetuning"
+  ],
+  "model_sources": [
+    "metaresearch/llama-3/Transformers/8b-hf/1"
+  ]
+}

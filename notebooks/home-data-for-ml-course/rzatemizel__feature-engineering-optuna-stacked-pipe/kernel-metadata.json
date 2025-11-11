@@ -1,0 +1,19 @@
+{
+  "id": "rzatemizel/feature-engineering-optuna-stacked-pipe",
+  "id_no": 33331313,
+  "title": "feature engineering + optuna + stacked pipe",
+  "code_file": "feature-engineering-optuna-stacked-pipe.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "home-data-for-ml-course"
+  ],
+  "model_sources": []
+}

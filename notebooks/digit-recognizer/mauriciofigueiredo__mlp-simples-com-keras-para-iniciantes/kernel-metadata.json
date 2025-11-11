@@ -1,0 +1,22 @@
+{
+  "id": "mauriciofigueiredo/mlp-simples-com-keras-para-iniciantes",
+  "id_no": 9895043,
+  "title": "MLP simples com Keras para Iniciantes",
+  "code_file": "mlp-simples-com-keras-para-iniciantes.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "deep learning",
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "digit-recognizer"
+  ],
+  "model_sources": []
+}

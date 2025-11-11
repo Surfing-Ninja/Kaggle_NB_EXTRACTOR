@@ -1,0 +1,30 @@
+{
+  "id": "ravi20076/spaceshiptitanic-models-v2",
+  "id_no": 48164154,
+  "title": "SpaceshipTitanic|Models|V2",
+  "code_file": "spaceshiptitanic-models-v2.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "astronomy",
+    "tabular",
+    "binary classification",
+    "gradient boosting"
+  ],
+  "dataset_sources": [
+    "ravi20076/spacetitanicfe"
+  ],
+  "kernel_sources": [
+    "viktortaran/space-titanic",
+    "ravi20076/packageinstallation",
+    "arunklenin/space-titanic-eda-advanced-feature-engineering"
+  ],
+  "competition_sources": [
+    "spaceship-titanic"
+  ],
+  "model_sources": []
+}

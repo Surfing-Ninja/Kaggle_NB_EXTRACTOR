@@ -1,0 +1,21 @@
+{
+  "id": "certifiedsurvey/nfl-big-data-bowl-2026-motion-aware-v2-lite",
+  "id_no": 94653882,
+  "title": "NFL Big Data Bowl 2026 \u2014 Motion-Aware V2-Lite",
+  "code_file": "nfl-big-data-bowl-2026-motion-aware-v2-lite.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nfl-big-data-bowl-2026-prediction"
+  ],
+  "model_sources": []
+}

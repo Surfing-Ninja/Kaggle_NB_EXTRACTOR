@@ -1,0 +1,23 @@
+{
+  "id": "imaadmahmood/cafa6-protein-function-enhanced-nb-v2",
+  "id_no": 95241807,
+  "title": "cafa6-protein-function-enhanced-nb-v2",
+  "code_file": "cafa6-protein-function-enhanced-nb-v2.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "cafa-6-protein-function-prediction"
+  ],
+  "model_sources": [
+    "keras/esm-2/Keras/esm2_t6_8m/1"
+  ]
+}

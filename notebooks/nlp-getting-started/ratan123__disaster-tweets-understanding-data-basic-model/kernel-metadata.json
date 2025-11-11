@@ -1,0 +1,25 @@
+{
+  "id": "ratan123/disaster-tweets-understanding-data-basic-model",
+  "id_no": 7332848,
+  "title": "Disaster Tweets: Understanding Data & Basic model",
+  "code_file": "disaster-tweets-understanding-data-basic-model.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "beginner",
+    "data visualization",
+    "exploratory data analysis"
+  ],
+  "dataset_sources": [
+    "reppy4620/embeddings"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nlp-getting-started"
+  ],
+  "model_sources": []
+}

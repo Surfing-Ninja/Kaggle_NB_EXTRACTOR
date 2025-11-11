@@ -1,0 +1,24 @@
+{
+  "id": "shivamb/semi-supervised-classification-using-autoencoders",
+  "id_no": 2599112,
+  "title": "Semi Supervised Classification using AutoEncoders",
+  "code_file": "semi-supervised-classification-using-autoencoders.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "deep learning",
+    "binary classification"
+  ],
+  "dataset_sources": [
+    "mlg-ulb/creditcardfraud"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "titanic"
+  ],
+  "model_sources": []
+}

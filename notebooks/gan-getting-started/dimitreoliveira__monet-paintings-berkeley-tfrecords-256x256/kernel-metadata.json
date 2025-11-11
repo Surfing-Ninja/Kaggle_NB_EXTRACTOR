@@ -1,0 +1,23 @@
+{
+  "id": "dimitreoliveira/monet-paintings-berkeley-tfrecords-256x256",
+  "id_no": 11488909,
+  "title": "Monet paintings (Berkeley) -  TFRecords 256x256",
+  "code_file": "monet-paintings-berkeley-tfrecords-256x256.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "tensorflow"
+  ],
+  "dataset_sources": [
+    "dimitreoliveira/monet-paintings-jpg-berkeley"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "gan-getting-started"
+  ],
+  "model_sources": []
+}

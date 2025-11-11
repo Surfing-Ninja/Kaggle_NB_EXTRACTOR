@@ -1,0 +1,25 @@
+{
+  "id": "subarnasaikia/multi-label-dense-nn-transformer-model-lb-0-207",
+  "id_no": 95403403,
+  "title": "Multi-Label Dense NN | Transformer Model(LB:0.207)",
+  "code_file": "multi-label-dense-nn-transformer-model-lb-0-207.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [
+    "packagemanager/pm-95403403-at-10-17-2025-17-36-35"
+  ],
+  "competition_sources": [
+    "cafa-6-protein-function-prediction"
+  ],
+  "model_sources": [
+    "keras/esm-2/Keras/esm2_t6_8m/1"
+  ]
+}

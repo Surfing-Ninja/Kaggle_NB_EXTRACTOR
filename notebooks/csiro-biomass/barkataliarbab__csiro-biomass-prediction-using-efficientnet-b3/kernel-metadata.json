@@ -1,0 +1,23 @@
+{
+  "id": "barkataliarbab/csiro-biomass-prediction-using-efficientnet-b3",
+  "id_no": 97061751,
+  "title": "\ud83c\udf3f CSIRO Biomass Prediction using EfficientNet-B3",
+  "code_file": "csiro-biomass-prediction-using-efficientnet-b3.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    ""
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "csiro-biomass"
+  ],
+  "model_sources": []
+}

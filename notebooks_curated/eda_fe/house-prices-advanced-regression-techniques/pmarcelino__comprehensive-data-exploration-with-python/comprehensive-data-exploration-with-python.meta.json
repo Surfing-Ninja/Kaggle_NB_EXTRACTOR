@@ -1,0 +1,29 @@
+{
+  "original_path": "notebooks/house-prices-advanced-regression-techniques/pmarcelino__comprehensive-data-exploration-with-python/comprehensive-data-exploration-with-python.ipynb",
+  "quality_score": 50.721000000000004,
+  "grade": "C",
+  "techniques": {
+    "feature_engineering": [
+      "onehot_encoding",
+      "scaling"
+    ],
+    "eda": [
+      "histogram",
+      "correlation",
+      "scatter",
+      "missing_analysis",
+      "outlier_detection",
+      "statistics",
+      "visualization"
+    ]
+  },
+  "libraries": [
+    "pandas",
+    "numpy",
+    "sklearn",
+    "matplotlib",
+    "seaborn"
+  ],
+  "category": "eda_fe",
+  "competition": "house-prices-advanced-regression-techniques"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "frtgnn/pycaret-introduction-classification-regression",
+  "id_no": 8993563,
+  "title": "PyCaret Introduction (Classification & Regression)",
+  "code_file": "pycaret-introduction-classification-regression.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "beginner",
+    "feature engineering"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "house-prices-advanced-regression-techniques",
+    "titanic"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,29 @@
+{
+  "original_path": "notebooks/digit-recognizer/arthurtok__interactive-intro-to-dimensionality-reduction/interactive-intro-to-dimensionality-reduction.ipynb",
+  "quality_score": 59.1118,
+  "grade": "C",
+  "techniques": {
+    "feature_engineering": [
+      "scaling",
+      "embedding"
+    ],
+    "eda": [
+      "scatter",
+      "visualization"
+    ],
+    "dimensionality": [
+      "pca",
+      "tsne"
+    ]
+  },
+  "libraries": [
+    "pandas",
+    "numpy",
+    "sklearn",
+    "matplotlib",
+    "seaborn",
+    "plotly"
+  ],
+  "category": "eda_fe",
+  "competition": "digit-recognizer"
+}

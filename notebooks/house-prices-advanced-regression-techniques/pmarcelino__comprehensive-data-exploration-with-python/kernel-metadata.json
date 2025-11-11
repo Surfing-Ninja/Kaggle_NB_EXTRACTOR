@@ -1,0 +1,28 @@
+{
+  "id": "pmarcelino/comprehensive-data-exploration-with-python",
+  "id_no": 186062,
+  "title": "Comprehensive data exploration with Python",
+  "code_file": "comprehensive-data-exploration-with-python.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "exploratory data analysis",
+    "data cleaning",
+    "beginner",
+    "matplotlib",
+    "numpy",
+    "pandas",
+    "scipy",
+    "seaborn"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "house-prices-advanced-regression-techniques"
+  ],
+  "model_sources": []
+}

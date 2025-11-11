@@ -1,0 +1,25 @@
+{
+  "id": "kacperrabczewski/spaceship-titanic-a-machine-learning-journey",
+  "id_no": 41132907,
+  "title": "\ud83d\ude80 Spaceship Titanic: A Machine Learning Journey\ud83d\udea2",
+  "code_file": "spaceship-titanic-a-machine-learning-journey.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "pca",
+    "plotly",
+    "exploratory data analysis",
+    "seaborn",
+    "gradient boosting"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "spaceship-titanic"
+  ],
+  "model_sources": []
+}

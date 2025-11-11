@@ -1,0 +1,26 @@
+{
+  "id": "aishwarya2210/prediction-of-house-price",
+  "id_no": 24039431,
+  "title": "Prediction\u270d of House Price\ud83c\udfe1\ud83c\udfd8\ud83c\udfe0 ",
+  "code_file": "prediction-of-house-price.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "housing",
+    "random forest",
+    "sklearn",
+    "ensembling",
+    "beginner",
+    "randomForest"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "home-data-for-ml-course"
+  ],
+  "model_sources": []
+}

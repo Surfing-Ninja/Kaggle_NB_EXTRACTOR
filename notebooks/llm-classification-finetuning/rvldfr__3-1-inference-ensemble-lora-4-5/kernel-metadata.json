@@ -1,0 +1,32 @@
+{
+  "id": "rvldfr/3-1-inference-ensemble-lora-4-5",
+  "id_no": 82946381,
+  "title": "3.1 Inference Ensemble LoRA 4,5",
+  "code_file": "3-1-inference-ensemble-lora-4-5.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "emiz6413/73zap2gx",
+    "emiz6413/lmsys-wheel-files",
+    "kishanvavdara/lmsys-model"
+  ],
+  "kernel_sources": [
+    "hotchpotch/llm-detect-pip",
+    "rvldfr/1-1-training-3-8b-chat-hf-lora-4",
+    "rivaldofauzan/2-1-training-gemma-lora-4-5"
+  ],
+  "competition_sources": [
+    "llm-classification-finetuning"
+  ],
+  "model_sources": [
+    "google/gemma-2/Transformers/gemma-2-2b-it/2",
+    "metaresearch/llama-3/Transformers/8b-chat-hf/1"
+  ]
+}

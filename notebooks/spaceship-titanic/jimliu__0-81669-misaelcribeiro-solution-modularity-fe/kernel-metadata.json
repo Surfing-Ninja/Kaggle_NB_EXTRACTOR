@@ -1,0 +1,19 @@
+{
+  "id": "jimliu/0-81669-misaelcribeiro-solution-modularity-fe",
+  "id_no": 31406943,
+  "title": "\ud83c\udfc6(0.81669) misaelcribeiro solution+Modularity FE",
+  "code_file": "0-81669-misaelcribeiro-solution-modularity-fe.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "spaceship-titanic"
+  ],
+  "model_sources": []
+}

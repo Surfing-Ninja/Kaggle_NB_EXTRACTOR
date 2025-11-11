@@ -1,0 +1,19 @@
+{
+  "id": "alicanpayasli/94-accuracy-score-ensemble-model",
+  "id_no": 42564456,
+  "title": "%94 Accuracy Score-Ensemble Model",
+  "code_file": "94-accuracy-score-ensemble-model.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "spaceship-titanic"
+  ],
+  "model_sources": []
+}

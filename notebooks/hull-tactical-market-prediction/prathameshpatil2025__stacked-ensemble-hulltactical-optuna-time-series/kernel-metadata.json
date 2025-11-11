@@ -1,0 +1,23 @@
+{
+  "id": "prathameshpatil2025/stacked-ensemble-hulltactical-optuna-time-series",
+  "id_no": 94468101,
+  "title": "Stacked-Ensemble-HullTactical_Optuna+Time-Series",
+  "code_file": "stacked-ensemble-hulltactical-optuna-time-series.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    ""
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "hull-tactical-market-prediction"
+  ],
+  "model_sources": []
+}

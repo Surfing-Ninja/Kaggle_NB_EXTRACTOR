@@ -1,0 +1,25 @@
+{
+  "id": "arootda/pycaret-visualization-optimization-0-81",
+  "id_no": 25134079,
+  "title": "\ud83d\ude80[Pycaret] Visualization + Optimization (0.81)",
+  "code_file": "pycaret-visualization-optimization-0-81.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "classification",
+    "automl",
+    "ensembling",
+    "gradient boosting",
+    "python"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "spaceship-titanic"
+  ],
+  "model_sources": []
+}

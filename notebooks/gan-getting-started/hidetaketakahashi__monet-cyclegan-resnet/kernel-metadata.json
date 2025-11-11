@@ -1,0 +1,21 @@
+{
+  "id": "hidetaketakahashi/monet-cyclegan-resnet",
+  "id_no": 40819288,
+  "title": "Monet_CycleGAN ResNet",
+  "code_file": "monet-cyclegan-resnet.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "gan-getting-started"
+  ],
+  "model_sources": []
+}

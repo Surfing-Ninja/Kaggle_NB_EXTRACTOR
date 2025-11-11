@@ -1,0 +1,31 @@
+{
+  "id": "kenjee/titanic-project-example",
+  "id_no": 10385931,
+  "title": "Titanic Project Example",
+  "code_file": "titanic-project-example.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "beginner",
+    "feature engineering",
+    "ensembling",
+    "random forest",
+    "xgboost",
+    "business",
+    "matplotlib",
+    "numpy",
+    "pandas",
+    "seaborn",
+    "sklearn"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "titanic"
+  ],
+  "model_sources": []
+}

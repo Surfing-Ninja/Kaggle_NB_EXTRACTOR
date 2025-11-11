@@ -1,0 +1,23 @@
+{
+  "id": "jamesleslie/titanic-neural-network-for-beginners",
+  "id_no": 685398,
+  "title": "Titanic: Neural Network for Beginners",
+  "code_file": "titanic-neural-network-for-beginners.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "jamesleslie/titanic-cleaned-data"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "titanic"
+  ],
+  "model_sources": []
+}

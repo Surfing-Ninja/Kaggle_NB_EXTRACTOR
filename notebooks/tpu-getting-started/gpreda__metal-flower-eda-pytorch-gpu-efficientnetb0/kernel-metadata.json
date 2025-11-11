@@ -1,0 +1,21 @@
+{
+  "id": "gpreda/metal-flower-eda-pytorch-gpu-efficientnetb0",
+  "id_no": 36101762,
+  "title": "Metal Flower: EDA, PyTorch, GPU, EfficientNetB0",
+  "code_file": "metal-flower-eda-pytorch-gpu-efficientnetb0.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "tpu-getting-started"
+  ],
+  "model_sources": []
+}

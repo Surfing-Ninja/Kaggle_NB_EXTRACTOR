@@ -1,0 +1,30 @@
+{
+  "id": "songseungwon/cyclegan-tutorial-from-scratch-monet-to-photo",
+  "id_no": 17775452,
+  "title": "\ud83c\udf18CycleGAN Tutorial from Scratch: Monet-to-Photo\ud83c\udf12",
+  "code_file": "cyclegan-tutorial-from-scratch-monet-to-photo.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "matplotlib",
+    "numpy",
+    "PIL",
+    "torchvision",
+    "gpu",
+    "gan",
+    "pytorch",
+    "deep learning",
+    "python",
+    "image"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "gan-getting-started"
+  ],
+  "model_sources": []
+}

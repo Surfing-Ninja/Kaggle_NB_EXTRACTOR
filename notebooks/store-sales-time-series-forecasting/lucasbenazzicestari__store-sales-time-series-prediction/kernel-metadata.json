@@ -1,0 +1,24 @@
+{
+  "id": "lucasbenazzicestari/store-sales-time-series-prediction",
+  "id_no": 26406943,
+  "title": "Store Sales Time Series Prediction",
+  "code_file": "store-sales-time-series-prediction.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "xgboost",
+    "sklearn",
+    "python",
+    "random forest"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "store-sales-time-series-forecasting"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "jasonheesanglee/email-notification-colab-session-autoshutdown",
+  "id_no": 43391425,
+  "title": "\u2709\ufe0f Email Notification & Colab Session AutoShutdown",
+  "code_file": "email-notification-colab-session-autoshutdown.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "email and messaging",
+    "sys"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "digit-recognizer",
+    "playground-series-s3e22"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "naim99/your-first-nlp-competition-submission",
+  "id_no": 11178131,
+  "title": "your first NLP competition submission  \u270c\u2714\ud83d\udc40\ud83c\udfb6",
+  "code_file": "your-first-nlp-competition-submission.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "beginner",
+    "data visualization",
+    "classification"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nlp-getting-started"
+  ],
+  "model_sources": []
+}

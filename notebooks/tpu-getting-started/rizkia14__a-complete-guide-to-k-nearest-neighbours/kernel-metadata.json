@@ -1,0 +1,32 @@
+{
+  "id": "rizkia14/a-complete-guide-to-k-nearest-neighbours",
+  "id_no": 30958103,
+  "title": "\ud83d\udd25 A Complete Guide to K-Nearest Neighbours",
+  "code_file": "a-complete-guide-to-k-nearest-neighbours.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "digvijaysinhgohil/covid19-data-deaths-and-vaccinations",
+    "mlg-ulb/creditcardfraud",
+    "deepcontractor/monkeypox-dataset-daily-updated",
+    "blastchar/telco-customer-churn"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "amex-default-prediction",
+    "house-prices-advanced-regression-techniques",
+    "nlp-getting-started",
+    "tpu-getting-started",
+    "competitive-data-science-predict-future-sales",
+    "spaceship-titanic",
+    "tabular-playground-series-aug-2022",
+    "tabular-playground-series-sep-2022",
+    "titanic"
+  ],
+  "model_sources": []
+}

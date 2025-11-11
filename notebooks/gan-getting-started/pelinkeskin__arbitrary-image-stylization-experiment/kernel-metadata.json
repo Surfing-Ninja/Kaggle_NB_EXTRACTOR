@@ -1,0 +1,23 @@
+{
+  "id": "pelinkeskin/arbitrary-image-stylization-experiment",
+  "id_no": 65218143,
+  "title": "Arbitrary Image Stylization Experiment ",
+  "code_file": "arbitrary-image-stylization-experiment.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "gan-getting-started"
+  ],
+  "model_sources": [
+    "google/arbitrary-image-stylization-v1/TensorFlow1/256/2"
+  ]
+}

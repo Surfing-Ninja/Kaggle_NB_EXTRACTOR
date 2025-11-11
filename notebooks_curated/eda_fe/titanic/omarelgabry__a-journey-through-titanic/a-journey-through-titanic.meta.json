@@ -1,0 +1,30 @@
+{
+  "original_path": "notebooks/titanic/omarelgabry__a-journey-through-titanic/a-journey-through-titanic.ipynb",
+  "quality_score": 48.075,
+  "grade": "C",
+  "techniques": {
+    "feature_engineering": [
+      "aggregation",
+      "onehot_encoding"
+    ],
+    "eda": [
+      "histogram",
+      "correlation",
+      "missing_analysis",
+      "statistics",
+      "visualization"
+    ],
+    "advanced_ml": [
+      "ensemble"
+    ]
+  },
+  "libraries": [
+    "pandas",
+    "numpy",
+    "sklearn",
+    "matplotlib",
+    "seaborn"
+  ],
+  "category": "eda_fe",
+  "competition": "titanic"
+}

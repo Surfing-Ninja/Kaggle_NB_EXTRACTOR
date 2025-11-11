@@ -1,0 +1,22 @@
+{
+  "id": "jeff86/p8-i-m-something-of-a-painter",
+  "id_no": 25726218,
+  "title": "P8-I\u2019m Something of a Painter",
+  "code_file": "p8-i-m-something-of-a-painter.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "tpu",
+    "gan"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "gan-getting-started"
+  ],
+  "model_sources": []
+}

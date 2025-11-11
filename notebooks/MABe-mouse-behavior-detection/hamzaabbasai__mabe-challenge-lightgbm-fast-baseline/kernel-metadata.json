@@ -1,0 +1,19 @@
+{
+  "id": "hamzaabbasai/mabe-challenge-lightgbm-fast-baseline",
+  "id_no": 92656209,
+  "title": "MABe Challenge - LightGBM Fast Baseline",
+  "code_file": "mabe-challenge-lightgbm-fast-baseline.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "MABe-mouse-behavior-detection"
+  ],
+  "model_sources": []
+}

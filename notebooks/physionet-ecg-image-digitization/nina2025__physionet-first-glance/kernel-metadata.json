@@ -1,0 +1,19 @@
+{
+  "id": "nina2025/physionet-first-glance",
+  "id_no": 96251147,
+  "title": "PhysioNet | first glance ",
+  "code_file": "physionet-first-glance.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "physionet-ecg-image-digitization"
+  ],
+  "model_sources": []
+}

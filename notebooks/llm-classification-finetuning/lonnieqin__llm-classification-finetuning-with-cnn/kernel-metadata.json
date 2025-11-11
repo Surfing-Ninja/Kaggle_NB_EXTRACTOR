@@ -1,0 +1,23 @@
+{
+  "id": "lonnieqin/llm-classification-finetuning-with-cnn",
+  "id_no": 68911471,
+  "title": "LLM Classification Finetuning with CNN",
+  "code_file": "llm-classification-finetuning-with-cnn.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "lonnieqin/llm-classification-finetuning-with-cnn-model"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "llm-classification-finetuning"
+  ],
+  "model_sources": []
+}

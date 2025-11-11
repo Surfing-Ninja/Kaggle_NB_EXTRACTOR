@@ -1,0 +1,25 @@
+{
+  "id": "krishnamore/simple-cyclic-gan",
+  "id_no": 17791153,
+  "title": "Simple Cyclic-GAN",
+  "code_file": "simple-cyclic-gan.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "matplotlib",
+    "numpy",
+    "PIL",
+    "tensorflow",
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "gan-getting-started"
+  ],
+  "model_sources": []
+}

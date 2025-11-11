@@ -1,0 +1,24 @@
+{
+  "id": "jieshends2020/gan-painting-part-2",
+  "id_no": 52382949,
+  "title": "\ud83d\udc69\u200d\ud83c\udfa8GAN painting - Part 2",
+  "code_file": "gan-painting-part-2.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": true,
+  "enable_internet": true,
+  "keywords": [
+    "gan",
+    "adversarial learning",
+    "image generator",
+    "tpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "gan-getting-started"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "chengzhijiang/nfl-transformer0-595lb-before-adding-eval-api",
+  "id_no": 95243703,
+  "title": "NFL|Transformer0.595LB(before adding eval_API)",
+  "code_file": "nfl-transformer0-595lb-before-adding-eval-api.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "",
+    ""
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nfl-big-data-bowl-2026-prediction"
+  ],
+  "model_sources": []
+}

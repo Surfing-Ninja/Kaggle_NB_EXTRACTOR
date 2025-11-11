@@ -1,0 +1,21 @@
+{
+  "id": "masayakawamata/s5e11-te-xgb-interaction-features",
+  "id_no": 97530988,
+  "title": "S5E11 | TE_XGB - Interaction Features",
+  "code_file": "s5e11-te-xgb-interaction-features.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "nabihazahid/loan-prediction-dataset-2025"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "playground-series-s5e11"
+  ],
+  "model_sources": []
+}

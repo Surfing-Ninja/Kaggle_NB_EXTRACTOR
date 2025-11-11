@@ -1,0 +1,23 @@
+{
+  "id": "kurianbenoy/introduction-kernel-for-petal2metal-flowers-0-97",
+  "id_no": 8083297,
+  "title": "Introduction kernel for Petal2Metal-Flowers(0.97+)",
+  "code_file": "introduction-kernel-for-petal2metal-flowers-0-97.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "tpu"
+  ],
+  "dataset_sources": [
+    "kirillblinov/tf-flower-photo-tfrec"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "tpu-getting-started"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "ravi20076/playgrounds5e11-public-baseline-v1",
+  "id_no": 97539447,
+  "title": "PlaygroundS5E11|Public|Baseline|V1",
+  "code_file": "playgrounds5e11-public-baseline-v1.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "nabihazahid/loan-prediction-dataset-2025"
+  ],
+  "kernel_sources": [
+    "yeoyunsianggeremie/ps5e11-agentic-ai-solution-single-xgb"
+  ],
+  "competition_sources": [
+    "playground-series-s5e11"
+  ],
+  "model_sources": []
+}

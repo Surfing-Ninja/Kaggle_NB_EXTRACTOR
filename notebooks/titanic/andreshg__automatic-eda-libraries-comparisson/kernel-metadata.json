@@ -1,0 +1,24 @@
+{
+  "id": "andreshg/automatic-eda-libraries-comparisson",
+  "id_no": 14537721,
+  "title": "\ud83d\udcca Automatic EDA Libraries \ud83d\udcda Comparisson",
+  "code_file": "automatic-eda-libraries-comparisson.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "pandas"
+  ],
+  "dataset_sources": [
+    "sakshigoyal7/credit-card-customers",
+    "mlg-ulb/creditcardfraud"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "titanic"
+  ],
+  "model_sources": []
+}

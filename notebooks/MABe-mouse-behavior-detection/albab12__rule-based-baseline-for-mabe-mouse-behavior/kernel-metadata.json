@@ -1,0 +1,23 @@
+{
+  "id": "albab12/rule-based-baseline-for-mabe-mouse-behavior",
+  "id_no": 93314980,
+  "title": "Rule-Based Baseline for MABe Mouse Behavior",
+  "code_file": "rule-based-baseline-for-mabe-mouse-behavior.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "numpy",
+    "pandas",
+    "os"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "MABe-mouse-behavior-detection"
+  ],
+  "model_sources": []
+}

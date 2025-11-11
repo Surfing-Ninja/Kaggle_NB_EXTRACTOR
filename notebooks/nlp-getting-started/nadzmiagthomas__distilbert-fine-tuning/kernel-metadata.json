@@ -1,0 +1,23 @@
+{
+  "id": "nadzmiagthomas/distilbert-fine-tuning",
+  "id_no": 34740280,
+  "title": "\ud83e\udd17 DistilBERT Fine-tuning",
+  "code_file": "distilbert-fine-tuning.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "transformers",
+    "bert",
+    "nlp"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nlp-getting-started"
+  ],
+  "model_sources": []
+}

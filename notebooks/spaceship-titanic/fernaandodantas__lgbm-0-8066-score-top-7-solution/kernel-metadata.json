@@ -1,0 +1,19 @@
+{
+  "id": "fernaandodantas/lgbm-0-8066-score-top-7-solution",
+  "id_no": 51141441,
+  "title": "LGBM 0.8066% Score Top 7% Solution",
+  "code_file": "lgbm-0-8066-score-top-7-solution.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "spaceship-titanic"
+  ],
+  "model_sources": []
+}

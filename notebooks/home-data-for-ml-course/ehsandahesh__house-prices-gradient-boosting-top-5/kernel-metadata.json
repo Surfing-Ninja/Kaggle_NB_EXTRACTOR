@@ -1,0 +1,19 @@
+{
+  "id": "ehsandahesh/house-prices-gradient-boosting-top-5",
+  "id_no": 22983919,
+  "title": "House Prices - Gradient Boosting(Top 5%)",
+  "code_file": "house-prices-gradient-boosting-top-5.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "home-data-for-ml-course"
+  ],
+  "model_sources": []
+}

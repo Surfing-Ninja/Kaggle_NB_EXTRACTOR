@@ -1,0 +1,21 @@
+{
+  "id": "florianm/pytorch-convnext",
+  "id_no": 27792115,
+  "title": "Pytorch ConvNext",
+  "code_file": "pytorch-convnext.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "pytorch"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "tpu-getting-started"
+  ],
+  "model_sources": []
+}

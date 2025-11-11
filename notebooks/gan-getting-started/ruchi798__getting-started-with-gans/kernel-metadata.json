@@ -1,0 +1,23 @@
+{
+  "id": "ruchi798/getting-started-with-gans",
+  "id_no": 11435574,
+  "title": "Getting started with GANs ",
+  "code_file": "getting-started-with-gans.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "beginner",
+    "computer vision",
+    "deep learning"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "gan-getting-started"
+  ],
+  "model_sources": []
+}

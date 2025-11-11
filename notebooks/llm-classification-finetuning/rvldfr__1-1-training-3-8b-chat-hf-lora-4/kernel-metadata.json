@@ -1,0 +1,25 @@
+{
+  "id": "rvldfr/1-1-training-3-8b-chat-hf-lora-4",
+  "id_no": 82634443,
+  "title": "1.1 Training 3 8b-chat-hf LoRA 4",
+  "code_file": "1-1-training-3-8b-chat-hf-lora-4.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": true,
+  "enable_internet": true,
+  "keywords": [
+    "tpu"
+  ],
+  "dataset_sources": [
+    "defdet/utils-xla"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "llm-classification-finetuning"
+  ],
+  "model_sources": [
+    "metaresearch/llama-3/Transformers/8b-chat-hf/1"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "fchollet/simple-deep-mlp-with-keras",
+  "id_no": 278,
+  "title": "Simple deep MLP with Keras",
+  "code_file": "simple-deep-mlp-with-keras.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "computer vision",
+    "deep learning",
+    "keras"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "digit-recognizer"
+  ],
+  "model_sources": []
+}

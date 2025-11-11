@@ -1,0 +1,21 @@
+{
+  "id": "cheshtbiala/paint-i-m-something-of-a-painter-myself-images-zip",
+  "id_no": 50115165,
+  "title": "Paint|I\u2019m Something of a Painter Myself Images.zip",
+  "code_file": "paint-i-m-something-of-a-painter-myself-images-zip.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "gan-getting-started"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "ufukckose/s5e11-xgb-lgb-catboost-baseline",
+  "id_no": 97486950,
+  "title": "S5E11 | XGB/LGB/CatBoost Baseline \ud83d\udcb3",
+  "code_file": "s5e11-xgb-lgb-catboost-baseline.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "playground-series-s5e11"
+  ],
+  "model_sources": []
+}

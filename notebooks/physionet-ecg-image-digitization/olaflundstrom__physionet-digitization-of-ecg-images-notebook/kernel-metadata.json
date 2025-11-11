@@ -1,0 +1,28 @@
+{
+  "id": "olaflundstrom/physionet-digitization-of-ecg-images-notebook",
+  "id_no": 96078175,
+  "title": "PhysioNet - Digitization of ECG Images (Notebook)",
+  "code_file": "physionet-digitization-of-ecg-images-notebook.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "keras",
+    "medicine",
+    "turkish",
+    "tensorflow",
+    "pandas"
+  ],
+  "dataset_sources": [
+    "",
+    "ekaterinadranitsyna/keras-applications-models"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "physionet-ecg-image-digitization"
+  ],
+  "model_sources": []
+}

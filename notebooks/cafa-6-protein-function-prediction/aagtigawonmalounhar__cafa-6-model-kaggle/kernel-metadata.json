@@ -1,0 +1,23 @@
+{
+  "id": "aagtigawonmalounhar/cafa-6-model-kaggle",
+  "id_no": 95293358,
+  "title": "CAFA 6+ MODEL Kaggle",
+  "code_file": "cafa-6-model-kaggle.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": true,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "sergeifironov/t5embeds"
+  ],
+  "kernel_sources": [
+    "mst8823/cafa5-esm2-fine-tuning-baseline"
+  ],
+  "competition_sources": [
+    "cafa-6-protein-function-prediction"
+  ],
+  "model_sources": []
+}

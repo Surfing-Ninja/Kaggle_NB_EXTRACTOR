@@ -1,0 +1,25 @@
+{
+  "id": "dansbecker/exercise-your-first-machine-learning-model-daily",
+  "id_no": 2247864,
+  "title": "Exercise: Your First Machine Learning Model Daily",
+  "code_file": "exercise-your-first-machine-learning-model-daily.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "pandas"
+  ],
+  "dataset_sources": [
+    "",
+    "dansbecker/melbourne-housing-snapshot",
+    "iabhishekofficial/mobile-price-classification"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "home-data-for-ml-course"
+  ],
+  "model_sources": []
+}

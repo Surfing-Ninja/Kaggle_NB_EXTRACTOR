@@ -1,0 +1,25 @@
+{
+  "id": "ajaypalsinghlo/home-data-for-ml-course-housing-prices",
+  "id_no": 14084149,
+  "title": "Home-data-for-ml-course  Housing Prices ",
+  "code_file": "home-data-for-ml-course-housing-prices.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "pandas",
+    "data visualization",
+    "exploratory data analysis",
+    "matplotlib",
+    "beginner"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "home-data-for-ml-course"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "hiwe0305/cafa-6-deepfri-gnn",
+  "id_no": 97495049,
+  "title": "CAFA 6 - DeepFRI + GNN",
+  "code_file": "cafa-6-deepfri-gnn.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "cafa-6-protein-function-prediction"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ryanadamsai/nfl-big-data-bowl-catboost-baseline-608",
+  "id_no": 94937356,
+  "title": "\ud83c\udfc8NFL Big Data Bowl - CATBOOST Baseline [.608]",
+  "code_file": "nfl-big-data-bowl-catboost-baseline-608.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nfl-big-data-bowl-2026-prediction"
+  ],
+  "model_sources": []
+}

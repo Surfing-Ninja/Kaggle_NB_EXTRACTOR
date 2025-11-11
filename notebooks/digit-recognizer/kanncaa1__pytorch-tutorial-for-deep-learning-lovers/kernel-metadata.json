@@ -1,0 +1,24 @@
+{
+  "id": "kanncaa1/pytorch-tutorial-for-deep-learning-lovers",
+  "id_no": 991754,
+  "title": "Pytorch Tutorial for Deep Learning Lovers",
+  "code_file": "pytorch-tutorial-for-deep-learning-lovers.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "beginner",
+    "deep learning",
+    "exploratory data analysis",
+    "programming"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "digit-recognizer"
+  ],
+  "model_sources": []
+}

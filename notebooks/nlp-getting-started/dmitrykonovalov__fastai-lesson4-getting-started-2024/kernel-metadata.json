@@ -1,0 +1,21 @@
+{
+  "id": "dmitrykonovalov/fastai-lesson4-getting-started-2024",
+  "id_no": 60179819,
+  "title": "fastai-lesson4-Getting-started-2024",
+  "code_file": "fastai-lesson4-getting-started-2024.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nlp-getting-started"
+  ],
+  "model_sources": []
+}

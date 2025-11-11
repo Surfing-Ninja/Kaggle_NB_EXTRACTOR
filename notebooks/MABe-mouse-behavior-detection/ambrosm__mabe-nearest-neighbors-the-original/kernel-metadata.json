@@ -1,0 +1,21 @@
+{
+  "id": "ambrosm/mabe-nearest-neighbors-the-original",
+  "id_no": 92938474,
+  "title": "MABe Nearest Neighbors: The Original \u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f\u2b50\ufe0f",
+  "code_file": "mabe-nearest-neighbors-the-original.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "biology"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "MABe-mouse-behavior-detection"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "vadbeg/pytorch-lstm-with-disaster-tweets",
+  "id_no": 7499128,
+  "title": "PyTorch LSTM with  Disaster Tweets",
+  "code_file": "pytorch-lstm-with-disaster-tweets.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "lstm",
+    "gpu",
+    "deep learning"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nlp-getting-started"
+  ],
+  "model_sources": []
+}

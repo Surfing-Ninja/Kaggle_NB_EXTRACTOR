@@ -1,0 +1,31 @@
+{
+  "id": "faressayah/decision-trees-random-forest-for-beginners",
+  "id_no": 8047681,
+  "title": "\ud83c\udf33 Decision Trees & Random Forest for Beginners",
+  "code_file": "decision-trees-random-forest-for-beginners.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "decision tree",
+    "random forest",
+    "beginner",
+    "classification",
+    "ensembling",
+    "matplotlib",
+    "numpy",
+    "pandas",
+    "seaborn"
+  ],
+  "dataset_sources": [
+    "pavansubhasht/ibm-hr-analytics-attrition-dataset"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "titanic"
+  ],
+  "model_sources": []
+}

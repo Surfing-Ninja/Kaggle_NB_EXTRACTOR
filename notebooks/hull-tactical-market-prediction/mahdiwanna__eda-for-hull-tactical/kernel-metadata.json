@@ -1,0 +1,24 @@
+{
+  "id": "mahdiwanna/eda-for-hull-tactical",
+  "id_no": 94193793,
+  "title": "EDA_For_Hull_Tactical",
+  "code_file": "eda-for-hull-tactical.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "finance",
+    "exploratory data analysis",
+    "data analytics",
+    "data visualization"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "hull-tactical-market-prediction"
+  ],
+  "model_sources": []
+}

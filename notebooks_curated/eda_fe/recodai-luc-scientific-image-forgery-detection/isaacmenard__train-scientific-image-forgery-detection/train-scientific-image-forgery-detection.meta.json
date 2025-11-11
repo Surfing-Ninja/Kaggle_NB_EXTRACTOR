@@ -1,0 +1,25 @@
+{
+  "original_path": "notebooks/recodai-luc-scientific-image-forgery-detection/isaacmenard__train-scientific-image-forgery-detection/train-scientific-image-forgery-detection.ipynb",
+  "quality_score": 59.76225,
+  "grade": "C",
+  "techniques": {
+    "eda": [
+      "visualization"
+    ],
+    "hyperparameter": [
+      "grid_search",
+      "cross_validation"
+    ],
+    "advanced_ml": [
+      "neural_network"
+    ]
+  },
+  "libraries": [
+    "numpy",
+    "sklearn",
+    "matplotlib",
+    "pytorch"
+  ],
+  "category": "eda_fe",
+  "competition": "recodai-luc-scientific-image-forgery-detection"
+}

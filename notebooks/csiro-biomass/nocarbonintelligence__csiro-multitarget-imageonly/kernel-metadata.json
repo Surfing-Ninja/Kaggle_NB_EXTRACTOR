@@ -1,0 +1,23 @@
+{
+  "id": "nocarbonintelligence/csiro-multitarget-imageonly",
+  "id_no": 97876541,
+  "title": "CSIRO -MultiTarget&ImageOnly ",
+  "code_file": "csiro-multitarget-imageonly.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    ""
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "csiro-biomass"
+  ],
+  "model_sources": []
+}

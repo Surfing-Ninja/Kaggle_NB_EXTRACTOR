@@ -1,0 +1,25 @@
+{
+  "id": "atharvagaikwad7143/loan-predication-cloud",
+  "id_no": 98483415,
+  "title": "Loan_Predication_Cloud",
+  "code_file": "loan-predication-cloud.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "nina2025/02-november-2025-ps-s5e11",
+    "nina2025/03-november-2025-ps-s5e11",
+    "nabihazahid/loan-prediction-dataset-2025"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "playground-series-s5e11"
+  ],
+  "model_sources": []
+}

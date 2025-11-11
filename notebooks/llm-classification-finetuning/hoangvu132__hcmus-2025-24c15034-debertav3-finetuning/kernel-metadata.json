@@ -1,0 +1,27 @@
+{
+  "id": "hoangvu132/hcmus-2025-24c15034-debertav3-finetuning",
+  "id_no": 82726666,
+  "title": "[HCMUS][2025][24C15034] (DeBERTaV3 finetuning)",
+  "code_file": "hcmus-2025-24c15034-debertav3-finetuning.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "abhishek/distilbertbaseuncased",
+    "verracodeguacas/huggingfacedebertav3variants",
+    "jonathanchan/mdeberta-v3-base"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "llm-classification-finetuning"
+  ],
+  "model_sources": [
+    "mtnash/deberta-v3-small/Transformers/default/1"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "zorornoa/nfl-analytics",
+  "id_no": 96795923,
+  "title": "NFL_analytics",
+  "code_file": "nfl-analytics.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nfl-big-data-bowl-2026-analytics"
+  ],
+  "model_sources": []
+}

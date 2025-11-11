@@ -1,0 +1,34 @@
+{
+  "id": "blue0924/finetuning-test2",
+  "id_no": 71829010,
+  "title": "finetuning_test2",
+  "code_file": "finetuning-test2.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "akemiii/akemiiiiii",
+    "akemiii/amodellll",
+    "emiz6413/73zap2gx",
+    "emiz6413/lmsys-wheel-files",
+    "tascj0/lmsys-checkpoints-0-0805",
+    "tascj0/lmsys-checkpoints-3-0805",
+    "tascj0/lmsys-modules-0805",
+    "tascj0/lmsys-packages",
+    "akemiii/pppppppp",
+    "akemiii/some-pack"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "llm-classification-finetuning"
+  ],
+  "model_sources": [
+    "emiz6413/gemma-2/Transformers/gemma-2-9b-it-4bit/1"
+  ]
+}

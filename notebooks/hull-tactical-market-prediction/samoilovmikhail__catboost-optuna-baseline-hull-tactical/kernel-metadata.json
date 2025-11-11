@@ -1,0 +1,22 @@
+{
+  "id": "samoilovmikhail/catboost-optuna-baseline-hull-tactical",
+  "id_no": 93127460,
+  "title": "\ud83d\udc08 [CatBoost & Optuna] Baseline - Hull Tactical",
+  "code_file": "catboost-optuna-baseline-hull-tactical.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gradient boosting",
+    "time series analysis"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "hull-tactical-market-prediction"
+  ],
+  "model_sources": []
+}

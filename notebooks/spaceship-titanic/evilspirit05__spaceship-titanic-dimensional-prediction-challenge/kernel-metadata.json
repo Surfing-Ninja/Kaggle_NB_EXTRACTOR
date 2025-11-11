@@ -1,0 +1,25 @@
+{
+  "id": "evilspirit05/spaceship-titanic-dimensional-prediction-challenge",
+  "id_no": 64302368,
+  "title": "Spaceship Titanic Dimensional Prediction Challenge",
+  "code_file": "spaceship-titanic-dimensional-prediction-challenge.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "matplotlib",
+    "numpy",
+    "pandas",
+    "seaborn",
+    "sklearn"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "spaceship-titanic"
+  ],
+  "model_sources": []
+}

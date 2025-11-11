@@ -1,0 +1,25 @@
+{
+  "id": "adamml/how-to-be-in-top-10-for-beginner",
+  "id_no": 14886239,
+  "title": "How to be in Top 10% for beginner",
+  "code_file": "how-to-be-in-top-10-for-beginner.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "matplotlib",
+    "numpy",
+    "pandas",
+    "seaborn",
+    "xgboost"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "house-prices-advanced-regression-techniques"
+  ],
+  "model_sources": []
+}

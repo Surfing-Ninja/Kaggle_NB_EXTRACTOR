@@ -1,0 +1,19 @@
+{
+  "id": "utcarshagrawal/spacehip-titanic-complete-data-understanding-ml",
+  "id_no": 26399259,
+  "title": "Spacehip Titanic-Complete Data Understanding+ML\ud83d\ude80",
+  "code_file": "spacehip-titanic-complete-data-understanding-ml.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "spaceship-titanic"
+  ],
+  "model_sources": []
+}

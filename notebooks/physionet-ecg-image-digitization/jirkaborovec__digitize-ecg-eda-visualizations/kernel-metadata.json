@@ -1,0 +1,19 @@
+{
+  "id": "jirkaborovec/digitize-ecg-eda-visualizations",
+  "id_no": 96717136,
+  "title": "Digitize\ud83d\udde0ECG: EDA + visualizations",
+  "code_file": "digitize-ecg-eda-visualizations.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "physionet-ecg-image-digitization"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,21 @@
+{
+  "original_path": "notebooks/nfl-big-data-bowl-2026-analytics/vishakhsandwar__sumersports-supplement-investigation/sumersports-supplement-investigation.ipynb",
+  "quality_score": 44.1,
+  "grade": "C",
+  "techniques": {
+    "feature_engineering": [
+      "aggregation"
+    ],
+    "eda": [
+      "scatter",
+      "missing_analysis",
+      "statistics"
+    ]
+  },
+  "libraries": [
+    "pandas",
+    "plotly"
+  ],
+  "category": "eda_fe",
+  "competition": "nfl-big-data-bowl-2026-analytics"
+}

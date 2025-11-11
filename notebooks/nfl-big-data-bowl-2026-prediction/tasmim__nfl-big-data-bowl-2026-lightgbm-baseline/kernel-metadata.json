@@ -1,0 +1,19 @@
+{
+  "id": "tasmim/nfl-big-data-bowl-2026-lightgbm-baseline",
+  "id_no": 94351055,
+  "title": "\ud83c\udfc8 NFL Big Data Bowl 2026 - LightGBM Baseline",
+  "code_file": "nfl-big-data-bowl-2026-lightgbm-baseline.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nfl-big-data-bowl-2026-prediction"
+  ],
+  "model_sources": []
+}

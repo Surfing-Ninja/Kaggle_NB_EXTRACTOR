@@ -1,0 +1,19 @@
+{
+  "id": "nguyenvietdat/linear-lgbm-stack",
+  "id_no": 95406803,
+  "title": "linear_lgbm_stack",
+  "code_file": "linear-lgbm-stack.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "hull-tactical-market-prediction"
+  ],
+  "model_sources": []
+}

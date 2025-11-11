@@ -1,0 +1,24 @@
+{
+  "id": "adityaecdrid/mnist-with-keras-for-beginners-99457",
+  "id_no": 231224,
+  "title": "MNIST with Keras for Beginners(.99457)",
+  "code_file": "mnist-with-keras-for-beginners-99457.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "beginner",
+    "exploratory data analysis",
+    "deep learning",
+    "cnn"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "digit-recognizer"
+  ],
+  "model_sources": []
+}

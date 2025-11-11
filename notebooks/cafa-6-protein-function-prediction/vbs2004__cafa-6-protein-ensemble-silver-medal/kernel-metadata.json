@@ -1,0 +1,24 @@
+{
+  "id": "vbs2004/cafa-6-protein-ensemble-silver-medal",
+  "id_no": 96974985,
+  "title": "CAFA 6 Protein Ensemble | Silver Medal",
+  "code_file": "cafa-6-protein-ensemble-silver-medal.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [
+    "nihilisticneuralnet/cafa-6-t5-embeddings-with-ensemble",
+    "sacuscreed/merge-of-2submission-lb-0-25",
+    "sacuscreed/gaf-submission",
+    "seddiktrk/cafa-6-predictions"
+  ],
+  "competition_sources": [
+    "cafa-6-protein-function-prediction"
+  ],
+  "model_sources": []
+}

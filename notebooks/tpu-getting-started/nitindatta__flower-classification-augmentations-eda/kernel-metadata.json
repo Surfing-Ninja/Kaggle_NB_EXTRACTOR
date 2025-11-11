@@ -1,0 +1,24 @@
+{
+  "id": "nitindatta/flower-classification-augmentations-eda",
+  "id_no": 10591546,
+  "title": "Flower_Classification+Augmentations+EDA",
+  "code_file": "flower-classification-augmentations-eda.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "tpu",
+    "exploratory data analysis",
+    "data visualization",
+    "beginner"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "tpu-getting-started"
+  ],
+  "model_sources": []
+}

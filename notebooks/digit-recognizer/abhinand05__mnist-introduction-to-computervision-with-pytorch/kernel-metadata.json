@@ -1,0 +1,24 @@
+{
+  "id": "abhinand05/mnist-introduction-to-computervision-with-pytorch",
+  "id_no": 4211063,
+  "title": "MNIST: Introduction to ComputerVision with PyTorch",
+  "code_file": "mnist-introduction-to-computervision-with-pytorch.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "beginner",
+    "deep learning",
+    "classification",
+    "programming"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "digit-recognizer"
+  ],
+  "model_sources": []
+}

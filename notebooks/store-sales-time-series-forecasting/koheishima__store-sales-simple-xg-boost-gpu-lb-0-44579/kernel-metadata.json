@@ -1,0 +1,23 @@
+{
+  "id": "koheishima/store-sales-simple-xg-boost-gpu-lb-0-44579",
+  "id_no": 22228684,
+  "title": "Store Sales simple XG Boost GPU [LB=0.44579]",
+  "code_file": "store-sales-simple-xg-boost-gpu-lb-0-44579.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu",
+    "gradient boosting",
+    "time series analysis"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "store-sales-time-series-forecasting"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "astitwaagarwal/predicting-loan-payback",
+  "id_no": 97553458,
+  "title": "predicting_loan_payback",
+  "code_file": "predicting-loan-payback.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "nina2025/01-november-2025-ps-s5e11",
+    "nina2025/03-november-2025-ps-s5e11",
+    "nina2025/4-november-2025-ps-s5e11",
+    "nina2025/8-november-2025-ps-s5e11",
+    "nina2025/9-november-2025-ps-s5e11"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "playground-series-s5e11"
+  ],
+  "model_sources": []
+}

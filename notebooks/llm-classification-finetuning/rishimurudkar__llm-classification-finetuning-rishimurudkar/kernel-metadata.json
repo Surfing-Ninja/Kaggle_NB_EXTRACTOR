@@ -1,0 +1,26 @@
+{
+  "id": "rishimurudkar/llm-classification-finetuning-rishimurudkar",
+  "id_no": 80252307,
+  "title": "llm-classification-finetuning-rishimurudkar",
+  "code_file": "llm-classification-finetuning-rishimurudkar.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "",
+    "terrychanorg/sentencetransformersallmpnetbasev2"
+  ],
+  "kernel_sources": [
+    "packagemanager/pm-80252307-at-04-13-2025-00-47-54"
+  ],
+  "competition_sources": [
+    "llm-classification-finetuning"
+  ],
+  "model_sources": []
+}

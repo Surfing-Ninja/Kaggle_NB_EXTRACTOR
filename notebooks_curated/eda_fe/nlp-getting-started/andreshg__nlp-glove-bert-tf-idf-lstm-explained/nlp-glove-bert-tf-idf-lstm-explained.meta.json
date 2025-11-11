@@ -1,0 +1,36 @@
+{
+  "original_path": "notebooks/nlp-getting-started/andreshg__nlp-glove-bert-tf-idf-lstm-explained/nlp-glove-bert-tf-idf-lstm-explained.ipynb",
+  "quality_score": 83.8,
+  "grade": "A",
+  "techniques": {
+    "feature_engineering": [
+      "aggregation",
+      "label_encoding",
+      "target_encoding",
+      "text_features",
+      "embedding"
+    ],
+    "eda": [
+      "scatter",
+      "statistics",
+      "visualization"
+    ],
+    "advanced_ml": [
+      "xgboost",
+      "neural_network"
+    ]
+  },
+  "libraries": [
+    "pandas",
+    "numpy",
+    "sklearn",
+    "xgboost",
+    "matplotlib",
+    "seaborn",
+    "plotly",
+    "tensorflow",
+    "keras"
+  ],
+  "category": "eda_fe",
+  "competition": "nlp-getting-started"
+}

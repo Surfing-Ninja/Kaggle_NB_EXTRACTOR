@@ -1,0 +1,36 @@
+{
+  "id": "gaetanlopez/how-to-make-clean-visualizations",
+  "id_no": 15704037,
+  "title": "How to make clean visualizations ",
+  "code_file": "how-to-make-clean-visualizations.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "matplotlib",
+    "pandas",
+    "seaborn",
+    "plotly",
+    "numpy"
+  ],
+  "dataset_sources": [
+    "",
+    "mariaren/covid19-healthy-diet-dataset",
+    "arashnic/hr-analytics-job-change-of-data-scientists",
+    "uciml/iris",
+    "shivamb/netflix-shows",
+    "jsphyg/weather-dataset-rattle-package",
+    "fedesoriano/stroke-prediction-dataset"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "house-prices-advanced-regression-techniques",
+    "competitive-data-science-predict-future-sales",
+    "tabular-playground-series-mar-2021",
+    "titanic"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "ahsuna123/mabe-finding-comprehensive-eda-quality-check",
+  "id_no": 92547625,
+  "title": "MABe Finding: Comprehensive EDA & Quality Check",
+  "code_file": "mabe-finding-comprehensive-eda-quality-check.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "MABe-mouse-behavior-detection"
+  ],
+  "model_sources": []
+}

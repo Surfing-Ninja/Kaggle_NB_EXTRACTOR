@@ -1,0 +1,21 @@
+{
+  "id": "tasmim/nfl-bdb-26-feature-rich-gru-predictor-lb-0-61",
+  "id_no": 94834491,
+  "title": " NFL BDB 26: Feature-Rich GRU Predictor [LB: 0.61]",
+  "code_file": "nfl-bdb-26-feature-rich-gru-predictor-lb-0-61.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nfl-big-data-bowl-2026-prediction"
+  ],
+  "model_sources": []
+}

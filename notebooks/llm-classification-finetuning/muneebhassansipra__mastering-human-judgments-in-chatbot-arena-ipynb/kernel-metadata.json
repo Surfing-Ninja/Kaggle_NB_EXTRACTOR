@@ -1,0 +1,22 @@
+{
+  "id": "muneebhassansipra/mastering-human-judgments-in-chatbot-arena-ipynb",
+  "id_no": 86840151,
+  "title": " Mastering Human Judgments in Chatbot Arena .ipynb",
+  "code_file": "mastering-human-judgments-in-chatbot-arena-ipynb.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "llm-classification-finetuning"
+  ],
+  "model_sources": [
+    "keras/bert/Keras/bert_base_en/2",
+    "keras/bert/Keras/bert_base_en_uncased/2"
+  ]
+}

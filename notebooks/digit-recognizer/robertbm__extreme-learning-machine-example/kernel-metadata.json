@@ -1,0 +1,23 @@
+{
+  "id": "robertbm/extreme-learning-machine-example",
+  "id_no": 628483,
+  "title": "Extreme Learning Machine example",
+  "code_file": "extreme-learning-machine-example.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "beginner",
+    "neural networks",
+    "classification"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "digit-recognizer"
+  ],
+  "model_sources": []
+}

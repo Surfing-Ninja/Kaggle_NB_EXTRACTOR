@@ -1,0 +1,19 @@
+{
+  "id": "toni0710/mabe-eda",
+  "id_no": 92709248,
+  "title": "MABe_EDA",
+  "code_file": "mabe-eda.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "MABe-mouse-behavior-detection"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "drzhuzhe/monet-cyclegan-tutorial",
+  "id_no": 11875632,
+  "title": "Monet CycleGAN Tutorial",
+  "code_file": "monet-cyclegan-tutorial.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": true,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "gan-getting-started"
+  ],
+  "model_sources": []
+}

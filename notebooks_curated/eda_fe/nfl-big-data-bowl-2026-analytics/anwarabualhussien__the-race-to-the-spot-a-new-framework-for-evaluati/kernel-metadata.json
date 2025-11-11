@@ -1,0 +1,19 @@
+{
+  "id": "anwarabualhussien/the-race-to-the-spot-a-new-framework-for-evaluati",
+  "id_no": 94807185,
+  "title": "The Race to the Spot: A New Framework for Evaluati",
+  "code_file": "the-race-to-the-spot-a-new-framework-for-evaluati.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nfl-big-data-bowl-2026-analytics"
+  ],
+  "model_sources": []
+}

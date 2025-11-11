@@ -1,0 +1,23 @@
+{
+  "id": "maheenriaz1122/dinov2-base-multi-task-forgery-detection-part-2",
+  "id_no": 97934703,
+  "title": "DINOv2-Base Multi-Task Forgery Detection part 2",
+  "code_file": "dinov2-base-multi-task-forgery-detection-part-2.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "recodai-luc-scientific-image-forgery-detection"
+  ],
+  "model_sources": [
+    "metaresearch/dinov2/PyTorch/base/1"
+  ]
+}

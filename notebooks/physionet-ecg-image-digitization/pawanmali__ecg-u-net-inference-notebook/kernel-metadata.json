@@ -1,0 +1,23 @@
+{
+  "id": "pawanmali/ecg-u-net-inference-notebook",
+  "id_no": 97547274,
+  "title": "ECG U-Net Inference Notebook",
+  "code_file": "ecg-u-net-inference-notebook.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    ""
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "physionet-ecg-image-digitization"
+  ],
+  "model_sources": []
+}

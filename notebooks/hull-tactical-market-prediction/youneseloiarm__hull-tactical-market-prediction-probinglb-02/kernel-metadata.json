@@ -1,0 +1,19 @@
+{
+  "id": "youneseloiarm/hull-tactical-market-prediction-probinglb-02",
+  "id_no": 92462499,
+  "title": "Hull Tactical - Market Prediction -ProbingLB_02",
+  "code_file": "hull-tactical-market-prediction-probinglb-02.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "hull-tactical-market-prediction"
+  ],
+  "model_sources": []
+}

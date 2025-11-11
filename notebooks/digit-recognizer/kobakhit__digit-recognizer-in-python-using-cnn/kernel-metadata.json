@@ -1,0 +1,19 @@
+{
+  "id": "kobakhit/digit-recognizer-in-python-using-cnn",
+  "id_no": 23162,
+  "title": "Digit recognizer in Python using CNN",
+  "code_file": "digit-recognizer-in-python-using-cnn.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "digit-recognizer"
+  ],
+  "model_sources": []
+}

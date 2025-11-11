@@ -1,0 +1,23 @@
+{
+  "id": "larjeck/flower-classification-with-accelerator",
+  "id_no": 32358959,
+  "title": "Flower Classification with Accelerator",
+  "code_file": "flower-classification-with-accelerator.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "tpu"
+  ],
+  "dataset_sources": [
+    "kirillblinov/tf-flower-photo-tfrec"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "tpu-getting-started"
+  ],
+  "model_sources": []
+}

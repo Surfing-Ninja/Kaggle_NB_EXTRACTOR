@@ -1,0 +1,21 @@
+{
+  "id": "muhammadqasimshabbir/mabe-challenge-social-action-recognition",
+  "id_no": 92524459,
+  "title": "MABe Challenge - Social Action Recognition",
+  "code_file": "mabe-challenge-social-action-recognition.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "MABe-mouse-behavior-detection"
+  ],
+  "model_sources": []
+}

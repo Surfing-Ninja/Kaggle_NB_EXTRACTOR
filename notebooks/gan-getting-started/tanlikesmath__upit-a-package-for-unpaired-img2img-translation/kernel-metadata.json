@@ -1,0 +1,24 @@
+{
+  "id": "tanlikesmath/upit-a-package-for-unpaired-img2img-translation",
+  "id_no": 11468583,
+  "title": "UPIT -a package for unpaired img2img translation",
+  "code_file": "upit-a-package-for-unpaired-img2img-translation.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu",
+    "pytorch",
+    "deep learning",
+    "gan"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "gan-getting-started"
+  ],
+  "model_sources": []
+}

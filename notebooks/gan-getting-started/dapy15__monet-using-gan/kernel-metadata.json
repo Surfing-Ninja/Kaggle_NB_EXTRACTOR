@@ -1,0 +1,31 @@
+{
+  "id": "dapy15/monet-using-gan",
+  "id_no": 16984067,
+  "title": "Monet using GAN",
+  "code_file": "monet-using-gan.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "beginner",
+    "tensorflow",
+    "numpy",
+    "data visualization",
+    "image",
+    "arts and entertainment",
+    "cv2",
+    "keras",
+    "matplotlib"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [
+    "dapy15/monet-using-gan-utility"
+  ],
+  "competition_sources": [
+    "gan-getting-started"
+  ],
+  "model_sources": []
+}

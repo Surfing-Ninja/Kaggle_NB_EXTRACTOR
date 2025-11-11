@@ -1,0 +1,25 @@
+{
+  "id": "raulparis/spaceship-titanic-81-easy-to-understand",
+  "id_no": 34386435,
+  "title": "\ud83d\ude80Spaceship Titanic: ~81% Easy to understand\ud83d\ude80",
+  "code_file": "spaceship-titanic-81-easy-to-understand.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "exploratory data analysis",
+    "binary classification",
+    "feature engineering",
+    "data visualization",
+    "model comparison"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "spaceship-titanic"
+  ],
+  "model_sources": []
+}

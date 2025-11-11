@@ -1,0 +1,21 @@
+{
+  "id": "jaskaransingh/xlnet-fine-tuning-with-pytorch",
+  "id_no": 9381886,
+  "title": "XLNet Fine-Tuning with PyTorch",
+  "code_file": "xlnet-fine-tuning-with-pytorch.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "xiaojiu1414/xlnetbasecased"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nlp-getting-started"
+  ],
+  "model_sources": []
+}

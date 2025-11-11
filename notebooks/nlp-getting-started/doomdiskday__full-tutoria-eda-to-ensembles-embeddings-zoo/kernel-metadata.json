@@ -1,0 +1,26 @@
+{
+  "id": "doomdiskday/full-tutoria-eda-to-ensembles-embeddings-zoo",
+  "id_no": 7590734,
+  "title": "[Full tutoria] EDA to Ensembles. Embeddings Zoo!",
+  "code_file": "full-tutoria-eda-to-ensembles-embeddings-zoo.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "beginner",
+    "exploratory data analysis",
+    "data cleaning"
+  ],
+  "dataset_sources": [
+    "",
+    ""
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nlp-getting-started"
+  ],
+  "model_sources": []
+}

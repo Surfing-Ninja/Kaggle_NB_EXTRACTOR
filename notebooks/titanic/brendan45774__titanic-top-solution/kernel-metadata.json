@@ -1,0 +1,26 @@
+{
+  "id": "brendan45774/titanic-top-solution",
+  "id_no": 8737793,
+  "title": "Titanic Top Solution",
+  "code_file": "titanic-top-solution.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "beginner",
+    "data visualization",
+    "demographics"
+  ],
+  "dataset_sources": [
+    "",
+    "brendan45774/gender-submisson"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "titanic"
+  ],
+  "model_sources": []
+}

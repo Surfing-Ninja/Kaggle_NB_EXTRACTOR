@@ -1,0 +1,24 @@
+{
+  "id": "shreyashpatil217/ultra-fast-image-forgery-detection-u-net",
+  "id_no": 96748081,
+  "title": "\ud83d\ude80 Ultra-Fast Image Forgery Detection | U-Net \u26a1",
+  "code_file": "ultra-fast-image-forgery-detection-u-net.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "image segmentation",
+    "unet",
+    "pca",
+    "image classification"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "recodai-luc-scientific-image-forgery-detection"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "itsmohammadshahid/7-cnn-handwritten-digit-recognition",
+  "id_no": 28301313,
+  "title": "7\ufe0f\u20e3\ufe0f CNN | Handwritten Digit Recognition",
+  "code_file": "7-cnn-handwritten-digit-recognition.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "digit-recognizer"
+  ],
+  "model_sources": []
+}

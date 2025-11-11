@@ -1,0 +1,19 @@
+{
+  "id": "alifarrokhnejad/mabe-challenge-lstm",
+  "id_no": 93585523,
+  "title": "MABe Challenge LSTM",
+  "code_file": "mabe-challenge-lstm.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "MABe-mouse-behavior-detection"
+  ],
+  "model_sources": []
+}

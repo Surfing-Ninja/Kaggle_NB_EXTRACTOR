@@ -1,0 +1,19 @@
+{
+  "id": "olaflundstrom/cafa-6-protein-function-prediction",
+  "id_no": 95369294,
+  "title": "CAFA 6 Protein Function Prediction",
+  "code_file": "cafa-6-protein-function-prediction.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": true,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "cafa-6-protein-function-prediction"
+  ],
+  "model_sources": []
+}

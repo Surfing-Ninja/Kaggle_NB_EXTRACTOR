@@ -1,0 +1,23 @@
+{
+  "id": "frogcannotdie/lb-0-57-lightning-for-start-csiro-cnn-infer",
+  "id_no": 97479713,
+  "title": "[LB 0.57] Lightning for Start | CSIRO | CNN Infer",
+  "code_file": "lb-0-57-lightning-for-start-csiro-cnn-infer.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [
+    "frogcannotdie/csiro-naive-cnn-training"
+  ],
+  "competition_sources": [
+    "csiro-biomass"
+  ],
+  "model_sources": []
+}

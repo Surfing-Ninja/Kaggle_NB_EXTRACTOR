@@ -1,0 +1,21 @@
+{
+  "id": "mothukurisujith/sub1-llm-cls-fine",
+  "id_no": 89110962,
+  "title": "Sub1_llm_cls_fine",
+  "code_file": "sub1-llm-cls-fine.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "llm-classification-finetuning"
+  ],
+  "model_sources": [
+    "keras/deberta_v3/Keras/deberta_v3_base_en/3"
+  ]
+}

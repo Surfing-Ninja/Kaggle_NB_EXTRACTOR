@@ -1,0 +1,21 @@
+{
+  "id": "yusufsertkayaysk/nfl-26-gru-conv1d-attention-lb-0-6",
+  "id_no": 95245843,
+  "title": "\ud83c\udfc8 NFL 26 (GRU + Conv1D + Attention)[LB: 0.6]",
+  "code_file": "nfl-26-gru-conv1d-attention-lb-0-6.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nfl-big-data-bowl-2026-prediction"
+  ],
+  "model_sources": []
+}

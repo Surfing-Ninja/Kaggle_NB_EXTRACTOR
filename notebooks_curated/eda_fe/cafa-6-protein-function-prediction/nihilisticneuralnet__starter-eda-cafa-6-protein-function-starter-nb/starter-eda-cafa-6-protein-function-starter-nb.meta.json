@@ -1,0 +1,26 @@
+{
+  "original_path": "notebooks/cafa-6-protein-function-prediction/nihilisticneuralnet__starter-eda-cafa-6-protein-function-starter-nb/starter-eda-cafa-6-protein-function-starter-nb.ipynb",
+  "quality_score": 43.6126,
+  "grade": "C",
+  "techniques": {
+    "feature_engineering": [
+      "embedding"
+    ],
+    "eda": [
+      "statistics",
+      "visualization"
+    ],
+    "advanced_ml": [
+      "neural_network"
+    ]
+  },
+  "libraries": [
+    "pandas",
+    "numpy",
+    "matplotlib",
+    "seaborn",
+    "tensorflow"
+  ],
+  "category": "eda_fe",
+  "competition": "cafa-6-protein-function-prediction"
+}

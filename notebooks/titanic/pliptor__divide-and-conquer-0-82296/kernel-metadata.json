@@ -1,0 +1,23 @@
+{
+  "id": "pliptor/divide-and-conquer-0-82296",
+  "id_no": 275383,
+  "title": "Divide and Conquer [0.82296]",
+  "code_file": "divide-and-conquer-0-82296.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "advanced",
+    "data visualization",
+    "feature engineering"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "titanic"
+  ],
+  "model_sources": []
+}

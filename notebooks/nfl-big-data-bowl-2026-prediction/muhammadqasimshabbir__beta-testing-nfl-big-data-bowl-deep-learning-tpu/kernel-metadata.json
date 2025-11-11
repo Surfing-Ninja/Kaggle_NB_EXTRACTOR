@@ -1,0 +1,25 @@
+{
+  "id": "muhammadqasimshabbir/beta-testing-nfl-big-data-bowl-deep-learning-tpu",
+  "id_no": 93226391,
+  "title": "Beta Testing NFL Big Data Bowl- Deep learning-TPU",
+  "code_file": "beta-testing-nfl-big-data-bowl-deep-learning-tpu.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": true,
+  "enable_internet": false,
+  "keywords": [
+    "advanced",
+    "intermediate",
+    "text"
+  ],
+  "dataset_sources": [
+    "abstrphil/polars"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nfl-big-data-bowl-2026-prediction"
+  ],
+  "model_sources": []
+}

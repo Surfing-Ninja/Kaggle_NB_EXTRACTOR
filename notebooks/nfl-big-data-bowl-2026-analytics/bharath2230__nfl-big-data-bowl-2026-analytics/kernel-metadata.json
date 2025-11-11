@@ -1,0 +1,19 @@
+{
+  "id": "bharath2230/nfl-big-data-bowl-2026-analytics",
+  "id_no": 97422230,
+  "title": "NFL Big Data Bowl 2026 - Analytics",
+  "code_file": "nfl-big-data-bowl-2026-analytics.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nfl-big-data-bowl-2026-analytics"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "erikbruin/titanic-2nd-degree-families-and-majority-voting",
+  "id_no": 487546,
+  "title": "Titanic: 2nd degree families and majority voting",
+  "code_file": "titanic-2nd-degree-families-and-majority-voting.Rmd",
+  "language": "rmarkdown",
+  "kernel_type": "script",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "data visualization",
+    "exploratory data analysis",
+    "random forest",
+    "feature engineering",
+    "classification"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "titanic"
+  ],
+  "model_sources": []
+}

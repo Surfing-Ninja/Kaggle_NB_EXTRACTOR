@@ -1,0 +1,24 @@
+{
+  "id": "amarjeet007/visualize-cnn-with-keras",
+  "id_no": 1204028,
+  "title": "Visualize  CNN with keras",
+  "code_file": "visualize-cnn-with-keras.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "beginner",
+    "deep learning",
+    "cnn",
+    "data visualization"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "digit-recognizer"
+  ],
+  "model_sources": []
+}

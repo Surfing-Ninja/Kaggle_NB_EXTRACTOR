@@ -1,0 +1,21 @@
+{
+  "id": "tareqalg/cyclegan-photo-to-monet-style",
+  "id_no": 15233797,
+  "title": "CycleGAN photo to Monet style",
+  "code_file": "cyclegan-photo-to-monet-style.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": true,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "doanquanvietnamca/monet-tfrecords-extdata"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "gan-getting-started"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "aleksandrmorozov123/time-series-forecasting-in-r",
+  "id_no": 27781820,
+  "title": "Time Series Forecasting in R",
+  "code_file": "time-series-forecasting-in-r.irnb",
+  "language": "r",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "store-sales-time-series-forecasting"
+  ],
+  "model_sources": []
+}

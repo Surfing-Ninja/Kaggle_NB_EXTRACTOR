@@ -1,0 +1,27 @@
+{
+  "id": "jirkaborovec/cafa6-protein-function-starter-with-eda-model",
+  "id_no": 95410386,
+  "title": "CAFA6 Protein Function: Starter with EDA + model",
+  "code_file": "cafa6-protein-function-starter-with-eda-model.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "siddhvr/blast-quick-sprof-zero-pred",
+    "viktorfairuschin/cafa-5-ems-2-embeddings-numpy",
+    "henriupton/protbert-embeddings-for-cafa5",
+    "sergeifironov/t5embeds",
+    "siddhvr/train-targets-top500"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "cafa-6-protein-function-prediction"
+  ],
+  "model_sources": []
+}

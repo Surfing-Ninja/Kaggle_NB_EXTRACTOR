@@ -1,0 +1,29 @@
+{
+  "id": "nachiket273/pytorch-tpu-vision-transformer",
+  "id_no": 12590806,
+  "title": "pytorch_tpu_vision_transformer",
+  "code_file": "pytorch-tpu-vision-transformer.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": true,
+  "enable_internet": true,
+  "keywords": [
+    "transformers",
+    "neural networks",
+    "PIL",
+    "torchvision",
+    "classification",
+    "pytorch",
+    "pandas",
+    "tensorflow",
+    "tpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "tpu-getting-started"
+  ],
+  "model_sources": []
+}

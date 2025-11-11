@@ -1,0 +1,21 @@
+{
+  "id": "xiefei/03-digit-recognizer",
+  "id_no": 31577622,
+  "title": "03 Digit Recognizer \u624b\u5199\u6570\u5b57\u8bc6\u522b",
+  "code_file": "03-digit-recognizer.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "digit-recognizer"
+  ],
+  "model_sources": []
+}

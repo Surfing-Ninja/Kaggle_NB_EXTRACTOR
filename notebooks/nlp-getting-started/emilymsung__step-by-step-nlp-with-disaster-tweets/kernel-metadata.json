@@ -1,0 +1,25 @@
+{
+  "id": "emilymsung/step-by-step-nlp-with-disaster-tweets",
+  "id_no": 32683606,
+  "title": "Step-by-step NLP with Disaster Tweets",
+  "code_file": "step-by-step-nlp-with-disaster-tweets.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "classification",
+    "nlp",
+    "exploratory data analysis",
+    "feature engineering",
+    "text pre-processing"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nlp-getting-started"
+  ],
+  "model_sources": []
+}

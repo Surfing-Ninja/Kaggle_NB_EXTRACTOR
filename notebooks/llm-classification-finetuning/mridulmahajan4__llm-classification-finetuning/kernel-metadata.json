@@ -1,0 +1,19 @@
+{
+  "id": "mridulmahajan4/llm-classification-finetuning",
+  "id_no": 81844970,
+  "title": "LLM_Classification-Finetuning",
+  "code_file": "llm-classification-finetuning.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "llm-classification-finetuning"
+  ],
+  "model_sources": []
+}

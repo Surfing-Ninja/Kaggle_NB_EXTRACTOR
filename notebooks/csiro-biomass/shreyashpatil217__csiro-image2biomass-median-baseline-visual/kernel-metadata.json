@@ -1,0 +1,25 @@
+{
+  "id": "shreyashpatil217/csiro-image2biomass-median-baseline-visual",
+  "id_no": 97036963,
+  "title": "\ud83c\udfc6 CSIRO Image2Biomass \u2013 Median Baseline + Visual",
+  "code_file": "csiro-image2biomass-median-baseline-visual.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "computer vision",
+    "ensembling",
+    "india",
+    "categorical",
+    "pytorch"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "csiro-biomass"
+  ],
+  "model_sources": []
+}

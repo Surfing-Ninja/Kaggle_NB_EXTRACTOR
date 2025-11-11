@@ -1,0 +1,24 @@
+{
+  "id": "imoore/generate-paintings-by-image-style-transfer",
+  "id_no": 11447648,
+  "title": "Generate Paintings By Image Style Transfer",
+  "code_file": "generate-paintings-by-image-style-transfer.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu",
+    "image",
+    "arts and entertainment"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "gan-getting-started",
+    "open-images-object-detection-rvc-2020"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "odins0n/spaceship-titanic-eda-27-different-models",
+  "id_no": 24909878,
+  "title": "\ud83d\ude80Spaceship Titanic -\ud83d\udccaEDA + 27 different models\ud83d\udcc8",
+  "code_file": "spaceship-titanic-eda-27-different-models.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "beginner",
+    "tabular",
+    "model comparison",
+    "binary classification",
+    "exploratory data analysis"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "spaceship-titanic"
+  ],
+  "model_sources": []
+}

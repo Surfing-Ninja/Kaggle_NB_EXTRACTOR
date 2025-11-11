@@ -1,0 +1,25 @@
+{
+  "id": "prashantverma13/hi-houston-we-re-heading-new-home",
+  "id_no": 29035616,
+  "title": "Hi Houston \ud83d\udc68\u200d\ud83d\ude80, We're Heading New Home !!",
+  "code_file": "hi-houston-we-re-heading-new-home.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "model comparison",
+    "beginner",
+    "data visualization",
+    "exploratory data analysis",
+    "classification"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "spaceship-titanic"
+  ],
+  "model_sources": []
+}

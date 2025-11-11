@@ -1,0 +1,25 @@
+{
+  "id": "amritanshupandey/i-m-something-of-a-painter-myself",
+  "id_no": 18010553,
+  "title": "I'm something of a painter myself",
+  "code_file": "i-m-something-of-a-painter-myself.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": true,
+  "enable_internet": true,
+  "keywords": [
+    "tpu",
+    "matplotlib",
+    "numpy",
+    "PIL",
+    "tensorflow"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "gan-getting-started"
+  ],
+  "model_sources": []
+}

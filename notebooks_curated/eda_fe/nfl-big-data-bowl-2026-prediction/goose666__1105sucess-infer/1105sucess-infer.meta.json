@@ -1,0 +1,27 @@
+{
+  "original_path": "notebooks/nfl-big-data-bowl-2026-prediction/goose666__1105sucess-infer/1105sucess-infer.ipynb",
+  "quality_score": 57.068,
+  "grade": "C",
+  "techniques": {
+    "feature_engineering": [
+      "aggregation",
+      "lag_features",
+      "scaling",
+      "embedding"
+    ],
+    "eda": [
+      "missing_analysis"
+    ],
+    "advanced_ml": [
+      "neural_network"
+    ]
+  },
+  "libraries": [
+    "pandas",
+    "numpy",
+    "sklearn",
+    "pytorch"
+  ],
+  "category": "eda_fe",
+  "competition": "nfl-big-data-bowl-2026-prediction"
+}

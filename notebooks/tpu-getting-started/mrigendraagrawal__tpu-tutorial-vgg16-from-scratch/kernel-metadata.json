@@ -1,0 +1,24 @@
+{
+  "id": "mrigendraagrawal/tpu-tutorial-vgg16-from-scratch",
+  "id_no": 16982956,
+  "title": "TPU Tutorial + VGG16 from scratch",
+  "code_file": "tpu-tutorial-vgg16-from-scratch.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": true,
+  "enable_internet": true,
+  "keywords": [
+    "keras",
+    "matplotlib",
+    "numpy",
+    "tensorflow"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "tpu-getting-started"
+  ],
+  "model_sources": []
+}

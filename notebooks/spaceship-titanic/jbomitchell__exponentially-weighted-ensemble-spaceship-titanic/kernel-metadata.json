@@ -1,0 +1,21 @@
+{
+  "id": "jbomitchell/exponentially-weighted-ensemble-spaceship-titanic",
+  "id_no": 25070833,
+  "title": "Exponentially weighted ensemble: Spaceship Titanic",
+  "code_file": "exponentially-weighted-ensemble-spaceship-titanic.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "jbomitchell/spaceship-titanic-models"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "spaceship-titanic"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,30 @@
+{
+  "id": "faressayah/natural-language-processing-nlp-for-beginners",
+  "id_no": 6127394,
+  "title": "Natural Language Processing (NLP) for Beginners",
+  "code_file": "natural-language-processing-nlp-for-beginners.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "text",
+    "text mining",
+    "beginner",
+    "sklearn",
+    "pandas",
+    "nlp"
+  ],
+  "dataset_sources": [
+    "uciml/sms-spam-collection-dataset"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "jigsaw-multilingual-toxic-comment-classification",
+    "nlp-getting-started",
+    "tweet-sentiment-extraction"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "michaelfumery/exercice-pr-diction-de-prix-de-maison",
+  "id_no": 13058551,
+  "title": "Exercice - Pr\u00e9diction de prix de maison",
+  "code_file": "exercice-pr-diction-de-prix-de-maison.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "linear regression",
+    "beginner",
+    "random forest"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "home-data-for-ml-course"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "desalegngeb/spaceship-titanic-plotly-viz-fe-models",
+  "id_no": 24909800,
+  "title": "Spaceship Titanic: Plotly \ud83d\udcc8 viz+ FE \ud83d\udd27+ Models",
+  "code_file": "spaceship-titanic-plotly-viz-fe-models.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "exploratory data analysis",
+    "transportation",
+    "pandas",
+    "plotly",
+    "beginner"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "spaceship-titanic"
+  ],
+  "model_sources": []
+}

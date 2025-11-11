@@ -1,0 +1,23 @@
+{
+  "id": "tpothjuan/cyclegan-with-gpu-with-explanations",
+  "id_no": 13477692,
+  "title": "CycleGan with GPU with explanations ",
+  "code_file": "cyclegan-with-gpu-with-explanations.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu",
+    "gan",
+    "tensorflow"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "gan-getting-started"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,26 @@
+{
+  "original_path": "notebooks/cafa-6-protein-function-prediction/nihilisticneuralnet__cafa6-ems2-embeds-ensemble-pytorch/cafa6-ems2-embeds-ensemble-pytorch.ipynb",
+  "quality_score": 53.99275,
+  "grade": "C",
+  "techniques": {
+    "feature_engineering": [
+      "aggregation",
+      "embedding"
+    ],
+    "eda": [
+      "missing_analysis",
+      "visualization"
+    ],
+    "advanced_ml": [
+      "neural_network"
+    ]
+  },
+  "libraries": [
+    "pandas",
+    "numpy",
+    "matplotlib",
+    "pytorch"
+  ],
+  "category": "eda_fe",
+  "competition": "cafa-6-protein-function-prediction"
+}

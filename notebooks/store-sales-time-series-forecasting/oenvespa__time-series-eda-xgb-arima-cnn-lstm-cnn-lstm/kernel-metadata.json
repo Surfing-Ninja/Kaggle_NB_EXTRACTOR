@@ -1,0 +1,24 @@
+{
+  "id": "oenvespa/time-series-eda-xgb-arima-cnn-lstm-cnn-lstm",
+  "id_no": 35962267,
+  "title": "Time Series: EDA XGB ARIMA CNN LSTM CNN-LSTM",
+  "code_file": "time-series-eda-xgb-arima-cnn-lstm-cnn-lstm.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "time series analysis",
+    "xgboost",
+    "cnn",
+    "lstm"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "store-sales-time-series-forecasting"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "pardeep19singh/fine-tune-llama3-2-1b-83-4-on-disaster-tweets",
+  "id_no": 66558307,
+  "title": "Fine-tune Llama3.2-1B - 83.4% on Disaster Tweets",
+  "code_file": "fine-tune-llama3-2-1b-83-4-on-disaster-tweets.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nlp-getting-started"
+  ],
+  "model_sources": [
+    "google/gemma/Transformers/2b/2",
+    "metaresearch/llama-3.2/Transformers/1b/1"
+  ]
+}

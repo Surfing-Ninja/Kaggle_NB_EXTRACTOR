@@ -1,0 +1,25 @@
+{
+  "id": "neerajmohan/nlp-text-classification-using-tf-idf-features",
+  "id_no": 14047717,
+  "title": "NLP - Text Classification using TF-IDF Features",
+  "code_file": "nlp-text-classification-using-tf-idf-features.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "nlp",
+    "feature engineering",
+    "random forest",
+    "text",
+    "natural disasters"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nlp-getting-started"
+  ],
+  "model_sources": []
+}

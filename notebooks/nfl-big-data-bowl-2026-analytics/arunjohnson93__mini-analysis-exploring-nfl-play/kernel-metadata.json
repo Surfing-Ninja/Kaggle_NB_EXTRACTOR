@@ -1,0 +1,19 @@
+{
+  "id": "arunjohnson93/mini-analysis-exploring-nfl-play",
+  "id_no": 97465446,
+  "title": "mini_analysis_exploring_NFL_play",
+  "code_file": "mini-analysis-exploring-nfl-play.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nfl-big-data-bowl-2026-analytics"
+  ],
+  "model_sources": []
+}

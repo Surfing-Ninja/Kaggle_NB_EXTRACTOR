@@ -1,0 +1,19 @@
+{
+  "id": "yigk4out/predict-things-by-features",
+  "id_no": 94789746,
+  "title": "Predict Things by Features",
+  "code_file": "predict-things-by-features.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "playground-series-s5e11"
+  ],
+  "model_sources": []
+}

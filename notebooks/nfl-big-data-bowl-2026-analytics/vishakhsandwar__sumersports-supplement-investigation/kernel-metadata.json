@@ -1,0 +1,21 @@
+{
+  "id": "vishakhsandwar/sumersports-supplement-investigation",
+  "id_no": 97440493,
+  "title": "SumerSports Supplement Investigation",
+  "code_file": "sumersports-supplement-investigation.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "vishakhsandwar/sumersupplement-bdb-26"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nfl-big-data-bowl-2026-analytics"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "tirendazacademy/housing-prices-prediction-with-random-forest",
+  "id_no": 28953631,
+  "title": "Housing Prices Prediction with Random Forest",
+  "code_file": "housing-prices-prediction-with-random-forest.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "sklearn",
+    "artificial intelligence",
+    "python",
+    "random forest",
+    "tabular"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "home-data-for-ml-course"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,38 @@
+{
+  "original_path": "notebooks/nlp-getting-started/vbmokin__nlp-eda-bag-of-words-tf-idf-glove-bert/nlp-eda-bag-of-words-tf-idf-glove-bert.ipynb",
+  "quality_score": 93.35,
+  "grade": "A",
+  "techniques": {
+    "feature_engineering": [
+      "aggregation",
+      "text_features",
+      "embedding"
+    ],
+    "eda": [
+      "histogram",
+      "scatter",
+      "visualization"
+    ],
+    "dimensionality": [
+      "svd"
+    ],
+    "hyperparameter": [
+      "cross_validation"
+    ],
+    "advanced_ml": [
+      "neural_network"
+    ]
+  },
+  "libraries": [
+    "pandas",
+    "numpy",
+    "sklearn",
+    "matplotlib",
+    "seaborn",
+    "tensorflow",
+    "keras",
+    "pytorch"
+  ],
+  "category": "complete_pipeline",
+  "competition": "nlp-getting-started"
+}

@@ -1,0 +1,22 @@
+{
+  "original_path": "notebooks/home-data-for-ml-course/alexisbcook__exercise-categorical-variables/exercise-categorical-variables.ipynb",
+  "quality_score": 47.2264,
+  "grade": "C",
+  "techniques": {
+    "feature_engineering": [
+      "onehot_encoding"
+    ],
+    "eda": [
+      "missing_analysis"
+    ],
+    "advanced_ml": [
+      "ensemble"
+    ]
+  },
+  "libraries": [
+    "pandas",
+    "sklearn"
+  ],
+  "category": "eda_fe",
+  "competition": "home-data-for-ml-course"
+}

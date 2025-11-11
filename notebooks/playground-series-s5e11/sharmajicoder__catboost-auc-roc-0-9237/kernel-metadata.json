@@ -1,0 +1,21 @@
+{
+  "id": "sharmajicoder/catboost-auc-roc-0-9237",
+  "id_no": 97516319,
+  "title": "CatBoost + AUC-ROC = 0.9237",
+  "code_file": "catboost-auc-roc-0-9237.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "playground-series-s5e11"
+  ],
+  "model_sources": []
+}

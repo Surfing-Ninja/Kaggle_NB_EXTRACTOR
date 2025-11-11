@@ -1,0 +1,24 @@
+{
+  "id": "dansbecker/running-your-first-gan",
+  "id_no": 924014,
+  "title": "Running Your First GAN",
+  "code_file": "running-your-first-gan.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "zalando-research/fashionmnist",
+    "dansbecker/python-utility-code-for-deep-learning-exercises"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "digit-recognizer"
+  ],
+  "model_sources": []
+}

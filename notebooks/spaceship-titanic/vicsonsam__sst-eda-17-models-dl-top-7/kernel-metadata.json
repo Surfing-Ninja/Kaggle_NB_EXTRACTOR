@@ -1,0 +1,25 @@
+{
+  "id": "vicsonsam/sst-eda-17-models-dl-top-7",
+  "id_no": 26565881,
+  "title": "\ud83d\ude80 SST - \ud83d\udcca EDA |17 models+DL\ud83e\udd16 \ud83d\udd25 TOP 7% \ud83d\udd25 ",
+  "code_file": "sst-eda-17-models-dl-top-7.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "data visualization",
+    "data cleaning",
+    "classification",
+    "deep learning",
+    "intermediate"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "spaceship-titanic"
+  ],
+  "model_sources": []
+}

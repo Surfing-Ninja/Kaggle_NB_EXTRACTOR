@@ -1,0 +1,19 @@
+{
+  "id": "kanncaa1/dataiteam-titanic-eda",
+  "id_no": 7783554,
+  "title": "DataiTeam Titanic EDA",
+  "code_file": "dataiteam-titanic-eda.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "titanic"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "gcdatkin/top-10-house-price-regression-competition-nb",
+  "id_no": 16559430,
+  "title": "\ud83c\udfe0 [TOP 10%] House Price Regression Competition NB",
+  "code_file": "top-10-house-price-regression-competition-nb.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "matplotlib",
+    "numpy",
+    "pandas",
+    "scipy",
+    "seaborn"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "house-prices-advanced-regression-techniques"
+  ],
+  "model_sources": []
+}

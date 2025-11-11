@@ -1,0 +1,25 @@
+{
+  "id": "ravi20076/sptitanic-bootstrapensemble-pipeline",
+  "id_no": 26707192,
+  "title": "SPTitanic|BootstrapEnsemble|Pipeline",
+  "code_file": "sptitanic-bootstrapensemble-pipeline.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "binary classification",
+    "intermediate",
+    "sklearn",
+    "beginner",
+    "tabular"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "spaceship-titanic"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,31 @@
+{
+  "id": "nickyarovoi/top-1-housing-prices-competition-regression",
+  "id_no": 48931927,
+  "title": "[TOP 1%] - Housing Prices Competition - Regression",
+  "code_file": "top-1-housing-prices-competition-regression.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "housing",
+    "sklearn",
+    "data analytics",
+    "regression",
+    "python"
+  ],
+  "dataset_sources": [
+    "nickyarovoi/best-gradient-boosting",
+    "nickyarovoi/best-ridge",
+    "nickyarovoi/best-svr",
+    "nickyarovoi/best-catboost",
+    "nickyarovoi/best-lgbm"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "home-data-for-ml-course"
+  ],
+  "model_sources": []
+}

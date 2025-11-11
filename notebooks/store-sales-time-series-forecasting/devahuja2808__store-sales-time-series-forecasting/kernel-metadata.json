@@ -1,0 +1,21 @@
+{
+  "id": "devahuja2808/store-sales-time-series-forecasting",
+  "id_no": 53398758,
+  "title": "Store Sales - Time Series Forecasting",
+  "code_file": "store-sales-time-series-forecasting.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "devahuja2808/holiday-events"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "store-sales-time-series-forecasting"
+  ],
+  "model_sources": []
+}

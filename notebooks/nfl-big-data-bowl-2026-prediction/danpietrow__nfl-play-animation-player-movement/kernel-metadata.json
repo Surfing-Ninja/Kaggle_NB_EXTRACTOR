@@ -1,0 +1,25 @@
+{
+  "id": "danpietrow/nfl-play-animation-player-movement",
+  "id_no": 93111319,
+  "title": "NFL Play Animation \u2014 Player Movement",
+  "code_file": "nfl-play-animation-player-movement.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "beginner",
+    "data visualization",
+    "matplotlib",
+    "sports",
+    "python"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nfl-big-data-bowl-2026-prediction"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "mks2192/nfl-2026-big-data-bowl",
+  "id_no": 93922024,
+  "title": "NFL 2026 - Big Data Bowl",
+  "code_file": "nfl-2026-big-data-bowl.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nfl-big-data-bowl-2026-prediction"
+  ],
+  "model_sources": []
+}

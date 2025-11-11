@@ -1,0 +1,19 @@
+{
+  "id": "abhishekaggarwal896/simple-top-1-percent-kaggle-house-competition",
+  "id_no": 21083571,
+  "title": "Simple Top 1 percent Kaggle House Competition",
+  "code_file": "simple-top-1-percent-kaggle-house-competition.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "home-data-for-ml-course"
+  ],
+  "model_sources": []
+}

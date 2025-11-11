@@ -1,0 +1,19 @@
+{
+  "id": "seowoohyeon/physonet-digitzation",
+  "id_no": 96342074,
+  "title": "physoNet_Digitzation",
+  "code_file": "physonet-digitzation.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "physionet-ecg-image-digitization"
+  ],
+  "model_sources": []
+}

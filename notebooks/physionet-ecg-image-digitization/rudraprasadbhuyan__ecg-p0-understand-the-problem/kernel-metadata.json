@@ -1,0 +1,19 @@
+{
+  "id": "rudraprasadbhuyan/ecg-p0-understand-the-problem",
+  "id_no": 96548462,
+  "title": "[ECG-P0]: Understand the Problem \ud83e\udec0\ud83d\udd2c",
+  "code_file": "ecg-p0-understand-the-problem.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "physionet-ecg-image-digitization"
+  ],
+  "model_sources": []
+}

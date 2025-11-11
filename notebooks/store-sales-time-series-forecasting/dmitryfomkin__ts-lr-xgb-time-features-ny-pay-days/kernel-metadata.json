@@ -1,0 +1,23 @@
+{
+  "id": "dmitryfomkin/ts-lr-xgb-time-features-ny-pay-days",
+  "id_no": 21483039,
+  "title": "TS LR + xgb (time features, NY, pay_days)",
+  "code_file": "ts-lr-xgb-time-features-ny-pay-days.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "time series analysis",
+    "linear regression",
+    "xgboost"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "store-sales-time-series-forecasting"
+  ],
+  "model_sources": []
+}

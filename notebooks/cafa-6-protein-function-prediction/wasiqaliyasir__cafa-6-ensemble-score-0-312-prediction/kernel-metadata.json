@@ -1,0 +1,26 @@
+{
+  "id": "wasiqaliyasir/cafa-6-ensemble-score-0-312-prediction",
+  "id_no": 96976432,
+  "title": "Cafa 6 ensemble | score 0.312 | Prediction",
+  "code_file": "cafa-6-ensemble-score-0-312-prediction.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "seddiktrk/protein-go-annotations-taxonomy"
+  ],
+  "kernel_sources": [
+    "sacuscreed/merge-of-2submission-lb-0-25",
+    "sacuscreed/gaf-submission",
+    "sacuscreed/submission-merging",
+    "mafiosoquasar/cafa-6-protein-weighted-ensemble"
+  ],
+  "competition_sources": [
+    "cafa-6-protein-function-prediction"
+  ],
+  "model_sources": []
+}

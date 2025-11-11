@@ -1,0 +1,21 @@
+{
+  "id": "yogeshtak/exercise-your-first-machine-learning-model",
+  "id_no": 7358346,
+  "title": "Exercise: Your First Machine Learning Model",
+  "code_file": "exercise-your-first-machine-learning-model.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "dansbecker/melbourne-housing-snapshot"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "home-data-for-ml-course"
+  ],
+  "model_sources": []
+}

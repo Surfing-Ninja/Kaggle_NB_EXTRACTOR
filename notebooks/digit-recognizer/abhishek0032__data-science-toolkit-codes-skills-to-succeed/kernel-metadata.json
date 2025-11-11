@@ -1,0 +1,20 @@
+{
+  "id": "abhishek0032/data-science-toolkit-codes-skills-to-succeed",
+  "id_no": 67223173,
+  "title": "Data Science Toolkit: Codes & Skills to Succeed\ud83c\udfc6",
+  "code_file": "data-science-toolkit-codes-skills-to-succeed.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "digit-recognizer",
+    "titanic"
+  ],
+  "model_sources": []
+}

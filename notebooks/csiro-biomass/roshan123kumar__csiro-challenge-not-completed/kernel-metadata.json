@@ -1,0 +1,23 @@
+{
+  "id": "roshan123kumar/csiro-challenge-not-completed",
+  "id_no": 97584494,
+  "title": "csiro-challenge(not completed)",
+  "code_file": "csiro-challenge-not-completed.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "csiro-biomass"
+  ],
+  "model_sources": [
+    "keras/efficientnetv2/Keras/efficientnetv2_b0/2"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "antonoof/yolo-simple-predict-cpu",
+  "id_no": 97600757,
+  "title": "Yolo simple predict CPU",
+  "code_file": "yolo-simple-predict-cpu.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [
+    "antonoof/yolo11-seg-config-ultralytics"
+  ],
+  "competition_sources": [
+    "recodai-luc-scientific-image-forgery-detection"
+  ],
+  "model_sources": []
+}

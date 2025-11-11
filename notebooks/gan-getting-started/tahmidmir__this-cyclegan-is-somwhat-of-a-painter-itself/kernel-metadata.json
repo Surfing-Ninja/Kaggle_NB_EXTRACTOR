@@ -1,0 +1,19 @@
+{
+  "id": "tahmidmir/this-cyclegan-is-somwhat-of-a-painter-itself",
+  "id_no": 60755832,
+  "title": "\ud83d\ude80\ud83c\udf89This CycleGAN is Somwhat of a Painter Itself\ud83c\udfa8",
+  "code_file": "this-cyclegan-is-somwhat-of-a-painter-itself.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "gan-getting-started"
+  ],
+  "model_sources": []
+}

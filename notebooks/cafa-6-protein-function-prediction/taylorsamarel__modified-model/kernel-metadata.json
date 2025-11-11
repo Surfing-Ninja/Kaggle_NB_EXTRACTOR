@@ -1,0 +1,25 @@
+{
+  "id": "taylorsamarel/modified-model",
+  "id_no": 95559175,
+  "title": "Modified Model",
+  "code_file": "modified-model.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "siddhvr/blast-quick-sprof-zero-pred",
+    "viktorfairuschin/cafa-5-ems-2-embeddings-numpy",
+    "siddhvr/train-targets-top500"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "cafa-6-protein-function-prediction"
+  ],
+  "model_sources": []
+}

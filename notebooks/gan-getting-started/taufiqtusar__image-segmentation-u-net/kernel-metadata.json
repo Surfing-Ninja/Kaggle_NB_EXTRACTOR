@@ -1,0 +1,24 @@
+{
+  "id": "taufiqtusar/image-segmentation-u-net",
+  "id_no": 28984730,
+  "title": "Image Segmentation U-Net",
+  "code_file": "image-segmentation-u-net.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "data-science-bowl-2018",
+    "digit-recognizer",
+    "global-wheat-detection",
+    "gan-getting-started"
+  ],
+  "model_sources": []
+}

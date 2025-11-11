@@ -1,0 +1,26 @@
+{
+  "id": "aishwarya2210/prediction-of-tweets-using-bert-model",
+  "id_no": 24501858,
+  "title": "Prediction\u270dof Tweets \ud83d\uddef\u27a1\ud83d\udcadusing BERT Model\ud83d\udcac\ud83c\udf1f",
+  "code_file": "prediction-of-tweets-using-bert-model.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "keras",
+    "nlp",
+    "data analytics",
+    "tensorflow",
+    "python",
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nlp-getting-started"
+  ],
+  "model_sources": []
+}

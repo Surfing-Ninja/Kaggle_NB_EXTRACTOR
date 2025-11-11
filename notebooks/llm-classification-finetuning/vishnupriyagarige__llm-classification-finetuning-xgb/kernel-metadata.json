@@ -1,0 +1,19 @@
+{
+  "id": "vishnupriyagarige/llm-classification-finetuning-xgb",
+  "id_no": 69422830,
+  "title": "LLM Classification Finetuning (XGB)",
+  "code_file": "llm-classification-finetuning-xgb.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "llm-classification-finetuning"
+  ],
+  "model_sources": []
+}

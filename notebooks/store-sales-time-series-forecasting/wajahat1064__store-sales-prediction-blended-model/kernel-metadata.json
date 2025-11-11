@@ -1,0 +1,19 @@
+{
+  "id": "wajahat1064/store-sales-prediction-blended-model",
+  "id_no": 63532658,
+  "title": "Store Sales Prediction - Blended Model",
+  "code_file": "store-sales-prediction-blended-model.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "store-sales-time-series-forecasting"
+  ],
+  "model_sources": []
+}

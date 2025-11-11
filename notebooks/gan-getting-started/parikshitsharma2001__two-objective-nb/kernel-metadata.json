@@ -1,0 +1,21 @@
+{
+  "id": "parikshitsharma2001/two-objective-nb",
+  "id_no": 20692422,
+  "title": "Two-objective_NB",
+  "code_file": "two-objective-nb.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": true,
+  "enable_internet": true,
+  "keywords": [
+    "tpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "gan-getting-started"
+  ],
+  "model_sources": []
+}

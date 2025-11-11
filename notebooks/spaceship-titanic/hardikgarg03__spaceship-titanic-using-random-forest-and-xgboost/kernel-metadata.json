@@ -1,0 +1,19 @@
+{
+  "id": "hardikgarg03/spaceship-titanic-using-random-forest-and-xgboost",
+  "id_no": 49727074,
+  "title": "Spaceship Titanic Using Random Forest and Xgboost",
+  "code_file": "spaceship-titanic-using-random-forest-and-xgboost.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "spaceship-titanic"
+  ],
+  "model_sources": []
+}

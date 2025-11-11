@@ -1,0 +1,37 @@
+{
+  "original_path": "notebooks/MABe-mouse-behavior-detection/kerta27__mabe-lgb-xgb-catboost/mabe-lgb-xgb-catboost.ipynb",
+  "quality_score": 71.4,
+  "grade": "B",
+  "techniques": {
+    "feature_engineering": [
+      "interaction",
+      "aggregation",
+      "lag_features",
+      "binning"
+    ],
+    "eda": [
+      "correlation",
+      "missing_analysis"
+    ],
+    "hyperparameter": [
+      "cross_validation"
+    ],
+    "advanced_ml": [
+      "xgboost",
+      "lightgbm",
+      "catboost",
+      "neural_network"
+    ]
+  },
+  "libraries": [
+    "pandas",
+    "numpy",
+    "sklearn",
+    "xgboost",
+    "lightgbm",
+    "catboost",
+    "pytorch"
+  ],
+  "category": "complete_pipeline",
+  "competition": "MABe-mouse-behavior-detection"
+}

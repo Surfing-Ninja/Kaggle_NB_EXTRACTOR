@@ -1,0 +1,23 @@
+{
+  "id": "daviddirethucus/painting-cycle-gan-pytorch",
+  "id_no": 18420668,
+  "title": "painting cycle_GAN (Pytorch)",
+  "code_file": "painting-cycle-gan-pytorch.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu",
+    "pytorch",
+    "gan"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "gan-getting-started"
+  ],
+  "model_sources": []
+}

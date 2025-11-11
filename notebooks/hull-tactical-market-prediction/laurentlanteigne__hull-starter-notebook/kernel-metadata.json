@@ -1,0 +1,19 @@
+{
+  "id": "laurentlanteigne/hull-starter-notebook",
+  "id_no": 91564858,
+  "title": "Hull Starter Notebook",
+  "code_file": "hull-starter-notebook.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "hull-tactical-market-prediction"
+  ],
+  "model_sources": []
+}

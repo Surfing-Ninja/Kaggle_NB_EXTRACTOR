@@ -1,0 +1,24 @@
+{
+  "id": "isaacmenard/train-scientific-image-forgery-detection",
+  "id_no": 96295755,
+  "title": "Train - Scientific Image Forgery Detection",
+  "code_file": "train-scientific-image-forgery-detection.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "",
+    "gangadhar/nuclei-segmentation-in-microscope-cell-images"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "recodai-luc-scientific-image-forgery-detection"
+  ],
+  "model_sources": []
+}

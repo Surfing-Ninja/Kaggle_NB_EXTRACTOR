@@ -1,0 +1,19 @@
+{
+  "id": "adnanshikh/listen-to-secrets-in-your-data",
+  "id_no": 31426886,
+  "title": "Listen To Secrets in Your Data ",
+  "code_file": "listen-to-secrets-in-your-data.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "store-sales-time-series-forecasting"
+  ],
+  "model_sources": []
+}

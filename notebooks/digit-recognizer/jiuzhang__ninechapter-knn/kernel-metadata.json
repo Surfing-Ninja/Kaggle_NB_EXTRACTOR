@@ -1,0 +1,19 @@
+{
+  "id": "jiuzhang/ninechapter-knn",
+  "id_no": 433378,
+  "title": "Ninechapter - KNN",
+  "code_file": "ninechapter-knn.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "digit-recognizer"
+  ],
+  "model_sources": []
+}

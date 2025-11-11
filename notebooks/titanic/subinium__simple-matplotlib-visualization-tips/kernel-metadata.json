@@ -1,0 +1,25 @@
+{
+  "id": "subinium/simple-matplotlib-visualization-tips",
+  "id_no": 7701891,
+  "title": "Simple Matplotlib & Visualization Tips \ud83d\udca1",
+  "code_file": "simple-matplotlib-visualization-tips.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "data visualization",
+    "programming"
+  ],
+  "dataset_sources": [
+    "shivamb/netflix-shows",
+    "spscientist/students-performance-in-exams"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "titanic"
+  ],
+  "model_sources": []
+}

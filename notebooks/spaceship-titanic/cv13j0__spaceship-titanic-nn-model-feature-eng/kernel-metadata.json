@@ -1,0 +1,21 @@
+{
+  "id": "cv13j0/spaceship-titanic-nn-model-feature-eng",
+  "id_no": 27179100,
+  "title": "\ud83c\udf20 Spaceship Titanic NN Model + Feature Eng.",
+  "code_file": "spaceship-titanic-nn-model-feature-eng.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "spaceship-titanic"
+  ],
+  "model_sources": []
+}

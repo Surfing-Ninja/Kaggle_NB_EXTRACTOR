@@ -1,0 +1,19 @@
+{
+  "id": "hammadfarooq470/chatbot-arena-predictor",
+  "id_no": 86056715,
+  "title": "Chatbot_Arena_Predictor",
+  "code_file": "chatbot-arena-predictor.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "llm-classification-finetuning"
+  ],
+  "model_sources": []
+}

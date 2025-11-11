@@ -1,0 +1,23 @@
+{
+  "id": "lucasmoraes001/llm-classification-with-bert-5",
+  "id_no": 83474503,
+  "title": "llm-classification-with-bert(5)",
+  "code_file": "llm-classification-with-bert-5.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "llm-classification-finetuning"
+  ],
+  "model_sources": [
+    ""
+  ]
+}

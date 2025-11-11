@@ -1,0 +1,25 @@
+{
+  "id": "frtgnn/ml-101-beginner-s-stop-xgb-lgbm-blend",
+  "id_no": 2029003,
+  "title": "ML 101 Beginner's Stop XGB & LGBM & Blend",
+  "code_file": "ml-101-beginner-s-stop-xgb-lgbm-blend.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "xgboost",
+    "regression",
+    "data cleaning",
+    "beginner",
+    "pandas"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "house-prices-advanced-regression-techniques"
+  ],
+  "model_sources": []
+}

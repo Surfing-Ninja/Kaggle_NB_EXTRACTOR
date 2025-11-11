@@ -1,0 +1,25 @@
+{
+  "id": "baidalinadilzhan/simple-clip-catboost-lb-0-54-runtime-11m6s",
+  "id_no": 97283102,
+  "title": "Simple: CLIP->Catboost[LB 0.54, runtime 11m6s]",
+  "code_file": "simple-clip-catboost-lb-0-54-runtime-11m6s.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [
+    "packagemanager/pm-97283102-at-11-01-2025-15-26-52"
+  ],
+  "competition_sources": [
+    "csiro-biomass"
+  ],
+  "model_sources": [
+    ""
+  ]
+}

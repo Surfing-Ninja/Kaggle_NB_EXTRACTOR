@@ -1,0 +1,23 @@
+{
+  "id": "pardeep19singh/fine-tune-gemma-2b-84-4-on-disaster-tweets",
+  "id_no": 51254384,
+  "title": "Fine-tune Gemma-2B - 84.4% on Disaster Tweets",
+  "code_file": "fine-tune-gemma-2b-84-4-on-disaster-tweets.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nlp-getting-started"
+  ],
+  "model_sources": [
+    "google/gemma/Transformers/2b/2"
+  ]
+}

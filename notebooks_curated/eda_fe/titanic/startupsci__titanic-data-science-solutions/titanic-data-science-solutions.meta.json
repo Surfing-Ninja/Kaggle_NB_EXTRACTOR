@@ -1,0 +1,29 @@
+{
+  "original_path": "notebooks/titanic/startupsci__titanic-data-science-solutions/titanic-data-science-solutions.ipynb",
+  "quality_score": 47.7,
+  "grade": "C",
+  "techniques": {
+    "feature_engineering": [
+      "aggregation",
+      "binning"
+    ],
+    "eda": [
+      "correlation",
+      "missing_analysis",
+      "statistics",
+      "visualization"
+    ],
+    "advanced_ml": [
+      "ensemble"
+    ]
+  },
+  "libraries": [
+    "pandas",
+    "numpy",
+    "sklearn",
+    "matplotlib",
+    "seaborn"
+  ],
+  "category": "eda_fe",
+  "competition": "titanic"
+}

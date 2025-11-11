@@ -1,0 +1,19 @@
+{
+  "id": "taylorsamarel/moderngl-3d-example",
+  "id_no": 93362548,
+  "title": "ModernGL 3D Example",
+  "code_file": "moderngl-3d-example.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nfl-big-data-bowl-2026-analytics"
+  ],
+  "model_sources": []
+}

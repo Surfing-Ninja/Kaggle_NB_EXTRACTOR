@@ -1,0 +1,25 @@
+{
+  "id": "alaasedeeq/object-oriented-programming-for-data-science",
+  "id_no": 18878327,
+  "title": "Object oriented programming for Data Science",
+  "code_file": "object-oriented-programming-for-data-science.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "plotly",
+    "data cleaning",
+    "data visualization",
+    "data analytics",
+    "advanced"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "house-prices-advanced-regression-techniques"
+  ],
+  "model_sources": []
+}

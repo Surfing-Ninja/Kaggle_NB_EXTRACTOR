@@ -1,0 +1,23 @@
+{
+  "id": "zinebkhanjari/disaster-tweets-multiple-vectorizers-and-models",
+  "id_no": 14068986,
+  "title": "Disaster Tweets : multiple vectorizers and models",
+  "code_file": "disaster-tweets-multiple-vectorizers-and-models.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "szelee/disasters-on-social-media"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nlp-getting-started"
+  ],
+  "model_sources": []
+}

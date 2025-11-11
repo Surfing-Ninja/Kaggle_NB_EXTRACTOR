@@ -1,0 +1,21 @@
+{
+  "id": "mhamza0810/maybe-remix-extra-features",
+  "id_no": 94136259,
+  "title": "MAYBE REMIX: Extra Features",
+  "code_file": "maybe-remix-extra-features.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "classification"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "MABe-mouse-behavior-detection"
+  ],
+  "model_sources": []
+}

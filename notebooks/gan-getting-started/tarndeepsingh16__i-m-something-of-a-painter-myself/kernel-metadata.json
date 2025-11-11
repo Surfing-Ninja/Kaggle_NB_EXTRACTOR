@@ -1,0 +1,23 @@
+{
+  "id": "tarndeepsingh16/i-m-something-of-a-painter-myself",
+  "id_no": 50779720,
+  "title": "I\u2019m Something of a Painter Myself",
+  "code_file": "i-m-something-of-a-painter-myself.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu",
+    "intermediate",
+    "image"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "gan-getting-started"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,25 @@
+{
+  "original_path": "notebooks/tpu-getting-started/ipythonx__tf-hybrid-efficientnet-swin-transformer-gradcam/tf-hybrid-efficientnet-swin-transformer-gradcam.ipynb",
+  "quality_score": 59.75,
+  "grade": "C",
+  "techniques": {
+    "feature_engineering": [
+      "embedding"
+    ],
+    "eda": [
+      "visualization"
+    ],
+    "advanced_ml": [
+      "neural_network"
+    ]
+  },
+  "libraries": [
+    "pandas",
+    "numpy",
+    "matplotlib",
+    "tensorflow",
+    "keras"
+  ],
+  "category": "eda_fe",
+  "competition": "tpu-getting-started"
+}

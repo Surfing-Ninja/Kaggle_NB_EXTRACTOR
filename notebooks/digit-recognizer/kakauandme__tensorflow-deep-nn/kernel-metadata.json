@@ -1,0 +1,21 @@
+{
+  "id": "kakauandme/tensorflow-deep-nn",
+  "id_no": 29004,
+  "title": "TensorFlow deep NN",
+  "code_file": "tensorflow-deep-nn.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "neural networks"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "digit-recognizer"
+  ],
+  "model_sources": []
+}

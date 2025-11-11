@@ -1,0 +1,24 @@
+{
+  "id": "junaid512/grade-mask-r-cnn-pipeline",
+  "id_no": 97816426,
+  "title": "Grade Mask R-CNN Pipeline",
+  "code_file": "grade-mask-r-cnn-pipeline.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "tsingxue/resnet50-0676ba61-pth",
+    "ahmedamer23/resnet50-11ad3fa6-pth"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "recodai-luc-scientific-image-forgery-detection"
+  ],
+  "model_sources": []
+}

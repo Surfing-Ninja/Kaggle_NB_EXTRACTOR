@@ -1,0 +1,26 @@
+{
+  "id": "carlosmatherson/monet-cyclegan",
+  "id_no": 81189132,
+  "title": "Monet CycleGAN \ud83d\udc85\ud83c\udffb\ud83c\udfa8",
+  "code_file": "monet-cyclegan.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gan",
+    "image generator",
+    "art",
+    "tensorflow",
+    "keras",
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "gan-getting-started"
+  ],
+  "model_sources": []
+}

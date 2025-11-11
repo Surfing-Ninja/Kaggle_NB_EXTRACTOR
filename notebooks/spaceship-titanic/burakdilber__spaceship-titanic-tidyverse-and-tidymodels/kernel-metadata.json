@@ -1,0 +1,19 @@
+{
+  "id": "burakdilber/spaceship-titanic-tidyverse-and-tidymodels",
+  "id_no": 29278643,
+  "title": "Spaceship Titanic - tidyverse and tidymodels",
+  "code_file": "spaceship-titanic-tidyverse-and-tidymodels.irnb",
+  "language": "r",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "spaceship-titanic"
+  ],
+  "model_sources": []
+}

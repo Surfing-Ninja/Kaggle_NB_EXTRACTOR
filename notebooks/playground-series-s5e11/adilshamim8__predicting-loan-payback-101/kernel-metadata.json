@@ -1,0 +1,24 @@
+{
+  "id": "adilshamim8/predicting-loan-payback-101",
+  "id_no": 97494216,
+  "title": "Predicting Loan Payback 101",
+  "code_file": "predicting-loan-payback-101.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "beginner",
+    "tabular",
+    "gpu",
+    "intermediate"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "playground-series-s5e11"
+  ],
+  "model_sources": []
+}

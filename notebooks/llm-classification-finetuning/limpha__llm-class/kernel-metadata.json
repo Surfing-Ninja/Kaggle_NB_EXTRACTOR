@@ -1,0 +1,24 @@
+{
+  "id": "limpha/llm-class",
+  "id_no": 94887152,
+  "title": "LLM_Class",
+  "code_file": "llm-class.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "llm-classification-finetuning"
+  ],
+  "model_sources": [
+    "keras/deberta_v3/Keras/deberta_v3_extra_small_en/2",
+    "keras/deberta_v3/Keras/deberta_v3_extra_small_en/3"
+  ]
+}

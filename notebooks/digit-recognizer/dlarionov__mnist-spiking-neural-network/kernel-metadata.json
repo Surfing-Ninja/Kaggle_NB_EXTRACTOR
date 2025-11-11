@@ -1,0 +1,24 @@
+{
+  "id": "dlarionov/mnist-spiking-neural-network",
+  "id_no": 19240222,
+  "title": "MNIST spiking neural network ",
+  "code_file": "mnist-spiking-neural-network.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "biology",
+    "neuroscience",
+    "keras",
+    "matplotlib"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "digit-recognizer"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,30 @@
+{
+  "original_path": "notebooks/csiro-biomass/hocop1__siglip-gradientboosting-pca-trick/siglip-gradientboosting-pca-trick.ipynb",
+  "quality_score": 59.8219,
+  "grade": "C",
+  "techniques": {
+    "feature_engineering": [
+      "aggregation",
+      "scaling"
+    ],
+    "dimensionality": [
+      "pca"
+    ],
+    "hyperparameter": [
+      "cross_validation"
+    ],
+    "advanced_ml": [
+      "catboost",
+      "neural_network",
+      "ensemble"
+    ]
+  },
+  "libraries": [
+    "numpy",
+    "sklearn",
+    "catboost",
+    "pytorch"
+  ],
+  "category": "hyperparam_fe",
+  "competition": "csiro-biomass"
+}

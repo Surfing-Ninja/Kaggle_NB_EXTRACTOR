@@ -1,0 +1,25 @@
+{
+  "id": "dansbecker/dropout-and-strides-for-larger-models",
+  "id_no": 620607,
+  "title": "Dropout and Strides for Larger Models",
+  "code_file": "dropout-and-strides-for-larger-models.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "learn",
+    "pandas",
+    "tensorflow"
+  ],
+  "dataset_sources": [
+    "zalando-research/fashionmnist"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "digit-recognizer"
+  ],
+  "model_sources": []
+}

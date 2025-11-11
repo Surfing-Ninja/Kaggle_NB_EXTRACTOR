@@ -1,0 +1,19 @@
+{
+  "id": "gusthema/house-prices-prediction-using-tfdf",
+  "id_no": 36143023,
+  "title": "House Prices Prediction using TFDF",
+  "code_file": "house-prices-prediction-using-tfdf.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "house-prices-advanced-regression-techniques"
+  ],
+  "model_sources": []
+}

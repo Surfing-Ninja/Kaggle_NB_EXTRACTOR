@@ -1,0 +1,30 @@
+{
+  "id": "kartushovdanil/econometrics-is-all-you-need",
+  "id_no": 24287682,
+  "title": "\ud83c\udf93Econometrics is all you need\ud83c\udf93",
+  "code_file": "econometrics-is-all-you-need.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "economics",
+    "linear regression",
+    "time series analysis",
+    "regression",
+    "outlier analysis"
+  ],
+  "dataset_sources": [
+    ""
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "house-prices-advanced-regression-techniques",
+    "competitive-data-science-predict-future-sales",
+    "store-sales-time-series-forecasting",
+    "titanic"
+  ],
+  "model_sources": []
+}

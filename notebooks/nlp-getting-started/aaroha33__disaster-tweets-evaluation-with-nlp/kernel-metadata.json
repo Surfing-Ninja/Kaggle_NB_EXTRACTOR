@@ -1,0 +1,26 @@
+{
+  "id": "aaroha33/disaster-tweets-evaluation-with-nlp",
+  "id_no": 8013300,
+  "title": "Disaster Tweets Evaluation with NLP ",
+  "code_file": "disaster-tweets-evaluation-with-nlp.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "beginner",
+    "data visualization",
+    "feature engineering",
+    "exploratory data analysis"
+  ],
+  "dataset_sources": [
+    "jannesklaas/disasters-on-social-media"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nlp-getting-started"
+  ],
+  "model_sources": []
+}

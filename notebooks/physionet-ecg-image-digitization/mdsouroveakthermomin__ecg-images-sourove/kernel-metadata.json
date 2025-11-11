@@ -1,0 +1,21 @@
+{
+  "id": "mdsouroveakthermomin/ecg-images-sourove",
+  "id_no": 97126445,
+  "title": "ECG_IMAGES_Sourove",
+  "code_file": "ecg-images-sourove.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "physionet-ecg-image-digitization"
+  ],
+  "model_sources": []
+}

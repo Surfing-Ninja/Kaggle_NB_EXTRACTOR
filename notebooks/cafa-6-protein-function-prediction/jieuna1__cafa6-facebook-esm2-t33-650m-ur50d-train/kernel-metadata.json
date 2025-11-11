@@ -1,0 +1,21 @@
+{
+  "id": "jieuna1/cafa6-facebook-esm2-t33-650m-ur50d-train",
+  "id_no": 95304212,
+  "title": "CAFA6 facebook/esm2_t33_650M_UR50D Train",
+  "code_file": "cafa6-facebook-esm2-t33-650m-ur50d-train.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "transformer"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "cafa-6-protein-function-prediction"
+  ],
+  "model_sources": []
+}

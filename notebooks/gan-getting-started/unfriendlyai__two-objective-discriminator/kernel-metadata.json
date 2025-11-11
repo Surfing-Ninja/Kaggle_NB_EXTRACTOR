@@ -1,0 +1,24 @@
+{
+  "id": "unfriendlyai/two-objective-discriminator",
+  "id_no": 16786488,
+  "title": "Two-objective discriminator",
+  "code_file": "two-objective-discriminator.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": true,
+  "enable_internet": true,
+  "keywords": [
+    "tpu",
+    "gan",
+    "matplotlib",
+    "tensorflow"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "gan-getting-started"
+  ],
+  "model_sources": []
+}

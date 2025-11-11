@@ -1,0 +1,25 @@
+{
+  "id": "eraaz1/a-comprehensive-guide-to-titanic-machine-learning",
+  "id_no": 1523691,
+  "title": "A Comprehensive Guide to Titanic Machine Learning ",
+  "code_file": "a-comprehensive-guide-to-titanic-machine-learning.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "beginner",
+    "data visualization",
+    "exploratory data analysis",
+    "feature engineering",
+    "ensembling"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "titanic"
+  ],
+  "model_sources": []
+}

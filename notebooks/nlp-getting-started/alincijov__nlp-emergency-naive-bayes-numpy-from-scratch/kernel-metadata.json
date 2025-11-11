@@ -1,0 +1,24 @@
+{
+  "id": "alincijov/nlp-emergency-naive-bayes-numpy-from-scratch",
+  "id_no": 9270394,
+  "title": "NLP Emergency \ud83d\udea8 Naive Bayes Numpy from Scratch",
+  "code_file": "nlp-emergency-naive-bayes-numpy-from-scratch.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "naive bayes",
+    "nlp",
+    "numpy",
+    "pandas"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nlp-getting-started"
+  ],
+  "model_sources": []
+}

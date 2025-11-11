@@ -1,0 +1,21 @@
+{
+  "id": "yusufsertkayaysk/nfl-big-data-bowl-2026-lb-0-604-pipeline",
+  "id_no": 96542079,
+  "title": "NFL Big Data Bowl 2026 - LB 0.604 Pipeline",
+  "code_file": "nfl-big-data-bowl-2026-lb-0-604-pipeline.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [
+    "yusufsertkayaysk/nfl-big-data-bowl-2026-lb-0-604"
+  ],
+  "competition_sources": [
+    "nfl-big-data-bowl-2026-prediction"
+  ],
+  "model_sources": []
+}

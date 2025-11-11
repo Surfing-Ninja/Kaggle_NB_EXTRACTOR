@@ -1,0 +1,23 @@
+{
+  "id": "dansbecker/exploring-your-data",
+  "id_no": 1390277,
+  "title": "Exploring Your Data",
+  "code_file": "exploring-your-data.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "education"
+  ],
+  "dataset_sources": [
+    "dansbecker/melbourne-housing-snapshot"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "home-data-for-ml-course"
+  ],
+  "model_sources": []
+}

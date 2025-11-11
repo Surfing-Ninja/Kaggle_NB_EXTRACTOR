@@ -1,0 +1,25 @@
+{
+  "id": "jekiwantaufik/csiro-image2biomass-prediction-1",
+  "id_no": 97787759,
+  "title": "CSIRO - Image2Biomass Prediction 1",
+  "code_file": "csiro-image2biomass-prediction-1.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "biology",
+    "agriculture",
+    "gpu"
+  ],
+  "dataset_sources": [
+    "taikimori/convnext-tiny"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "csiro-biomass"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "taylorsamarel/tuning-1d-conv-net",
+  "id_no": 94295650,
+  "title": "Tuning 1D Conv Net",
+  "code_file": "tuning-1d-conv-net.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "MABe-mouse-behavior-detection"
+  ],
+  "model_sources": []
+}

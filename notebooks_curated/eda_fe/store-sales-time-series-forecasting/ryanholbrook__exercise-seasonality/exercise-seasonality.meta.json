@@ -1,0 +1,23 @@
+{
+  "original_path": "notebooks/store-sales-time-series-forecasting/ryanholbrook__exercise-seasonality/exercise-seasonality.ipynb",
+  "quality_score": 40.0144,
+  "grade": "C",
+  "techniques": {
+    "feature_engineering": [
+      "aggregation"
+    ],
+    "eda": [
+      "missing_analysis",
+      "visualization"
+    ]
+  },
+  "libraries": [
+    "pandas",
+    "numpy",
+    "sklearn",
+    "matplotlib",
+    "seaborn"
+  ],
+  "category": "eda_fe",
+  "competition": "store-sales-time-series-forecasting"
+}

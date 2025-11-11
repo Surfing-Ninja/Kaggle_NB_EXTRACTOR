@@ -1,0 +1,30 @@
+{
+  "id": "faressayah/fashion-mnist-classification-using-cnns",
+  "id_no": 6811764,
+  "title": "Fashion MNIST Classification using CNNs",
+  "code_file": "fashion-mnist-classification-using-cnns.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "computer vision",
+    "cnn",
+    "keras",
+    "image",
+    "tensorflow",
+    "gpu"
+  ],
+  "dataset_sources": [
+    "zalando-research/fashionmnist",
+    "oddrationale/mnist-in-csv"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "digit-recognizer",
+    "Kannada-MNIST"
+  ],
+  "model_sources": []
+}

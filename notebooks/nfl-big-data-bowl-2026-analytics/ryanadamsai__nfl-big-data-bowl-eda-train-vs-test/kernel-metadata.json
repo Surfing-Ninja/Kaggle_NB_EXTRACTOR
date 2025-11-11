@@ -1,0 +1,20 @@
+{
+  "id": "ryanadamsai/nfl-big-data-bowl-eda-train-vs-test",
+  "id_no": 96124308,
+  "title": "\ud83c\udfc8NFL Big Data Bowl - EDA: Train vs Test",
+  "code_file": "nfl-big-data-bowl-eda-train-vs-test.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nfl-big-data-bowl-2026-analytics",
+    "nfl-big-data-bowl-2026-prediction"
+  ],
+  "model_sources": []
+}

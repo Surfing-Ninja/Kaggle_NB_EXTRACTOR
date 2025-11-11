@@ -1,0 +1,21 @@
+{
+  "id": "jekiwantaufik/predicting-loan-payback-5",
+  "id_no": 98670160,
+  "title": "Predicting Loan Payback 5",
+  "code_file": "predicting-loan-payback-5.irnb",
+  "language": "r",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "anthonytherrien/predicting-loan-payback-vault"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "playground-series-s5e11"
+  ],
+  "model_sources": []
+}

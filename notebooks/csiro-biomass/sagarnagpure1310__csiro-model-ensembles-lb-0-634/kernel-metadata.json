@@ -1,0 +1,27 @@
+{
+  "id": "sagarnagpure1310/csiro-model-ensembles-lb-0-634",
+  "id_no": 98299302,
+  "title": "CSIRO | Model Ensembles | LB [0.634]",
+  "code_file": "csiro-model-ensembles-lb-0-634.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "takahitomizunobyts/csiro-exp3"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "csiro-biomass"
+  ],
+  "model_sources": [
+    "metaresearch/dinov2/PyTorch/giant/1",
+    "metaresearch/dinov2/PyTorch/base/1",
+    "aishikai/google-siglip-so400m-patch14-384/Transformers/default/1"
+  ]
+}

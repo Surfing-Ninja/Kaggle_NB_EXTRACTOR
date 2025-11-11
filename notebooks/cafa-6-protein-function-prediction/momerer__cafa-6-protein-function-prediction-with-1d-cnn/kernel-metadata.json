@@ -1,0 +1,25 @@
+{
+  "id": "momerer/cafa-6-protein-function-prediction-with-1d-cnn",
+  "id_no": 95289996,
+  "title": "CAFA 6: Protein Function Prediction with 1D-CNN",
+  "code_file": "cafa-6-protein-function-prediction-with-1d-cnn.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "siddhvr/blast-quick-sprof-zero-pred",
+    "viktorfairuschin/cafa-5-ems-2-embeddings-numpy",
+    "siddhvr/train-targets-top500"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "cafa-6-protein-function-prediction"
+  ],
+  "model_sources": []
+}

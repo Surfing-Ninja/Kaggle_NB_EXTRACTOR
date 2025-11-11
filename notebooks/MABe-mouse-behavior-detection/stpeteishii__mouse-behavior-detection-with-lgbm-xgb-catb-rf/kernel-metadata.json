@@ -1,0 +1,21 @@
+{
+  "id": "stpeteishii/mouse-behavior-detection-with-lgbm-xgb-catb-rf",
+  "id_no": 93425402,
+  "title": "Mouse Behavior Detection with LGBM+XGB+CATB+RF",
+  "code_file": "mouse-behavior-detection-with-lgbm-xgb-catb-rf.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "MABe-mouse-behavior-detection"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "fatmakursun/house-price-some-of-regression-models",
+  "id_no": 3140481,
+  "title": "House Price(Some of Regression Models)",
+  "code_file": "house-price-some-of-regression-models.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "linear regression",
+    "data visualization",
+    "decision tree",
+    "random forest"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "house-prices-advanced-regression-techniques"
+  ],
+  "model_sources": []
+}

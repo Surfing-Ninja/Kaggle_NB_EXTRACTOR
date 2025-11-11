@@ -1,0 +1,28 @@
+{
+  "id": "gazu468/all-about-bert-you-need-to-know",
+  "id_no": 32665951,
+  "title": "All about Bert you need to know",
+  "code_file": "all-about-bert-you-need-to-know.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "word2vec-nlp-tutorial",
+    "contradictory-my-dear-watson",
+    "feedback-prize-2021",
+    "jigsaw-toxic-severity-rating",
+    "jigsaw-unintended-bias-in-toxicity-classification",
+    "nlp-getting-started",
+    "nbme-score-clinical-patient-notes",
+    "us-patent-phrase-to-phrase-matching"
+  ],
+  "model_sources": []
+}

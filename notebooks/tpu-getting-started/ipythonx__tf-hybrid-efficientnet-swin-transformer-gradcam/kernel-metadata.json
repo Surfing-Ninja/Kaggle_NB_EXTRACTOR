@@ -1,0 +1,30 @@
+{
+  "id": "ipythonx/tf-hybrid-efficientnet-swin-transformer-gradcam",
+  "id_no": 21320383,
+  "title": "TF: Hybrid EfficientNet Swin-Transformer : GradCAM",
+  "code_file": "tf-hybrid-efficientnet-swin-transformer-gradcam.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "keras",
+    "tensorflow",
+    "transformers",
+    "computer vision"
+  ],
+  "dataset_sources": [
+    "ipythonx/efnetv2src",
+    "alxmamaev/flowers-recognition",
+    "ipythonx/efficientnet-keras-noisystudent-weights-b0b7",
+    "ipythonx/tfkeras-efficientnetsv2"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "tpu-getting-started",
+    "petfinder-pawpularity-score"
+  ],
+  "model_sources": []
+}

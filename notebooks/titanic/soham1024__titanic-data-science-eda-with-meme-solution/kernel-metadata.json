@@ -1,0 +1,25 @@
+{
+  "id": "soham1024/titanic-data-science-eda-with-meme-solution",
+  "id_no": 9725565,
+  "title": "Titanic Data Science EDA with meme+Solution",
+  "code_file": "titanic-data-science-eda-with-meme-solution.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "beginner",
+    "data visualization",
+    "exploratory data analysis"
+  ],
+  "dataset_sources": [
+    "soham1024/titanic-leaked"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "titanic"
+  ],
+  "model_sources": []
+}

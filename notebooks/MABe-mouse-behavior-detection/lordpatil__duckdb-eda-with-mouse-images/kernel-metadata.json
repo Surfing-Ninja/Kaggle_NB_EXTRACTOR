@@ -1,0 +1,19 @@
+{
+  "id": "lordpatil/duckdb-eda-with-mouse-images",
+  "id_no": 95634913,
+  "title": "duckdb eda with mouse images",
+  "code_file": "duckdb-eda-with-mouse-images.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "MABe-mouse-behavior-detection"
+  ],
+  "model_sources": []
+}

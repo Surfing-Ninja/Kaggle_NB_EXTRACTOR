@@ -1,0 +1,24 @@
+{
+  "id": "guntasdhanjal/ultimate-cafa6-eda-go-beyond-the-data",
+  "id_no": 96227851,
+  "title": "\ud83d\udd2c Ultimate CAFA6 EDA | GO Beyond the Data",
+  "code_file": "ultimate-cafa6-eda-go-beyond-the-data.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "exploratory data analysis",
+    "beginner",
+    "data visualization",
+    "python"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "cafa-6-protein-function-prediction"
+  ],
+  "model_sources": []
+}

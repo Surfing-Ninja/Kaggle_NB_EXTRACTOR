@@ -1,0 +1,25 @@
+{
+  "id": "abbymabe/cyclegan-getting-started",
+  "id_no": 14989629,
+  "title": "CycleGAN Getting Started",
+  "code_file": "cyclegan-getting-started.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": true,
+  "enable_internet": true,
+  "keywords": [
+    "matplotlib",
+    "numpy",
+    "PIL",
+    "tensorflow",
+    "biology"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "gan-getting-started"
+  ],
+  "model_sources": []
+}

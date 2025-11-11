@@ -1,0 +1,21 @@
+{
+  "id": "usamabalochhh/data-is-imbalanced-use-smote",
+  "id_no": 29374786,
+  "title": "Data is Imbalanced ? Use SMOTE \u2728",
+  "code_file": "data-is-imbalanced-use-smote.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "competitive-data-science-predict-future-sales",
+    "spaceship-titanic",
+    "tabular-playground-series-aug-2022"
+  ],
+  "model_sources": []
+}

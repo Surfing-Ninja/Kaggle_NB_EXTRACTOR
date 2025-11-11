@@ -1,0 +1,32 @@
+{
+  "original_path": "notebooks/llm-classification-finetuning/vishnupriyagarige__llm-classification-finetuning-xgb/llm-classification-finetuning-xgb.ipynb",
+  "quality_score": 58.489,
+  "grade": "C",
+  "techniques": {
+    "feature_engineering": [
+      "text_features"
+    ],
+    "eda": [
+      "histogram",
+      "missing_analysis",
+      "statistics",
+      "visualization"
+    ],
+    "hyperparameter": [
+      "cross_validation"
+    ],
+    "advanced_ml": [
+      "xgboost"
+    ]
+  },
+  "libraries": [
+    "pandas",
+    "numpy",
+    "sklearn",
+    "xgboost",
+    "matplotlib",
+    "seaborn"
+  ],
+  "category": "complete_pipeline",
+  "competition": "llm-classification-finetuning"
+}

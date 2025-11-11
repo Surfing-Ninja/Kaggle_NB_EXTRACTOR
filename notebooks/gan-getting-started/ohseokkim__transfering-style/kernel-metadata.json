@@ -1,0 +1,30 @@
+{
+  "id": "ohseokkim/transfering-style",
+  "id_no": 21098229,
+  "title": "Transfering Style!",
+  "code_file": "transfering-style.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "neural networks",
+    "pytorch",
+    "beginner",
+    "intermediate",
+    "art",
+    "gpu"
+  ],
+  "dataset_sources": [
+    "vbookshelf/art-by-ai-neural-style-transfer",
+    "soumikrakshit/images-for-style-transfer",
+    "tamajitbhattacharjee/neural-style-transfer"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "gan-getting-started"
+  ],
+  "model_sources": []
+}

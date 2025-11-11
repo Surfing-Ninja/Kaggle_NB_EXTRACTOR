@@ -1,0 +1,21 @@
+{
+  "id": "nocarbonintelligence/protein-function-train-go-submit",
+  "id_no": 95993952,
+  "title": "Protein function - train&GO&submit",
+  "code_file": "protein-function-train-go-submit.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    ""
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "cafa-6-protein-function-prediction"
+  ],
+  "model_sources": []
+}

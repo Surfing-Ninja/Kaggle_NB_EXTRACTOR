@@ -1,0 +1,21 @@
+{
+  "id": "kuoskyler/cyclegan-implementation",
+  "id_no": 45279421,
+  "title": "CycleGan Implementation \ud83d\ude80",
+  "code_file": "cyclegan-implementation.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "gan-getting-started"
+  ],
+  "model_sources": []
+}

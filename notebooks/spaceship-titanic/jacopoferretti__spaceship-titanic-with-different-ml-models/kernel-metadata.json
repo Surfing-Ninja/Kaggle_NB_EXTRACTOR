@@ -1,0 +1,25 @@
+{
+  "id": "jacopoferretti/spaceship-titanic-with-different-ml-models",
+  "id_no": 67926376,
+  "title": "Spaceship Titanic with Different ML Models",
+  "code_file": "spaceship-titanic-with-different-ml-models.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "data cleaning",
+    "sklearn",
+    "binary classification",
+    "feature engineering",
+    "astronomy"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "spaceship-titanic"
+  ],
+  "model_sources": []
+}

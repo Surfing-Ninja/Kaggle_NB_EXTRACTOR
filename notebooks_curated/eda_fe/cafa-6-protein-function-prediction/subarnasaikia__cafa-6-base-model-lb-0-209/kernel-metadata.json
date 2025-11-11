@@ -1,0 +1,25 @@
+{
+  "id": "subarnasaikia/cafa-6-base-model-lb-0-209",
+  "id_no": 95298507,
+  "title": "CAFA 6 | base model (LB: 0.209) ",
+  "code_file": "cafa-6-base-model-lb-0-209.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [
+    "packagemanager/pm-95298507-at-10-17-2025-11-37-42"
+  ],
+  "competition_sources": [
+    "cafa-6-protein-function-prediction"
+  ],
+  "model_sources": [
+    "keras/esm-2/Keras/esm2_t6_8m/1"
+  ]
+}

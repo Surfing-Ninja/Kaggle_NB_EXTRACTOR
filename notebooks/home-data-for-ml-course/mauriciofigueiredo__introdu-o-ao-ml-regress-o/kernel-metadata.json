@@ -1,0 +1,19 @@
+{
+  "id": "mauriciofigueiredo/introdu-o-ao-ml-regress-o",
+  "id_no": 28189828,
+  "title": "Introdu\u00e7\u00e3o ao ML: regress\u00e3o",
+  "code_file": "introdu-o-ao-ml-regress-o.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "home-data-for-ml-course"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "taikimori/lb-0-59-csiro-traning-inferece-baseline",
+  "id_no": 97649853,
+  "title": "[LB:0.59] CSIRO | Traning & Inferece Baseline",
+  "code_file": "lb-0-59-csiro-traning-inferece-baseline.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "taikimori/convnext-tiny"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "csiro-biomass"
+  ],
+  "model_sources": []
+}

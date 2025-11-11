@@ -1,0 +1,24 @@
+{
+  "id": "marwanashref/nfl2026-prediction-lb-0-584",
+  "id_no": 96595424,
+  "title": "NFL2026 Prediction LB[0.584]",
+  "code_file": "nfl2026-prediction-lb-0-584.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "",
+    "chengzhijiang/hsiaosuan-sttn"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nfl-big-data-bowl-2026-prediction"
+  ],
+  "model_sources": []
+}

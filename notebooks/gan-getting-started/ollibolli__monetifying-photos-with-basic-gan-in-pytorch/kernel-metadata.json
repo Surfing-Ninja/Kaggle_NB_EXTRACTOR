@@ -1,0 +1,21 @@
+{
+  "id": "ollibolli/monetifying-photos-with-basic-gan-in-pytorch",
+  "id_no": 21073644,
+  "title": "Monetifying Photos with basic GAN in pytorch",
+  "code_file": "monetifying-photos-with-basic-gan-in-pytorch.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "gan-getting-started"
+  ],
+  "model_sources": []
+}

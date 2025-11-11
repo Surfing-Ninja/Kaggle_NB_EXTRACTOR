@@ -1,0 +1,32 @@
+{
+  "id": "sayedathar11/csiro-convnext-coatnet-dino-ensemble",
+  "id_no": 97822530,
+  "title": "CSIRO_convnext_coatnet_dino_ensemble",
+  "code_file": "csiro-convnext-coatnet-dino-ensemble.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "",
+    "mks2192/csiro-trained-model"
+  ],
+  "kernel_sources": [
+    "none00000/csiro",
+    "sayedathar11/csiro-train-convnext-tiny-v2",
+    "sayedathar11/csiro-coatnet-with-oof-train",
+    "sayedathar11/csiro-train-convnext-tiny-512-imsize"
+  ],
+  "competition_sources": [
+    "csiro-biomass"
+  ],
+  "model_sources": [
+    "metaresearch/dinov2/PyTorch/base/1",
+    "metaresearch/dinov2/PyTorch/giant/1"
+  ]
+}

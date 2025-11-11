@@ -1,0 +1,25 @@
+{
+  "id": "kalelpark/all-about-spaceship-titanic-solutions",
+  "id_no": 24910409,
+  "title": "\ud83c\udf0cALL About SpaceShip Titanic Solutions \ud83d\ude80\ud83c\udf0e",
+  "code_file": "all-about-spaceship-titanic-solutions.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "python",
+    "exploratory data analysis",
+    "beginner",
+    "data visualization",
+    "binary classification"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "spaceship-titanic"
+  ],
+  "model_sources": []
+}

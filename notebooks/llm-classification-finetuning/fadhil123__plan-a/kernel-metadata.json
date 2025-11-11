@@ -1,0 +1,19 @@
+{
+  "id": "fadhil123/plan-a",
+  "id_no": 84845956,
+  "title": "Plan A",
+  "code_file": "plan-a.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "llm-classification-finetuning"
+  ],
+  "model_sources": []
+}

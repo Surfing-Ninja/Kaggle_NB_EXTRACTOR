@@ -1,0 +1,28 @@
+{
+  "id": "pushkar007/image-recolorization-with-cgans-tutorial",
+  "id_no": 33718132,
+  "title": "Image recolorization with cGANs - [Tutorial]",
+  "code_file": "image-recolorization-with-cgans-tutorial.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gan",
+    "image augmentation",
+    "image",
+    "pytorch",
+    "beginner"
+  ],
+  "dataset_sources": [
+    "",
+    "awsaf49/coco-2017-dataset"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "gan-getting-started"
+  ],
+  "model_sources": []
+}

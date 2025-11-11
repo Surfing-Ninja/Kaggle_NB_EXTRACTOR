@@ -1,0 +1,24 @@
+{
+  "id": "luisblanche/pytorch-forecasting-temporalfusiontransformer",
+  "id_no": 21754934,
+  "title": "Pytorch Forecasting =>  TemporalFusionTransformer ",
+  "code_file": "pytorch-forecasting-temporalfusiontransformer.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu",
+    "tabular",
+    "pytorch",
+    "transformers"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "store-sales-time-series-forecasting"
+  ],
+  "model_sources": []
+}

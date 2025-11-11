@@ -1,0 +1,19 @@
+{
+  "id": "shubhangkarsaha/digitization-of-ecg-ss",
+  "id_no": 96427364,
+  "title": "digitization_of_ecg_SS",
+  "code_file": "digitization-of-ecg-ss.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "physionet-ecg-image-digitization"
+  ],
+  "model_sources": []
+}

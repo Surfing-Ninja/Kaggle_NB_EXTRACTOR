@@ -1,0 +1,25 @@
+{
+  "id": "kashishrastogi/store-sales-analysis-time-serie",
+  "id_no": 21070543,
+  "title": "\ud83d\udcddStore Sales Analysis\u23f3 Time Serie",
+  "code_file": "store-sales-analysis-time-serie.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "plotly",
+    "exploratory data analysis",
+    "numpy",
+    "pandas",
+    "business"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "store-sales-time-series-forecasting"
+  ],
+  "model_sources": []
+}

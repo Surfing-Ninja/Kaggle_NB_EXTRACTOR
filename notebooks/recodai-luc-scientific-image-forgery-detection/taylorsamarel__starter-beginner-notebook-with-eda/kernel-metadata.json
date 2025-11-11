@@ -1,0 +1,21 @@
+{
+  "id": "taylorsamarel/starter-beginner-notebook-with-eda",
+  "id_no": 96411284,
+  "title": "Starter / Beginner Notebook With EDA",
+  "code_file": "starter-beginner-notebook-with-eda.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "recodai-luc-scientific-image-forgery-detection"
+  ],
+  "model_sources": []
+}

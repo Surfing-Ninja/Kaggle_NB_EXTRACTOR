@@ -1,0 +1,23 @@
+{
+  "id": "tianyipeng/gats-llm-finetuning-classification",
+  "id_no": 91144386,
+  "title": "GATS-LLM-Finetuning-Classification",
+  "code_file": "gats-llm-finetuning-classification.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "llm-classification-finetuning"
+  ],
+  "model_sources": [
+    "ajayvm/bert-base-uncased/PyTorch/default/1"
+  ]
+}

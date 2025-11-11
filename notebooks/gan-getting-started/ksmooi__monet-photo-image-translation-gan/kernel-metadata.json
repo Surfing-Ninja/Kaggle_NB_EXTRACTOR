@@ -1,0 +1,24 @@
+{
+  "id": "ksmooi/monet-photo-image-translation-gan",
+  "id_no": 63160371,
+  "title": "Monet-Photo Image Translation (GAN)",
+  "code_file": "monet-photo-image-translation-gan.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "art",
+    "neural networks",
+    "gan",
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "gan-getting-started"
+  ],
+  "model_sources": []
+}

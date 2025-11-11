@@ -1,0 +1,19 @@
+{
+  "id": "hadeux/simple-lightgbm-baseline",
+  "id_no": 32356965,
+  "title": "[Simple] LightGBM Baseline",
+  "code_file": "simple-lightgbm-baseline.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "spaceship-titanic"
+  ],
+  "model_sources": []
+}

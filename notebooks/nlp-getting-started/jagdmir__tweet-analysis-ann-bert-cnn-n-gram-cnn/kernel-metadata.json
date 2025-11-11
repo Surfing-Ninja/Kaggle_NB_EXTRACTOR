@@ -1,0 +1,26 @@
+{
+  "id": "jagdmir/tweet-analysis-ann-bert-cnn-n-gram-cnn",
+  "id_no": 8341073,
+  "title": "Tweet Analysis - ANN/BERT/CNN/n-gram CNN",
+  "code_file": "tweet-analysis-ann-bert-cnn-n-gram-cnn.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "nlp",
+    "neural networks",
+    "gpu"
+  ],
+  "dataset_sources": [
+    "sawarn69/glove6b100dtxt",
+    "authman/pickled-glove840b300d-for-10sec-loading"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nlp-getting-started"
+  ],
+  "model_sources": []
+}

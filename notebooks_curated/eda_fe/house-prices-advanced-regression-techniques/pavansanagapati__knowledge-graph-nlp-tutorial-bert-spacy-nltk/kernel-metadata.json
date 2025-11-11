@@ -1,0 +1,32 @@
+{
+  "id": "pavansanagapati/knowledge-graph-nlp-tutorial-bert-spacy-nltk",
+  "id_no": 1908308,
+  "title": "Knowledge Graph & NLP Tutorial-(BERT,spaCy,NLTK)",
+  "code_file": "knowledge-graph-nlp-tutorial-bert-spacy-nltk.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "nlp",
+    "nltk"
+  ],
+  "dataset_sources": [
+    "",
+    "",
+    "sid321axn/amazon-alexa-reviews",
+    "krazy47/cola-the-corpus-of-linguistic-acceptability",
+    "arkhoshghalb/twitter-sentiment-analysis-hatred-speech",
+    "mikeortman/wikipedia-sentences"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "digit-recognizer",
+    "house-prices-advanced-regression-techniques",
+    "nlp-getting-started",
+    "titanic"
+  ],
+  "model_sources": []
+}

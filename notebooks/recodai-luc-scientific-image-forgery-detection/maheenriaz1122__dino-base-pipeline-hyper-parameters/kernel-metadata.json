@@ -1,0 +1,23 @@
+{
+  "id": "maheenriaz1122/dino-base-pipeline-hyper-parameters",
+  "id_no": 98372174,
+  "title": "DINO Base Pipeline Hyper parameters ",
+  "code_file": "dino-base-pipeline-hyper-parameters.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "recodai-luc-scientific-image-forgery-detection"
+  ],
+  "model_sources": [
+    "metaresearch/dinov2/PyTorch/base/1"
+  ]
+}

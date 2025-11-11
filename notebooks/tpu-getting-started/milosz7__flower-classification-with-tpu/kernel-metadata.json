@@ -1,0 +1,21 @@
+{
+  "id": "milosz7/flower-classification-with-tpu",
+  "id_no": 42779948,
+  "title": "Flower Classification with TPU",
+  "code_file": "flower-classification-with-tpu.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": true,
+  "enable_internet": true,
+  "keywords": [
+    "tpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "tpu-getting-started"
+  ],
+  "model_sources": []
+}

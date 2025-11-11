@@ -1,0 +1,24 @@
+{
+  "id": "sandhyakrishnan02/nlp-with-disaster-tweets-using-lstm",
+  "id_no": 20856209,
+  "title": "NLP with Disaster Tweets using LSTM",
+  "code_file": "nlp-with-disaster-tweets-using-lstm.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "nlp",
+    "lstm",
+    "rnn",
+    "tensorflow"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nlp-getting-started"
+  ],
+  "model_sources": []
+}

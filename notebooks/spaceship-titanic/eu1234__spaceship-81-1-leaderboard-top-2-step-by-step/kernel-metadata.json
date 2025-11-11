@@ -1,0 +1,25 @@
+{
+  "id": "eu1234/spaceship-81-1-leaderboard-top-2-step-by-step",
+  "id_no": 34953252,
+  "title": "Spaceship 81.1% Leaderboard Top 2% (Step by step)",
+  "code_file": "spaceship-81-1-leaderboard-top-2-step-by-step.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "exploratory data analysis",
+    "optimization",
+    "feature engineering",
+    "data analytics",
+    "scheduled"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "spaceship-titanic"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,30 @@
+{
+  "original_path": "notebooks/nfl-big-data-bowl-2026-prediction/llkh0a__nfl-big-data-bowl-2026-bigru/nfl-big-data-bowl-2026-bigru.ipynb",
+  "quality_score": 71.1,
+  "grade": "B",
+  "techniques": {
+    "feature_engineering": [
+      "interaction",
+      "aggregation",
+      "lag_features",
+      "scaling"
+    ],
+    "eda": [
+      "missing_analysis"
+    ],
+    "hyperparameter": [
+      "cross_validation"
+    ],
+    "advanced_ml": [
+      "neural_network"
+    ]
+  },
+  "libraries": [
+    "pandas",
+    "numpy",
+    "sklearn",
+    "pytorch"
+  ],
+  "category": "complete_pipeline",
+  "competition": "nfl-big-data-bowl-2026-prediction"
+}

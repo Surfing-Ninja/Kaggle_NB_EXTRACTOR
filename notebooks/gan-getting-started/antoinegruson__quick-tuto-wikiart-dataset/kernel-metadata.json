@@ -1,0 +1,27 @@
+{
+  "id": "antoinegruson/quick-tuto-wikiart-dataset",
+  "id_no": 22214749,
+  "title": "Quick Tuto | \ud83c\udfa8 WikiArt dataset",
+  "code_file": "quick-tuto-wikiart-dataset.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gan",
+    "tabular",
+    "art",
+    "arts and entertainment",
+    "image"
+  ],
+  "dataset_sources": [
+    "antoinegruson/-wikiart-all-images-120k-link"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "gan-getting-started"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "vinothan/titanic-model-with-90-accuracy",
+  "id_no": 1330013,
+  "title": "Titanic Model with 90% accuracy",
+  "code_file": "titanic-model-with-90-accuracy.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "beginner",
+    "data cleaning",
+    "feature engineering",
+    "random forest",
+    "business"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "titanic"
+  ],
+  "model_sources": []
+}

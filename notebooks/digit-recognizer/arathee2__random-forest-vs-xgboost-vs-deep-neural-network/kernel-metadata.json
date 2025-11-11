@@ -1,0 +1,19 @@
+{
+  "id": "arathee2/random-forest-vs-xgboost-vs-deep-neural-network",
+  "id_no": 261506,
+  "title": "Random Forest vs XGBoost vs Deep Neural Network",
+  "code_file": "random-forest-vs-xgboost-vs-deep-neural-network.Rmd",
+  "language": "rmarkdown",
+  "kernel_type": "script",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "digit-recognizer"
+  ],
+  "model_sources": []
+}

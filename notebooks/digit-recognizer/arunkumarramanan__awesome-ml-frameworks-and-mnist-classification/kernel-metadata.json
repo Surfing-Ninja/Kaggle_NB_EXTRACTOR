@@ -1,0 +1,23 @@
+{
+  "id": "arunkumarramanan/awesome-ml-frameworks-and-mnist-classification",
+  "id_no": 2270215,
+  "title": "Awesome ML Frameworks and MNIST Classification",
+  "code_file": "awesome-ml-frameworks-and-mnist-classification.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "deep learning",
+    "feature engineering",
+    "beginner"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "digit-recognizer"
+  ],
+  "model_sources": []
+}

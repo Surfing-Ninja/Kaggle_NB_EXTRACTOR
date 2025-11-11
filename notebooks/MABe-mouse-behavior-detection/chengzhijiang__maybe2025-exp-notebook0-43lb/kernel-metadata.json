@@ -1,0 +1,21 @@
+{
+  "id": "chengzhijiang/maybe2025-exp-notebook0-43lb",
+  "id_no": 96325712,
+  "title": "MAYBE2025|Exp_notebook0.43LB",
+  "code_file": "maybe2025-exp-notebook0-43lb.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "chengzhijiang/mice2025exp-notebook-test"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "MABe-mouse-behavior-detection"
+  ],
+  "model_sources": []
+}

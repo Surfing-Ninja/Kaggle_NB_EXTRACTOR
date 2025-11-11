@@ -1,0 +1,25 @@
+{
+  "id": "kalilurrahman/store-sales-eda-prediction-with-ts",
+  "id_no": 21051812,
+  "title": "\ud83d\udd25\ud83d\udcca\ud83d\udcb2 Store Sales EDA, Prediction with TS \ud83d\udd25\ud83c\udfaf",
+  "code_file": "store-sales-eda-prediction-with-ts.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "linear regression",
+    "statistical analysis",
+    "retail and shopping",
+    "time series analysis",
+    "business"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "store-sales-time-series-forecasting"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "sagarnagpure1310/s5e11-xgb-lgbm-fe-te-ensemble-92-68",
+  "id_no": 97935995,
+  "title": "S5E11 | XGB + LGBM | FE, TE & Ensemble | 92.68",
+  "code_file": "s5e11-xgb-lgbm-fe-te-ensemble-92-68.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "nabihazahid/loan-prediction-dataset-2025"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "playground-series-s5e11"
+  ],
+  "model_sources": []
+}

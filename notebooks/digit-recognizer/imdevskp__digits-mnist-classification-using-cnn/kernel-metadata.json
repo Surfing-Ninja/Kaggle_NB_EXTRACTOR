@@ -1,0 +1,24 @@
+{
+  "id": "imdevskp/digits-mnist-classification-using-cnn",
+  "id_no": 6397808,
+  "title": "Digits MNIST Classification using CNN",
+  "code_file": "digits-mnist-classification-using-cnn.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "cnn",
+    "image",
+    "classification",
+    "beginner"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "digit-recognizer"
+  ],
+  "model_sources": []
+}

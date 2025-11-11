@@ -1,0 +1,26 @@
+{
+  "id": "ferdinandberr/darts-forecasting-deep-learning-global-models",
+  "id_no": 30361566,
+  "title": "Darts Forecasting \ud83c\udfaf Deep Learning & Global Models",
+  "code_file": "darts-forecasting-deep-learning-global-models.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "time series analysis",
+    "pytorch",
+    "lightgbm",
+    "lstm",
+    "transfer learning",
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "store-sales-time-series-forecasting"
+  ],
+  "model_sources": []
+}

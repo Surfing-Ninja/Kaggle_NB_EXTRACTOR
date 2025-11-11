@@ -1,0 +1,24 @@
+{
+  "id": "meetnagadia/titanic-random-forest-score-0-79471",
+  "id_no": 25150673,
+  "title": "\ud83d\ude80 Titanic: Random Forest Score 0.79471",
+  "code_file": "titanic-random-forest-score-0-79471.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "decision tree",
+    "classification",
+    "random forest",
+    "randomForest"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "spaceship-titanic"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "ivanlydkin/time-series-course-a-practical-guide",
+  "id_no": 45105451,
+  "title": "\ud83d\udd52Time Series Course: A Practical Guide",
+  "code_file": "time-series-course-a-practical-guide.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "time series analysis",
+    "pandas",
+    "ensembling",
+    "beginner",
+    "data visualization"
+  ],
+  "dataset_sources": [
+    "ivanlydkin/timeseriescourse-models"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "store-sales-time-series-forecasting"
+  ],
+  "model_sources": []
+}

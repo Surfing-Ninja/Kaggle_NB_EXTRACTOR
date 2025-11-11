@@ -1,0 +1,24 @@
+{
+  "id": "jekiwantaufik/recod-ai-luc-scientific-image-forgery-detection",
+  "id_no": 97802594,
+  "title": "Recod.ai/LUC - Scientific Image Forgery Detection",
+  "code_file": "recod-ai-luc-scientific-image-forgery-detection.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "image",
+    "research",
+    "biology",
+    "medicine"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "recodai-luc-scientific-image-forgery-detection"
+  ],
+  "model_sources": []
+}

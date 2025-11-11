@@ -1,0 +1,19 @@
+{
+  "id": "roham1/nfl-big-data-2026-video-and-data-analysis",
+  "id_no": 95087287,
+  "title": "NFL Big Data 2026 Video and Data Analysis",
+  "code_file": "nfl-big-data-2026-video-and-data-analysis.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nfl-big-data-bowl-2026-analytics"
+  ],
+  "model_sources": []
+}

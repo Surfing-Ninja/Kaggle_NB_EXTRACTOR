@@ -1,0 +1,34 @@
+{
+  "id": "rajmehra03/a-complete-pandas-tutorial",
+  "id_no": 29549898,
+  "title": "A Complete Pandas Tutorial",
+  "code_file": "a-complete-pandas-tutorial.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "intermediate",
+    "beginner",
+    "pandas"
+  ],
+  "dataset_sources": [
+    "mlg-ulb/creditcardfraud",
+    "ruchi798/data-science-job-salaries",
+    "shivam2503/diamonds",
+    "nancyalaswad90/diamonds-prices",
+    "primaryobjects/voicegender",
+    "shivamb/netflix-shows",
+    "tmdb/tmdb-movie-metadata",
+    "zynicide/wine-reviews",
+    "unsdsn/world-happiness"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "house-prices-advanced-regression-techniques",
+    "titanic"
+  ],
+  "model_sources": []
+}

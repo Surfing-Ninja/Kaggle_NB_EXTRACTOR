@@ -1,0 +1,25 @@
+{
+  "id": "mathieuduverne/nfl-2026-simple-ensemble",
+  "id_no": 94106115,
+  "title": "NFL-2026-simple-ensemble",
+  "code_file": "nfl-2026-simple-ensemble.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "mathieuduverne/big-data-bowl-2026-dynamic-specs-nn"
+  ],
+  "kernel_sources": [
+    "mks2192/nfl-2026-big-data-bowl",
+    "llkh0a/nfl-big-data-bowl-2026-lstm",
+    "llkh0a/nfl-big-data-bowl-2026-dynamic-specs-nn"
+  ],
+  "competition_sources": [
+    "nfl-big-data-bowl-2026-prediction"
+  ],
+  "model_sources": []
+}

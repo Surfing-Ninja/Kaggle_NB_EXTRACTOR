@@ -1,0 +1,25 @@
+{
+  "id": "maricinnamon/store-sales-time-series-forecast-visualization",
+  "id_no": 21533428,
+  "title": "Store Sales. Time Series Forecast & Visualization",
+  "code_file": "store-sales-time-series-forecast-visualization.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "pandas",
+    "time series analysis",
+    "data visualization",
+    "exploratory data analysis",
+    "finance"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "store-sales-time-series-forecasting"
+  ],
+  "model_sources": []
+}

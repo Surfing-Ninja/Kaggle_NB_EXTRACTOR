@@ -1,0 +1,19 @@
+{
+  "id": "alicanpayasli/74-accuracy-score",
+  "id_no": 41708893,
+  "title": "%74 Accuracy Score",
+  "code_file": "74-accuracy-score.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "spaceship-titanic"
+  ],
+  "model_sources": []
+}

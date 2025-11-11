@@ -1,0 +1,19 @@
+{
+  "id": "prajwaldongre/don-t-train-a-model-without-reading-this-eda",
+  "id_no": 97441097,
+  "title": "Don't Train a Model Without Reading This EDA",
+  "code_file": "don-t-train-a-model-without-reading-this-eda.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "csiro-biomass"
+  ],
+  "model_sources": []
+}

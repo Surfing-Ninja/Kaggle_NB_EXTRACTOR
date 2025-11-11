@@ -1,0 +1,32 @@
+{
+  "id": "ohseokkim/the-curse-of-dimensionality-dimension-reduction",
+  "id_no": 21346087,
+  "title": "The curse of dimensionality & Dimension reduction",
+  "code_file": "the-curse-of-dimensionality-dimension-reduction.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "dimensionality reduction",
+    "feature engineering",
+    "beginner",
+    "pca",
+    "intermediate"
+  ],
+  "dataset_sources": [
+    "weixinxu666/digit-recognizer",
+    "shree1992/housedata",
+    "animatronbot/mnist-digit-recognizer",
+    "oddrationale/mnist-in-csv",
+    "dillsunnyb11/digit-recognizer",
+    "heptapod/titanic"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "digit-recognizer"
+  ],
+  "model_sources": []
+}

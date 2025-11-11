@@ -1,0 +1,19 @@
+{
+  "id": "sishihara/py310-python-kaggle-start-book-ch02-01",
+  "id_no": 38471608,
+  "title": "[py310] python-kaggle-start-book-ch02_01",
+  "code_file": "py310-python-kaggle-start-book-ch02-01.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "titanic"
+  ],
+  "model_sources": []
+}

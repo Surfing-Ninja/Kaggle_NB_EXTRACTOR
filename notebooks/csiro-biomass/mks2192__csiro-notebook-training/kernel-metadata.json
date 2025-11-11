@@ -1,0 +1,21 @@
+{
+  "id": "mks2192/csiro-notebook-training",
+  "id_no": 97398343,
+  "title": "CSIRO - Notebook Training !",
+  "code_file": "csiro-notebook-training.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "csiro-biomass"
+  ],
+  "model_sources": []
+}

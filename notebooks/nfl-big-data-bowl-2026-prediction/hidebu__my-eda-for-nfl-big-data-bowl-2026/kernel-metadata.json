@@ -1,0 +1,19 @@
+{
+  "id": "hidebu/my-eda-for-nfl-big-data-bowl-2026",
+  "id_no": 93146939,
+  "title": "My EDA for NFL Big Data Bowl 2026",
+  "code_file": "my-eda-for-nfl-big-data-bowl-2026.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nfl-big-data-bowl-2026-prediction"
+  ],
+  "model_sources": []
+}

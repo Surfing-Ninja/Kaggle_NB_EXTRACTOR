@@ -1,0 +1,21 @@
+{
+  "id": "lkatran/start-with-pre-train",
+  "id_no": 12042833,
+  "title": "Start_with_pre_train",
+  "code_file": "start-with-pre-train.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": true,
+  "enable_internet": true,
+  "keywords": [
+    "tpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "tpu-getting-started"
+  ],
+  "model_sources": []
+}

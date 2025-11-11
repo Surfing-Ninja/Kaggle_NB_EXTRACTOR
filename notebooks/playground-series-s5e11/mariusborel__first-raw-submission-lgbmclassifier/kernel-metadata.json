@@ -1,0 +1,23 @@
+{
+  "id": "mariusborel/first-raw-submission-lgbmclassifier",
+  "id_no": 97489067,
+  "title": "First Raw Submission: LGBMClassifier ",
+  "code_file": "first-raw-submission-lgbmclassifier.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "nabihazahid/loan-prediction-dataset-2025"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "playground-series-s5e11"
+  ],
+  "model_sources": []
+}

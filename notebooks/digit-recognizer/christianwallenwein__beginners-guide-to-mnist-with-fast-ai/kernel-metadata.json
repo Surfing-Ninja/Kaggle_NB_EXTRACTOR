@@ -1,0 +1,24 @@
+{
+  "id": "christianwallenwein/beginners-guide-to-mnist-with-fast-ai",
+  "id_no": 5371331,
+  "title": "Beginners guide to MNIST with fast.ai",
+  "code_file": "beginners-guide-to-mnist-with-fast-ai.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "beginner",
+    "cnn",
+    "neural networks",
+    "deep learning"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "digit-recognizer"
+  ],
+  "model_sources": []
+}

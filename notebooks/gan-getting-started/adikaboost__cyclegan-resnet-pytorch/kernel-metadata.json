@@ -1,0 +1,26 @@
+{
+  "id": "adikaboost/cyclegan-resnet-pytorch",
+  "id_no": 46318052,
+  "title": "CycleGAN - ResNet(PyTorch\ud83d\udd25)",
+  "code_file": "cyclegan-resnet-pytorch.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "art",
+    "computer vision",
+    "beginner",
+    "pytorch",
+    "gan",
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "gan-getting-started"
+  ],
+  "model_sources": []
+}

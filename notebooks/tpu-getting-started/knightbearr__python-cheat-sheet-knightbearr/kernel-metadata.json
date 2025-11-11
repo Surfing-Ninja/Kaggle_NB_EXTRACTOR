@@ -1,0 +1,27 @@
+{
+  "id": "knightbearr/python-cheat-sheet-knightbearr",
+  "id_no": 20121331,
+  "title": "Python Cheat Sheet - Knightbearr",
+  "code_file": "python-cheat-sheet-knightbearr.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "programming"
+  ],
+  "dataset_sources": [
+    "yasserh/wine-quality-dataset"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "happy-whale-and-dolphin",
+    "tpu-getting-started",
+    "tensorflow-great-barrier-reef",
+    "titanic",
+    "ubiquant-market-prediction"
+  ],
+  "model_sources": []
+}

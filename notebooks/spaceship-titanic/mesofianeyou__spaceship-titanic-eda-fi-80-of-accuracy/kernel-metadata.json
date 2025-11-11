@@ -1,0 +1,19 @@
+{
+  "id": "mesofianeyou/spaceship-titanic-eda-fi-80-of-accuracy",
+  "id_no": 27760851,
+  "title": "\ud83e\udd47Spaceship-Titanic:EDA\ud83d\udcca+FI\ud83e\uddec+80% of accuracy \ud83d\udcc8",
+  "code_file": "spaceship-titanic-eda-fi-80-of-accuracy.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "spaceship-titanic"
+  ],
+  "model_sources": []
+}

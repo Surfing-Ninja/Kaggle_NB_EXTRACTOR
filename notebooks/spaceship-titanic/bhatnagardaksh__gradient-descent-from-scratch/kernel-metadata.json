@@ -1,0 +1,32 @@
+{
+  "id": "bhatnagardaksh/gradient-descent-from-scratch",
+  "id_no": 30714002,
+  "title": "Gradient Descent from scratch",
+  "code_file": "gradient-descent-from-scratch.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "logistic regression",
+    "binary classification",
+    "outlier analysis",
+    "python",
+    "linear regression"
+  ],
+  "dataset_sources": [
+    "uciml/breast-cancer-wisconsin-data"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "house-prices-advanced-regression-techniques",
+    "competitive-data-science-predict-future-sales",
+    "rossmann-store-sales",
+    "spaceship-titanic",
+    "tabular-playground-series-sep-2022",
+    "titanic"
+  ],
+  "model_sources": []
+}

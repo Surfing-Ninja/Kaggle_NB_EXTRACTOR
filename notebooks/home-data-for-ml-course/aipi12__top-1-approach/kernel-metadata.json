@@ -1,0 +1,27 @@
+{
+  "id": "aipi12/top-1-approach",
+  "id_no": 15133603,
+  "title": "Top 1% Approach",
+  "code_file": "top-1-approach.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "matplotlib",
+    "pandas",
+    "seaborn",
+    "beginner",
+    "regression",
+    "numpy",
+    "scipy"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "home-data-for-ml-course"
+  ],
+  "model_sources": []
+}

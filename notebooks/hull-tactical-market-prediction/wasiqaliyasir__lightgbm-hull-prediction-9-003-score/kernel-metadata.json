@@ -1,0 +1,19 @@
+{
+  "id": "wasiqaliyasir/lightgbm-hull-prediction-9-003-score",
+  "id_no": 94280718,
+  "title": "\ud83d\udd2eLightGBM \ud83d\udc68\u200d\ud83d\udcbb Hull Prediction | 9.003 Score",
+  "code_file": "lightgbm-hull-prediction-9-003-score.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "hull-tactical-market-prediction"
+  ],
+  "model_sources": []
+}

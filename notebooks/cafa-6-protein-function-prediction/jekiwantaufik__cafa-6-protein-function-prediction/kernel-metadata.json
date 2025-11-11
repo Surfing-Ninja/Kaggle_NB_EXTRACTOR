@@ -1,0 +1,25 @@
+{
+  "id": "jekiwantaufik/cafa-6-protein-function-prediction",
+  "id_no": 98274597,
+  "title": "CAFA 6 Protein Function Prediction",
+  "code_file": "cafa-6-protein-function-prediction.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "seddiktrk/cafa6-protein-embeddings-esm2",
+    "seddiktrk/protein-go-annotations-taxonomy"
+  ],
+  "kernel_sources": [
+    "sacuscreed/merge-of-2submission-lb-0-25",
+    "sacuscreed/gaf-submission"
+  ],
+  "competition_sources": [
+    "cafa-6-protein-function-prediction"
+  ],
+  "model_sources": []
+}

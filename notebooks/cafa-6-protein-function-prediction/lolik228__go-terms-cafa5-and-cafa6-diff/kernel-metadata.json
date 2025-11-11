@@ -1,0 +1,20 @@
+{
+  "id": "lolik228/go-terms-cafa5-and-cafa6-diff",
+  "id_no": 97492094,
+  "title": "GO Terms CAFA5 and CAFA6 Diff",
+  "code_file": "go-terms-cafa5-and-cafa6-diff.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "cafa-5-protein-function-prediction",
+    "cafa-6-protein-function-prediction"
+  ],
+  "model_sources": []
+}

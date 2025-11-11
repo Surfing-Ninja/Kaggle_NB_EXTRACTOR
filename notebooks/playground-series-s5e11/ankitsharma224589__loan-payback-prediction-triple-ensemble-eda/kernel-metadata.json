@@ -1,0 +1,19 @@
+{
+  "id": "ankitsharma224589/loan-payback-prediction-triple-ensemble-eda",
+  "id_no": 97677867,
+  "title": "\ud83c\udfe6 Loan Payback Prediction | Triple Ensemble + EDA",
+  "code_file": "loan-payback-prediction-triple-ensemble-eda.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "playground-series-s5e11"
+  ],
+  "model_sources": []
+}

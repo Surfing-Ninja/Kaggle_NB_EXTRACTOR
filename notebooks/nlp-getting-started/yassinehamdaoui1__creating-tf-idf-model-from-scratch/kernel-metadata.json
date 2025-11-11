@@ -1,0 +1,19 @@
+{
+  "id": "yassinehamdaoui1/creating-tf-idf-model-from-scratch",
+  "id_no": 8386963,
+  "title": "Creating TF-IDF Model from Scratch",
+  "code_file": "creating-tf-idf-model-from-scratch.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nlp-getting-started"
+  ],
+  "model_sources": []
+}

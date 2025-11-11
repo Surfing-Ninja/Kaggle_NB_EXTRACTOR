@@ -1,0 +1,21 @@
+{
+  "id": "jakubkrasuski/llm-chatbot-arena-predicting-user-preferences",
+  "id_no": 75863324,
+  "title": "LLM Chatbot Arena: Predicting User Preferences",
+  "code_file": "llm-chatbot-arena-predicting-user-preferences.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "hieungouit/all-minilm-l6-v2"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "llm-classification-finetuning"
+  ],
+  "model_sources": []
+}

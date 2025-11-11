@@ -1,0 +1,19 @@
+{
+  "id": "paharpurailab/csiro-cnn-unsupervised-learning",
+  "id_no": 98090095,
+  "title": "CSIRO_CNN_Unsupervised_learning",
+  "code_file": "csiro-cnn-unsupervised-learning.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "csiro-biomass"
+  ],
+  "model_sources": []
+}

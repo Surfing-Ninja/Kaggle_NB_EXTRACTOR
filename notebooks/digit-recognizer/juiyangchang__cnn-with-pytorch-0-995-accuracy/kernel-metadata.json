@@ -1,0 +1,22 @@
+{
+  "id": "juiyangchang/cnn-with-pytorch-0-995-accuracy",
+  "id_no": 449205,
+  "title": "CNN with PyTorch (0.995 Accuracy)",
+  "code_file": "cnn-with-pytorch-0-995-accuracy.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "deep learning",
+    "cnn"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "digit-recognizer"
+  ],
+  "model_sources": []
+}

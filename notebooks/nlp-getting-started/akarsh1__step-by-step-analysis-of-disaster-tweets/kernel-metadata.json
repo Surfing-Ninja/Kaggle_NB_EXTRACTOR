@@ -1,0 +1,27 @@
+{
+  "id": "akarsh1/step-by-step-analysis-of-disaster-tweets",
+  "id_no": 16572651,
+  "title": "Step by Step Analysis of Disaster Tweets",
+  "code_file": "step-by-step-analysis-of-disaster-tweets.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "natural disasters",
+    "feature engineering",
+    "exploratory data analysis",
+    "nlp",
+    "data visualization"
+  ],
+  "dataset_sources": [
+    "incorpes/glove6b200d"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nlp-getting-started"
+  ],
+  "model_sources": []
+}

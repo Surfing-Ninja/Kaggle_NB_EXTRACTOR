@@ -1,0 +1,23 @@
+{
+  "id": "tinkledwivedi/notebook47ba01928b",
+  "id_no": 95379043,
+  "title": "notebook47ba01928b",
+  "code_file": "notebook47ba01928b.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "cafa-6-protein-function-prediction"
+  ],
+  "model_sources": [
+    ""
+  ]
+}

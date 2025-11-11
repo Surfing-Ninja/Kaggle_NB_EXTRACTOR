@@ -1,0 +1,33 @@
+{
+  "original_path": "notebooks/nfl-big-data-bowl-2026-analytics/manish5323__nfl-bigdatabowl-2026-analytics/nfl-bigdatabowl-2026-analytics.ipynb",
+  "quality_score": 69.75,
+  "grade": "B",
+  "techniques": {
+    "feature_engineering": [
+      "scaling",
+      "binning"
+    ],
+    "eda": [
+      "histogram",
+      "scatter",
+      "outlier_detection",
+      "statistics",
+      "visualization"
+    ],
+    "hyperparameter": [
+      "cross_validation"
+    ],
+    "advanced_ml": [
+      "ensemble"
+    ]
+  },
+  "libraries": [
+    "pandas",
+    "numpy",
+    "sklearn",
+    "matplotlib",
+    "seaborn"
+  ],
+  "category": "complete_pipeline",
+  "competition": "nfl-big-data-bowl-2026-analytics"
+}

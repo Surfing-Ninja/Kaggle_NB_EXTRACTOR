@@ -1,0 +1,26 @@
+{
+  "id": "taranmarley/feature-engineering-eda-and-lightgbm",
+  "id_no": 24937434,
+  "title": "Feature Engineering, EDA and LightGBM",
+  "code_file": "feature-engineering-eda-and-lightgbm.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "pandas",
+    "feature engineering",
+    "numpy",
+    "matplotlib",
+    "exploratory data analysis",
+    "seaborn"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "spaceship-titanic"
+  ],
+  "model_sources": []
+}

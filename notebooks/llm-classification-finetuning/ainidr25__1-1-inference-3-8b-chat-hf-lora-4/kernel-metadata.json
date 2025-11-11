@@ -1,0 +1,28 @@
+{
+  "id": "ainidr25/1-1-inference-3-8b-chat-hf-lora-4",
+  "id_no": 84417405,
+  "title": "1.1 Inference 3 8b-chat-hf LoRA 4",
+  "code_file": "1-1-inference-3-8b-chat-hf-lora-4.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "kishanvavdara/lmsys-model"
+  ],
+  "kernel_sources": [
+    "hotchpotch/llm-detect-pip",
+    "rvldfr/1-1-training-3-8b-chat-hf-lora-4"
+  ],
+  "competition_sources": [
+    "llm-classification-finetuning"
+  ],
+  "model_sources": [
+    "metaresearch/llama-3/Transformers/8b-chat-hf/1"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "mateuszk013/spaceship-titanic-eda-machine-learning",
+  "id_no": 34718863,
+  "title": "Spaceship Titanic - EDA & Machine Learning",
+  "code_file": "spaceship-titanic-eda-machine-learning.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "beginner",
+    "exploratory data analysis",
+    "tabular",
+    "plotly",
+    "data visualization"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "spaceship-titanic"
+  ],
+  "model_sources": []
+}

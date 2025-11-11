@@ -1,0 +1,21 @@
+{
+  "id": "yekenot/ps-s5-e11-trompt-pytorch-frame",
+  "id_no": 98761348,
+  "title": "PS|S5|E11: Trompt \u00b7 PyTorch Frame",
+  "code_file": "ps-s5-e11-trompt-pytorch-frame.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "playground-series-s5e11"
+  ],
+  "model_sources": []
+}

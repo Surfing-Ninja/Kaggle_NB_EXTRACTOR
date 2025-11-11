@@ -1,0 +1,21 @@
+{
+  "id": "mpwolke/delirious-mice-fly-mars-mp4",
+  "id_no": 93293198,
+  "title": "Delirious Mice Fly MARS mp4",
+  "code_file": "delirious-mice-fly-mars-mp4.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "mpwolke/elif-mars"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "MABe-mouse-behavior-detection"
+  ],
+  "model_sources": []
+}

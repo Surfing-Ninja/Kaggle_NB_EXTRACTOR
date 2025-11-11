@@ -1,0 +1,27 @@
+{
+  "id": "swarnabha/pytorch-text-classification-torchtext-lstm",
+  "id_no": 7578744,
+  "title": "Pytorch text classification : Torchtext + LSTM",
+  "code_file": "pytorch-text-classification-torchtext-lstm.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "nlp",
+    "binary classification",
+    "lstm",
+    "text",
+    "gpu"
+  ],
+  "dataset_sources": [
+    "rtatman/glove-global-vectors-for-word-representation"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nlp-getting-started"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "blurredmachine/mnist-classification-eda-pca-cnn-99-7-score",
+  "id_no": 10029170,
+  "title": "MNIST Classification: EDA, PCA, CNN [ 99.7% score]",
+  "code_file": "mnist-classification-eda-pca-cnn-99-7-score.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu",
+    "beginner",
+    "exploratory data analysis",
+    "deep learning",
+    "education"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "digit-recognizer"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "jiuzhang/jiuzhang-knn-sk-learn",
+  "id_no": 412954,
+  "title": "Jiuzhang KNN SK Learn",
+  "code_file": "jiuzhang-knn-sk-learn.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "digit-recognizer"
+  ],
+  "model_sources": []
+}

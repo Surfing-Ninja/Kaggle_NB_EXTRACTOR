@@ -1,0 +1,26 @@
+{
+  "id": "moeinshariatnia/simple-distilbert-fine-tuning-0-84-lb",
+  "id_no": 15618877,
+  "title": "Simple DistilBERT fine-tuning | 0.84 LB",
+  "code_file": "simple-distilbert-fine-tuning-0-84-lb.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "natural disasters",
+    "deep learning",
+    "transfer learning",
+    "transformers",
+    "nlp",
+    "pandas"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nlp-getting-started"
+  ],
+  "model_sources": []
+}

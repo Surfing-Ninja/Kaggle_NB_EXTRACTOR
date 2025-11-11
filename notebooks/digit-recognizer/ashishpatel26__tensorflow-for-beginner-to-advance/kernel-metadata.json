@@ -1,0 +1,26 @@
+{
+  "id": "ashishpatel26/tensorflow-for-beginner-to-advance",
+  "id_no": 2441886,
+  "title": "Tensorflow for Beginner to Advance...!\ud83d\udc4c\ud83d\udc4c\ud83d\udc4c",
+  "code_file": "tensorflow-for-beginner-to-advance.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "india",
+    "cnn",
+    "beginner"
+  ],
+  "dataset_sources": [
+    "zalando-research/fashionmnist",
+    "ashishpatel26/tensorflow-tutorial-data"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "digit-recognizer"
+  ],
+  "model_sources": []
+}

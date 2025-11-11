@@ -1,0 +1,19 @@
+{
+  "id": "rejk11/mabe-exploring-the-mouse-dataset",
+  "id_no": 92533529,
+  "title": "MABe: Exploring the Mouse Dataset",
+  "code_file": "mabe-exploring-the-mouse-dataset.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "MABe-mouse-behavior-detection"
+  ],
+  "model_sources": []
+}

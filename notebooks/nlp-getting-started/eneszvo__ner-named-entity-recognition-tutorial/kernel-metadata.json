@@ -1,0 +1,34 @@
+{
+  "id": "eneszvo/ner-named-entity-recognition-tutorial",
+  "id_no": 20082957,
+  "title": "NER - Named Entity Recognition Tutorial",
+  "code_file": "ner-named-entity-recognition-tutorial.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "nltk",
+    "education",
+    "beginner",
+    "spaCy",
+    "nlp",
+    "pandas",
+    "transformers"
+  ],
+  "dataset_sources": [
+    "",
+    "",
+    "abhinavwalia95/entity-annotated-corpus",
+    "allen-institute-for-ai/CORD-19-research-challenge",
+    "dhruvildave/wikibooks-dataset"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "jigsaw-multilingual-toxic-comment-classification",
+    "nlp-getting-started"
+  ],
+  "model_sources": []
+}

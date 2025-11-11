@@ -1,0 +1,23 @@
+{
+  "id": "jocelyndumlao/luc-image-forgery-detection-unet-maskr-cnn",
+  "id_no": 98077424,
+  "title": "LUC Image Forgery Detection(UNet + MaskR-CNN)",
+  "code_file": "luc-image-forgery-detection-unet-maskr-cnn.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu",
+    "image",
+    "image segmentation"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "recodai-luc-scientific-image-forgery-detection"
+  ],
+  "model_sources": []
+}

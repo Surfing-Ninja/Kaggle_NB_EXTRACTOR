@@ -1,0 +1,25 @@
+{
+  "id": "adilshamim8/mabe-challenge-social-action-recognition-in-mice",
+  "id_no": 93146481,
+  "title": "MABe Challenge - Social Action Recognition in Mice",
+  "code_file": "mabe-challenge-social-action-recognition-in-mice.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "biology",
+    "deep learning",
+    "time series analysis",
+    "classification",
+    "transfer learning"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "MABe-mouse-behavior-detection"
+  ],
+  "model_sources": []
+}

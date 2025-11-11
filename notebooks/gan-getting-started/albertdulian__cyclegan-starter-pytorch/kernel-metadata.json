@@ -1,0 +1,21 @@
+{
+  "id": "albertdulian/cyclegan-starter-pytorch",
+  "id_no": 55157540,
+  "title": "CycleGan Starter - PyTorch",
+  "code_file": "cyclegan-starter-pytorch.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "gan-getting-started"
+  ],
+  "model_sources": []
+}

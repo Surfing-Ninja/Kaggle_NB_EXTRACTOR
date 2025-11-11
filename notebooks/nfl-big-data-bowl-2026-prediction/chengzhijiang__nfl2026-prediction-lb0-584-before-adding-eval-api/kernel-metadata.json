@@ -1,0 +1,24 @@
+{
+  "id": "chengzhijiang/nfl2026-prediction-lb0-584-before-adding-eval-api",
+  "id_no": 95139644,
+  "title": "NFL2026 Prediction|LB0.584(Before adding eval API)",
+  "code_file": "nfl2026-prediction-lb0-584-before-adding-eval-api.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "",
+    "chengzhijiang/hsiaosuan-sttn"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nfl-big-data-bowl-2026-prediction"
+  ],
+  "model_sources": []
+}

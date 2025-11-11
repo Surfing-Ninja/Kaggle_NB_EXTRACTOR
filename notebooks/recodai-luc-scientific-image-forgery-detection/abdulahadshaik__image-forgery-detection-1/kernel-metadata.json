@@ -1,0 +1,21 @@
+{
+  "id": "abdulahadshaik/image-forgery-detection-1",
+  "id_no": 96345498,
+  "title": "Image Forgery Detection 1",
+  "code_file": "image-forgery-detection-1.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "recodai-luc-scientific-image-forgery-detection"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "artemchistyakov/store-sales-eda-rf",
+  "id_no": 28109950,
+  "title": "Store Sales - EDA + RF",
+  "code_file": "store-sales-eda-rf.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "store-sales-time-series-forecasting"
+  ],
+  "model_sources": []
+}

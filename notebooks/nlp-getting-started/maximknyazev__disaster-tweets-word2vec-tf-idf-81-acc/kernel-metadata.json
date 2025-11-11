@@ -1,0 +1,24 @@
+{
+  "id": "maximknyazev/disaster-tweets-word2vec-tf-idf-81-acc",
+  "id_no": 21665962,
+  "title": "Disaster Tweets Word2Vec & TF-IDF 81% ACC",
+  "code_file": "disaster-tweets-word2vec-tf-idf-81-acc.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "nlp",
+    "data cleaning",
+    "text",
+    "exploratory data analysis"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nlp-getting-started"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,27 @@
+{
+  "id": "mst8823/hull-tactical-itransformer-gaussiannllloss",
+  "id_no": 94865647,
+  "title": "[Hull Tactical] iTransformer | GaussianNLLLoss",
+  "code_file": "hull-tactical-itransformer-gaussiannllloss.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "mst8823/hull-tactical-market-prediction-codes"
+  ],
+  "kernel_sources": [
+    "mst8823/hull-tactical-market-prediction-deps"
+  ],
+  "competition_sources": [
+    "hull-tactical-market-prediction"
+  ],
+  "model_sources": [
+    "mst8823/hull-tactical-market-prediction-artifacts/Other/baseline/1"
+  ]
+}

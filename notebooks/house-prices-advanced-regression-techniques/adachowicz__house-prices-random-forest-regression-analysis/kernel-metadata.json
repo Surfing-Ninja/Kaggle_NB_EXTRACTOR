@@ -1,0 +1,22 @@
+{
+  "id": "adachowicz/house-prices-random-forest-regression-analysis",
+  "id_no": 462016,
+  "title": "House Prices: Random Forest Regression Analysis",
+  "code_file": "house-prices-random-forest-regression-analysis.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "beginner",
+    "random forest"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "house-prices-advanced-regression-techniques"
+  ],
+  "model_sources": []
+}

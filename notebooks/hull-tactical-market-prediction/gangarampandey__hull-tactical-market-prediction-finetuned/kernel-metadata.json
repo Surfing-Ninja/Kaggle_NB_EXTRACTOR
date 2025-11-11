@@ -1,0 +1,19 @@
+{
+  "id": "gangarampandey/hull-tactical-market-prediction-finetuned",
+  "id_no": 92988726,
+  "title": "Hull Tactical Market Prediction_Finetuned",
+  "code_file": "hull-tactical-market-prediction-finetuned.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "hull-tactical-market-prediction"
+  ],
+  "model_sources": []
+}

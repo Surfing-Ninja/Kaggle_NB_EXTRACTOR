@@ -1,0 +1,23 @@
+{
+  "id": "sourabhdattawad/huggingface-transformers-bert-for-beginners",
+  "id_no": 7370573,
+  "title": "HuggingFace Transformers - BERT for Beginners",
+  "code_file": "huggingface-transformers-bert-for-beginners.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "beginner",
+    "deep learning",
+    "nlp"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nlp-getting-started"
+  ],
+  "model_sources": []
+}

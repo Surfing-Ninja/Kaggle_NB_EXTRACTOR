@@ -1,0 +1,24 @@
+{
+  "id": "agehsbarg/top-10-0-10943-stacking-mice-and-brutal-force",
+  "id_no": 870007,
+  "title": "Top 10 (0.10943): stacking, MICE and brutal force",
+  "code_file": "top-10-0-10943-stacking-mice-and-brutal-force.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "svm",
+    "feature engineering"
+  ],
+  "dataset_sources": [
+    ""
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "house-prices-advanced-regression-techniques"
+  ],
+  "model_sources": []
+}

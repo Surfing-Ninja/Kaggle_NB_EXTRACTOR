@@ -1,0 +1,19 @@
+{
+  "id": "stpeteishii/pre-gshh-ndvi-pytorch-lightning-cnn-regressor",
+  "id_no": 97194211,
+  "title": "Pre_GSHH_NDVI Pytorch Lightning CNN Regressor",
+  "code_file": "pre-gshh-ndvi-pytorch-lightning-cnn-regressor.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "csiro-biomass"
+  ],
+  "model_sources": []
+}

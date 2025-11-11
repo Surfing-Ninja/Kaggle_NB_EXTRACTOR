@@ -1,0 +1,19 @@
+{
+  "id": "statinstilettos/neural-network-approach",
+  "id_no": 149463,
+  "title": "Neural Network Approach",
+  "code_file": "neural-network-approach.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "digit-recognizer"
+  ],
+  "model_sources": []
+}

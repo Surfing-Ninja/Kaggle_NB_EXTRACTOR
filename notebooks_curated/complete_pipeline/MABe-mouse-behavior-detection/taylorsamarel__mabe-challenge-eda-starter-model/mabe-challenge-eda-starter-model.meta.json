@@ -1,0 +1,49 @@
+{
+  "original_path": "notebooks/MABe-mouse-behavior-detection/taylorsamarel__mabe-challenge-eda-starter-model/mabe-challenge-eda-starter-model.ipynb",
+  "quality_score": 83.7465,
+  "grade": "A",
+  "techniques": {
+    "feature_engineering": [
+      "interaction",
+      "aggregation",
+      "lag_features",
+      "label_encoding",
+      "scaling",
+      "embedding"
+    ],
+    "eda": [
+      "histogram",
+      "correlation",
+      "scatter",
+      "missing_analysis",
+      "outlier_detection",
+      "statistics",
+      "visualization"
+    ],
+    "dimensionality": [
+      "pca",
+      "tsne"
+    ],
+    "hyperparameter": [
+      "cross_validation"
+    ],
+    "advanced_ml": [
+      "voting",
+      "xgboost",
+      "lightgbm",
+      "neural_network",
+      "ensemble"
+    ]
+  },
+  "libraries": [
+    "pandas",
+    "numpy",
+    "sklearn",
+    "xgboost",
+    "lightgbm",
+    "matplotlib",
+    "seaborn"
+  ],
+  "category": "complete_pipeline",
+  "competition": "MABe-mouse-behavior-detection"
+}

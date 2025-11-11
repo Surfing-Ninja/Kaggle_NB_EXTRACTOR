@@ -1,0 +1,19 @@
+{
+  "id": "dingcongcong/llm-classification",
+  "id_no": 80418983,
+  "title": "llm classification",
+  "code_file": "llm-classification.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "llm-classification-finetuning"
+  ],
+  "model_sources": []
+}

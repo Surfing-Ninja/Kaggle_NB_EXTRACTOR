@@ -1,0 +1,21 @@
+{
+  "id": "ryanholbrook/petal-helper",
+  "id_no": 10169071,
+  "title": "Petal Helper",
+  "code_file": "petal-helper.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "utility script"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "tpu-getting-started"
+  ],
+  "model_sources": []
+}

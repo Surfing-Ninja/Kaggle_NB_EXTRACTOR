@@ -1,0 +1,23 @@
+{
+  "id": "vbs2004/pytorch-swin-small-lightgbm",
+  "id_no": 97398282,
+  "title": "Pytorch Swin Small + LightGBM",
+  "code_file": "pytorch-swin-small-lightgbm.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "csiro-biomass"
+  ],
+  "model_sources": [
+    "vbs2004/swin-v2-s-pytroch/PyTorch/default/1"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "szelee/simpletransformers-hyperparam-tuning-k-fold-cv",
+  "id_no": 7452952,
+  "title": "SimpleTransformers + Hyperparam Tuning + k-fold CV",
+  "code_file": "simpletransformers-hyperparam-tuning-k-fold-cv.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nlp-getting-started"
+  ],
+  "model_sources": []
+}

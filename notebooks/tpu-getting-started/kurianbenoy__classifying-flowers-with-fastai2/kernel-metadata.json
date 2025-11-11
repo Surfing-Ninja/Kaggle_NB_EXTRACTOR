@@ -1,0 +1,23 @@
+{
+  "id": "kurianbenoy/classifying-flowers-with-fastai2",
+  "id_no": 10508458,
+  "title": "Classifying Flowers with Fastai2",
+  "code_file": "classifying-flowers-with-fastai2.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "msheriey/104-flowers-garden-of-eden"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "tpu-getting-started"
+  ],
+  "model_sources": []
+}

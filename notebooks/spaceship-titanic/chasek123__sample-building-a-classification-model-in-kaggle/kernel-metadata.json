@@ -1,0 +1,19 @@
+{
+  "id": "chasek123/sample-building-a-classification-model-in-kaggle",
+  "id_no": 35751895,
+  "title": "Sample - Building a Classification Model in Kaggle",
+  "code_file": "sample-building-a-classification-model-in-kaggle.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "spaceship-titanic"
+  ],
+  "model_sources": []
+}

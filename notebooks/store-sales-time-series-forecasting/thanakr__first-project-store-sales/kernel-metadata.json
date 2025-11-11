@@ -1,0 +1,22 @@
+{
+  "id": "thanakr/first-project-store-sales",
+  "id_no": 24806422,
+  "title": "First project : Store sales",
+  "code_file": "first-project-store-sales.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "time series analysis",
+    "education"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "store-sales-time-series-forecasting"
+  ],
+  "model_sources": []
+}

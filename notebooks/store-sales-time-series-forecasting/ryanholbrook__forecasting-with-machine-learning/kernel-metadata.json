@@ -1,0 +1,26 @@
+{
+  "id": "ryanholbrook/forecasting-with-machine-learning",
+  "id_no": 20667483,
+  "title": "Forecasting With Machine Learning",
+  "code_file": "forecasting-with-machine-learning.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "matplotlib",
+    "numpy",
+    "pandas",
+    "seaborn"
+  ],
+  "dataset_sources": [
+    "ryanholbrook/ts-course-data"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "store-sales-time-series-forecasting"
+  ],
+  "model_sources": []
+}

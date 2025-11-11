@@ -1,0 +1,28 @@
+{
+  "id": "rvdrdx/inference-llama-3-8b",
+  "id_no": 68602477,
+  "title": "Inference - llama-3 8b",
+  "code_file": "inference-llama-3-8b.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "kishanvavdara/lmsys-model"
+  ],
+  "kernel_sources": [
+    "hotchpotch/llm-detect-pip",
+    "kishanvavdara/lmsys-llama-3-tpu-train"
+  ],
+  "competition_sources": [
+    "llm-classification-finetuning"
+  ],
+  "model_sources": [
+    "metaresearch/llama-3/Transformers/8b-chat-hf/1"
+  ]
+}

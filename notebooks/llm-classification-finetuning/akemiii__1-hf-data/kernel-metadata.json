@@ -1,0 +1,26 @@
+{
+  "id": "akemiii/1-hf-data",
+  "id_no": 72609321,
+  "title": "\u63d0\u4ea4-\u65b9\u6cd51+HF data",
+  "code_file": "1-hf-data.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "akemiii/akemiiiiii",
+    "akemiii/amodellll",
+    "akemiii/pppppppp",
+    "akemiii/some-pack"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "llm-classification-finetuning"
+  ],
+  "model_sources": []
+}

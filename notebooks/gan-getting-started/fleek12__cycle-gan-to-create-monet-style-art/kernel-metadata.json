@@ -1,0 +1,21 @@
+{
+  "id": "fleek12/cycle-gan-to-create-monet-style-art",
+  "id_no": 14219036,
+  "title": "Cycle GAN to create monet style art",
+  "code_file": "cycle-gan-to-create-monet-style-art.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "gan-getting-started"
+  ],
+  "model_sources": []
+}

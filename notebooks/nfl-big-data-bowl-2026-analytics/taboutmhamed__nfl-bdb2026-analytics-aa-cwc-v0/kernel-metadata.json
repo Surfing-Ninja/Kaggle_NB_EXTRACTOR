@@ -1,0 +1,19 @@
+{
+  "id": "taboutmhamed/nfl-bdb2026-analytics-aa-cwc-v0",
+  "id_no": 95065520,
+  "title": "NFL_BDB2026_Analytics_AA_CWC_V0",
+  "code_file": "nfl-bdb2026-analytics-aa-cwc-v0.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nfl-big-data-bowl-2026-analytics"
+  ],
+  "model_sources": []
+}

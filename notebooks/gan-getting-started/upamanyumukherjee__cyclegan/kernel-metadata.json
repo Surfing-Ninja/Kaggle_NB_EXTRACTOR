@@ -1,0 +1,26 @@
+{
+  "id": "upamanyumukherjee/cyclegan",
+  "id_no": 17188024,
+  "title": "CycleGAN",
+  "code_file": "cyclegan.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "deep learning",
+    "online communities",
+    "gan",
+    "computer vision"
+  ],
+  "dataset_sources": [
+    ""
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "gan-getting-started"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "shivams811/loan-payback-ps5e11-lgb-cat",
+  "id_no": 97522520,
+  "title": "Loan Payback | PS5E11 | LGB + CAT ",
+  "code_file": "loan-payback-ps5e11-lgb-cat.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "playground-series-s5e11"
+  ],
+  "model_sources": []
+}

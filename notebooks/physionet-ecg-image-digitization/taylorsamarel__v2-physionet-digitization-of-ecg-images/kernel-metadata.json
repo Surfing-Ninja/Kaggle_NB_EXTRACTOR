@@ -1,0 +1,23 @@
+{
+  "id": "taylorsamarel/v2-physionet-digitization-of-ecg-images",
+  "id_no": 96007902,
+  "title": "V2 PhysioNet - Digitization of ECG Images",
+  "code_file": "v2-physionet-digitization-of-ecg-images.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "ekaterinadranitsyna/keras-applications-models"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "physionet-ecg-image-digitization"
+  ],
+  "model_sources": []
+}

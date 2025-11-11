@@ -1,0 +1,25 @@
+{
+  "id": "ahmed1harfoush/hull-tactical-market-prediction",
+  "id_no": 98429918,
+  "title": "Hull Tactical - Market Prediction",
+  "code_file": "hull-tactical-market-prediction.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "finance",
+    "intermediate",
+    "data analytics",
+    "sklearn",
+    "xgboost"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "hull-tactical-market-prediction"
+  ],
+  "model_sources": []
+}

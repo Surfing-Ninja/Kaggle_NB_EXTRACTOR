@@ -1,0 +1,26 @@
+{
+  "id": "shivansh002/gentle-introduction-to-gan",
+  "id_no": 19320816,
+  "title": "\u2728 Gentle Introduction to GAN",
+  "code_file": "gentle-introduction-to-gan.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "arts and entertainment",
+    "matplotlib",
+    "numpy",
+    "tensorflow",
+    "pandas"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "gan-getting-started",
+    "tabular-playground-series-sep-2021"
+  ],
+  "model_sources": []
+}

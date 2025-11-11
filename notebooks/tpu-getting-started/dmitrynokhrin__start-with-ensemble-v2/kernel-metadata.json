@@ -1,0 +1,24 @@
+{
+  "id": "dmitrynokhrin/start-with-ensemble-v2",
+  "id_no": 12742576,
+  "title": "Start_with_ensemble_v2",
+  "code_file": "start-with-ensemble-v2.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": true,
+  "enable_internet": true,
+  "keywords": [
+    "tpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [
+    "dmitrynokhrin/xception-aug-additional-data",
+    "dmitrynokhrin/densenet201-aug-additional-data"
+  ],
+  "competition_sources": [
+    "tpu-getting-started"
+  ],
+  "model_sources": []
+}

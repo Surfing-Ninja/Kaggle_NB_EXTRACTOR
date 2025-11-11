@@ -1,0 +1,30 @@
+{
+  "id": "agodwinp/stacking-house-prices-walkthrough-to-top-5",
+  "id_no": 792645,
+  "title": "Stacking House Prices - Walkthrough to Top 5%",
+  "code_file": "stacking-house-prices-walkthrough-to-top-5.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "data visualization",
+    "feature engineering",
+    "housing"
+  ],
+  "dataset_sources": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "house-prices-advanced-regression-techniques"
+  ],
+  "model_sources": []
+}

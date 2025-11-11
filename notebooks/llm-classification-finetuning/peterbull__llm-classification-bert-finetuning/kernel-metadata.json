@@ -1,0 +1,25 @@
+{
+  "id": "peterbull/llm-classification-bert-finetuning",
+  "id_no": 84638369,
+  "title": "LLM Classification BERT Finetuning",
+  "code_file": "llm-classification-bert-finetuning.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "xhlulu/huggingface-bert"
+  ],
+  "kernel_sources": [
+    "packagemanager/pm-84638369-at-07-13-2025-20-22-06"
+  ],
+  "competition_sources": [
+    "llm-classification-finetuning"
+  ],
+  "model_sources": []
+}

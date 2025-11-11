@@ -1,0 +1,28 @@
+{
+  "id": "duohanwang/inference-gemma-2-9b-4-bit-qlora-6b251d",
+  "id_no": 63013207,
+  "title": "[Inference] Gemma-2 9b 4-bit QLoRA 6b251d",
+  "code_file": "inference-gemma-2-9b-4-bit-qlora-6b251d.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "emiz6413/73zap2gx",
+    "emiz6413/lmsys-wheel-files",
+    "ggjhkjgd/thgtrg78"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "llm-classification-finetuning"
+  ],
+  "model_sources": [
+    "emiz6413/gemma-2/Transformers/gemma-2-9b-it-4bit/1",
+    "qwen-lm/qwen-3/Transformers/8b/1"
+  ]
+}

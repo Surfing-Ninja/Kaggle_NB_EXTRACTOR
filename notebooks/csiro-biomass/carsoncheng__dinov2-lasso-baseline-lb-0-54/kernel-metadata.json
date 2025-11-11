@@ -1,0 +1,23 @@
+{
+  "id": "carsoncheng/dinov2-lasso-baseline-lb-0-54",
+  "id_no": 97482218,
+  "title": "DINOv2 + Lasso baseline | LB 0.54",
+  "code_file": "dinov2-lasso-baseline-lb-0-54.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "csiro-biomass"
+  ],
+  "model_sources": [
+    "metaresearch/dinov2/PyTorch/base/1"
+  ]
+}

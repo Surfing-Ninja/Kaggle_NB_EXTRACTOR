@@ -1,0 +1,32 @@
+{
+  "id": "bextuychiev/7-coolest-packages-top-kagglers-are-using",
+  "id_no": 19265054,
+  "title": "7 Coolest Packages Top Kagglers Are Using",
+  "code_file": "7-coolest-packages-top-kagglers-are-using.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "pandas",
+    "numpy",
+    "matplotlib",
+    "exploratory data analysis",
+    "deep learning",
+    "seaborn",
+    "xgboost",
+    "business"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "digit-recognizer",
+    "house-prices-advanced-regression-techniques",
+    "competitive-data-science-predict-future-sales",
+    "tabular-playground-series-jul-2021",
+    "titanic"
+  ],
+  "model_sources": []
+}

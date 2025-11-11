@@ -1,0 +1,24 @@
+{
+  "id": "amyjang/monet-cyclegan-tutorial",
+  "id_no": 11374342,
+  "title": "Monet CycleGAN Tutorial",
+  "code_file": "monet-cyclegan-tutorial.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "tpu",
+    "gan",
+    "computer vision",
+    "art"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "gan-getting-started"
+  ],
+  "model_sources": []
+}

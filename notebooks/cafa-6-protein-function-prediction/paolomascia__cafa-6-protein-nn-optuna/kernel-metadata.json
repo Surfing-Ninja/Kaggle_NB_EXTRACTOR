@@ -1,0 +1,21 @@
+{
+  "id": "paolomascia/cafa-6-protein-nn-optuna",
+  "id_no": 96393971,
+  "title": "CAFA 6 Protein NN +Optuna",
+  "code_file": "cafa-6-protein-nn-optuna.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "cafa-6-protein-function-prediction"
+  ],
+  "model_sources": []
+}

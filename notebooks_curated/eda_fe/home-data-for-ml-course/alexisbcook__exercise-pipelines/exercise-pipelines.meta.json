@@ -1,0 +1,19 @@
+{
+  "original_path": "notebooks/home-data-for-ml-course/alexisbcook__exercise-pipelines/exercise-pipelines.ipynb",
+  "quality_score": 35.5492,
+  "grade": "D",
+  "techniques": {
+    "feature_engineering": [
+      "onehot_encoding"
+    ],
+    "advanced_ml": [
+      "ensemble"
+    ]
+  },
+  "libraries": [
+    "pandas",
+    "sklearn"
+  ],
+  "category": "eda_fe",
+  "competition": "home-data-for-ml-course"
+}

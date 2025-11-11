@@ -37,10 +37,8 @@ venv.bak/
 .DS_Store
 
 # Project Specific
-notebooks/**
-!notebooks/.gitkeep
-notebooks_curated/**
-!notebooks_curated/.gitkeep
+# notebooks/** - NOW TRACKED
+# notebooks_curated/** - NOW TRACKED
 logs/**
 !logs/.gitkeep
 metadata/**

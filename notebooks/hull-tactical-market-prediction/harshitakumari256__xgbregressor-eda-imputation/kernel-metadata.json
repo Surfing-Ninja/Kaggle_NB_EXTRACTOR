@@ -1,0 +1,19 @@
+{
+  "id": "harshitakumari256/xgbregressor-eda-imputation",
+  "id_no": 93687428,
+  "title": "\u2728\ud83d\udcdaXGBREGRESSOR+EDA+IMPUTATION\ud83e\udde0\ud83e\udde0",
+  "code_file": "xgbregressor-eda-imputation.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "hull-tactical-market-prediction"
+  ],
+  "model_sources": []
+}

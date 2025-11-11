@@ -1,0 +1,24 @@
+{
+  "original_path": "notebooks/nfl-big-data-bowl-2026-analytics/anwarabualhussien__the-race-to-the-spot-a-new-framework-for-evaluati/the-race-to-the-spot-a-new-framework-for-evaluati.ipynb",
+  "quality_score": 39.4,
+  "grade": "D",
+  "techniques": {
+    "feature_engineering": [
+      "aggregation"
+    ],
+    "eda": [
+      "scatter",
+      "missing_analysis",
+      "statistics",
+      "visualization"
+    ]
+  },
+  "libraries": [
+    "pandas",
+    "numpy",
+    "matplotlib",
+    "seaborn"
+  ],
+  "category": "eda_fe",
+  "competition": "nfl-big-data-bowl-2026-analytics"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "vbs2004/efficientnet-b0-lightgbm-baseline",
+  "id_no": 97294179,
+  "title": "EfficientNet B0 + LightGBM | Baseline",
+  "code_file": "efficientnet-b0-lightgbm-baseline.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "csiro-biomass"
+  ],
+  "model_sources": [
+    "",
+    "",
+    "tensorflow/efficientnet/TensorFlow2/b0-classification/1"
+  ]
+}

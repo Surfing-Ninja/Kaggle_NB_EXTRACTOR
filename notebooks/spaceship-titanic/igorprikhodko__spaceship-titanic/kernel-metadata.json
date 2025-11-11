@@ -1,0 +1,25 @@
+{
+  "id": "igorprikhodko/spaceship-titanic",
+  "id_no": 40120812,
+  "title": "SPACESHIP TITANIC",
+  "code_file": "spaceship-titanic.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "numpy",
+    "xgboost",
+    "pandas",
+    "sklearn",
+    "data visualization"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "spaceship-titanic"
+  ],
+  "model_sources": []
+}

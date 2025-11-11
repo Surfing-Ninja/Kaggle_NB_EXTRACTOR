@@ -1,0 +1,32 @@
+{
+  "id": "anuragbantu/stacking-ensemble-learning-beginner-s-guide",
+  "id_no": 10950809,
+  "title": "Stacking Ensemble Learning - Beginner's Guide",
+  "code_file": "stacking-ensemble-learning-beginner-s-guide.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "ensembling",
+    "beginner",
+    "classification",
+    "data cleaning",
+    "feature engineering"
+  ],
+  "dataset_sources": [
+    "",
+    "imdevskp/corona-virus-report",
+    "sudalairajkumar/covid19-in-india"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "digit-recognizer",
+    "house-prices-advanced-regression-techniques",
+    "nlp-getting-started",
+    "titanic"
+  ],
+  "model_sources": []
+}

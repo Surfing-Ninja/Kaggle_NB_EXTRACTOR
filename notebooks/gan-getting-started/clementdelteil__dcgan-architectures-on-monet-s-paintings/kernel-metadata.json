@@ -1,0 +1,27 @@
+{
+  "id": "clementdelteil/dcgan-architectures-on-monet-s-paintings",
+  "id_no": 37015197,
+  "title": "DCGAN Architectures on Monet's paintings ",
+  "code_file": "dcgan-architectures-on-monet-s-paintings.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": true,
+  "enable_internet": true,
+  "keywords": [
+    "art",
+    "adversarial learning",
+    "gan",
+    "deep learning",
+    "image generator"
+  ],
+  "dataset_sources": [
+    "dimitreoliveira/monet-tfrecords-256x256"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "gan-getting-started"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "vjgupta/reach-top-10-with-simple-model-on-housing-prices",
+  "id_no": 1512086,
+  "title": "Reach Top 10% With Simple Model On Housing Prices.",
+  "code_file": "reach-top-10-with-simple-model-on-housing-prices.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "feature engineering",
+    "beginner",
+    "model comparison"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "house-prices-advanced-regression-techniques"
+  ],
+  "model_sources": []
+}

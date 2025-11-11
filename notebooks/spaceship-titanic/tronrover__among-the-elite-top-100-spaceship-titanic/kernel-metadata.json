@@ -1,0 +1,24 @@
+{
+  "id": "tronrover/among-the-elite-top-100-spaceship-titanic",
+  "id_no": 38469123,
+  "title": "Among the Elite \ud83d\udef8 Top 100 Spaceship Titanic",
+  "code_file": "among-the-elite-top-100-spaceship-titanic.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "xgboost",
+    "tabular",
+    "binary classification",
+    "lightgbm"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "spaceship-titanic"
+  ],
+  "model_sources": []
+}

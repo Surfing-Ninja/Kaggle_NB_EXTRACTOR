@@ -1,0 +1,19 @@
+{
+  "id": "viveksawalkar/notebooka93af6c97d",
+  "id_no": 96189542,
+  "title": "notebooka93af6c97d",
+  "code_file": "notebooka93af6c97d.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "physionet-ecg-image-digitization"
+  ],
+  "model_sources": []
+}

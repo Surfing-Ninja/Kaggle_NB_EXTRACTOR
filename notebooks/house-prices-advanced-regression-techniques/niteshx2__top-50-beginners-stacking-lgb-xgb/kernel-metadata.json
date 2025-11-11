@@ -1,0 +1,27 @@
+{
+  "id": "niteshx2/top-50-beginners-stacking-lgb-xgb",
+  "id_no": 3236108,
+  "title": "TOP 50 |beginners | Stacking | LGB | XGB ",
+  "code_file": "top-50-beginners-stacking-lgb-xgb.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "beginner",
+    "xgboost",
+    "ensembling"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [
+    "zavodrobotov/lasso-model-for-regression-problem",
+    "agehsbarg/top-10-0-10943-stacking-mice-and-brutal-force",
+    "couyang/hybrid-svm-benchmark-approach-0-11180-lb-top-2"
+  ],
+  "competition_sources": [
+    "house-prices-advanced-regression-techniques"
+  ],
+  "model_sources": []
+}

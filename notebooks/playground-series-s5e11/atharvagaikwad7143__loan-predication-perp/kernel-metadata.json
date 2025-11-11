@@ -1,0 +1,23 @@
+{
+  "id": "atharvagaikwad7143/loan-predication-perp",
+  "id_no": 97643635,
+  "title": "Loan_Predication_PerP",
+  "code_file": "loan-predication-perp.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "nina2025/02-november-2025-ps-s5e11",
+    "nina2025/03-november-2025-ps-s5e11",
+    "nabihazahid/loan-prediction-dataset-2025"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "playground-series-s5e11"
+  ],
+  "model_sources": []
+}

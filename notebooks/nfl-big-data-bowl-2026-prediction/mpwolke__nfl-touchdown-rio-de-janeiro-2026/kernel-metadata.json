@@ -1,0 +1,19 @@
+{
+  "id": "mpwolke/nfl-touchdown-rio-de-janeiro-2026",
+  "id_no": 93346943,
+  "title": "NFL Touchdown Rio de Janeiro 2026",
+  "code_file": "nfl-touchdown-rio-de-janeiro-2026.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nfl-big-data-bowl-2026-prediction"
+  ],
+  "model_sources": []
+}

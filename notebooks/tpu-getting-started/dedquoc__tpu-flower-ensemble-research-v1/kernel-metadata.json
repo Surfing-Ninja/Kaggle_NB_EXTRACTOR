@@ -1,0 +1,19 @@
+{
+  "id": "dedquoc/tpu-flower-ensemble-research-v1",
+  "id_no": 98412890,
+  "title": "TPU-Flower-Ensemble-Research-v1",
+  "code_file": "tpu-flower-ensemble-research-v1.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": true,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "tpu-getting-started"
+  ],
+  "model_sources": []
+}

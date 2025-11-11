@@ -1,0 +1,19 @@
+{
+  "id": "frankmorales/htmp-lgbm-sharpe-max-wfo-v21",
+  "id_no": 97018898,
+  "title": "HTMP_LGBM_Sharpe_Max_WFO_V21",
+  "code_file": "htmp-lgbm-sharpe-max-wfo-v21.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "hull-tactical-market-prediction"
+  ],
+  "model_sources": []
+}

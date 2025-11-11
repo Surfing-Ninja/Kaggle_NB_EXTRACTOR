@@ -1,0 +1,25 @@
+{
+  "id": "eisgandar/spaceship-titanic-eda-xgboost-80",
+  "id_no": 28219432,
+  "title": "\ud83c\udf0c Spaceship Titanic - EDA & XGBoost- 80%+",
+  "code_file": "spaceship-titanic-eda-xgboost-80.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "binary classification",
+    "exploratory data analysis",
+    "feature engineering",
+    "data visualization",
+    "intermediate"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "spaceship-titanic"
+  ],
+  "model_sources": []
+}

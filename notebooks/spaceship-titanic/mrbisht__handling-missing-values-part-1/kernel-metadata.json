@@ -1,0 +1,25 @@
+{
+  "id": "mrbisht/handling-missing-values-part-1",
+  "id_no": 30310798,
+  "title": "\ud83d\ude04\ud83d\ude04Handling Missing values Part -1",
+  "code_file": "handling-missing-values-part-1.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "plotly",
+    "beginner",
+    "pandas",
+    "feature engineering",
+    "python"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "spaceship-titanic"
+  ],
+  "model_sources": []
+}

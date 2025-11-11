@@ -1,0 +1,24 @@
+{
+  "id": "basu369victor/learning-bert-for-the-first-time",
+  "id_no": 7384080,
+  "title": "Learning BERT for the first time",
+  "code_file": "learning-bert-for-the-first-time.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "nlp",
+    "beginner",
+    "deep learning",
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nlp-getting-started"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "dangnguyen97/0-38006-lightgbm",
+  "id_no": 43376394,
+  "title": "0.38006 - LightGBM",
+  "code_file": "0-38006-lightgbm.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "store-sales-time-series-forecasting"
+  ],
+  "model_sources": []
+}

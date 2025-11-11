@@ -1,0 +1,23 @@
+{
+  "id": "sishihara/python-kaggle-start-book-ch02-03",
+  "id_no": 7718480,
+  "title": "python-kaggle-start-book-ch02_03",
+  "code_file": "python-kaggle-start-book-ch02-03.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "beginner",
+    "exploratory data analysis",
+    "data visualization"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "titanic"
+  ],
+  "model_sources": []
+}

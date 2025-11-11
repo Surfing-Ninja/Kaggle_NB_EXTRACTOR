@@ -1,0 +1,19 @@
+{
+  "id": "erenata/cafa-6-protein-function-prediction-eda",
+  "id_no": 95242963,
+  "title": "CAFA 6 Protein Function Prediction \u2014 EDA",
+  "code_file": "cafa-6-protein-function-prediction-eda.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "cafa-6-protein-function-prediction"
+  ],
+  "model_sources": []
+}

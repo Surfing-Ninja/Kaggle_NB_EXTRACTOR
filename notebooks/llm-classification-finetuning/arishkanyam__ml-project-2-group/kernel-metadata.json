@@ -1,0 +1,27 @@
+{
+  "id": "arishkanyam/ml-project-2-group",
+  "id_no": 98120484,
+  "title": "ML Project 2 Group",
+  "code_file": "ml-project-2-group.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "hieungouit/all-minilm-l6-v2"
+  ],
+  "kernel_sources": [
+    "packagemanager/pm-98120484-at-11-06-2025-11-33-47"
+  ],
+  "competition_sources": [
+    "llm-classification-finetuning"
+  ],
+  "model_sources": [
+    "keras/deberta_v3/Keras/deberta_v3_extra_small_en/2"
+  ]
+}

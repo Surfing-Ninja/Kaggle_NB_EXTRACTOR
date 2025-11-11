@@ -1,0 +1,19 @@
+{
+  "id": "youneseloiarm/hull-tactic-no-overfitting-leakage-bugs-fixed",
+  "id_no": 96241981,
+  "title": "Hull Tactic: No Overfitting / LEAKAGE-[Bugs Fixed]",
+  "code_file": "hull-tactic-no-overfitting-leakage-bugs-fixed.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "hull-tactical-market-prediction"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "yihdarshieh/detailed-guide-to-custom-training-with-tpus",
+  "id_no": 11037630,
+  "title": "Detailed guide to custom training with TPUs",
+  "code_file": "detailed-guide-to-custom-training-with-tpus.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "tpu",
+    "exploratory data analysis",
+    "deep learning",
+    "data visualization",
+    "classification"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "flower-classification-with-tpus",
+    "tpu-getting-started"
+  ],
+  "model_sources": []
+}

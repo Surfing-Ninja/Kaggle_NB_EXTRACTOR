@@ -1,0 +1,24 @@
+{
+  "id": "allunia/how-to-attack-a-machine-learning-model",
+  "id_no": 314889,
+  "title": "How to attack a machine learning model?",
+  "code_file": "how-to-attack-a-machine-learning-model.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "logistic regression",
+    "advanced"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "digit-recognizer",
+    "nips-2017-non-targeted-adversarial-attack",
+    "nips-2017-targeted-adversarial-attack"
+  ],
+  "model_sources": []
+}

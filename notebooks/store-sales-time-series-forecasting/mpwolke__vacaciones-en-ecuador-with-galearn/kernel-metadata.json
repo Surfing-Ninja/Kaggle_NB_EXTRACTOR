@@ -1,0 +1,26 @@
+{
+  "id": "mpwolke/vacaciones-en-ecuador-with-galearn",
+  "id_no": 21106771,
+  "title": "Vacaciones en Ecuador with Galearn",
+  "code_file": "vacaciones-en-ecuador-with-galearn.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "holidays and cultural events",
+    "lightgbm",
+    "matplotlib",
+    "numpy",
+    "pandas",
+    "seaborn"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "store-sales-time-series-forecasting"
+  ],
+  "model_sources": []
+}

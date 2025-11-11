@@ -1,0 +1,24 @@
+{
+  "id": "donaldst/stackingandensembling",
+  "id_no": 10470861,
+  "title": "StackingAndEnsembling",
+  "code_file": "stackingandensembling.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "data visualization",
+    "classification",
+    "feature engineering",
+    "currencies and foreign exchange"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "home-data-for-ml-course"
+  ],
+  "model_sources": []
+}

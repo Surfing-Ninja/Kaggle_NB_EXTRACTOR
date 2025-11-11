@@ -1,0 +1,19 @@
+{
+  "id": "mohamedramadan2040/fine-tuning-bert-for-multi-label-text",
+  "id_no": 86710398,
+  "title": "Fine-Tuning BERT for Multi-Label Text",
+  "code_file": "fine-tuning-bert-for-multi-label-text.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "llm-classification-finetuning"
+  ],
+  "model_sources": []
+}

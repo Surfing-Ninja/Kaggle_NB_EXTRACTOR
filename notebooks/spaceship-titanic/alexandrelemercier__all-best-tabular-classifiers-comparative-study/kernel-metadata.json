@@ -1,0 +1,38 @@
+{
+  "id": "alexandrelemercier/all-best-tabular-classifiers-comparative-study",
+  "id_no": 65430377,
+  "title": "All Best Tabular Classifiers - Comparative Study",
+  "code_file": "all-best-tabular-classifiers-comparative-study.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "model comparison",
+    "catboost",
+    "lightgbm",
+    "xgboost",
+    "random forest"
+  ],
+  "dataset_sources": [
+    "paultimothymooney/chest-xray-pneumonia",
+    "mlg-ulb/creditcardfraud",
+    "shivamb/netflix-shows"
+  ],
+  "kernel_sources": [
+    "madhavmalhotra/creating-a-smaller-dataset-for-ciciot2023"
+  ],
+  "competition_sources": [
+    "amex-default-prediction",
+    "digit-recognizer",
+    "predict-energy-behavior-of-prosumers",
+    "home-credit-credit-risk-model-stability",
+    "icr-identify-age-related-conditions",
+    "optiver-trading-at-the-close",
+    "spaceship-titanic",
+    "um-game-playing-strength-of-mcts-variants"
+  ],
+  "model_sources": []
+}

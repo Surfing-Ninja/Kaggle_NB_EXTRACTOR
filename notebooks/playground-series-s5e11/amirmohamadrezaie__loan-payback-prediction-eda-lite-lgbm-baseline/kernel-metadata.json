@@ -1,0 +1,19 @@
+{
+  "id": "amirmohamadrezaie/loan-payback-prediction-eda-lite-lgbm-baseline",
+  "id_no": 97524915,
+  "title": "Loan Payback Prediction \u2014 EDA Lite & LGBM Baseline",
+  "code_file": "loan-payback-prediction-eda-lite-lgbm-baseline.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "playground-series-s5e11"
+  ],
+  "model_sources": []
+}

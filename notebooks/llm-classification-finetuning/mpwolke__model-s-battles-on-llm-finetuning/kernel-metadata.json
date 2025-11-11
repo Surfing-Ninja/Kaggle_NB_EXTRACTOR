@@ -1,0 +1,21 @@
+{
+  "id": "mpwolke/model-s-battles-on-llm-finetuning",
+  "id_no": 68041011,
+  "title": "Model's Battles on LLM Finetuning",
+  "code_file": "model-s-battles-on-llm-finetuning.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "llm-classification-finetuning"
+  ],
+  "model_sources": []
+}

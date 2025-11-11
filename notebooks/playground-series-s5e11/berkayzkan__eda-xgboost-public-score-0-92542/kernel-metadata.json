@@ -1,0 +1,25 @@
+{
+  "id": "berkayzkan/eda-xgboost-public-score-0-92542",
+  "id_no": 97547250,
+  "title": "EDA+ XGboost / Public Score 0.92542",
+  "code_file": "eda-xgboost-public-score-0-92542.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu",
+    "exploratory data analysis",
+    "xgboost"
+  ],
+  "dataset_sources": [
+    "nabihazahid/loan-prediction-dataset-2025"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "playground-series-s5e11"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "parulpandey/a-guide-to-handling-missing-values-in-python",
+  "id_no": 9087882,
+  "title": "A Guide to Handling Missing values in Python ",
+  "code_file": "a-guide-to-handling-missing-values-in-python.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "data cleaning",
+    "beginner",
+    "exploratory data analysis"
+  ],
+  "dataset_sources": [
+    "rohanrao/air-quality-data-in-india"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "titanic"
+  ],
+  "model_sources": []
+}

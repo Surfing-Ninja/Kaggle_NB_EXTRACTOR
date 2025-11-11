@@ -1,0 +1,19 @@
+{
+  "id": "rhtsingh/mabe-2025-complete-eda-and-analysis",
+  "id_no": 92529322,
+  "title": "MABe 2025 - Complete EDA and Analysis",
+  "code_file": "mabe-2025-complete-eda-and-analysis.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "MABe-mouse-behavior-detection"
+  ],
+  "model_sources": []
+}

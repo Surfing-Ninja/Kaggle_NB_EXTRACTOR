@@ -1,0 +1,19 @@
+{
+  "id": "xaxipirulazo/fantasia-cafa6-functional-annotation-framework",
+  "id_no": 98827923,
+  "title": "FANTASIA \u2013 CAFA6 - Functional Annotation Framework",
+  "code_file": "fantasia-cafa6-functional-annotation-framework.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "cafa-6-protein-function-prediction"
+  ],
+  "model_sources": []
+}

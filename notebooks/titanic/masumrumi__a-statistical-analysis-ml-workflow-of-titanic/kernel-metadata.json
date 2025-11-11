@@ -1,0 +1,23 @@
+{
+  "id": "masumrumi/a-statistical-analysis-ml-workflow-of-titanic",
+  "id_no": 467142,
+  "title": "A Statistical Analysis & ML workflow of Titanic",
+  "code_file": "a-statistical-analysis-ml-workflow-of-titanic.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "data visualization",
+    "beginner",
+    "exploratory data analysis"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "titanic"
+  ],
+  "model_sources": []
+}

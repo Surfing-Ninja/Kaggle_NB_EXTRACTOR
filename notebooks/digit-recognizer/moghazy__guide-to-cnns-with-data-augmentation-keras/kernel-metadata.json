@@ -1,0 +1,23 @@
+{
+  "id": "moghazy/guide-to-cnns-with-data-augmentation-keras",
+  "id_no": 1264167,
+  "title": "Guide to CNNs with Data Augmentation (Keras)",
+  "code_file": "guide-to-cnns-with-data-augmentation-keras.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "beginner",
+    "cnn",
+    "deep learning"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "digit-recognizer"
+  ],
+  "model_sources": []
+}

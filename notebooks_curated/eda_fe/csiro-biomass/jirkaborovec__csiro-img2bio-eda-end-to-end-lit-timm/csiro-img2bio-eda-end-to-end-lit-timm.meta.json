@@ -1,0 +1,29 @@
+{
+  "original_path": "notebooks/csiro-biomass/jirkaborovec__csiro-img2bio-eda-end-to-end-lit-timm/csiro-img2bio-eda-end-to-end-lit-timm.ipynb",
+  "quality_score": 51.34675,
+  "grade": "C",
+  "techniques": {
+    "feature_engineering": [
+      "aggregation"
+    ],
+    "eda": [
+      "histogram",
+      "correlation",
+      "scatter",
+      "statistics",
+      "visualization"
+    ],
+    "advanced_ml": [
+      "neural_network"
+    ]
+  },
+  "libraries": [
+    "pandas",
+    "numpy",
+    "matplotlib",
+    "seaborn",
+    "pytorch"
+  ],
+  "category": "eda_fe",
+  "competition": "csiro-biomass"
+}

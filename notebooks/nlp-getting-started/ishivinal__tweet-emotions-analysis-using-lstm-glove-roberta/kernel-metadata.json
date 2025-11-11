@@ -1,0 +1,30 @@
+{
+  "id": "ishivinal/tweet-emotions-analysis-using-lstm-glove-roberta",
+  "id_no": 9951194,
+  "title": "\ud83d\udcacTweet Emotions Analysis using-LSTM-Glove-RoBERTA",
+  "code_file": "tweet-emotions-analysis-using-lstm-glove-roberta.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu",
+    "nlp",
+    "text",
+    "data visualization"
+  ],
+  "dataset_sources": [
+    "manuelbenedicto/figure-eight-labelled-textual-dataset",
+    "rtatman/glove-global-vectors-for-word-representation",
+    "ishivinal/contractions",
+    "bittlingmayer/spelling"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nlp-getting-started",
+    "tweet-sentiment-extraction"
+  ],
+  "model_sources": []
+}

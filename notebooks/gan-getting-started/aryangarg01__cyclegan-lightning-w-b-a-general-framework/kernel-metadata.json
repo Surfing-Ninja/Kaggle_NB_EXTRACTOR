@@ -1,0 +1,23 @@
+{
+  "id": "aryangarg01/cyclegan-lightning-w-b-a-general-framework",
+  "id_no": 38286885,
+  "title": "CycleGAN-Lightning + W&B: A General Framework",
+  "code_file": "cyclegan-lightning-w-b-a-general-framework.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "aryangarg01/cycle-gan-checkpoint-20-epochs"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "gan-getting-started"
+  ],
+  "model_sources": []
+}

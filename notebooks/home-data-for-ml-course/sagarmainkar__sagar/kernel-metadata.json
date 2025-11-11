@@ -1,0 +1,22 @@
+{
+  "id": "sagarmainkar/sagar",
+  "id_no": 2107639,
+  "title": "Sagar",
+  "code_file": "sagar.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "regression",
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "home-data-for-ml-course"
+  ],
+  "model_sources": []
+}

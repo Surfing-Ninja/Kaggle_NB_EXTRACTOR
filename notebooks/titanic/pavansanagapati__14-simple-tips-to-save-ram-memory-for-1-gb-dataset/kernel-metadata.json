@@ -1,0 +1,21 @@
+{
+  "id": "pavansanagapati/14-simple-tips-to-save-ram-memory-for-1-gb-dataset",
+  "id_no": 9240304,
+  "title": "14 Simple Tips to save RAM memory for 1+GB dataset",
+  "code_file": "14-simple-tips-to-save-ram-memory-for-1-gb-dataset.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "house-prices-advanced-regression-techniques",
+    "jigsaw-multilingual-toxic-comment-classification",
+    "titanic"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "andradaolteanu/pytorch-rnns-and-lstms-explained-acc-0-99",
+  "id_no": 9337929,
+  "title": "\ud83d\udd25PyTorch RNNs and LSTMs Explained (Acc 0.99)",
+  "code_file": "pytorch-rnns-and-lstms-explained-acc-0-99.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "deep learning",
+    "image",
+    "neural networks",
+    "rnn"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "digit-recognizer"
+  ],
+  "model_sources": []
+}

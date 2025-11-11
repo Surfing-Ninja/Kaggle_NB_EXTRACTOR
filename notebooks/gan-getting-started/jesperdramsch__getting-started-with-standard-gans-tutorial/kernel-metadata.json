@@ -1,0 +1,25 @@
+{
+  "id": "jesperdramsch/getting-started-with-standard-gans-tutorial",
+  "id_no": 11425122,
+  "title": "Getting started with standard GANs - Tutorial",
+  "code_file": "getting-started-with-standard-gans-tutorial.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "beginner",
+    "gan",
+    "deep learning"
+  ],
+  "dataset_sources": [
+    ""
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "gan-getting-started"
+  ],
+  "model_sources": []
+}

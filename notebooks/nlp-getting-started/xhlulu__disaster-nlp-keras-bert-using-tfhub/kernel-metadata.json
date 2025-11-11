@@ -1,0 +1,21 @@
+{
+  "id": "xhlulu/disaster-nlp-keras-bert-using-tfhub",
+  "id_no": 7275319,
+  "title": "Disaster NLP: Keras BERT using TFHub",
+  "code_file": "disaster-nlp-keras-bert-using-tfhub.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nlp-getting-started"
+  ],
+  "model_sources": []
+}

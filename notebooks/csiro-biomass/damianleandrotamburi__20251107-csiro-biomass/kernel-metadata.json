@@ -1,0 +1,29 @@
+{
+  "id": "damianleandrotamburi/20251107-csiro-biomass",
+  "id_no": 98510481,
+  "title": "20251107_csiro-biomass",
+  "code_file": "20251107-csiro-biomass.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "csiro-biomass"
+  ],
+  "model_sources": [
+    "damianleandrotamburi/convnext-base-fb-in22k-ft-in1k/PyTorch/default/1",
+    "damianleandrotamburi/convnext-tiny-fb-in22k-ft-in1k/PyTorch/default/1",
+    "damianleandrotamburi/convnextv2-base-fcmae-ft-in22k-in1k/PyTorch/default/1",
+    "damianleandrotamburi/maxvit-tiny-tf-224-in1k/PyTorch/default/1",
+    "damianleandrotamburi/swin-base-patch4-window7-224-ms-in22k-ft-in1k/PyTorch/default/1",
+    "damianleandrotamburi/swin-tiny-patch4-window7-224-ms-in1k/PyTorch/default/1",
+    "damianleandrotamburi/vit-base-patch16-224-augreg-in21k-ft-in1k/PyTorch/default/1"
+  ]
+}

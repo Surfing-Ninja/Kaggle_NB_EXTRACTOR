@@ -1,0 +1,19 @@
+{
+  "id": "kirderf/hull-market-prediction-nn-sharpe-edition",
+  "id_no": 98184185,
+  "title": "Hull Market Prediction - NN sharpe edition",
+  "code_file": "hull-market-prediction-nn-sharpe-edition.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "hull-tactical-market-prediction"
+  ],
+  "model_sources": []
+}

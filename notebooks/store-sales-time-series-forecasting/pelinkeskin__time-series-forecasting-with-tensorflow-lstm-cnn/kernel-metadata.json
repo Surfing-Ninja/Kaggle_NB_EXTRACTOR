@@ -1,0 +1,25 @@
+{
+  "id": "pelinkeskin/time-series-forecasting-with-tensorflow-lstm-cnn",
+  "id_no": 47403375,
+  "title": "Time Series Forecasting with TensorFlow LSTM CNN",
+  "code_file": "time-series-forecasting-with-tensorflow-lstm-cnn.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu",
+    "tensorflow",
+    "lstm",
+    "time series analysis",
+    "deep learning"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "store-sales-time-series-forecasting"
+  ],
+  "model_sources": []
+}

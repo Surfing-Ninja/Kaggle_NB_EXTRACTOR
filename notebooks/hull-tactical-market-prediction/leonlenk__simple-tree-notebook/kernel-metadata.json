@@ -1,0 +1,19 @@
+{
+  "id": "leonlenk/simple-tree-notebook",
+  "id_no": 95999574,
+  "title": "Simple Tree Notebook",
+  "code_file": "simple-tree-notebook.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "hull-tactical-market-prediction"
+  ],
+  "model_sources": []
+}

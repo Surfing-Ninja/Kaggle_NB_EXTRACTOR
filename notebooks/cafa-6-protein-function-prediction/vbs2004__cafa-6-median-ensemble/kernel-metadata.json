@@ -1,0 +1,24 @@
+{
+  "id": "vbs2004/cafa-6-median-ensemble",
+  "id_no": 97181555,
+  "title": "CAFA 6 - Median- Ensemble",
+  "code_file": "cafa-6-median-ensemble.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [
+    "nihilisticneuralnet/cafa-6-t5-embeddings-with-ensemble",
+    "sacuscreed/merge-of-2submission-lb-0-25",
+    "sacuscreed/gaf-submission",
+    "seddiktrk/cafa-6-predictions"
+  ],
+  "competition_sources": [
+    "cafa-6-protein-function-prediction"
+  ],
+  "model_sources": []
+}

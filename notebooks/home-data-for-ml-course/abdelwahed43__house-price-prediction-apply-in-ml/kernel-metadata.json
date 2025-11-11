@@ -1,0 +1,19 @@
+{
+  "id": "abdelwahed43/house-price-prediction-apply-in-ml",
+  "id_no": 10525113,
+  "title": "house price prediction apply in ML ",
+  "code_file": "house-price-prediction-apply-in-ml.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "home-data-for-ml-course"
+  ],
+  "model_sources": []
+}

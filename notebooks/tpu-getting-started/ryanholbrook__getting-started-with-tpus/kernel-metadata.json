@@ -1,0 +1,21 @@
+{
+  "id": "ryanholbrook/getting-started-with-tpus",
+  "id_no": 10187222,
+  "title": "Getting Started With TPUs",
+  "code_file": "getting-started-with-tpus.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "tpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "tpu-getting-started"
+  ],
+  "model_sources": []
+}

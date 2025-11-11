@@ -1,0 +1,21 @@
+{
+  "id": "tdldld/hull-tactical-market-prediction-5",
+  "id_no": 98068458,
+  "title": "Hull Tactical - Market Prediction_5",
+  "code_file": "hull-tactical-market-prediction-5.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [
+    "tdldld/hull-tactical-market-prediction-5"
+  ],
+  "competition_sources": [
+    "hull-tactical-market-prediction"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "dansbecker/exercise-deep-learning-from-scratch",
+  "id_no": 574269,
+  "title": "Exercise: Deep Learning From Scratch",
+  "code_file": "exercise-deep-learning-from-scratch.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "numpy",
+    "tensorflow"
+  ],
+  "dataset_sources": [
+    "zalando-research/fashionmnist"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "digit-recognizer"
+  ],
+  "model_sources": []
+}

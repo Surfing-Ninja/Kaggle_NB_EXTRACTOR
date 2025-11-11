@@ -1,0 +1,21 @@
+{
+  "id": "yeoyunsianggeremie/ps5e11-pytorch-nn-baseline-with-gqa",
+  "id_no": 98318776,
+  "title": "PS5E11 | PyTorch NN Baseline with GQA",
+  "code_file": "ps5e11-pytorch-nn-baseline-with-gqa.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "playground-series-s5e11"
+  ],
+  "model_sources": []
+}

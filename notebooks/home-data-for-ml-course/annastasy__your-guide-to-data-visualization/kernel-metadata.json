@@ -1,0 +1,33 @@
+{
+  "id": "annastasy/your-guide-to-data-visualization",
+  "id_no": 77404677,
+  "title": "\u2b50 Your Guide to Data Visualization \u2b50",
+  "code_file": "your-guide-to-data-visualization.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "data visualization",
+    "seaborn",
+    "matplotlib",
+    "exploratory data analysis",
+    "data analytics"
+  ],
+  "dataset_sources": [
+    "mlg-ulb/creditcardfraud",
+    "tklimonova/gapminder-datacamp-2007",
+    "uciml/iris",
+    "shivamb/netflix-shows",
+    "sudalairajkumar/novel-corona-virus-2019-dataset",
+    "unsdsn/world-happiness"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "home-data-for-ml-course",
+    "titanic"
+  ],
+  "model_sources": []
+}

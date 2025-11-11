@@ -1,0 +1,23 @@
+{
+  "id": "gokulprakash22/decision-trees-and-random-forest-complete-guide",
+  "id_no": 11746992,
+  "title": "Decision Trees and Random Forest - Complete Guide",
+  "code_file": "decision-trees-and-random-forest-complete-guide.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "decision tree",
+    "random forest",
+    "beginner"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "home-data-for-ml-course"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,41 @@
+{
+  "original_path": "notebooks/house-prices-advanced-regression-techniques/serigne__stacked-regressions-top-4-on-leaderboard/stacked-regressions-top-4-on-leaderboard.ipynb",
+  "quality_score": 86.425,
+  "grade": "A",
+  "techniques": {
+    "feature_engineering": [
+      "aggregation",
+      "label_encoding",
+      "onehot_encoding",
+      "scaling"
+    ],
+    "eda": [
+      "histogram",
+      "correlation",
+      "scatter",
+      "missing_analysis",
+      "outlier_detection",
+      "visualization"
+    ],
+    "hyperparameter": [
+      "cross_validation"
+    ],
+    "advanced_ml": [
+      "stacking",
+      "xgboost",
+      "lightgbm",
+      "ensemble"
+    ]
+  },
+  "libraries": [
+    "pandas",
+    "numpy",
+    "sklearn",
+    "xgboost",
+    "lightgbm",
+    "matplotlib",
+    "seaborn"
+  ],
+  "category": "complete_pipeline",
+  "competition": "house-prices-advanced-regression-techniques"
+}

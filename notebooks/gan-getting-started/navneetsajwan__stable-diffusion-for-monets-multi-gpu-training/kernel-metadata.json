@@ -1,0 +1,19 @@
+{
+  "id": "navneetsajwan/stable-diffusion-for-monets-multi-gpu-training",
+  "id_no": 43190607,
+  "title": "Stable diffusion for Monets[Multi-gpu training]",
+  "code_file": "stable-diffusion-for-monets-multi-gpu-training.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "gan-getting-started"
+  ],
+  "model_sources": []
+}

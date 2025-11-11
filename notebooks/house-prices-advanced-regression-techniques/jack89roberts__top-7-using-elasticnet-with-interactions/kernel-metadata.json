@@ -1,0 +1,25 @@
+{
+  "id": "jack89roberts/top-7-using-elasticnet-with-interactions",
+  "id_no": 1037578,
+  "title": "Top 7% using ElasticNet with Interactions",
+  "code_file": "top-7-using-elasticnet-with-interactions.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "exploratory data analysis",
+    "linear regression",
+    "feature engineering",
+    "model comparison",
+    "beginner"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "house-prices-advanced-regression-techniques"
+  ],
+  "model_sources": []
+}

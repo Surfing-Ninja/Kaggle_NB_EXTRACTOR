@@ -1,0 +1,27 @@
+{
+  "id": "khashayarrahimi94/no-ml-just-statistical-analysis",
+  "id_no": 30637667,
+  "title": "No ML, Just Statistical Analysis",
+  "code_file": "no-ml-just-statistical-analysis.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "exploratory data analysis",
+    "bayesian statistics",
+    "data analytics",
+    "statistical analysis",
+    "data cleaning",
+    "categorical",
+    "feature engineering"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "spaceship-titanic"
+  ],
+  "model_sources": []
+}

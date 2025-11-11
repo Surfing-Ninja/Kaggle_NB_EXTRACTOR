@@ -1,0 +1,25 @@
+{
+  "id": "hamzaghanmi/let-s-use-keras-tensorflow",
+  "id_no": 26187708,
+  "title": "Let's use Keras & Tensorflow \ud83e\uddd9",
+  "code_file": "let-s-use-keras-tensorflow.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "exploratory data analysis",
+    "tensorflow",
+    "keras",
+    "tabular",
+    "data visualization"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "spaceship-titanic"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "rizkykiky/hyperparamaters",
+  "id_no": 22904775,
+  "title": "Hyperparamaters",
+  "code_file": "hyperparamaters.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "time series analysis",
+    "linear regression",
+    "feature engineering",
+    "decision tree"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "store-sales-time-series-forecasting"
+  ],
+  "model_sources": []
+}

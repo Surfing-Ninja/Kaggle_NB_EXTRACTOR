@@ -1,0 +1,19 @@
+{
+  "id": "mattiaangeli/maybe-remix-fps-corrected-v2",
+  "id_no": 95368676,
+  "title": "MAYBE REMIX fps corrected v2",
+  "code_file": "maybe-remix-fps-corrected-v2.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "MABe-mouse-behavior-detection"
+  ],
+  "model_sources": []
+}

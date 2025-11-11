@@ -1,0 +1,23 @@
+{
+  "id": "johndoe2011/unet-ecg-digitization",
+  "id_no": 97311222,
+  "title": "UNet ECG digitization ",
+  "code_file": "unet-ecg-digitization.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    ""
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "physionet-ecg-image-digitization"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,22 @@
+{
+  "id": "scaomath/simple-neural-network-for-mnist-numpy-from-scratch",
+  "id_no": 3328329,
+  "title": "Simple Neural Network for MNIST numpy from scratch",
+  "code_file": "simple-neural-network-for-mnist-numpy-from-scratch.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "beginner",
+    "classification"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "digit-recognizer"
+  ],
+  "model_sources": []
+}

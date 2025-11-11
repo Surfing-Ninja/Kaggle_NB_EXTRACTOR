@@ -1,0 +1,19 @@
+{
+  "id": "hanifnoerrofiq/einthoven-s-law-a-beginners-guide",
+  "id_no": 96613641,
+  "title": "Einthoven's Law - A Beginners Guide",
+  "code_file": "einthoven-s-law-a-beginners-guide.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "physionet-ecg-image-digitization"
+  ],
+  "model_sources": []
+}

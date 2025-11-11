@@ -1,0 +1,21 @@
+{
+  "id": "paharpurailab/xgboost-frequency-features-quantile-binning",
+  "id_no": 97510195,
+  "title": "XGBoost + Frequency Features + Quantile Binning",
+  "code_file": "xgboost-frequency-features-quantile-binning.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "playground-series-s5e11"
+  ],
+  "model_sources": []
+}

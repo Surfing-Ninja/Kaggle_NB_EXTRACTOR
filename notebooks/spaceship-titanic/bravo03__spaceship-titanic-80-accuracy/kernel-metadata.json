@@ -1,0 +1,19 @@
+{
+  "id": "bravo03/spaceship-titanic-80-accuracy",
+  "id_no": 49844626,
+  "title": "Spaceship Titanic 80% Accuracy",
+  "code_file": "spaceship-titanic-80-accuracy.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "spaceship-titanic"
+  ],
+  "model_sources": []
+}

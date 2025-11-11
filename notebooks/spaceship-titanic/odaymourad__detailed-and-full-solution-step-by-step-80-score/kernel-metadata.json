@@ -1,0 +1,19 @@
+{
+  "id": "odaymourad/detailed-and-full-solution-step-by-step-80-score",
+  "id_no": 29408889,
+  "title": "Detailed and Full Solution(Step by Step,>80%score)",
+  "code_file": "detailed-and-full-solution-step-by-step-80-score.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "spaceship-titanic"
+  ],
+  "model_sources": []
+}

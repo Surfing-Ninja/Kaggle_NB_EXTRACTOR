@@ -1,0 +1,25 @@
+{
+  "id": "shreyashpatil217/cafa-6-protein-function-prediction",
+  "id_no": 96016566,
+  "title": "\ud83e\uddec CAFA-6 Protein Function Prediction",
+  "code_file": "cafa-6-protein-function-prediction.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "sklearn",
+    "tensorflow",
+    "xgboost",
+    "ensembling",
+    "logistic regression"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "cafa-6-protein-function-prediction"
+  ],
+  "model_sources": []
+}

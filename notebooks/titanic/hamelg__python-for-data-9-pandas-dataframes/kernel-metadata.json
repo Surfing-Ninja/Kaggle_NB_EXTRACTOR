@@ -1,0 +1,22 @@
+{
+  "id": "hamelg/python-for-data-9-pandas-dataframes",
+  "id_no": 3527651,
+  "title": "Python for Data 9: Pandas DataFrames",
+  "code_file": "python-for-data-9-pandas-dataframes.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "numpy",
+    "pandas"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "titanic"
+  ],
+  "model_sources": []
+}

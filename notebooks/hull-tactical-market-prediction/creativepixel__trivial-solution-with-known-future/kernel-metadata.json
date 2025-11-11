@@ -1,0 +1,19 @@
+{
+  "id": "creativepixel/trivial-solution-with-known-future",
+  "id_no": 97657176,
+  "title": "Trivial solution with known future",
+  "code_file": "trivial-solution-with-known-future.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "hull-tactical-market-prediction"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "xholisilemantshongo/modeling-sales-3-types-of-regression",
+  "id_no": 21686160,
+  "title": "Modeling Sales(3-types of Regression)",
+  "code_file": "modeling-sales-3-types-of-regression.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "randomForest",
+    "time series analysis",
+    "regression",
+    "pandas",
+    "sklearn"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "store-sales-time-series-forecasting"
+  ],
+  "model_sources": []
+}

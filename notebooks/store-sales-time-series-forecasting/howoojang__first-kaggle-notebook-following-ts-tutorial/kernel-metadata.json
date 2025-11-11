@@ -1,0 +1,24 @@
+{
+  "id": "howoojang/first-kaggle-notebook-following-ts-tutorial",
+  "id_no": 21065793,
+  "title": "First kaggle notebook. Following TS tutorial",
+  "code_file": "first-kaggle-notebook-following-ts-tutorial.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "matplotlib",
+    "pandas",
+    "numpy",
+    "seaborn"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "store-sales-time-series-forecasting"
+  ],
+  "model_sources": []
+}

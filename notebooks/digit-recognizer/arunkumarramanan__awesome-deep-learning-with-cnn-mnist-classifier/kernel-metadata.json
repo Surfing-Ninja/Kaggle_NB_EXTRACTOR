@@ -1,0 +1,22 @@
+{
+  "id": "arunkumarramanan/awesome-deep-learning-with-cnn-mnist-classifier",
+  "id_no": 2272643,
+  "title": "Awesome Deep Learning with CNN MNIST Classifier",
+  "code_file": "awesome-deep-learning-with-cnn-mnist-classifier.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "deep learning",
+    "beginner"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "digit-recognizer"
+  ],
+  "model_sources": []
+}

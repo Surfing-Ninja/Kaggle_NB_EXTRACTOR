@@ -1,0 +1,23 @@
+{
+  "id": "pliptor/how-am-i-doing-with-my-score",
+  "id_no": 343807,
+  "title": "How am I doing with my score?",
+  "code_file": "how-am-i-doing-with-my-score.Rmd",
+  "language": "rmarkdown",
+  "kernel_type": "script",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "data visualization",
+    "beginner",
+    "advanced"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "titanic"
+  ],
+  "model_sources": []
+}

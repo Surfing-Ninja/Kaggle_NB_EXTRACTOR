@@ -1,0 +1,21 @@
+{
+  "id": "marcshade/mask-r-cnn-v14-1k-synthetic-tta-threshold-0-6",
+  "id_no": 98378853,
+  "title": "Mask R-CNN v14: 1K Synthetic + TTA + Threshold 0.6",
+  "code_file": "mask-r-cnn-v14-1k-synthetic-tta-threshold-0-6.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "recodai-luc-scientific-image-forgery-detection"
+  ],
+  "model_sources": []
+}

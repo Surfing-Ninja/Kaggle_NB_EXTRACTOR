@@ -1,0 +1,25 @@
+{
+  "id": "usharengaraju/tensorflow-spaceship-neuraldecisionforests",
+  "id_no": 24909909,
+  "title": "\ud83d\ude80\ud83d\ude80[TensorFlow]SpaceShip - NeuralDecisionForests",
+  "code_file": "tensorflow-spaceship-neuraldecisionforests.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "tabular",
+    "keras",
+    "decision tree",
+    "tensorflow",
+    "deep learning"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "spaceship-titanic"
+  ],
+  "model_sources": []
+}

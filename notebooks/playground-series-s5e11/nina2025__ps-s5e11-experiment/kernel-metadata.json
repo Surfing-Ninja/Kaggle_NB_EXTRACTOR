@@ -1,0 +1,21 @@
+{
+  "id": "nina2025/ps-s5e11-experiment",
+  "id_no": 98032471,
+  "title": "PS-s5e11 | experiment",
+  "code_file": "ps-s5e11-experiment.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "nina2025/4-november-2025-ps-s5e11"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "playground-series-s5e11"
+  ],
+  "model_sources": []
+}

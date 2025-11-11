@@ -1,0 +1,24 @@
+{
+  "id": "mhamza0810/loan-payback-starter-eda",
+  "id_no": 97571525,
+  "title": "Loan Payback Starter EDA\u26a1\u26a1\u26a1",
+  "code_file": "loan-payback-starter-eda.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "exploratory data analysis",
+    "beginner",
+    "tabular",
+    "multiclass classification"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "playground-series-s5e11"
+  ],
+  "model_sources": []
+}

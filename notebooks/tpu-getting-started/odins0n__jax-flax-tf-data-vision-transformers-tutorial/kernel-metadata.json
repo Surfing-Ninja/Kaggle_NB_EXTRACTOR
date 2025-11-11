@@ -1,0 +1,25 @@
+{
+  "id": "odins0n/jax-flax-tf-data-vision-transformers-tutorial",
+  "id_no": 24813451,
+  "title": "[JAX+FLAX+TF.DATA] Vision Transformers Tutorial \ud83d\ude80",
+  "code_file": "jax-flax-tf-data-vision-transformers-tutorial.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": true,
+  "enable_internet": true,
+  "keywords": [
+    "tpu",
+    "multiclass classification",
+    "transfer learning",
+    "transformers",
+    "image"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "tpu-getting-started"
+  ],
+  "model_sources": []
+}

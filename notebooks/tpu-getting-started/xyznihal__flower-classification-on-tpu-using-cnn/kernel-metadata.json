@@ -1,0 +1,19 @@
+{
+  "id": "xyznihal/flower-classification-on-tpu-using-cnn",
+  "id_no": 56492608,
+  "title": "Flower Classification on TPU using CNN",
+  "code_file": "flower-classification-on-tpu-using-cnn.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "tpu-getting-started"
+  ],
+  "model_sources": []
+}

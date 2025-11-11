@@ -1,0 +1,25 @@
+{
+  "original_path": "notebooks/house-prices-advanced-regression-techniques/dansbecker__using-categorical-data-with-one-hot-encoding/using-categorical-data-with-one-hot-encoding.ipynb",
+  "quality_score": 46.8284,
+  "grade": "C",
+  "techniques": {
+    "feature_engineering": [
+      "onehot_encoding"
+    ],
+    "eda": [
+      "missing_analysis"
+    ],
+    "hyperparameter": [
+      "cross_validation"
+    ],
+    "advanced_ml": [
+      "ensemble"
+    ]
+  },
+  "libraries": [
+    "pandas",
+    "sklearn"
+  ],
+  "category": "complete_pipeline",
+  "competition": "house-prices-advanced-regression-techniques"
+}

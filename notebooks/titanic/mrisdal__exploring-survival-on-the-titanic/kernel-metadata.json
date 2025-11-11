@@ -1,0 +1,23 @@
+{
+  "id": "mrisdal/exploring-survival-on-the-titanic",
+  "id_no": 44675,
+  "title": "Exploring Survival on the Titanic",
+  "code_file": "exploring-survival-on-the-titanic.Rmd",
+  "language": "rmarkdown",
+  "kernel_type": "script",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "beginner",
+    "feature engineering",
+    "random forest"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "titanic"
+  ],
+  "model_sources": []
+}

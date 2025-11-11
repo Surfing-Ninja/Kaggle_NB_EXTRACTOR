@@ -1,0 +1,22 @@
+{
+  "id": "mikhailnaumov/loan-payback-xgb-lgbm-hgb",
+  "id_no": 97524223,
+  "title": "Loan Payback | XGB+LGBM+HGB",
+  "code_file": "loan-payback-xgb-lgbm-hgb.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "",
+    "nabihazahid/loan-prediction-dataset-2025"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "playground-series-s5e11"
+  ],
+  "model_sources": []
+}

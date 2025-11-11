@@ -1,0 +1,21 @@
+{
+  "id": "abdullah0a/ecg-digitization-image-to-signal-reconstruction",
+  "id_no": 96206342,
+  "title": "ECG Digitization: Image-to-Signal Reconstruction",
+  "code_file": "ecg-digitization-image-to-signal-reconstruction.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "physionet-ecg-image-digitization"
+  ],
+  "model_sources": []
+}

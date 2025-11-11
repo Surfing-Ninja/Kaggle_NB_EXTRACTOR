@@ -1,0 +1,27 @@
+{
+  "id": "vbmokin/nlp-eda-bag-of-words-tf-idf-glove-bert",
+  "id_no": 7212881,
+  "title": "NLP - EDA, Bag of Words, TF IDF, GloVe, BERT",
+  "code_file": "nlp-eda-bag-of-words-tf-idf-glove-bert.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "exploratory data analysis",
+    "data visualization",
+    "classification",
+    "deep learning"
+  ],
+  "dataset_sources": [
+    "rtatman/glove-global-vectors-for-word-representation",
+    "vbmokin/nlp-with-disaster-tweets-cleaning-data"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nlp-getting-started"
+  ],
+  "model_sources": []
+}

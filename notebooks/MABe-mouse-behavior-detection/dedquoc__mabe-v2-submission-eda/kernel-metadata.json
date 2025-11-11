@@ -1,0 +1,19 @@
+{
+  "id": "dedquoc/mabe-v2-submission-eda",
+  "id_no": 92894655,
+  "title": "MABe v2: Submission & EDA",
+  "code_file": "mabe-v2-submission-eda.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "MABe-mouse-behavior-detection"
+  ],
+  "model_sources": []
+}

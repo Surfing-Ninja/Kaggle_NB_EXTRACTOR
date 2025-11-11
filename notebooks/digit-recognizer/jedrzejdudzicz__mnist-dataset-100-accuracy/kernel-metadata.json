@@ -1,0 +1,27 @@
+{
+  "id": "jedrzejdudzicz/mnist-dataset-100-accuracy",
+  "id_no": 11252037,
+  "title": "MNIST dataset ~100% accuracy",
+  "code_file": "mnist-dataset-100-accuracy.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu",
+    "data visualization",
+    "deep learning",
+    "beginner",
+    "cnn"
+  ],
+  "dataset_sources": [
+    "vikramtiwari/mnist-numpy"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "digit-recognizer"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "rahmakallel/starter-xgboost-inference",
+  "id_no": 61893426,
+  "title": "Starter - Xgboost inference",
+  "code_file": "starter-xgboost-inference.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [
+    "rahmakallel/lmsys-gte",
+    "rahmakallel/lmsys-xgb"
+  ],
+  "competition_sources": [
+    "llm-classification-finetuning"
+  ],
+  "model_sources": [
+    "rahmakallel/base_custom_gte/Transformers/default/1"
+  ]
+}

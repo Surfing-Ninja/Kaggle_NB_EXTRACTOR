@@ -1,0 +1,25 @@
+{
+  "id": "ohseokkim/spaceship-sos-decision-is-always-difficult",
+  "id_no": 24934972,
+  "title": "[Spaceship] SOS!! Decision is always difficult!",
+  "code_file": "spaceship-sos-decision-is-always-difficult.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "automl",
+    "beginner",
+    "intermediate",
+    "ensembling",
+    "model explainability"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "spaceship-titanic"
+  ],
+  "model_sources": []
+}

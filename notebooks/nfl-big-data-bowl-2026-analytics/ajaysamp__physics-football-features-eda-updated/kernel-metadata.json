@@ -1,0 +1,20 @@
+{
+  "id": "ajaysamp/physics-football-features-eda-updated",
+  "id_no": 93952108,
+  "title": "\ud83d\udee0\ufe0f  Physics - Football - Features - EDA - Updated",
+  "code_file": "physics-football-features-eda-updated.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nfl-big-data-bowl-2026-analytics",
+    "nfl-big-data-bowl-2026-prediction"
+  ],
+  "model_sources": []
+}

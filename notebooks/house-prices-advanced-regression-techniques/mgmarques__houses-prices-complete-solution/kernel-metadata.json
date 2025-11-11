@@ -1,0 +1,24 @@
+{
+  "id": "mgmarques/houses-prices-complete-solution",
+  "id_no": 1894801,
+  "title": "Houses Prices - Complete Solution",
+  "code_file": "houses-prices-complete-solution.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "data visualization",
+    "feature engineering",
+    "ensembling",
+    "data cleaning"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "house-prices-advanced-regression-techniques"
+  ],
+  "model_sources": []
+}

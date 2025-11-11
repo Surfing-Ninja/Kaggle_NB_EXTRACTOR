@@ -1,0 +1,24 @@
+{
+  "id": "vishalvanpariya/top-5-on-leaderboard",
+  "id_no": 10254741,
+  "title": "Top 5% on Leaderboard",
+  "code_file": "top-5-on-leaderboard.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "beginner",
+    "data visualization",
+    "feature engineering",
+    "exploratory data analysis"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "home-data-for-ml-course"
+  ],
+  "model_sources": []
+}

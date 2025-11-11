@@ -1,0 +1,21 @@
+{
+  "id": "alexisbcook/exercise-missing-values",
+  "id_no": 3370280,
+  "title": "Exercise: Missing Values",
+  "code_file": "exercise-missing-values.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "pandas"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "home-data-for-ml-course"
+  ],
+  "model_sources": []
+}

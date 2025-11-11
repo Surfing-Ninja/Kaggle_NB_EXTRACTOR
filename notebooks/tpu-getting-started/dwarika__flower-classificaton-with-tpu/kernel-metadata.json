@@ -1,0 +1,23 @@
+{
+  "id": "dwarika/flower-classificaton-with-tpu",
+  "id_no": 13562497,
+  "title": "Flower_Classificaton_with_TPU",
+  "code_file": "flower-classificaton-with-tpu.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": true,
+  "enable_internet": true,
+  "keywords": [
+    "tpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [
+    "ryanholbrook/petal-helper"
+  ],
+  "competition_sources": [
+    "tpu-getting-started"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "evanoleary/alexandria-cafa-6-protein-function-predic-514822",
+  "id_no": 96717298,
+  "title": "alexandria cafa 6 protein function predic 514822",
+  "code_file": "alexandria-cafa-6-protein-function-predic-514822.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "cafa-6-protein-function-prediction"
+  ],
+  "model_sources": []
+}

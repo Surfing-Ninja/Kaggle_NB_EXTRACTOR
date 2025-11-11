@@ -1,0 +1,19 @@
+{
+  "id": "houxiyu/mabe-1017",
+  "id_no": 95368336,
+  "title": "Mabe_1017",
+  "code_file": "mabe-1017.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "MABe-mouse-behavior-detection"
+  ],
+  "model_sources": []
+}

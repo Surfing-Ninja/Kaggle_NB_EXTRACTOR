@@ -1,0 +1,29 @@
+{
+  "original_path": "notebooks/nlp-getting-started/shahules__basic-eda-cleaning-and-glove/basic-eda-cleaning-and-glove.ipynb",
+  "quality_score": 59.3866,
+  "grade": "C",
+  "techniques": {
+    "feature_engineering": [
+      "text_features",
+      "embedding"
+    ],
+    "eda": [
+      "histogram",
+      "statistics",
+      "visualization"
+    ],
+    "advanced_ml": [
+      "neural_network"
+    ]
+  },
+  "libraries": [
+    "pandas",
+    "numpy",
+    "sklearn",
+    "matplotlib",
+    "seaborn",
+    "keras"
+  ],
+  "category": "eda_fe",
+  "competition": "nlp-getting-started"
+}

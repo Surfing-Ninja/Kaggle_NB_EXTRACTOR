@@ -1,0 +1,19 @@
+{
+  "id": "khai42/hull-tactical-submission-score-17-396",
+  "id_no": 94673071,
+  "title": "Hull Tactical submission score 17.396",
+  "code_file": "hull-tactical-submission-score-17-396.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "hull-tactical-market-prediction"
+  ],
+  "model_sources": []
+}

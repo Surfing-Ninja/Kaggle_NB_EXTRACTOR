@@ -1,0 +1,25 @@
+{
+  "id": "raoulma/mnist-image-class-tensorflow-cnn-99-51-test-acc",
+  "id_no": 480900,
+  "title": "MNIST Image Class. TensorFlow CNN 99.51% Test Acc.",
+  "code_file": "mnist-image-class-tensorflow-cnn-99-51-test-acc.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "cnn",
+    "classification",
+    "computer vision",
+    "data visualization",
+    "neural networks"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "digit-recognizer"
+  ],
+  "model_sources": []
+}

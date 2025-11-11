@@ -1,0 +1,26 @@
+{
+  "id": "youichwada/csiro-3-models-ensemble-lb-0-63",
+  "id_no": 98336248,
+  "title": "\ud83c\udf3fCSIRO - 3 Models Ensemble [LB: 0.63]",
+  "code_file": "csiro-3-models-ensemble-lb-0-63.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "takahitomizunobyts/csiro-exp3"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "csiro-biomass"
+  ],
+  "model_sources": [
+    "metaresearch/dinov2/PyTorch/giant/1",
+    "aishikai/google-siglip-so400m-patch14-384/Transformers/default/1"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "nihilisticneuralnet/cafa6-ems2-embeds-ensemble-pytorch",
+  "id_no": 95247981,
+  "title": "CAFA6- EMS2 embeds+ ensemble (Pytorch)",
+  "code_file": "cafa6-ems2-embeds-ensemble-pytorch.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "siddhvr/blast-quick-sprof-zero-pred",
+    "viktorfairuschin/cafa-5-ems-2-embeddings-numpy",
+    "siddhvr/train-targets-top500"
+  ],
+  "kernel_sources": [
+    "nihilisticneuralnet/protbert-ensemble"
+  ],
+  "competition_sources": [
+    "cafa-6-protein-function-prediction"
+  ],
+  "model_sources": []
+}

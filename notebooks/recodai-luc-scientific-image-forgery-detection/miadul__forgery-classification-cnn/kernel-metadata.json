@@ -1,0 +1,26 @@
+{
+  "id": "miadul/forgery-classification-cnn",
+  "id_no": 96391174,
+  "title": "Forgery_Classification_CNN",
+  "code_file": "forgery-classification-cnn.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "image segmentation",
+    "classification",
+    "computer vision",
+    "image",
+    "cnn",
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "recodai-luc-scientific-image-forgery-detection"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,24 @@
+{
+  "original_path": "notebooks/store-sales-time-series-forecasting/ryanholbrook__exercise-linear-regression-with-time-series/exercise-linear-regression-with-time-series.ipynb",
+  "quality_score": 34.6366,
+  "grade": "D",
+  "techniques": {
+    "feature_engineering": [
+      "aggregation",
+      "lag_features"
+    ],
+    "eda": [
+      "scatter",
+      "visualization"
+    ]
+  },
+  "libraries": [
+    "pandas",
+    "numpy",
+    "sklearn",
+    "matplotlib",
+    "seaborn"
+  ],
+  "category": "eda_fe",
+  "competition": "store-sales-time-series-forecasting"
+}

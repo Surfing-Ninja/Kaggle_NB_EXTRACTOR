@@ -1,0 +1,23 @@
+{
+  "id": "hamelg/python-for-data-10-reading-and-writing-data",
+  "id_no": 3535942,
+  "title": "Python for Data 10: Reading and Writing Data",
+  "code_file": "python-for-data-10-reading-and-writing-data.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "programming"
+  ],
+  "dataset_sources": [
+    "hamelg/draft2015"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "titanic"
+  ],
+  "model_sources": []
+}

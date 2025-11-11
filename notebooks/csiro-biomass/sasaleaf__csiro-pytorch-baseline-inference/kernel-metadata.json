@@ -1,0 +1,26 @@
+{
+  "id": "sasaleaf/csiro-pytorch-baseline-inference",
+  "id_no": 98260549,
+  "title": "CSIRO | PyTorch baseline [inference]",
+  "code_file": "csiro-pytorch-baseline-inference.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "hmendonca/efficientnet-pytorch"
+  ],
+  "kernel_sources": [
+    "sasaleaf/csiro-pytorch-baseline-train",
+    "packagemanager/pm-98260549-at-11-07-2025-04-00-26"
+  ],
+  "competition_sources": [
+    "csiro-biomass"
+  ],
+  "model_sources": []
+}

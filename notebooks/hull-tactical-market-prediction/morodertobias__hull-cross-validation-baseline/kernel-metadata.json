@@ -1,0 +1,27 @@
+{
+  "id": "morodertobias/hull-cross-validation-baseline",
+  "id_no": 97312384,
+  "title": "Hull - Cross Validation Baseline",
+  "code_file": "hull-cross-validation-baseline.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "finance",
+    "investing",
+    "time series analysis",
+    "matplotlib",
+    "tabular"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [
+    "metric/hull-competition-sharpe"
+  ],
+  "competition_sources": [
+    "hull-tactical-market-prediction"
+  ],
+  "model_sources": []
+}

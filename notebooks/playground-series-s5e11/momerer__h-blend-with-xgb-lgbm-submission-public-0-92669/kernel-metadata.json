@@ -1,0 +1,24 @@
+{
+  "id": "momerer/h-blend-with-xgb-lgbm-submission-public-0-92669",
+  "id_no": 97550204,
+  "title": "h-blend with XGB & LGBM Submission Public 0.92669",
+  "code_file": "h-blend-with-xgb-lgbm-submission-public-0-92669.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "nina2025/01-november-2025-ps-s5e11"
+  ],
+  "kernel_sources": [
+    "momerer/predicting-loan-payback-xgb-lgbm",
+    "jekiwantaufik/predicting-loan-payback-4"
+  ],
+  "competition_sources": [
+    "playground-series-s5e11"
+  ],
+  "model_sources": []
+}

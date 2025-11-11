@@ -1,0 +1,21 @@
+{
+  "original_path": "notebooks/titanic/gusthema__titanic-competition-w-tensorflow-decision-forests/titanic-competition-w-tensorflow-decision-forests.ipynb",
+  "quality_score": 45.939,
+  "grade": "C",
+  "techniques": {
+    "hyperparameter": [
+      "random_search"
+    ],
+    "advanced_ml": [
+      "neural_network",
+      "ensemble"
+    ]
+  },
+  "libraries": [
+    "pandas",
+    "numpy",
+    "tensorflow"
+  ],
+  "category": "eda_fe",
+  "competition": "titanic"
+}

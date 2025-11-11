@@ -1,0 +1,19 @@
+{
+  "id": "maheenriaz1122/luc-image-forgery-detection-unet-maskr-cnn-part2",
+  "id_no": 98534593,
+  "title": "LUC Image Forgery Detection(UNet + MaskR-CNN)PART2",
+  "code_file": "luc-image-forgery-detection-unet-maskr-cnn-part2.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "recodai-luc-scientific-image-forgery-detection"
+  ],
+  "model_sources": []
+}

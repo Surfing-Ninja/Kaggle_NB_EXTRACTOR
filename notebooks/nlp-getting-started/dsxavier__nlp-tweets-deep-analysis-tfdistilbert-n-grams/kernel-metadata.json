@@ -1,0 +1,28 @@
+{
+  "id": "dsxavier/nlp-tweets-deep-analysis-tfdistilbert-n-grams",
+  "id_no": 23881593,
+  "title": "NLP Tweets \u2013 Deep Analysis & TFDistilBert-N-grams",
+  "code_file": "nlp-tweets-deep-analysis-tfdistilbert-n-grams.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "deep learning",
+    "nlp",
+    "data analytics",
+    "tensorflow",
+    "transfer learning",
+    "gpu"
+  ],
+  "dataset_sources": [
+    "atamazian/pyspellchecker"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nlp-getting-started"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "raj401/top1-housepriceprediction",
+  "id_no": 20118151,
+  "title": "Top1%_HousePricePrediction",
+  "code_file": "top1-housepriceprediction.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "random forest",
+    "gradient boosting",
+    "regression",
+    "pandas",
+    "decision tree"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "home-data-for-ml-course"
+  ],
+  "model_sources": []
+}

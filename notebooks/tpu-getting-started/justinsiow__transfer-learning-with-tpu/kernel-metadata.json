@@ -1,0 +1,21 @@
+{
+  "id": "justinsiow/transfer-learning-with-tpu",
+  "id_no": 35123375,
+  "title": "\ud83c\udf38 Transfer Learning with TPU",
+  "code_file": "transfer-learning-with-tpu.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": true,
+  "enable_internet": true,
+  "keywords": [
+    "tpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "tpu-getting-started"
+  ],
+  "model_sources": []
+}

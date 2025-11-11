@@ -1,0 +1,19 @@
+{
+  "id": "nazimcherpanov/spaceship-titanic-beginner-friendly-tutorial",
+  "id_no": 36764754,
+  "title": "Spaceship Titanic | Beginner-Friendly Tutorial",
+  "code_file": "spaceship-titanic-beginner-friendly-tutorial.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "spaceship-titanic"
+  ],
+  "model_sources": []
+}

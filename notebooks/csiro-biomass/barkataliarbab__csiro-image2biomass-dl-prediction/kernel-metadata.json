@@ -1,0 +1,28 @@
+{
+  "id": "barkataliarbab/csiro-image2biomass-dl-prediction",
+  "id_no": 97368738,
+  "title": "\ud83e\udde0CSIRO Image2Biomass-DL Prediction",
+  "code_file": "csiro-image2biomass-dl-prediction.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "",
+    "",
+    "",
+    ""
+  ],
+  "kernel_sources": [
+    "none00000/csiro"
+  ],
+  "competition_sources": [
+    "csiro-biomass"
+  ],
+  "model_sources": []
+}

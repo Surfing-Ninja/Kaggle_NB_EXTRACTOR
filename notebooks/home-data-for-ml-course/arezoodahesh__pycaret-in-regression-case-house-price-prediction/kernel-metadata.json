@@ -1,0 +1,19 @@
+{
+  "id": "arezoodahesh/pycaret-in-regression-case-house-price-prediction",
+  "id_no": 24574159,
+  "title": "Pycaret in Regression Case| House Price Prediction",
+  "code_file": "pycaret-in-regression-case-house-price-prediction.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "home-data-for-ml-course"
+  ],
+  "model_sources": []
+}

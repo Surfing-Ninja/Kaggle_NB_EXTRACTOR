@@ -1,0 +1,24 @@
+{
+  "id": "elcaiseri/nlp-the-simplest-way",
+  "id_no": 7612401,
+  "title": "NLP: The Simplest Way",
+  "code_file": "nlp-the-simplest-way.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "classification",
+    "feature engineering",
+    "nlp",
+    "internet"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nlp-getting-started"
+  ],
+  "model_sources": []
+}

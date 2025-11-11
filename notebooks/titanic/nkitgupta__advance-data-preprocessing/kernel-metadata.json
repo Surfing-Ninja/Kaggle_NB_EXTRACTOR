@@ -1,0 +1,37 @@
+{
+  "id": "nkitgupta/advance-data-preprocessing",
+  "id_no": 26263296,
+  "title": "Advance Data Preprocessing",
+  "code_file": "advance-data-preprocessing.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "data cleaning",
+    "feature engineering",
+    "categorical",
+    "tabular",
+    "intermediate"
+  ],
+  "dataset_sources": [
+    "camnugent/california-housing-prices",
+    "ankanhore545/cost-of-living-index-2022",
+    "sakshigoyal7/credit-card-customers",
+    "mlg-ulb/creditcardfraud",
+    "arashnic/hr-analytics-job-change-of-data-scientists",
+    "kamilpytlak/personal-key-indicators-of-heart-disease",
+    "kuchhbhi/latest-laptop-price-list",
+    "yasserh/loan-default-dataset",
+    "gauravduttakiit/loan-defaulter",
+    "prasertk/historical-commodity-prices-from-20002022",
+    "dansbecker/melbourne-housing-snapshot"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "titanic"
+  ],
+  "model_sources": []
+}

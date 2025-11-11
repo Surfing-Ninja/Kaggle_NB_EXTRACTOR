@@ -1,0 +1,25 @@
+{
+  "id": "theupgrade/step-by-step-from-eda-to-submission-with-lgbmr",
+  "id_no": 36141246,
+  "title": "Step by step, from EDA to Submission with LGBMR",
+  "code_file": "step-by-step-from-eda-to-submission-with-lgbmr.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "seaborn",
+    "time series analysis",
+    "beginner",
+    "retail and shopping",
+    "lightgbm"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "store-sales-time-series-forecasting"
+  ],
+  "model_sources": []
+}

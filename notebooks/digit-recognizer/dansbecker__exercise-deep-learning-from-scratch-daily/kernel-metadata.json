@@ -1,0 +1,23 @@
+{
+  "id": "dansbecker/exercise-deep-learning-from-scratch-daily",
+  "id_no": 3349938,
+  "title": "Exercise: Deep Learning From Scratch Daily",
+  "code_file": "exercise-deep-learning-from-scratch-daily.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "zalando-research/fashionmnist"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "digit-recognizer"
+  ],
+  "model_sources": []
+}

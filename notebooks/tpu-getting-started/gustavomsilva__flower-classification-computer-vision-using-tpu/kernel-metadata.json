@@ -1,0 +1,25 @@
+{
+  "id": "gustavomsilva/flower-classification-computer-vision-using-tpu",
+  "id_no": 14058075,
+  "title": "Flower classification - Computer Vision using TPU",
+  "code_file": "flower-classification-computer-vision-using-tpu.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "matplotlib",
+    "numpy",
+    "tensorflow"
+  ],
+  "dataset_sources": [
+    "kirillblinov/tf-flower-photo-tfrec"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "tpu-getting-started"
+  ],
+  "model_sources": []
+}

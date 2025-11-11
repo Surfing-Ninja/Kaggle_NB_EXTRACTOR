@@ -1,0 +1,34 @@
+{
+  "id": "andreshg/nlp-glove-bert-tf-idf-lstm-explained",
+  "id_no": 14798720,
+  "title": "NLP \ud83d\udcdd GloVe, BERT, TF-IDF, LSTM... \ud83d\udcdd Explained",
+  "code_file": "nlp-glove-bert-tf-idf-lstm-explained.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "nlp",
+    "languages",
+    "natural disasters",
+    "matplotlib",
+    "nltk",
+    "numpy",
+    "pandas",
+    "PIL",
+    "plotly",
+    "sklearn"
+  ],
+  "dataset_sources": [
+    "danielwillgeorge/glove6b100dtxt",
+    "andreshg/masksforwordclouds",
+    "uciml/sms-spam-collection-dataset"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nlp-getting-started"
+  ],
+  "model_sources": []
+}

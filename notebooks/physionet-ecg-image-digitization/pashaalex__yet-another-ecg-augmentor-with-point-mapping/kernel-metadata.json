@@ -1,0 +1,19 @@
+{
+  "id": "pashaalex/yet-another-ecg-augmentor-with-point-mapping",
+  "id_no": 96665559,
+  "title": "Yet Another ECG Augmentor with Point Mapping",
+  "code_file": "yet-another-ecg-augmentor-with-point-mapping.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "physionet-ecg-image-digitization"
+  ],
+  "model_sources": []
+}

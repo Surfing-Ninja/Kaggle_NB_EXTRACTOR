@@ -1,0 +1,21 @@
+{
+  "id": "shresthapundir/kerasnlp-disaster-tweets",
+  "id_no": 50077286,
+  "title": "KerasNLP Disaster Tweets",
+  "code_file": "kerasnlp-disaster-tweets.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nlp-getting-started"
+  ],
+  "model_sources": [
+    "keras/distil_bert/Keras/distil_bert_base_en_uncased/2"
+  ]
+}

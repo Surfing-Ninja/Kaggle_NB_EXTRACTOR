@@ -1,0 +1,21 @@
+{
+  "id": "allunia/house-prices-tutorial-with-catboost",
+  "id_no": 5278946,
+  "title": "House Prices Tutorial with Catboost",
+  "code_file": "house-prices-tutorial-with-catboost.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gradient boosting"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "house-prices-advanced-regression-techniques"
+  ],
+  "model_sources": []
+}

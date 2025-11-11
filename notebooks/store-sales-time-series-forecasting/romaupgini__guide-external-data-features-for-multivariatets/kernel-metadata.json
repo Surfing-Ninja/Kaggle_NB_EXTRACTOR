@@ -1,0 +1,25 @@
+{
+  "id": "romaupgini/guide-external-data-features-for-multivariatets",
+  "id_no": 27701564,
+  "title": "\ud83c\udf0eGuide: External Data&Features for MultivariateTS",
+  "code_file": "guide-external-data-features-for-multivariatets.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "intermediate",
+    "retail and shopping",
+    "feature engineering",
+    "time series analysis",
+    "south america"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "store-sales-time-series-forecasting"
+  ],
+  "model_sources": []
+}

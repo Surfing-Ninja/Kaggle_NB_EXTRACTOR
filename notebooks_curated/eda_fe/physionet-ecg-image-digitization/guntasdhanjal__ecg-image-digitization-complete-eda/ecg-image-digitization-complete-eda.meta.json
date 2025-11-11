@@ -1,0 +1,26 @@
+{
+  "original_path": "notebooks/physionet-ecg-image-digitization/guntasdhanjal__ecg-image-digitization-complete-eda/ecg-image-digitization-complete-eda.ipynb",
+  "quality_score": 41.5,
+  "grade": "C",
+  "techniques": {
+    "feature_engineering": [
+      "aggregation"
+    ],
+    "eda": [
+      "histogram",
+      "correlation",
+      "scatter",
+      "statistics",
+      "visualization"
+    ]
+  },
+  "libraries": [
+    "pandas",
+    "numpy",
+    "matplotlib",
+    "seaborn",
+    "plotly"
+  ],
+  "category": "eda_fe",
+  "competition": "physionet-ecg-image-digitization"
+}

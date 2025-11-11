@@ -1,0 +1,19 @@
+{
+  "id": "deokjongmoon/physionet-2025-eda-image-wise",
+  "id_no": 96519304,
+  "title": "Physionet[2025]_EDA_Image_Wise",
+  "code_file": "physionet-2025-eda-image-wise.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "physionet-ecg-image-digitization"
+  ],
+  "model_sources": []
+}

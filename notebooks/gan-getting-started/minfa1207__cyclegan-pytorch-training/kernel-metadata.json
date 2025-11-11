@@ -1,0 +1,22 @@
+{
+  "id": "minfa1207/cyclegan-pytorch-training",
+  "id_no": 22921317,
+  "title": "\u27f2CycleGAN\u27f2_Pytorch\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83d\udd25 (Training)",
+  "code_file": "cyclegan-pytorch-training.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gan",
+    "pytorch"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "gan-getting-started"
+  ],
+  "model_sources": []
+}

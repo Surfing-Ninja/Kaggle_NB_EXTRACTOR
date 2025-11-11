@@ -1,0 +1,21 @@
+{
+  "id": "ekrembayar/store-sales-ts-forecasting-a-comprehensive-guide",
+  "id_no": 21405568,
+  "title": "Store Sales TS Forecasting - A Comprehensive Guide",
+  "code_file": "store-sales-ts-forecasting-a-comprehensive-guide.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "programming"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "store-sales-time-series-forecasting"
+  ],
+  "model_sources": []
+}

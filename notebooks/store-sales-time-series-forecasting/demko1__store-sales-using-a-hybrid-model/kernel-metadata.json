@@ -1,0 +1,19 @@
+{
+  "id": "demko1/store-sales-using-a-hybrid-model",
+  "id_no": 24409910,
+  "title": "Store sales using a hybrid model",
+  "code_file": "store-sales-using-a-hybrid-model.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "store-sales-time-series-forecasting"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "majinx/nlp-eda-tfidf-wordcloud-lemmatization",
+  "id_no": 34258681,
+  "title": "NLP-EDA,TFIDF,Wordcloud,Lemmatization",
+  "code_file": "nlp-eda-tfidf-wordcloud-lemmatization.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "exploratory data analysis",
+    "nlp",
+    "beginner",
+    "matplotlib",
+    "plotly"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nlp-getting-started"
+  ],
+  "model_sources": []
+}

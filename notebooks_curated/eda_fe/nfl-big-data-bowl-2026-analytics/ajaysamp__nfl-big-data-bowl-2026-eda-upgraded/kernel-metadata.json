@@ -1,0 +1,20 @@
+{
+  "id": "ajaysamp/nfl-big-data-bowl-2026-eda-upgraded",
+  "id_no": 93533152,
+  "title": "\ud83c\udfc8 NFL Big Data Bowl 2026: EDA Upgraded ",
+  "code_file": "nfl-big-data-bowl-2026-eda-upgraded.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nfl-big-data-bowl-2026-analytics",
+    "nfl-big-data-bowl-2026-prediction"
+  ],
+  "model_sources": []
+}

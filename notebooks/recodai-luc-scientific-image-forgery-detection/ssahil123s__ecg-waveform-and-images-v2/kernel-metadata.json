@@ -1,0 +1,21 @@
+{
+  "id": "ssahil123s/ecg-waveform-and-images-v2",
+  "id_no": 96097455,
+  "title": "ECG_waveform_and_images_v2",
+  "code_file": "ecg-waveform-and-images-v2.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "scheduled"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "recodai-luc-scientific-image-forgery-detection"
+  ],
+  "model_sources": []
+}

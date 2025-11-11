@@ -1,0 +1,25 @@
+{
+  "id": "kenjee/housing-prices-example-with-video-walkthrough",
+  "id_no": 37840650,
+  "title": "Housing Prices Example (With Video Walkthrough)",
+  "code_file": "housing-prices-example-with-video-walkthrough.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "intermediate",
+    "real estate",
+    "pandas",
+    "regression",
+    "beginner"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "house-prices-advanced-regression-techniques"
+  ],
+  "model_sources": []
+}

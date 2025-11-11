@@ -1,0 +1,38 @@
+{
+  "id": "nkitgupta/text-representations",
+  "id_no": 22459338,
+  "title": "Text-Representations",
+  "code_file": "text-representations.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "nltk",
+    "text",
+    "pandas",
+    "nlp",
+    "data visualization"
+  ],
+  "dataset_sources": [
+    "",
+    "datatattle/covid-19-nlp-text-classification",
+    "gpreda/covid19-tweets",
+    "facebook/fasttext-wikinews",
+    "umbertogriffo/googles-trained-word2vec-model-in-python",
+    "kemical/kickstarter-projects",
+    "gpreda/pfizer-vaccine-tweets",
+    "kazanova/sentiment140",
+    "crowdflower/twitter-airline-sentiment"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "chaii-hindi-and-tamil-question-answering",
+    "contradictory-my-dear-watson",
+    "jigsaw-toxic-severity-rating",
+    "nlp-getting-started"
+  ],
+  "model_sources": []
+}

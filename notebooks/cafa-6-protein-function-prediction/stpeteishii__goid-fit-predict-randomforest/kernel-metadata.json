@@ -1,0 +1,19 @@
+{
+  "id": "stpeteishii/goid-fit-predict-randomforest",
+  "id_no": 95462152,
+  "title": "GoID Fit & Predict: RandomForest",
+  "code_file": "goid-fit-predict-randomforest.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "cafa-6-protein-function-prediction"
+  ],
+  "model_sources": []
+}

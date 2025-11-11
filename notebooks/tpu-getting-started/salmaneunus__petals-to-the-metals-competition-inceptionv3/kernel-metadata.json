@@ -1,0 +1,23 @@
+{
+  "id": "salmaneunus/petals-to-the-metals-competition-inceptionv3",
+  "id_no": 10546601,
+  "title": "Petals to the Metals Competition InceptionV3",
+  "code_file": "petals-to-the-metals-competition-inceptionv3.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "tpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [
+    "ryanholbrook/petal-helper"
+  ],
+  "competition_sources": [
+    "tpu-getting-started"
+  ],
+  "model_sources": []
+}

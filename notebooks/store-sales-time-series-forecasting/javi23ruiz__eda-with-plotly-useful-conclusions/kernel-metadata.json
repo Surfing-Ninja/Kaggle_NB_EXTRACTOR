@@ -1,0 +1,21 @@
+{
+  "id": "javi23ruiz/eda-with-plotly-useful-conclusions",
+  "id_no": 23531980,
+  "title": "\ud83c\udf36EDA with Plotly & Useful Conclusions \ud83d\udcbb \u26f0",
+  "code_file": "eda-with-plotly-useful-conclusions.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "business"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "store-sales-time-series-forecasting"
+  ],
+  "model_sources": []
+}

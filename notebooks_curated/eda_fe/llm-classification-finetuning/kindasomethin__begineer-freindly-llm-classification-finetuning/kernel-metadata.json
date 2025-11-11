@@ -1,0 +1,25 @@
+{
+  "id": "kindasomethin/begineer-freindly-llm-classification-finetuning",
+  "id_no": 82908228,
+  "title": "(begineer freindly) LLM Classification FineTuning ",
+  "code_file": "begineer-freindly-llm-classification-finetuning.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "english",
+    "tabular"
+  ],
+  "dataset_sources": [
+    "kindasomethin/testing",
+    "kindasomethin/training"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "llm-classification-finetuning"
+  ],
+  "model_sources": []
+}

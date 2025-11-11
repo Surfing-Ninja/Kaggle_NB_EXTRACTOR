@@ -1,0 +1,29 @@
+{
+  "id": "ravaghi/social-action-recognition-in-mice-xgboost",
+  "id_no": 97088022,
+  "title": "Social Action Recognition in Mice | XGBoost",
+  "code_file": "social-action-recognition-in-mice-xgboost.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "xgboost",
+    "gradient boosting",
+    "classification",
+    "binary classification",
+    "multiclass classification"
+  ],
+  "dataset_sources": [
+    "ravaghi/social-action-recognition-in-mice-xgb-catboost"
+  ],
+  "kernel_sources": [
+    "packagemanager/pm-97088022-at-11-04-2025-09-08-22"
+  ],
+  "competition_sources": [
+    "MABe-mouse-behavior-detection"
+  ],
+  "model_sources": []
+}

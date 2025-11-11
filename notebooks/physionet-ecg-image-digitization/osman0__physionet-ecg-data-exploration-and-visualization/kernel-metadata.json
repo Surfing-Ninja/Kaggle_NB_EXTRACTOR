@@ -1,0 +1,19 @@
+{
+  "id": "osman0/physionet-ecg-data-exploration-and-visualization",
+  "id_no": 96384703,
+  "title": "PhysioNet ECG Data Exploration and Visualization",
+  "code_file": "physionet-ecg-data-exploration-and-visualization.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "physionet-ecg-image-digitization"
+  ],
+  "model_sources": []
+}

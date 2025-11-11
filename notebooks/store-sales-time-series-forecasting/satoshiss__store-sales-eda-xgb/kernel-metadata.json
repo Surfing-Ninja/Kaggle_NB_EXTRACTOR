@@ -1,0 +1,24 @@
+{
+  "id": "satoshiss/store-sales-eda-xgb",
+  "id_no": 24689973,
+  "title": "Store Sales - EDA + XGB",
+  "code_file": "store-sales-eda-xgb.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "time series analysis",
+    "intermediate",
+    "beginner",
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "store-sales-time-series-forecasting"
+  ],
+  "model_sources": []
+}

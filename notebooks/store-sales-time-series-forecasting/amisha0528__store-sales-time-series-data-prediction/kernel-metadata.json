@@ -1,0 +1,21 @@
+{
+  "id": "amisha0528/store-sales-time-series-data-prediction",
+  "id_no": 53399056,
+  "title": "Store sales - Time series data prediction",
+  "code_file": "store-sales-time-series-data-prediction.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "amisha0528/holiday-events"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "store-sales-time-series-forecasting"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "avish006/fasterrcnn-unet-physionet",
+  "id_no": 96377335,
+  "title": "FasterRCNN + Unet - Physionet",
+  "code_file": "fasterrcnn-unet-physionet.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    ""
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "physionet-ecg-image-digitization"
+  ],
+  "model_sources": []
+}

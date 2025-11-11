@@ -1,0 +1,21 @@
+{
+  "id": "frankmorales/rluc-sifd-eda-train-inference-tversky",
+  "id_no": 98658133,
+  "title": "RLUC-SIFD-EDA-TRAIN-INFERENCE_Tversky",
+  "code_file": "rluc-sifd-eda-train-inference-tversky.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    ""
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "recodai-luc-scientific-image-forgery-detection"
+  ],
+  "model_sources": []
+}

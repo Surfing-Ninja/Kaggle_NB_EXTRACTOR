@@ -1,0 +1,19 @@
+{
+  "id": "jhoward/why-you-should-use-a-framework",
+  "id_no": 27052231,
+  "title": "Why you should use a framework",
+  "code_file": "why-you-should-use-a-framework.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "titanic"
+  ],
+  "model_sources": []
+}

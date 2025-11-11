@@ -1,0 +1,32 @@
+{
+  "id": "longtng/nlp-preprocessing-feature-extraction-methods-a-z",
+  "id_no": 11224718,
+  "title": "NLP Preprocessing & Feature Extraction Methods A-Z",
+  "code_file": "nlp-preprocessing-feature-extraction-methods-a-z.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "nlp",
+    "beginner",
+    "text",
+    "data cleaning",
+    "intermediate"
+  ],
+  "dataset_sources": [
+    "",
+    "facebook/fasttext-wikinews",
+    "leadbest/googlenewsvectorsnegative300"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "jigsaw-multilingual-toxic-comment-classification",
+    "nlp-getting-started",
+    "jigsaw-toxic-comment-classification-challenge",
+    "tweet-sentiment-extraction"
+  ],
+  "model_sources": []
+}

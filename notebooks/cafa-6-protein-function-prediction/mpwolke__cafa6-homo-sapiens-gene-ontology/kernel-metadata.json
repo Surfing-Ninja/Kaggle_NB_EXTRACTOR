@@ -1,0 +1,19 @@
+{
+  "id": "mpwolke/cafa6-homo-sapiens-gene-ontology",
+  "id_no": 95193821,
+  "title": "CAFA6 Homo sapiens Gene Ontology",
+  "code_file": "cafa6-homo-sapiens-gene-ontology.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "cafa-6-protein-function-prediction"
+  ],
+  "model_sources": []
+}

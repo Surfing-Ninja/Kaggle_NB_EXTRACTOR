@@ -1,0 +1,22 @@
+{
+  "id": "shivamb/store-sales-forecasting-exploration",
+  "id_no": 21045981,
+  "title": "Store Sales Forecasting - Exploration",
+  "code_file": "store-sales-forecasting-exploration.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "pandas",
+    "plotly"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "store-sales-time-series-forecasting"
+  ],
+  "model_sources": []
+}

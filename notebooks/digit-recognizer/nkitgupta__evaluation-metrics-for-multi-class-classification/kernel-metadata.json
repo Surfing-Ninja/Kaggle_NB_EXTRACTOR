@@ -1,0 +1,28 @@
+{
+  "id": "nkitgupta/evaluation-metrics-for-multi-class-classification",
+  "id_no": 15668053,
+  "title": "Evaluation Metrics For Multi-class Classification",
+  "code_file": "evaluation-metrics-for-multi-class-classification.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "random forest",
+    "matplotlib",
+    "numpy",
+    "pandas",
+    "seaborn",
+    "sklearn"
+  ],
+  "dataset_sources": [
+    "uciml/red-wine-quality-cortez-et-al-2009"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "digit-recognizer"
+  ],
+  "model_sources": []
+}

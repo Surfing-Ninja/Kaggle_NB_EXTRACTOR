@@ -1,0 +1,21 @@
+{
+  "id": "marcshade/mask-r-cnn-optimized-5k-synthetic-4-way-tta",
+  "id_no": 97331871,
+  "title": "Mask R-CNN Optimized: 5K Synthetic + 4-way TTA",
+  "code_file": "mask-r-cnn-optimized-5k-synthetic-4-way-tta.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "recodai-luc-scientific-image-forgery-detection"
+  ],
+  "model_sources": []
+}

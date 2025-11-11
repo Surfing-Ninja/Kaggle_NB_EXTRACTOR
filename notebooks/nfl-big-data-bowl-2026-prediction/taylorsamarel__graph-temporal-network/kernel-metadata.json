@@ -1,0 +1,21 @@
+{
+  "id": "taylorsamarel/graph-temporal-network",
+  "id_no": 93207164,
+  "title": "Graph-Temporal Network",
+  "code_file": "graph-temporal-network.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nfl-big-data-bowl-2026-prediction"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "llkh0a/cafa6-esm2-8m-full-embedding",
+  "id_no": 95361057,
+  "title": "cafa6-esm2-8m-full-embedding",
+  "code_file": "cafa6-esm2-8m-full-embedding.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "cafa-6-protein-function-prediction"
+  ],
+  "model_sources": []
+}

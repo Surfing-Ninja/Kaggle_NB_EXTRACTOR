@@ -1,0 +1,21 @@
+{
+  "id": "abhaykabdwal/final-submission",
+  "id_no": 96617796,
+  "title": "Final_Submission",
+  "code_file": "final-submission.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "hull-tactical-market-prediction"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "nihilisticneuralnet/starter-eda-cafa-6-protein-function-starter-nb",
+  "id_no": 95192437,
+  "title": "[Starter+EDA] CAFA 6 Protein Function Starter NB",
+  "code_file": "starter-eda-cafa-6-protein-function-starter-nb.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "sergeifironov/t5embeds"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "cafa-6-protein-function-prediction"
+  ],
+  "model_sources": []
+}

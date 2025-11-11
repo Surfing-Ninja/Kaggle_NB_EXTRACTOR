@@ -1,0 +1,19 @@
+{
+  "id": "dedquoc/nfl-bdb-2026-prediction-x-y-baseline",
+  "id_no": 93154819,
+  "title": "NFL BDB 2026 - Prediction \u0394x, \u0394y Baseline",
+  "code_file": "nfl-bdb-2026-prediction-x-y-baseline.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nfl-big-data-bowl-2026-prediction"
+  ],
+  "model_sources": []
+}

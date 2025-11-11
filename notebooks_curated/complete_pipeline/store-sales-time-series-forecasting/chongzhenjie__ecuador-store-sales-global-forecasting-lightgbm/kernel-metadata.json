@@ -1,0 +1,25 @@
+{
+  "id": "chongzhenjie/ecuador-store-sales-global-forecasting-lightgbm",
+  "id_no": 38110906,
+  "title": "Ecuador Store Sales \u2014 Global Forecasting LightGBM",
+  "code_file": "ecuador-store-sales-global-forecasting-lightgbm.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "time series analysis",
+    "lightgbm",
+    "feature engineering",
+    "linear regression",
+    "data visualization"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "store-sales-time-series-forecasting"
+  ],
+  "model_sources": []
+}

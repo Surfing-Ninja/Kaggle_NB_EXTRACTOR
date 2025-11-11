@@ -1,0 +1,23 @@
+{
+  "id": "bootiu/cyclegan-pytorch-lightning",
+  "id_no": 12454038,
+  "title": "CycleGAN - Pytorch Lightning",
+  "code_file": "cyclegan-pytorch-lightning.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "anjum48/pytorch-lightning"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "gan-getting-started"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "mohamedabdullah/disaster-tweets-solution",
+  "id_no": 7218871,
+  "title": "Disaster Tweets Solution",
+  "code_file": "disaster-tweets-solution.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nlp-getting-started"
+  ],
+  "model_sources": []
+}

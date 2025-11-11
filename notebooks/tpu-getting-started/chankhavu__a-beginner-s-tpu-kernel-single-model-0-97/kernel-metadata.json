@@ -1,0 +1,23 @@
+{
+  "id": "chankhavu/a-beginner-s-tpu-kernel-single-model-0-97",
+  "id_no": 10961414,
+  "title": "A Beginner's TPU Kernel (Single Model, 0.97)",
+  "code_file": "a-beginner-s-tpu-kernel-single-model-0-97.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "kirillblinov/tf-flower-photo-tfrec"
+  ],
+  "kernel_sources": [
+    "chankhavu/kernel-tensorflow-utils"
+  ],
+  "competition_sources": [
+    "tpu-getting-started"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "desalegngeb/plotly-guide-customize-for-better-visualizations",
+  "id_no": 16074203,
+  "title": "Plotly guide: Customize for better visualizations",
+  "code_file": "plotly-guide-customize-for-better-visualizations.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "data visualization",
+    "beginner",
+    "plotly",
+    "numpy",
+    "pandas"
+  ],
+  "dataset_sources": [
+    "",
+    "gpreda/covid-world-vaccination-progress",
+    "uciml/iris",
+    "shivamb/netflix-shows",
+    "jsphyg/weather-dataset-rattle-package",
+    "spscientist/students-performance-in-exams",
+    "unsdsn/world-happiness"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "house-prices-advanced-regression-techniques",
+    "competitive-data-science-predict-future-sales",
+    "titanic"
+  ],
+  "model_sources": []
+}

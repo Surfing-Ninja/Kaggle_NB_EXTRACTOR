@@ -1,0 +1,19 @@
+{
+  "id": "werooring/ch0-titanic-basic-solution-using-randomforest",
+  "id_no": 20555875,
+  "title": "[ch0] Titanic Basic Solution Using RandomForest",
+  "code_file": "ch0-titanic-basic-solution-using-randomforest.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "titanic"
+  ],
+  "model_sources": []
+}

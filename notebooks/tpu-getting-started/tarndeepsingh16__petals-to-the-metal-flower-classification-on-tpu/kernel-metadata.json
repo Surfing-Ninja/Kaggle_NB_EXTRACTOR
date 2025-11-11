@@ -1,0 +1,24 @@
+{
+  "id": "tarndeepsingh16/petals-to-the-metal-flower-classification-on-tpu",
+  "id_no": 50771663,
+  "title": "Petals to the Metal - Flower Classification on TPU",
+  "code_file": "petals-to-the-metal-flower-classification-on-tpu.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu",
+    "intermediate",
+    "tabular",
+    "image"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "tpu-getting-started"
+  ],
+  "model_sources": []
+}

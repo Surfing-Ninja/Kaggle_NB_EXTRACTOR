@@ -1,0 +1,31 @@
+{
+  "id": "azminetoushikwasi/xgboost-wrangling-with-hyperparameters-guide",
+  "id_no": 29689856,
+  "title": "XGBoost | Wrangling with Hyperparameters | Guide",
+  "code_file": "xgboost-wrangling-with-hyperparameters-guide.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "exploratory data analysis",
+    "binary classification",
+    "xgboost",
+    "tabular",
+    "data analytics",
+    "classification",
+    "categorical",
+    "model explainability",
+    "data cleaning",
+    "data visualization",
+    "model comparison"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "spaceship-titanic"
+  ],
+  "model_sources": []
+}

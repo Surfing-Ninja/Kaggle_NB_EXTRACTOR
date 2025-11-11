@@ -1,0 +1,25 @@
+{
+  "id": "lonnieqin/fast-style-transfer",
+  "id_no": 19615100,
+  "title": "Fast Style Transfer",
+  "code_file": "fast-style-transfer.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu",
+    "matplotlib",
+    "numpy",
+    "PIL",
+    "tensorflow"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "gan-getting-started"
+  ],
+  "model_sources": []
+}

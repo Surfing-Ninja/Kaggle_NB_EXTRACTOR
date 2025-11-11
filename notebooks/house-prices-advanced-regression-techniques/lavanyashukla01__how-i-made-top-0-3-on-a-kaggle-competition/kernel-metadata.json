@@ -1,0 +1,26 @@
+{
+  "id": "lavanyashukla01/how-i-made-top-0-3-on-a-kaggle-competition",
+  "id_no": 4181162,
+  "title": "How I made top 0.3% on a Kaggle competition",
+  "code_file": "how-i-made-top-0-3-on-a-kaggle-competition.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "feature engineering",
+    "regression",
+    "exploratory data analysis",
+    "dailychallenge"
+  ],
+  "dataset_sources": [
+    "lavanyashukla01/kernel-files"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "house-prices-advanced-regression-techniques"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "vanguarde/study-series-uplift-modeling",
+  "id_no": 26130086,
+  "title": "[study series] Uplift modeling",
+  "code_file": "study-series-uplift-modeling.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "mrmorj/megafon-uplift-competition"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "house-prices-advanced-regression-techniques",
+    "competitive-data-science-predict-future-sales",
+    "store-sales-time-series-forecasting",
+    "titanic"
+  ],
+  "model_sources": []
+}

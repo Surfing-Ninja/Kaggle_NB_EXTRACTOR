@@ -1,0 +1,25 @@
+{
+  "original_path": "notebooks/store-sales-time-series-forecasting/ryanholbrook__exercise-forecasting-with-machine-learning/exercise-forecasting-with-machine-learning.ipynb",
+  "quality_score": 41.906400000000005,
+  "grade": "C",
+  "techniques": {
+    "feature_engineering": [
+      "aggregation",
+      "label_encoding"
+    ],
+    "eda": [
+      "visualization"
+    ],
+    "advanced_ml": [
+      "xgboost"
+    ]
+  },
+  "libraries": [
+    "pandas",
+    "sklearn",
+    "xgboost",
+    "matplotlib"
+  ],
+  "category": "eda_fe",
+  "competition": "store-sales-time-series-forecasting"
+}

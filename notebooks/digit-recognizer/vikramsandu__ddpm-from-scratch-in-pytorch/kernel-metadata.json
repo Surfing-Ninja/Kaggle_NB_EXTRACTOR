@@ -1,0 +1,25 @@
+{
+  "id": "vikramsandu/ddpm-from-scratch-in-pytorch",
+  "id_no": 55700120,
+  "title": "DDPM from scratch in Pytorch",
+  "code_file": "ddpm-from-scratch-in-pytorch.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "pytorch",
+    "unet",
+    "image generator"
+  ],
+  "dataset_sources": [
+    "vikramsandu/diffusion-models"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "digit-recognizer"
+  ],
+  "model_sources": []
+}

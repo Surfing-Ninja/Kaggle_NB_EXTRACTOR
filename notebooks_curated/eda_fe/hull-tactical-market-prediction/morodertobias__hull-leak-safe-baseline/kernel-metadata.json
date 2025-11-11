@@ -1,0 +1,27 @@
+{
+  "id": "morodertobias/hull-leak-safe-baseline",
+  "id_no": 94410946,
+  "title": "Hull - Leak Safe Baseline",
+  "code_file": "hull-leak-safe-baseline.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "finance",
+    "investing",
+    "time series analysis",
+    "plotly",
+    "beginner"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [
+    "metric/hull-competition-sharpe"
+  ],
+  "competition_sources": [
+    "hull-tactical-market-prediction"
+  ],
+  "model_sources": []
+}

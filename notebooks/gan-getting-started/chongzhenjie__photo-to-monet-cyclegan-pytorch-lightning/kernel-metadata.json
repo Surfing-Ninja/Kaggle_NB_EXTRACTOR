@@ -1,0 +1,25 @@
+{
+  "id": "chongzhenjie/photo-to-monet-cyclegan-pytorch-lightning",
+  "id_no": 36254209,
+  "title": "Photo to Monet \u2014 CycleGAN\u26a1PyTorch Lightning",
+  "code_file": "photo-to-monet-cyclegan-pytorch-lightning.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "image style transfer",
+    "pytorch",
+    "gan",
+    "torchvision",
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "gan-getting-started"
+  ],
+  "model_sources": []
+}

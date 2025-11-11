@@ -1,0 +1,24 @@
+{
+  "original_path": "notebooks/nfl-big-data-bowl-2026-analytics/dedquoc__nfl-bdb-2026-player-tracking-animation-v1/nfl-bdb-2026-player-tracking-animation-v1.ipynb",
+  "quality_score": 37.7,
+  "grade": "D",
+  "techniques": {
+    "feature_engineering": [
+      "aggregation"
+    ],
+    "eda": [
+      "scatter",
+      "missing_analysis",
+      "statistics",
+      "visualization"
+    ]
+  },
+  "libraries": [
+    "pandas",
+    "numpy",
+    "matplotlib",
+    "seaborn"
+  ],
+  "category": "eda_fe",
+  "competition": "nfl-big-data-bowl-2026-analytics"
+}

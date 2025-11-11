@@ -1,0 +1,21 @@
+{
+  "id": "nobita7/simple-u-net-baseline",
+  "id_no": 96741864,
+  "title": "Simple U-Net baseline",
+  "code_file": "simple-u-net-baseline.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "recodai-luc-scientific-image-forgery-detection"
+  ],
+  "model_sources": []
+}

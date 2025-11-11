@@ -1,0 +1,24 @@
+{
+  "id": "andreynesterov/monet-cyclegan-with-better-cycles",
+  "id_no": 41717503,
+  "title": "Monet: CycleGAN with Better Cycles",
+  "code_file": "monet-cyclegan-with-better-cycles.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": true,
+  "enable_internet": true,
+  "keywords": [
+    "tpu",
+    "tensorflow",
+    "gan",
+    "image style transfer"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "gan-getting-started"
+  ],
+  "model_sources": []
+}

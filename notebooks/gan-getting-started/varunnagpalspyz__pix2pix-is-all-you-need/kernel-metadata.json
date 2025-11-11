@@ -1,0 +1,31 @@
+{
+  "id": "varunnagpalspyz/pix2pix-is-all-you-need",
+  "id_no": 30636081,
+  "title": "pix2pix is all you need",
+  "code_file": "pix2pix-is-all-you-need.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu",
+    "gan",
+    "art",
+    "image",
+    "intermediate"
+  ],
+  "dataset_sources": [
+    "awsaf49/coco-2017-dataset",
+    "shravankumar9892/image-colorization"
+  ],
+  "kernel_sources": [
+    "varunnagpalspyz/utility-functions",
+    "varunnagpalspyz/gan-theory"
+  ],
+  "competition_sources": [
+    "gan-getting-started"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "tanreinama/chainer-mnistclassifier-base",
+  "id_no": 564191,
+  "title": "Chainer-MNISTClassifier-base",
+  "code_file": "chainer-mnistclassifier-base.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "digit-recognizer"
+  ],
+  "model_sources": []
+}

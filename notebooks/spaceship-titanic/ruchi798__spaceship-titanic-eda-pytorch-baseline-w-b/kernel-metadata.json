@@ -1,0 +1,24 @@
+{
+  "id": "ruchi798/spaceship-titanic-eda-pytorch-baseline-w-b",
+  "id_no": 24908036,
+  "title": "\ud83d\ude80 Spaceship Titanic: EDA + PyTorch Baseline + W&B",
+  "code_file": "spaceship-titanic-eda-pytorch-baseline-w-b.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "classification",
+    "pytorch",
+    "beginner",
+    "tabular"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "spaceship-titanic"
+  ],
+  "model_sources": []
+}

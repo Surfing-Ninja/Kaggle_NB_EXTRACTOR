@@ -1,0 +1,24 @@
+{
+  "id": "paultimothymooney/get-your-model-ready-to-submit",
+  "id_no": 897450,
+  "title": "Get your model ready to submit",
+  "code_file": "get-your-model-ready-to-submit.irnb",
+  "language": "r",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "beginner",
+    "learn"
+  ],
+  "dataset_sources": [
+    "dansbecker/melbourne-housing-snapshot"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "house-prices-advanced-regression-techniques"
+  ],
+  "model_sources": []
+}

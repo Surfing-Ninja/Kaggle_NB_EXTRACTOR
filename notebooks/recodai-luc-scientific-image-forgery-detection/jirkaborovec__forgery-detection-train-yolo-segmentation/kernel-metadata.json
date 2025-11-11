@@ -1,0 +1,23 @@
+{
+  "id": "jirkaborovec/forgery-detection-train-yolo-segmentation",
+  "id_no": 97014987,
+  "title": "Forgery\ud83c\udfadDetection: train YOLO segmentation",
+  "code_file": "forgery-detection-train-yolo-segmentation.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "jirkaborovec/forgerydetection-yolo-segmentation"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "recodai-luc-scientific-image-forgery-detection"
+  ],
+  "model_sources": []
+}

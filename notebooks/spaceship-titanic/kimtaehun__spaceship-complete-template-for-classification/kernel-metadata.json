@@ -1,0 +1,25 @@
+{
+  "id": "kimtaehun/spaceship-complete-template-for-classification",
+  "id_no": 36401211,
+  "title": "\ud83d\udef8Spaceship - Complete template for classification",
+  "code_file": "spaceship-complete-template-for-classification.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "feature engineering",
+    "xgboost",
+    "data cleaning",
+    "data analytics",
+    "data visualization"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "spaceship-titanic"
+  ],
+  "model_sources": []
+}

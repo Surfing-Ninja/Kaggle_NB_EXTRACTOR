@@ -1,0 +1,19 @@
+{
+  "id": "ladymj/pairing-authentic-forged-images",
+  "id_no": 98309585,
+  "title": "Pairing Authentic \u2194 Forged Images",
+  "code_file": "pairing-authentic-forged-images.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "recodai-luc-scientific-image-forgery-detection"
+  ],
+  "model_sources": []
+}

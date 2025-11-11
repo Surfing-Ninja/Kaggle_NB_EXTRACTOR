@@ -1,0 +1,24 @@
+{
+  "id": "nitsin/pca-demo-1",
+  "id_no": 16771140,
+  "title": "pca-demo-1",
+  "code_file": "pca-demo-1.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "matplotlib",
+    "numpy",
+    "pandas",
+    "plotly"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "digit-recognizer"
+  ],
+  "model_sources": []
+}

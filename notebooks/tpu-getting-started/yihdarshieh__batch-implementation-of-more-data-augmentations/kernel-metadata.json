@@ -1,0 +1,20 @@
+{
+  "id": "yihdarshieh/batch-implementation-of-more-data-augmentations",
+  "id_no": 8287180,
+  "title": "batch implementation of more data augmentations",
+  "code_file": "batch-implementation-of-more-data-augmentations.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "flower-classification-with-tpus",
+    "tpu-getting-started"
+  ],
+  "model_sources": []
+}

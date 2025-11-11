@@ -1,0 +1,21 @@
+{
+  "id": "itslek/stack-blend-lrs-xgb-lgb-house-prices-k-v17",
+  "id_no": 3083365,
+  "title": "Stack&Blend LRs XGB LGB {House Prices K} v17",
+  "code_file": "stack-blend-lrs-xgb-lgb-house-prices-k-v17.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "home-data-for-ml-course"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "ahsuna123/t5-embedding-calculation-cafa-6",
+  "id_no": 95215701,
+  "title": "T5 Embedding Calculation -  CAFA 6 ",
+  "code_file": "t5-embedding-calculation-cafa-6.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "cafa-6-protein-function-prediction"
+  ],
+  "model_sources": []
+}

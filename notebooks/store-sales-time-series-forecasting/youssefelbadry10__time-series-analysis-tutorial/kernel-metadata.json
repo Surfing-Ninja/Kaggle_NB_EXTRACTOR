@@ -1,0 +1,24 @@
+{
+  "id": "youssefelbadry10/time-series-analysis-tutorial",
+  "id_no": 64878768,
+  "title": "Time Series Analysis Tutorial\u231b\ufe0f ",
+  "code_file": "time-series-analysis-tutorial.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "rakannimer/air-passengers",
+    "sumanthvrao/daily-climate-time-series-data",
+    "redwankarimsony/shampoo-saled-dataset",
+    "saurav9786/time-series-data"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "store-sales-time-series-forecasting"
+  ],
+  "model_sources": []
+}

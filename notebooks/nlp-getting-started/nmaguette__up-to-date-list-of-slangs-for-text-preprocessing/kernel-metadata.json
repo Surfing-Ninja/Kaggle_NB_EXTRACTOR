@@ -1,0 +1,23 @@
+{
+  "id": "nmaguette/up-to-date-list-of-slangs-for-text-preprocessing",
+  "id_no": 7815292,
+  "title": "Up-to-date list of Slangs for Text Preprocessing",
+  "code_file": "up-to-date-list-of-slangs-for-text-preprocessing.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "data cleaning",
+    "nlp",
+    "text"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nlp-getting-started"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "dedquoc/cafa6-v8-gpu-baseline-esm2-8m",
+  "id_no": 95326406,
+  "title": "CAFA6_V8_GPU_Baseline_ESM2_8M",
+  "code_file": "cafa6-v8-gpu-baseline-esm2-8m.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "cafa-6-protein-function-prediction"
+  ],
+  "model_sources": []
+}

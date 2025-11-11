@@ -1,0 +1,28 @@
+{
+  "id": "ahmed121ashraf131/mnist-simple-cnn-knn-accuracy-100-top-1",
+  "id_no": 18665924,
+  "title": "MNIST: Simple CNN , KNN (Accuracy: 100%)=>Top 1%",
+  "code_file": "mnist-simple-cnn-knn-accuracy-100-top-1.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "cnn",
+    "keras",
+    "computer vision",
+    "deep learning",
+    "matplotlib",
+    "numpy",
+    "pandas",
+    "seaborn"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "digit-recognizer"
+  ],
+  "model_sources": []
+}

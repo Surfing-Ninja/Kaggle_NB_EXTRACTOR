@@ -1,0 +1,21 @@
+{
+  "id": "thuandao/loan-risk-intelligence-eda-ml",
+  "id_no": 97534746,
+  "title": "\ud83c\udfe6 Loan Risk Intelligence \ud83d\udcca EDA + ML",
+  "code_file": "loan-risk-intelligence-eda-ml.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "scheduled"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "playground-series-s5e11"
+  ],
+  "model_sources": []
+}

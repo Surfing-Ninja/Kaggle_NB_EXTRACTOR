@@ -1,0 +1,23 @@
+{
+  "id": "okcho9807/cyclegan-jy-zhu-et-al-2020",
+  "id_no": 22554324,
+  "title": "CycleGAN(JY Zhu et al., 2020)",
+  "code_file": "cyclegan-jy-zhu-et-al-2020.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    ""
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "gan-getting-started"
+  ],
+  "model_sources": []
+}

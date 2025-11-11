@@ -1,0 +1,33 @@
+{
+  "original_path": "notebooks/llm-classification-finetuning/gallo33henrique__llm-classification-finetuning-ml-lightgbm/llm-classification-finetuning-ml-lightgbm.ipynb",
+  "quality_score": 47.70125,
+  "grade": "C",
+  "techniques": {
+    "feature_engineering": [
+      "label_encoding",
+      "text_features"
+    ],
+    "eda": [
+      "missing_analysis",
+      "statistics",
+      "visualization"
+    ],
+    "advanced_ml": [
+      "lightgbm",
+      "neural_network"
+    ]
+  },
+  "libraries": [
+    "pandas",
+    "numpy",
+    "sklearn",
+    "lightgbm",
+    "matplotlib",
+    "seaborn",
+    "plotly",
+    "keras",
+    "pytorch"
+  ],
+  "category": "eda_fe",
+  "competition": "llm-classification-finetuning"
+}

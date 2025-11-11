@@ -1,0 +1,23 @@
+{
+  "id": "rivaldofauzan/2-4-training-gemma-lora-8-5",
+  "id_no": 82814310,
+  "title": "2.4 Training Gemma LoRA 8,5",
+  "code_file": "2-4-training-gemma-lora-8-5.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": true,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "defdet/utils-xla"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "llm-classification-finetuning"
+  ],
+  "model_sources": [
+    "google/gemma-2/Transformers/gemma-2-2b-it/2"
+  ]
+}

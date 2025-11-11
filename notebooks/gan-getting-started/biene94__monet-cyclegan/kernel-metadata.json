@@ -1,0 +1,21 @@
+{
+  "id": "biene94/monet-cyclegan",
+  "id_no": 25620689,
+  "title": "Monet CycleGAN",
+  "code_file": "monet-cyclegan.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": true,
+  "enable_internet": true,
+  "keywords": [
+    "tpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "gan-getting-started"
+  ],
+  "model_sources": []
+}

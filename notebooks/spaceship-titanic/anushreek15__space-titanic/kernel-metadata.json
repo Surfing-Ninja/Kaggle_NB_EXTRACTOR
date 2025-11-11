@@ -1,0 +1,19 @@
+{
+  "id": "anushreek15/space-titanic",
+  "id_no": 34337086,
+  "title": "Space titanic\ud83d\udef3\ufe0f ",
+  "code_file": "space-titanic.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "spaceship-titanic"
+  ],
+  "model_sources": []
+}

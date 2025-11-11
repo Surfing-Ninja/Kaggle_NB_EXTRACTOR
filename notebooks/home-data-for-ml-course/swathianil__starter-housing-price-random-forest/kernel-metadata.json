@@ -1,0 +1,23 @@
+{
+  "id": "swathianil/starter-housing-price-random-forest",
+  "id_no": 31180400,
+  "title": "Starter: Housing Price | Random Forest ",
+  "code_file": "starter-housing-price-random-forest.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "regression",
+    "housing",
+    "random forest"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "home-data-for-ml-course"
+  ],
+  "model_sources": []
+}

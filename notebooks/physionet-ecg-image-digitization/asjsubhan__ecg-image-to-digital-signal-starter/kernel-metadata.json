@@ -1,0 +1,19 @@
+{
+  "id": "asjsubhan/ecg-image-to-digital-signal-starter",
+  "id_no": 96238853,
+  "title": "ECG_Image_to_Digital_Signal_Starter",
+  "code_file": "ecg-image-to-digital-signal-starter.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "physionet-ecg-image-digitization"
+  ],
+  "model_sources": []
+}

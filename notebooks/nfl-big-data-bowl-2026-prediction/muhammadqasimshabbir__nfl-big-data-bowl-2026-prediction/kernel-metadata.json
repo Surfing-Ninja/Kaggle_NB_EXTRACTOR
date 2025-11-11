@@ -1,0 +1,24 @@
+{
+  "id": "muhammadqasimshabbir/nfl-big-data-bowl-2026-prediction",
+  "id_no": 93144389,
+  "title": "NFL Big Data Bowl 2026 - Prediction",
+  "code_file": "nfl-big-data-bowl-2026-prediction.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "advanced",
+    "intermediate",
+    "pytorch",
+    "text"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nfl-big-data-bowl-2026-prediction"
+  ],
+  "model_sources": []
+}

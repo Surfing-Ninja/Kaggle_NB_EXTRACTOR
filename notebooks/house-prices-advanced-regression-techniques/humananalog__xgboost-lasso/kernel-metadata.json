@@ -1,0 +1,19 @@
+{
+  "id": "humananalog/xgboost-lasso",
+  "id_no": 112467,
+  "title": "XGBoost + Lasso",
+  "code_file": "xgboost-lasso.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "house-prices-advanced-regression-techniques"
+  ],
+  "model_sources": []
+}

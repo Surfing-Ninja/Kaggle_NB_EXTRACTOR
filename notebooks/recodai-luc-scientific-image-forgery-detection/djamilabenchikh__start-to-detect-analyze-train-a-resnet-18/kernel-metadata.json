@@ -1,0 +1,21 @@
+{
+  "id": "djamilabenchikh/start-to-detect-analyze-train-a-resnet-18",
+  "id_no": 96738470,
+  "title": "\u26a1 Start to Detect : Analyze & Train a ResNet-18",
+  "code_file": "start-to-detect-analyze-train-a-resnet-18.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "recodai-luc-scientific-image-forgery-detection"
+  ],
+  "model_sources": []
+}

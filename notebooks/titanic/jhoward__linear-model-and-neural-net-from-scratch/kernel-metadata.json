@@ -1,0 +1,19 @@
+{
+  "id": "jhoward/linear-model-and-neural-net-from-scratch",
+  "id_no": 26989599,
+  "title": "Linear model and neural net from scratch",
+  "code_file": "linear-model-and-neural-net-from-scratch.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "titanic"
+  ],
+  "model_sources": []
+}

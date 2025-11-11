@@ -1,0 +1,19 @@
+{
+  "id": "apoorvauplap/stores-sales-time-series",
+  "id_no": 30810124,
+  "title": "Stores Sales Time Series",
+  "code_file": "stores-sales-time-series.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "store-sales-time-series-forecasting"
+  ],
+  "model_sources": []
+}

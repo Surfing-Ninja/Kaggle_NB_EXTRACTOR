@@ -1,0 +1,19 @@
+{
+  "id": "ekami66/detailed-exploratory-data-analysis-with-python",
+  "id_no": 164541,
+  "title": "Detailed exploratory data analysis with python",
+  "code_file": "detailed-exploratory-data-analysis-with-python.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "house-prices-advanced-regression-techniques"
+  ],
+  "model_sources": []
+}

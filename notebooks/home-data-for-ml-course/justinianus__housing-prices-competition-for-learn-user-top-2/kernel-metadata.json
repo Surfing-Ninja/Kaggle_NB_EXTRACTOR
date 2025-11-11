@@ -1,0 +1,25 @@
+{
+  "id": "justinianus/housing-prices-competition-for-learn-user-top-2",
+  "id_no": 35313811,
+  "title": "Housing Prices Competition for Learn User [Top 2%]",
+  "code_file": "housing-prices-competition-for-learn-user-top-2.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "random forest",
+    "xgboost",
+    "decision tree",
+    "categorical",
+    "beginner"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "home-data-for-ml-course"
+  ],
+  "model_sources": []
+}

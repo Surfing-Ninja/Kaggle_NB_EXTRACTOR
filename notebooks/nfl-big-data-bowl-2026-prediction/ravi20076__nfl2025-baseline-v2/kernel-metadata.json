@@ -1,0 +1,23 @@
+{
+  "id": "ravi20076/nfl2025-baseline-v2",
+  "id_no": 93161611,
+  "title": "NFL2025|Baseline|V2",
+  "code_file": "nfl2025-baseline-v2.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu",
+    "football",
+    "regression"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nfl-big-data-bowl-2026-prediction"
+  ],
+  "model_sources": []
+}

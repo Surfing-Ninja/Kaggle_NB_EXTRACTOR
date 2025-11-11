@@ -1,0 +1,23 @@
+{
+  "original_path": "notebooks/store-sales-time-series-forecasting/ryanholbrook__exercise-time-series-as-features/exercise-time-series-as-features.ipynb",
+  "quality_score": 37.6014,
+  "grade": "D",
+  "techniques": {
+    "feature_engineering": [
+      "aggregation",
+      "lag_features"
+    ],
+    "eda": [
+      "visualization"
+    ]
+  },
+  "libraries": [
+    "pandas",
+    "numpy",
+    "sklearn",
+    "matplotlib",
+    "seaborn"
+  ],
+  "category": "eda_fe",
+  "competition": "store-sales-time-series-forecasting"
+}

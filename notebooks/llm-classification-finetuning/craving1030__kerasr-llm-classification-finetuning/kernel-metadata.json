@@ -1,0 +1,21 @@
+{
+  "id": "craving1030/kerasr-llm-classification-finetuning",
+  "id_no": 92063478,
+  "title": "KerasR_llm_classification_finetuning",
+  "code_file": "kerasr-llm-classification-finetuning.irnb",
+  "language": "r",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "llm-classification-finetuning"
+  ],
+  "model_sources": []
+}

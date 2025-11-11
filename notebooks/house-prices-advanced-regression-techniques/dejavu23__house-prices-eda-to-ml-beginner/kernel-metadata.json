@@ -1,0 +1,23 @@
+{
+  "id": "dejavu23/house-prices-eda-to-ml-beginner",
+  "id_no": 872539,
+  "title": "House Prices: EDA to ML (Beginner)",
+  "code_file": "house-prices-eda-to-ml-beginner.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "beginner",
+    "exploratory data analysis",
+    "data visualization"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "house-prices-advanced-regression-techniques"
+  ],
+  "model_sources": []
+}

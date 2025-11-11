@@ -1,0 +1,27 @@
+{
+  "id": "subarnasaikia/combineembeddings-of-cafa5-lb-0-207",
+  "id_no": 95616268,
+  "title": "CombineEmbeddings of cafa5 [LB:0.207]",
+  "code_file": "combineembeddings-of-cafa5-lb-0-207.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "viktorfairuschin/cafa-5-ems-2-embeddings-numpy",
+    "alexandervc/cafa5-data-selected",
+    "alexandervc/cafa5-features-etc",
+    "alexandervc/protein-embeddings-2-cafa5",
+    "alexandervc/protein-embeddings-3-cafa5",
+    "alexandervc/protein-embeddings-4-cafa5-selected",
+    "sergeifironov/t5embeds"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "cafa-6-protein-function-prediction"
+  ],
+  "model_sources": []
+}

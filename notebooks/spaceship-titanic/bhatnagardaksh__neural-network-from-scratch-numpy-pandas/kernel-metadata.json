@@ -1,0 +1,33 @@
+{
+  "id": "bhatnagardaksh/neural-network-from-scratch-numpy-pandas",
+  "id_no": 42501953,
+  "title": "Neural Network from scratch (Numpy & Pandas)",
+  "code_file": "neural-network-from-scratch-numpy-pandas.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "binary classification",
+    "numpy",
+    "pandas",
+    "neural networks"
+  ],
+  "dataset_sources": [
+    "uciml/breast-cancer-wisconsin-data",
+    "uciml/default-of-credit-card-clients-dataset",
+    "uciml/iris",
+    "uciml/mushroom-classification",
+    "uciml/pima-indians-diabetes-database"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "playground-series-s3e2",
+    "tpu-getting-started",
+    "spaceship-titanic",
+    "titanic"
+  ],
+  "model_sources": []
+}

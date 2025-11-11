@@ -1,0 +1,23 @@
+{
+  "id": "ravi20076/hull2025-lbchaser-v1",
+  "id_no": 92547797,
+  "title": "Hull2025|LBChaser|V1",
+  "code_file": "hull2025-lbchaser-v1.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "tabular",
+    "time series analysis",
+    "regression"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "hull-tactical-market-prediction"
+  ],
+  "model_sources": []
+}

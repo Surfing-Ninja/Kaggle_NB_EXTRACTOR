@@ -1,0 +1,21 @@
+{
+  "id": "sushanth1995/text-classification-with-bert-xgboost",
+  "id_no": 8853238,
+  "title": "Text-classification with BERT+XGBOOST",
+  "code_file": "text-classification-with-bert-xgboost.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [
+    "sushanth1995/extensive-preprocessing-for-bert"
+  ],
+  "competition_sources": [
+    "nlp-getting-started"
+  ],
+  "model_sources": []
+}

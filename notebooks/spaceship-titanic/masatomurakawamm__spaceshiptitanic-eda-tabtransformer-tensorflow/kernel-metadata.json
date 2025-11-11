@@ -1,0 +1,25 @@
+{
+  "id": "masatomurakawamm/spaceshiptitanic-eda-tabtransformer-tensorflow",
+  "id_no": 27053911,
+  "title": "SpaceshipTitanic: EDA + TabTransformer[TensorFlow]",
+  "code_file": "spaceshiptitanic-eda-tabtransformer-tensorflow.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "transformers",
+    "deep learning",
+    "exploratory data analysis",
+    "tensorflow",
+    "feature engineering"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "spaceship-titanic"
+  ],
+  "model_sources": []
+}

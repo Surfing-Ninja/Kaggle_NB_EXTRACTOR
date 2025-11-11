@@ -1,0 +1,23 @@
+{
+  "id": "gunianxue/csiro-the-best-baseline-to-start-with",
+  "id_no": 97361454,
+  "title": "CSIRO-The best baseline to start with",
+  "code_file": "csiro-the-best-baseline-to-start-with.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [
+    "none00000/csiro"
+  ],
+  "competition_sources": [
+    "csiro-biomass"
+  ],
+  "model_sources": []
+}

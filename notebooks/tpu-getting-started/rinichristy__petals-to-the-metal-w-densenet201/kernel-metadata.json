@@ -1,0 +1,21 @@
+{
+  "id": "rinichristy/petals-to-the-metal-w-densenet201",
+  "id_no": 27986273,
+  "title": "Petals to the Metal w/DenseNet201",
+  "code_file": "petals-to-the-metal-w-densenet201.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "tpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "tpu-getting-started"
+  ],
+  "model_sources": []
+}

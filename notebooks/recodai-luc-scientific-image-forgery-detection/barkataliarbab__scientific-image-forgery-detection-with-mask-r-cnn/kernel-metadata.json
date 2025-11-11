@@ -1,0 +1,21 @@
+{
+  "id": "barkataliarbab/scientific-image-forgery-detection-with-mask-r-cnn",
+  "id_no": 96343248,
+  "title": "Scientific Image Forgery Detection with Mask R-CNN",
+  "code_file": "scientific-image-forgery-detection-with-mask-r-cnn.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "recodai-luc-scientific-image-forgery-detection"
+  ],
+  "model_sources": []
+}

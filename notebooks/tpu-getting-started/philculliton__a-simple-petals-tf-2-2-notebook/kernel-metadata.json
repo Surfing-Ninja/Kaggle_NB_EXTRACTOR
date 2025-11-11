@@ -1,0 +1,21 @@
+{
+  "id": "philculliton/a-simple-petals-tf-2-2-notebook",
+  "id_no": 10206108,
+  "title": "A Simple Petals TF 2.2 notebook",
+  "code_file": "a-simple-petals-tf-2-2-notebook.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "tpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "tpu-getting-started"
+  ],
+  "model_sources": []
+}

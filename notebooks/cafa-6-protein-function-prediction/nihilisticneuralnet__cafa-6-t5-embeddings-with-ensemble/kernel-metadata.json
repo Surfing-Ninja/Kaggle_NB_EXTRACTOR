@@ -1,0 +1,27 @@
+{
+  "id": "nihilisticneuralnet/cafa-6-t5-embeddings-with-ensemble",
+  "id_no": 95272196,
+  "title": "CAFA 6 - T5 Embeddings with Ensemble",
+  "code_file": "cafa-6-t5-embeddings-with-ensemble.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "viktorfairuschin/cafa-5-ems-2-embeddings-numpy",
+    "siddhvr/cafa-5-053171-pred",
+    "henriupton/protbert-embeddings-for-cafa5",
+    "sergeifironov/t5embeds",
+    "siddhvr/train-targets-top500"
+  ],
+  "kernel_sources": [
+    "nihilisticneuralnet/protbert-ensemble"
+  ],
+  "competition_sources": [
+    "cafa-6-protein-function-prediction"
+  ],
+  "model_sources": []
+}

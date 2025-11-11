@@ -1,0 +1,23 @@
+{
+  "id": "atamazian/fc-swin-large-with-external-data",
+  "id_no": 42650483,
+  "title": "FC Swin Large with External Data",
+  "code_file": "fc-swin-large-with-external-data.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": true,
+  "enable_internet": true,
+  "keywords": [
+    "tpu"
+  ],
+  "dataset_sources": [
+    "kirillblinov/tf-flower-photo-tfrec"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "tpu-getting-started"
+  ],
+  "model_sources": []
+}

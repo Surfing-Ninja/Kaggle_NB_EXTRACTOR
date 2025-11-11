@@ -1,0 +1,23 @@
+{
+  "id": "shivsatyam/inference-tl-resnet152-baseline-for-img2biomass",
+  "id_no": 97311200,
+  "title": "[Inference, TL] Resnet152 Baseline for Img2Biomass",
+  "code_file": "inference-tl-resnet152-baseline-for-img2biomass.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [
+    "packagemanager/pm-97311200-at-11-09-2025-15-01-07"
+  ],
+  "competition_sources": [
+    "csiro-biomass"
+  ],
+  "model_sources": [
+    ""
+  ]
+}

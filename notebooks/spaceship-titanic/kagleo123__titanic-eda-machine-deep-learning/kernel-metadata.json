@@ -1,0 +1,20 @@
+{
+  "id": "kagleo123/titanic-eda-machine-deep-learning",
+  "id_no": 34297429,
+  "title": "\ud83d\udea2titanic EDA\ud83d\udcc8 & Machine , Deep learning\ud83d\udca1",
+  "code_file": "titanic-eda-machine-deep-learning.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "spaceship-titanic",
+    "titanic"
+  ],
+  "model_sources": []
+}

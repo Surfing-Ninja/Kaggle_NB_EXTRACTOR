@@ -1,0 +1,25 @@
+{
+  "id": "conradkleykamp/using-gans-to-create-monet-style-art-cyclegan",
+  "id_no": 41275035,
+  "title": "Using GANs to Create Monet Style Art (CycleGAN)",
+  "code_file": "using-gans-to-create-monet-style-art-cyclegan.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu",
+    "art",
+    "gan",
+    "python",
+    "exploratory data analysis"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "gan-getting-started"
+  ],
+  "model_sources": []
+}

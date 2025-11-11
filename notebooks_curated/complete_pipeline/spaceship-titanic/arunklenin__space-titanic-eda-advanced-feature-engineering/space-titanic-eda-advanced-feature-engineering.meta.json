@@ -1,0 +1,54 @@
+{
+  "original_path": "notebooks/spaceship-titanic/arunklenin__space-titanic-eda-advanced-feature-engineering/space-titanic-eda-advanced-feature-engineering.ipynb",
+  "quality_score": 100,
+  "grade": "A",
+  "techniques": {
+    "feature_engineering": [
+      "aggregation",
+      "label_encoding",
+      "onehot_encoding",
+      "scaling",
+      "binning",
+      "text_features"
+    ],
+    "eda": [
+      "histogram",
+      "correlation",
+      "scatter",
+      "missing_analysis",
+      "outlier_detection",
+      "statistics",
+      "visualization"
+    ],
+    "dimensionality": [
+      "svd"
+    ],
+    "hyperparameter": [
+      "grid_search",
+      "random_search",
+      "optuna",
+      "cross_validation"
+    ],
+    "advanced_ml": [
+      "xgboost",
+      "lightgbm",
+      "catboost",
+      "neural_network",
+      "ensemble"
+    ]
+  },
+  "libraries": [
+    "pandas",
+    "numpy",
+    "sklearn",
+    "xgboost",
+    "lightgbm",
+    "catboost",
+    "matplotlib",
+    "seaborn",
+    "tensorflow",
+    "keras"
+  ],
+  "category": "complete_pipeline",
+  "competition": "spaceship-titanic"
+}

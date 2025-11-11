@@ -1,0 +1,27 @@
+{
+  "id": "sacuscreed/merge-of-2submission-lb-0-25",
+  "id_no": 95724727,
+  "title": "Merge of 2submission (lb: 0.25)",
+  "code_file": "merge-of-2submission-lb-0-25.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "siddhvr/cafa5-055923-pred"
+  ],
+  "kernel_sources": [
+    "packagemanager/pm-95724727-at-10-20-2025-07-01-26"
+  ],
+  "competition_sources": [
+    "cafa-6-protein-function-prediction"
+  ],
+  "model_sources": [
+    "keras/esm-2/Keras/esm2_t6_8m/1"
+  ]
+}

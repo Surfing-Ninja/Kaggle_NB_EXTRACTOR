@@ -1,0 +1,19 @@
+{
+  "id": "kushtrivedi14728/nfl-big-data-bowl-agnostic-visualization-library",
+  "id_no": 98090893,
+  "title": "NFL Big Data Bowl: Agnostic Visualization Library",
+  "code_file": "nfl-big-data-bowl-agnostic-visualization-library.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nfl-big-data-bowl-2026-analytics"
+  ],
+  "model_sources": []
+}

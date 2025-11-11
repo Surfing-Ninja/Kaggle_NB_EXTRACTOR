@@ -1,0 +1,27 @@
+{
+  "id": "parulpandey/useful-python-libraries-for-data-science",
+  "id_no": 7838924,
+  "title": "Useful Python libraries for Data Science",
+  "code_file": "useful-python-libraries-for-data-science.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "beginner",
+    "exploratory data analysis",
+    "data visualization"
+  ],
+  "dataset_sources": [
+    "rohanrao/nifty50-stock-market-data"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "house-prices-advanced-regression-techniques",
+    "nlp-getting-started",
+    "titanic"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "yang25/ml-tp2",
+  "id_no": 98254032,
+  "title": "ML_TP2",
+  "code_file": "ml-tp2.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "llm-classification-finetuning"
+  ],
+  "model_sources": [
+    "yang25/minilm-l12-v2-local/Other/default/1"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "neerajmohan/fine-tuning-bert-for-text-classification",
+  "id_no": 16615121,
+  "title": "Fine-tuning BERT for Text classification",
+  "code_file": "fine-tuning-bert-for-text-classification.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "nlp",
+    "beginner",
+    "transfer learning",
+    "transformers",
+    "natural disasters",
+    "programming",
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nlp-getting-started"
+  ],
+  "model_sources": []
+}

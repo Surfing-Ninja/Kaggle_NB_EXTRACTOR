@@ -1,0 +1,21 @@
+{
+  "id": "alejandravillarreal/eda-mabe-callenge",
+  "id_no": 92531098,
+  "title": "\ud83d\udcca EDA \ud83d\udd0e MABe Callenge \ud83d\udc01\ud83d\udc01\ud83d\udc01",
+  "code_file": "eda-mabe-callenge.irnb",
+  "language": "r",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "alejandravillarreal/prepared-data"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "MABe-mouse-behavior-detection"
+  ],
+  "model_sources": []
+}

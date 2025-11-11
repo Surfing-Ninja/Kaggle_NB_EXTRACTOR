@@ -1,0 +1,29 @@
+{
+  "id": "vencerlanz09/0-80266-eda-feature-engineerng",
+  "id_no": 29218674,
+  "title": "\ud83d\ude80(0.80266%) EDA + Feature Engineerng",
+  "code_file": "0-80266-eda-feature-engineerng.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "data visualization",
+    "exploratory data analysis",
+    "logistic regression",
+    "xgboost",
+    "matplotlib",
+    "random forest",
+    "pandas"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [
+    "vencerlanz09/visualizationfunctions"
+  ],
+  "competition_sources": [
+    "spaceship-titanic"
+  ],
+  "model_sources": []
+}

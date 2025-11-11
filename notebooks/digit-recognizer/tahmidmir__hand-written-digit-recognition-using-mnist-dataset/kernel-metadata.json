@@ -1,0 +1,21 @@
+{
+  "id": "tahmidmir/hand-written-digit-recognition-using-mnist-dataset",
+  "id_no": 48762781,
+  "title": "Hand Written Digit Recognition using MNIST DATASET",
+  "code_file": "hand-written-digit-recognition-using-mnist-dataset.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "digit-recognizer"
+  ],
+  "model_sources": []
+}

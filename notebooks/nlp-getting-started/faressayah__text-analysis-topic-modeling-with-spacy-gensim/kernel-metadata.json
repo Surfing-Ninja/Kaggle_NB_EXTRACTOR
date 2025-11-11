@@ -1,0 +1,29 @@
+{
+  "id": "faressayah/text-analysis-topic-modeling-with-spacy-gensim",
+  "id_no": 15619405,
+  "title": "Text Analysis + Topic Modeling with spaCy &\u00a0GENSIM",
+  "code_file": "text-analysis-topic-modeling-with-spacy-gensim.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "spaCy",
+    "nlp",
+    "text"
+  ],
+  "dataset_sources": [
+    "ayushggarg/all-trumps-twitter-insults-20152021",
+    "dhruvildave/wikibooks-dataset"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "contradictory-my-dear-watson",
+    "jigsaw-multilingual-toxic-comment-classification",
+    "nlp-getting-started",
+    "tweet-sentiment-extraction"
+  ],
+  "model_sources": []
+}

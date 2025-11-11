@@ -1,0 +1,19 @@
+{
+  "id": "husnind/cafa-6-protein-function-prediction-baseline-model",
+  "id_no": 96545721,
+  "title": "CAFA-6 Protein Function Prediction-Baseline Model",
+  "code_file": "cafa-6-protein-function-prediction-baseline-model.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "cafa-6-protein-function-prediction"
+  ],
+  "model_sources": []
+}

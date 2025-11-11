@@ -1,0 +1,24 @@
+{
+  "id": "hackspyder/fine-tuning-bert-for-sentiment-analysis",
+  "id_no": 14106395,
+  "title": "Fine tuning BERT for Sentiment Analysis",
+  "code_file": "fine-tuning-bert-for-sentiment-analysis.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "statistical analysis",
+    "nlp",
+    "beginner",
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nlp-getting-started"
+  ],
+  "model_sources": []
+}

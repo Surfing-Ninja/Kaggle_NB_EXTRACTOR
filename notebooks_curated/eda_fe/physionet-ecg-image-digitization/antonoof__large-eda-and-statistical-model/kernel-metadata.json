@@ -1,0 +1,19 @@
+{
+  "id": "antonoof/large-eda-and-statistical-model",
+  "id_no": 95988355,
+  "title": "large EDA and statistical model",
+  "code_file": "large-eda-and-statistical-model.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "physionet-ecg-image-digitization"
+  ],
+  "model_sources": []
+}

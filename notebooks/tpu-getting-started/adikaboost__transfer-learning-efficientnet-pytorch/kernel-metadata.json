@@ -1,0 +1,26 @@
+{
+  "id": "adikaboost/transfer-learning-efficientnet-pytorch",
+  "id_no": 43156495,
+  "title": " Transfer Learning - EfficientNet (PyTorch\ud83d\udd25)",
+  "code_file": "transfer-learning-efficientnet-pytorch.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "beginner",
+    "computer vision",
+    "efficientnet-b0",
+    "transfer learning",
+    "deep learning",
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "tpu-getting-started"
+  ],
+  "model_sources": []
+}

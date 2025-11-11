@@ -1,0 +1,21 @@
+{
+  "id": "alexia/kerasnlp-starter-notebook-disaster-tweets",
+  "id_no": 41521609,
+  "title": "KerasNLP starter notebook Disaster Tweets",
+  "code_file": "kerasnlp-starter-notebook-disaster-tweets.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nlp-getting-started"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "ladymj/paired-efficientnet-b0-official-metric",
+  "id_no": 96519760,
+  "title": "Paired EfficientNet-B0 \u2014 OFFICIAL METRIC",
+  "code_file": "paired-efficientnet-b0-official-metric.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "recodai-luc-scientific-image-forgery-detection"
+  ],
+  "model_sources": []
+}

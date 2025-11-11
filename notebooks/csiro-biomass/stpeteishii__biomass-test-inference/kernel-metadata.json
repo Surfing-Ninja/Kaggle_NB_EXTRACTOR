@@ -1,0 +1,25 @@
+{
+  "id": "stpeteishii/biomass-test-inference",
+  "id_no": 97290285,
+  "title": "Biomass Test Inference",
+  "code_file": "biomass-test-inference.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [
+    "stpeteishii/download-lightning2",
+    "stpeteishii/species-pytorch-lightning-cnn-classifier",
+    "stpeteishii/height-ave-cm-pytorch-lightning-cnn-regressor",
+    "stpeteishii/pre-gshh-ndvi-pytorch-lightning-cnn-regressor",
+    "stpeteishii/biomass-train-data-visualize-importance"
+  ],
+  "competition_sources": [
+    "csiro-biomass"
+  ],
+  "model_sources": []
+}

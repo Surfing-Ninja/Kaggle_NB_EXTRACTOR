@@ -1,0 +1,21 @@
+{
+  "id": "hadeux/spaceship-titanic-auto-ensemble-model",
+  "id_no": 31860543,
+  "title": "[Spaceship Titanic] Auto \ud83e\udd16 Ensemble Model\ud83d\udcb8",
+  "code_file": "spaceship-titanic-auto-ensemble-model.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "spaceship-titanic"
+  ],
+  "model_sources": []
+}

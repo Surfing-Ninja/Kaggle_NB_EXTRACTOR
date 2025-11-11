@@ -1,0 +1,21 @@
+{
+  "id": "harshrajsahu007/nfl-harsh-submission",
+  "id_no": 93323997,
+  "title": "NFL_Harsh_submission",
+  "code_file": "nfl-harsh-submission.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nfl-big-data-bowl-2026-prediction"
+  ],
+  "model_sources": []
+}

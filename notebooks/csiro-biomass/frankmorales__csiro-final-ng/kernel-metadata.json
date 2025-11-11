@@ -1,0 +1,21 @@
+{
+  "id": "frankmorales/csiro-final-ng",
+  "id_no": 97611006,
+  "title": "CSIRO-FINAL-NG",
+  "code_file": "csiro-final-ng.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "csiro-biomass"
+  ],
+  "model_sources": []
+}

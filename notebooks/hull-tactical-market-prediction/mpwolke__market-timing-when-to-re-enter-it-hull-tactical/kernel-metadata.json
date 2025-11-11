@@ -1,0 +1,19 @@
+{
+  "id": "mpwolke/market-timing-when-to-re-enter-it-hull-tactical",
+  "id_no": 93217529,
+  "title": "Market timing. When to re-enter it: Hull Tactical",
+  "code_file": "market-timing-when-to-re-enter-it-hull-tactical.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "hull-tactical-market-prediction"
+  ],
+  "model_sources": []
+}

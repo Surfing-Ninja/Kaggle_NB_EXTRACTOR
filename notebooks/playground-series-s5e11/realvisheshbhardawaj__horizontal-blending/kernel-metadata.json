@@ -1,0 +1,21 @@
+{
+  "id": "realvisheshbhardawaj/horizontal-blending",
+  "id_no": 98147327,
+  "title": "\u2b06\ufe0f\u2b06\ufe0f Horizontal Blending \u2b06\ufe0f\u2b06\ufe0f",
+  "code_file": "horizontal-blending.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "nina2025/03-november-2025-ps-s5e11"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "playground-series-s5e11"
+  ],
+  "model_sources": []
+}

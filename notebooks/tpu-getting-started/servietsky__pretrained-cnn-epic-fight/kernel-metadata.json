@@ -1,0 +1,25 @@
+{
+  "id": "servietsky/pretrained-cnn-epic-fight",
+  "id_no": 11521017,
+  "title": "Pretrained CNN Epic Fight \u2694\ufe0f",
+  "code_file": "pretrained-cnn-epic-fight.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "tpu",
+    "gpu",
+    "beginner",
+    "data visualization",
+    "classification"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "tpu-getting-started"
+  ],
+  "model_sources": []
+}

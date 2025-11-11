@@ -1,0 +1,27 @@
+{
+  "id": "mariapushkareva/nlp-disaster-tweets-with-glove-and-lstm",
+  "id_no": 7839398,
+  "title": "NLP (Disaster Tweets) with Glove and LSTM",
+  "code_file": "nlp-disaster-tweets-with-glove-and-lstm.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "deep learning",
+    "neural networks",
+    "lstm",
+    "nlp",
+    "text"
+  ],
+  "dataset_sources": [
+    "mariapushkareva/glove-file"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nlp-getting-started"
+  ],
+  "model_sources": []
+}

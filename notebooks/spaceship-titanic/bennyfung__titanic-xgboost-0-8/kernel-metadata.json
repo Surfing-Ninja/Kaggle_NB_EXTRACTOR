@@ -1,0 +1,24 @@
+{
+  "id": "bennyfung/titanic-xgboost-0-8",
+  "id_no": 33030538,
+  "title": "Titanic - XGBoost (0.8)",
+  "code_file": "titanic-xgboost-0-8.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "automl",
+    "xgboost",
+    "feature engineering",
+    "lightgbm"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "spaceship-titanic"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "carsoncheng/sam-dice-score-thresholding-lb-0-257",
+  "id_no": 96723311,
+  "title": "SAM + Dice Score + Thresholding | LB 0.257",
+  "code_file": "sam-dice-score-thresholding-lb-0-257.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "",
+    ""
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "recodai-luc-scientific-image-forgery-detection"
+  ],
+  "model_sources": []
+}

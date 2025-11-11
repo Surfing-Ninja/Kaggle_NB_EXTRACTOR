@@ -1,0 +1,25 @@
+{
+  "id": "javigallego/time-series-forecasting-tutorial",
+  "id_no": 24908312,
+  "title": "Time Series Forecasting Tutorial",
+  "code_file": "time-series-forecasting-tutorial.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "beginner",
+    "time series analysis",
+    "data visualization",
+    "datetime",
+    "feature engineering"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "store-sales-time-series-forecasting"
+  ],
+  "model_sources": []
+}

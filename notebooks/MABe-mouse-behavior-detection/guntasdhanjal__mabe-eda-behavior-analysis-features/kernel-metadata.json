@@ -1,0 +1,24 @@
+{
+  "id": "guntasdhanjal/mabe-eda-behavior-analysis-features",
+  "id_no": 94382875,
+  "title": "\ud83d\udc2d MABe EDA: Behavior Analysis & Features",
+  "code_file": "mabe-eda-behavior-analysis-features.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "python",
+    "exploratory data analysis",
+    "data visualization",
+    "beginner"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "MABe-mouse-behavior-detection"
+  ],
+  "model_sources": []
+}

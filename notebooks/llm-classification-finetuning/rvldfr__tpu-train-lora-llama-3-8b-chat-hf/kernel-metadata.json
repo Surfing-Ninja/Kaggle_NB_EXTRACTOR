@@ -1,0 +1,23 @@
+{
+  "id": "rvldfr/tpu-train-lora-llama-3-8b-chat-hf",
+  "id_no": 76052841,
+  "title": "[TPU train] LoRA Llama 3 8B-Chat_hf",
+  "code_file": "tpu-train-lora-llama-3-8b-chat-hf.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": true,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "defdet/utils-xla"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "llm-classification-finetuning"
+  ],
+  "model_sources": [
+    "metaresearch/llama-3/Transformers/8b-chat-hf/1"
+  ]
+}

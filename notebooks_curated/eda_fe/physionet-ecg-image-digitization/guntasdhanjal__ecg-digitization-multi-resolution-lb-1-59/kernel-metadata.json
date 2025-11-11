@@ -1,0 +1,19 @@
+{
+  "id": "guntasdhanjal/ecg-digitization-multi-resolution-lb-1-59",
+  "id_no": 97395304,
+  "title": "ECG Digitization - Multi-Resolution (LB 1.59)",
+  "code_file": "ecg-digitization-multi-resolution-lb-1-59.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "physionet-ecg-image-digitization"
+  ],
+  "model_sources": []
+}

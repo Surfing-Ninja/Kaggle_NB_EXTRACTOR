@@ -1,0 +1,27 @@
+{
+  "id": "frankmollard/nlp-a-gentle-introduction-lstm-word2vec-bert",
+  "id_no": 18780899,
+  "title": "NLP a Gentle Introduction (LSTM, Word2Vec, BERT)",
+  "code_file": "nlp-a-gentle-introduction-lstm-word2vec-bert.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "tensorflow",
+    "text mining",
+    "transformers",
+    "nltk",
+    "nlp"
+  ],
+  "dataset_sources": [
+    ""
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nlp-getting-started"
+  ],
+  "model_sources": []
+}

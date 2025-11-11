@@ -1,0 +1,19 @@
+{
+  "id": "arraylist1402/loan-payback-prediction-basic-pipeline",
+  "id_no": 97850252,
+  "title": "Loan payback prediction (basic pipeline)",
+  "code_file": "loan-payback-prediction-basic-pipeline.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "playground-series-s5e11"
+  ],
+  "model_sources": []
+}

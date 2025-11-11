@@ -1,0 +1,25 @@
+{
+  "id": "llkh0a/tree-stack",
+  "id_no": 93249939,
+  "title": "tree stack",
+  "code_file": "tree-stack.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    ""
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nfl-big-data-bowl-2026-prediction"
+  ],
+  "model_sources": [
+    ""
+  ]
+}

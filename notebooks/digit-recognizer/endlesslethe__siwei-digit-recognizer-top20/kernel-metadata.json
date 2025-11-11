@@ -1,0 +1,25 @@
+{
+  "id": "endlesslethe/siwei-digit-recognizer-top20",
+  "id_no": 917118,
+  "title": "Siwei Digit Recognizer Top20",
+  "code_file": "siwei-digit-recognizer-top20.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "classification",
+    "beginner",
+    "neural networks"
+  ],
+  "dataset_sources": [
+    "oddrationale/mnist-in-csv"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "digit-recognizer"
+  ],
+  "model_sources": []
+}

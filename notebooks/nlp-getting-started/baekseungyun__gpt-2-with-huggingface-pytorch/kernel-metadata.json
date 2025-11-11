@@ -1,0 +1,26 @@
+{
+  "id": "baekseungyun/gpt-2-with-huggingface-pytorch",
+  "id_no": 14361684,
+  "title": "GPT-2 with HuggingFace + PyTorch",
+  "code_file": "gpt-2-with-huggingface-pytorch.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "pytorch",
+    "nlp",
+    "transformers",
+    "gpu",
+    "pandas",
+    "matplotlib"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nlp-getting-started"
+  ],
+  "model_sources": []
+}

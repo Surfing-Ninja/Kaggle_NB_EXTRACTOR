@@ -1,0 +1,21 @@
+{
+  "id": "himasha0421/cyclegan",
+  "id_no": 11428531,
+  "title": "CycleGAN",
+  "code_file": "cyclegan.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [
+    ""
+  ],
+  "competition_sources": [
+    "gan-getting-started"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "samibenhsan/sbh-advanced-cycle-gan-implementation-and-tricks",
+  "id_no": 17462564,
+  "title": "SBH  Advanced Cycle GAN Implementation and tricks ",
+  "code_file": "sbh-advanced-cycle-gan-implementation-and-tricks.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "cv2",
+    "matplotlib",
+    "PIL",
+    "torchvision"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "gan-getting-started"
+  ],
+  "model_sources": []
+}

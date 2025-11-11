@@ -1,0 +1,21 @@
+{
+  "id": "muki2003/segformer-mit-b2-image-forgery-segmentation",
+  "id_no": 96921808,
+  "title": "SegFormer (MiT-B2) \u2013 Image Forgery Segmentation ",
+  "code_file": "segformer-mit-b2-image-forgery-segmentation.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "recodai-luc-scientific-image-forgery-detection"
+  ],
+  "model_sources": []
+}

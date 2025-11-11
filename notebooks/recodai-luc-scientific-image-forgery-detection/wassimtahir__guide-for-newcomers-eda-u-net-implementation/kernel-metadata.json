@@ -1,0 +1,19 @@
+{
+  "id": "wassimtahir/guide-for-newcomers-eda-u-net-implementation",
+  "id_no": 96455250,
+  "title": " Guide for Newcomers: EDA & U-Net Implementation",
+  "code_file": "guide-for-newcomers-eda-u-net-implementation.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "recodai-luc-scientific-image-forgery-detection"
+  ],
+  "model_sources": []
+}

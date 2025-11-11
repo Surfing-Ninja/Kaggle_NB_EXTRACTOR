@@ -1,0 +1,36 @@
+{
+  "original_path": "notebooks/titanic/gunesevitan__titanic-advanced-feature-engineering-tutorial/titanic-advanced-feature-engineering-tutorial.ipynb",
+  "quality_score": 86.05,
+  "grade": "A",
+  "techniques": {
+    "feature_engineering": [
+      "aggregation",
+      "label_encoding",
+      "onehot_encoding",
+      "scaling",
+      "binning"
+    ],
+    "eda": [
+      "histogram",
+      "correlation",
+      "missing_analysis",
+      "statistics",
+      "visualization"
+    ],
+    "hyperparameter": [
+      "cross_validation"
+    ],
+    "advanced_ml": [
+      "ensemble"
+    ]
+  },
+  "libraries": [
+    "pandas",
+    "numpy",
+    "sklearn",
+    "matplotlib",
+    "seaborn"
+  ],
+  "category": "complete_pipeline",
+  "competition": "titanic"
+}

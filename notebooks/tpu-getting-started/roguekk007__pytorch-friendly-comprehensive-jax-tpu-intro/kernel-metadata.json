@@ -1,0 +1,25 @@
+{
+  "id": "roguekk007/pytorch-friendly-comprehensive-jax-tpu-intro",
+  "id_no": 26032810,
+  "title": "[Pytorch-friendly] Comprehensive JAX+TPU Intro",
+  "code_file": "pytorch-friendly-comprehensive-jax-tpu-intro.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": true,
+  "enable_internet": true,
+  "keywords": [
+    "tpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [
+    "roguekk007/pipeline-utils-jax",
+    "roguekk007/efficientnetv2-jax",
+    "roguekk007/jax-efficientnetv2"
+  ],
+  "competition_sources": [
+    "tpu-getting-started"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,29 @@
+{
+  "id": "heyrobin/house-price-prediction-beginner-s-notebook",
+  "id_no": 22641761,
+  "title": "House Price Prediction \ud83c\udfe1 Beginner's Notebook ",
+  "code_file": "house-price-prediction-beginner-s-notebook.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "linear regression",
+    "data analytics",
+    "exploratory data analysis",
+    "housing",
+    "data visualization"
+  ],
+  "dataset_sources": [
+    "camnugent/california-housing-prices",
+    "shree1992/housedata",
+    "anthonypino/melbourne-housing-market"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "house-prices-advanced-regression-techniques"
+  ],
+  "model_sources": []
+}

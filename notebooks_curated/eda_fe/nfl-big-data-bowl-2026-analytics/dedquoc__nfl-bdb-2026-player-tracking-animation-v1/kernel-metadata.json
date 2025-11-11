@@ -1,0 +1,19 @@
+{
+  "id": "dedquoc/nfl-bdb-2026-player-tracking-animation-v1",
+  "id_no": 94782938,
+  "title": "NFL BDB 2026 - Player Tracking Animation V1",
+  "code_file": "nfl-bdb-2026-player-tracking-animation-v1.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nfl-big-data-bowl-2026-analytics"
+  ],
+  "model_sources": []
+}

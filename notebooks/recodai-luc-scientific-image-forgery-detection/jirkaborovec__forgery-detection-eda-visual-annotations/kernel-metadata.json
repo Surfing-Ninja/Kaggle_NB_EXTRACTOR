@@ -1,0 +1,19 @@
+{
+  "id": "jirkaborovec/forgery-detection-eda-visual-annotations",
+  "id_no": 96309811,
+  "title": "Forgery\ud83c\udfadDetection: EDA + Visual\ud83d\udd0dAnnotations",
+  "code_file": "forgery-detection-eda-visual-annotations.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "recodai-luc-scientific-image-forgery-detection"
+  ],
+  "model_sources": []
+}

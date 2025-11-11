@@ -1,0 +1,21 @@
+{
+  "id": "hiteshp/head-start-for-data-scientist",
+  "id_no": 507847,
+  "title": "Head Start for Data Scientist",
+  "code_file": "head-start-for-data-scientist.Rmd",
+  "language": "rmarkdown",
+  "kernel_type": "script",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "beginner"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "titanic"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "erkanhatipoglu/intermediate-machine-learning-course-helper",
+  "id_no": 11153820,
+  "title": "Intermediate Machine Learning Course Helper",
+  "code_file": "intermediate-machine-learning-course-helper.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "regression",
+    "xgboost",
+    "housing",
+    "intermediate",
+    "sklearn"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "home-data-for-ml-course"
+  ],
+  "model_sources": []
+}

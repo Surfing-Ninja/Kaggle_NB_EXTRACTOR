@@ -1,0 +1,25 @@
+{
+  "id": "sharanharsoor/eda-and-xgboost-regression-for-each-store",
+  "id_no": 25592818,
+  "title": "EDA and XGBoost regression for each store",
+  "code_file": "eda-and-xgboost-regression-for-each-store.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "tabular",
+    "exploratory data analysis",
+    "linear regression",
+    "matplotlib",
+    "beginner"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "store-sales-time-series-forecasting"
+  ],
+  "model_sources": []
+}

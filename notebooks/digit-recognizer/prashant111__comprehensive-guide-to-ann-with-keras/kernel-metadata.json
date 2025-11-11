@@ -1,0 +1,25 @@
+{
+  "id": "prashant111/comprehensive-guide-to-ann-with-keras",
+  "id_no": 6291080,
+  "title": "Comprehensive Guide to ANN with Keras",
+  "code_file": "comprehensive-guide-to-ann-with-keras.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "beginner",
+    "deep learning",
+    "numpy",
+    "matplotlib",
+    "keras"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "digit-recognizer"
+  ],
+  "model_sources": []
+}

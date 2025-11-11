@@ -1,0 +1,24 @@
+{
+  "id": "kanncaa1/convolutional-neural-network-cnn-tutorial",
+  "id_no": 1607157,
+  "title": "Convolutional Neural Network (CNN) Tutorial",
+  "code_file": "convolutional-neural-network-cnn-tutorial.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "matplotlib",
+    "numpy",
+    "pandas",
+    "seaborn"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "digit-recognizer"
+  ],
+  "model_sources": []
+}

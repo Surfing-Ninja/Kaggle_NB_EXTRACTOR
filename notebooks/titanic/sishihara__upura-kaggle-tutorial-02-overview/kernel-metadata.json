@@ -1,0 +1,23 @@
+{
+  "id": "sishihara/upura-kaggle-tutorial-02-overview",
+  "id_no": 3435511,
+  "title": "upura-kaggle-tutorial-02-overview",
+  "code_file": "upura-kaggle-tutorial-02-overview.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "beginner",
+    "numpy",
+    "pandas"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "titanic"
+  ],
+  "model_sources": []
+}

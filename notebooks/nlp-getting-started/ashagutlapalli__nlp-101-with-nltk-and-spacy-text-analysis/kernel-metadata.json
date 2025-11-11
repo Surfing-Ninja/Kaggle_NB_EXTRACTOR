@@ -1,0 +1,27 @@
+{
+  "id": "ashagutlapalli/nlp-101-with-nltk-and-spacy-text-analysis",
+  "id_no": 14103128,
+  "title": "\ud83d\udd25NLP 101 with NLTK and SpaCy! \ud83d\udcd1Text Analysis",
+  "code_file": "nlp-101-with-nltk-and-spacy-text-analysis.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "nlp",
+    "text mining",
+    "spaCy",
+    "beginner",
+    "python"
+  ],
+  "dataset_sources": [
+    ""
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nlp-getting-started"
+  ],
+  "model_sources": []
+}

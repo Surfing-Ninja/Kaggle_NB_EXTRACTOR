@@ -1,0 +1,22 @@
+{
+  "id": "funxexcel/titanic-basic-solution-using-adaboost",
+  "id_no": 4629404,
+  "title": "Titanic Basic Solution using Adaboost",
+  "code_file": "titanic-basic-solution-using-adaboost.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "pandas",
+    "seaborn"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "titanic"
+  ],
+  "model_sources": []
+}

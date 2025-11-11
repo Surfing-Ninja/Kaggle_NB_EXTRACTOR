@@ -1,0 +1,25 @@
+{
+  "id": "derfansyahgk/new-cnn-prediction",
+  "id_no": 97666954,
+  "title": "new_cnn_prediction",
+  "code_file": "new-cnn-prediction.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "siddhvr/blast-quick-sprof-zero-pred",
+    "viktorfairuschin/cafa-5-ems-2-embeddings-numpy",
+    "siddhvr/train-targets-top500"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "cafa-6-protein-function-prediction"
+  ],
+  "model_sources": []
+}

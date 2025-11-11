@@ -1,0 +1,25 @@
+{
+  "id": "ruhul20/eda-and-ecg-image-extraction-with-custom-cnn",
+  "id_no": 96076197,
+  "title": "EDA and ECG image Extraction with custom CNN",
+  "code_file": "eda-and-ecg-image-extraction-with-custom-cnn.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "resnet",
+    "image classification",
+    "pytorch",
+    "torchvision",
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "physionet-ecg-image-digitization"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,26 @@
+{
+  "original_path": "notebooks/store-sales-time-series-forecasting/ryanholbrook__exercise-hybrid-models/exercise-hybrid-models.ipynb",
+  "quality_score": 55.4324,
+  "grade": "C",
+  "techniques": {
+    "feature_engineering": [
+      "aggregation",
+      "label_encoding"
+    ],
+    "eda": [
+      "visualization"
+    ],
+    "advanced_ml": [
+      "xgboost",
+      "ensemble"
+    ]
+  },
+  "libraries": [
+    "pandas",
+    "sklearn",
+    "xgboost",
+    "matplotlib"
+  ],
+  "category": "eda_fe",
+  "competition": "store-sales-time-series-forecasting"
+}

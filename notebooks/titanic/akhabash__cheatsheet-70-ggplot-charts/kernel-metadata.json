@@ -1,0 +1,41 @@
+{
+  "id": "akhabash/cheatsheet-70-ggplot-charts",
+  "id_no": 12049670,
+  "title": "Cheatsheet 70+ ggplot Charts \ud83d\udcca",
+  "code_file": "cheatsheet-70-ggplot-charts.irnb",
+  "language": "r",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "",
+    "agirlcoding/all-space-missions-from-1957",
+    "shivan118/healthcare-analytics",
+    "nehaprabhavalkar/av-healthcare-analytics-ii",
+    "benroshan/factors-affecting-campus-placement",
+    "berkeleyearth/climate-change-earth-surface-temperature-data",
+    "sudalairajkumar/covid19-in-usa",
+    "andrewmvd/data-analyst-jobs",
+    "hugomathien/soccer",
+    "lava18/google-play-store-apps",
+    "anmolkumar/health-insurance-cross-sell-prediction",
+    "ruchi798/housing-prices-in-metropolitan-areas-of-india",
+    "shrutibhargava94/india-air-quality-data",
+    "shivamb/netflix-shows",
+    "rohanrao/nifty50-stock-market-data",
+    "sudalairajkumar/novel-corona-virus-2019-dataset",
+    "anikannal/solar-power-generation-data",
+    "ahsen1330/us-police-shootings",
+    "vishnuvarthanrao/windows-store",
+    "mylesoneill/world-university-rankings"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "house-prices-advanced-regression-techniques",
+    "titanic"
+  ],
+  "model_sources": []
+}

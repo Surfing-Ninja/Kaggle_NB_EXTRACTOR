@@ -1,0 +1,24 @@
+{
+  "id": "javigallego/space-titanic-exhaustive-eda-fe-optuna",
+  "id_no": 26265072,
+  "title": "Space Titanic - Exhaustive EDA / FE / Optuna",
+  "code_file": "space-titanic-exhaustive-eda-fe-optuna.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "exploratory data analysis",
+    "statistical analysis",
+    "outlier analysis",
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "spaceship-titanic"
+  ],
+  "model_sources": []
+}

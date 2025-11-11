@@ -1,0 +1,24 @@
+{
+  "id": "akashsuper2000/flower-classification-with-tpus",
+  "id_no": 10378659,
+  "title": "Flower Classification With TPUs",
+  "code_file": "flower-classification-with-tpus.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "tpu"
+  ],
+  "dataset_sources": [
+    "cdeotte/oxford-flowers-tfrecords",
+    "kirillblinov/tf-flower-photo-tfrec"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "tpu-getting-started"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "gomes555/xgboost-bayes-opt-with-tidymodels",
+  "id_no": 9792678,
+  "title": "XGBoost bayes opt with tidymodels",
+  "code_file": "xgboost-bayes-opt-with-tidymodels.Rmd",
+  "language": "rmarkdown",
+  "kernel_type": "script",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gradient boosting",
+    "bayesian statistics"
+  ],
+  "dataset_sources": [
+    "",
+    ""
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "house-prices-advanced-regression-techniques"
+  ],
+  "model_sources": []
+}

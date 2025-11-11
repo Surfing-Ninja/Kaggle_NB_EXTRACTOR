@@ -1,0 +1,19 @@
+{
+  "id": "ngbolin/mnist-dataset-digit-recognizer",
+  "id_no": 295668,
+  "title": "MNIST Dataset: Digit Recognizer",
+  "code_file": "mnist-dataset-digit-recognizer.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "digit-recognizer"
+  ],
+  "model_sources": []
+}

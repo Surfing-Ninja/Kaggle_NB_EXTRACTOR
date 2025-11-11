@@ -1,0 +1,26 @@
+{
+  "id": "ryanholbrook/linear-regression-with-time-series",
+  "id_no": 19616001,
+  "title": "Linear Regression With Time Series",
+  "code_file": "linear-regression-with-time-series.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "matplotlib",
+    "numpy",
+    "pandas",
+    "seaborn"
+  ],
+  "dataset_sources": [
+    "ryanholbrook/ts-course-data"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "store-sales-time-series-forecasting"
+  ],
+  "model_sources": []
+}

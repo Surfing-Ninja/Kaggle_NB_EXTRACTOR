@@ -1,0 +1,21 @@
+{
+  "id": "agileteam/py-t1-1-iqr-expected-questions",
+  "id_no": 21058402,
+  "title": "[py] T1-1. \uc774\uc0c1\uce58\ub97c \ucc3e\uc544\ub77c(IQR\ud65c\uc6a9) Expected Questions",
+  "code_file": "py-t1-1-iqr-expected-questions.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "agileteam/bigdatacertificationkr"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "titanic"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "marcshade/gpu-benchmark-training-speed-calculator",
+  "id_no": 98364337,
+  "title": "GPU Benchmark - Training Speed Calculator",
+  "code_file": "gpu-benchmark-training-speed-calculator.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "recodai-luc-scientific-image-forgery-detection"
+  ],
+  "model_sources": []
+}

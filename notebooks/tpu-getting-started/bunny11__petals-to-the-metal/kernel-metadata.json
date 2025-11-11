@@ -1,0 +1,21 @@
+{
+  "id": "bunny11/petals-to-the-metal",
+  "id_no": 53143734,
+  "title": "Petals to the Metal ",
+  "code_file": "petals-to-the-metal.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "tpu-getting-started"
+  ],
+  "model_sources": []
+}

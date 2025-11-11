@@ -1,0 +1,19 @@
+{
+  "id": "sofiyarachkevych/cafa6-protein-function-prediction-sofiyarachkevych",
+  "id_no": 96790926,
+  "title": "CAFA6 Protein Function Prediction SofiyaRachkevych",
+  "code_file": "cafa6-protein-function-prediction-sofiyarachkevych.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "cafa-6-protein-function-prediction"
+  ],
+  "model_sources": []
+}

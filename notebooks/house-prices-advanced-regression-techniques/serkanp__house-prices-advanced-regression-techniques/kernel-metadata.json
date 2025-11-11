@@ -1,0 +1,21 @@
+{
+  "id": "serkanp/house-prices-advanced-regression-techniques",
+  "id_no": 33455039,
+  "title": "House Prices - Advanced Regression Techniques",
+  "code_file": "house-prices-advanced-regression-techniques.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "prevek18/ames-housing-dataset"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "house-prices-advanced-regression-techniques"
+  ],
+  "model_sources": []
+}

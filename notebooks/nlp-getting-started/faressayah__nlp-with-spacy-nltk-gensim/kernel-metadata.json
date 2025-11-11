@@ -1,0 +1,30 @@
+{
+  "id": "faressayah/nlp-with-spacy-nltk-gensim",
+  "id_no": 14162239,
+  "title": "NLP with spaCy, NLTK, & GENSIM",
+  "code_file": "nlp-with-spacy-nltk-gensim.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "nlp",
+    "spaCy",
+    "text",
+    "nltk",
+    "beginner"
+  ],
+  "dataset_sources": [
+    "ayushggarg/all-trumps-twitter-insults-20152021"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "jigsaw-multilingual-toxic-comment-classification",
+    "nlp-getting-started",
+    "santander-customer-transaction-prediction",
+    "tweet-sentiment-extraction"
+  ],
+  "model_sources": []
+}

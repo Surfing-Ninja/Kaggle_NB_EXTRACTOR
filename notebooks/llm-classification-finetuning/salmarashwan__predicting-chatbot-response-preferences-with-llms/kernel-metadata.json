@@ -1,0 +1,19 @@
+{
+  "id": "salmarashwan/predicting-chatbot-response-preferences-with-llms",
+  "id_no": 68827533,
+  "title": "Predicting Chatbot Response Preferences with LLMs",
+  "code_file": "predicting-chatbot-response-preferences-with-llms.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "llm-classification-finetuning"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "zain280/nlp-disaster-tweets-gradient-boosting",
+  "id_no": 60510668,
+  "title": "\ud83d\ude80 NLP Disaster Tweets: Gradient Boosting \ud83c\udf2a\ufe0f",
+  "code_file": "nlp-disaster-tweets-gradient-boosting.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "advanced",
+    "intermediate",
+    "exploratory data analysis",
+    "feature engineering",
+    "nlp"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nlp-getting-started"
+  ],
+  "model_sources": []
+}

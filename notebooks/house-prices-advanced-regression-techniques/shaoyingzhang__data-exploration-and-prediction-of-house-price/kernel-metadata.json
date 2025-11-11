@@ -1,0 +1,24 @@
+{
+  "id": "shaoyingzhang/data-exploration-and-prediction-of-house-price",
+  "id_no": 322612,
+  "title": "Data Exploration and Prediction of House Price ",
+  "code_file": "data-exploration-and-prediction-of-house-price.irnb",
+  "language": "r",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "beginner",
+    "data visualization",
+    "exploratory data analysis",
+    "real estate"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "house-prices-advanced-regression-techniques"
+  ],
+  "model_sources": []
+}

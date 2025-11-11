@@ -1,0 +1,25 @@
+{
+  "id": "rattans/xgb-visualization-loan-payback-probability",
+  "id_no": 98022955,
+  "title": "XGB + Visualization | Loan Payback Probability ",
+  "code_file": "xgb-visualization-loan-payback-probability.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "data visualization",
+    "matplotlib",
+    "tabular",
+    "xgboost",
+    "binary classification"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "playground-series-s5e11"
+  ],
+  "model_sources": []
+}

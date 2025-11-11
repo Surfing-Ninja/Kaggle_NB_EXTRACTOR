@@ -1,0 +1,19 @@
+{
+  "id": "manish756/cafa-5-fast-baseline-protein-predictor-30min",
+  "id_no": 97941282,
+  "title": "\ud83e\uddec CAFA-5: Fast Baseline Protein Predictor | 30min",
+  "code_file": "cafa-5-fast-baseline-protein-predictor-30min.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "cafa-6-protein-function-prediction"
+  ],
+  "model_sources": []
+}

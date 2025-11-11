@@ -1,0 +1,21 @@
+{
+  "id": "yeoyunsianggeremie/ps5e11-agentic-ai-solution-single-xgb",
+  "id_no": 97502445,
+  "title": "PS5E11 | Agentic AI Solution [Single XGB]",
+  "code_file": "ps5e11-agentic-ai-solution-single-xgb.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "playground-series-s5e11"
+  ],
+  "model_sources": []
+}

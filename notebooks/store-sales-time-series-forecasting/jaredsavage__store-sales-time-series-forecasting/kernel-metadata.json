@@ -1,0 +1,21 @@
+{
+  "id": "jaredsavage/store-sales-time-series-forecasting",
+  "id_no": 21256842,
+  "title": "Store Sales - Time Series Forecasting",
+  "code_file": "store-sales-time-series-forecasting.Rmd",
+  "language": "rmarkdown",
+  "kernel_type": "script",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "juanmah/world-cities"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "store-sales-time-series-forecasting"
+  ],
+  "model_sources": []
+}

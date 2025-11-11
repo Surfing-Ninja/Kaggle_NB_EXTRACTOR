@@ -1,0 +1,19 @@
+{
+  "id": "swepat/cyclegan-to-generate-monet-style-images",
+  "id_no": 12573718,
+  "title": "CycleGAN to generate Monet-style images",
+  "code_file": "cyclegan-to-generate-monet-style-images.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": true,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "gan-getting-started"
+  ],
+  "model_sources": []
+}

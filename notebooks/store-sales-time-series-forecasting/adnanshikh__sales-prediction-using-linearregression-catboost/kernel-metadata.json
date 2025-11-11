@@ -1,0 +1,19 @@
+{
+  "id": "adnanshikh/sales-prediction-using-linearregression-catboost",
+  "id_no": 31625153,
+  "title": "Sales Prediction Using LinearRegression & CATBoost",
+  "code_file": "sales-prediction-using-linearregression-catboost.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "store-sales-time-series-forecasting"
+  ],
+  "model_sources": []
+}

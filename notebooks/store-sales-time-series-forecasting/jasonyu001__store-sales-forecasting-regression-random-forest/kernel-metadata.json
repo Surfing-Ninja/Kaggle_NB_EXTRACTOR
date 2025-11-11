@@ -1,0 +1,25 @@
+{
+  "id": "jasonyu001/store-sales-forecasting-regression-random-forest",
+  "id_no": 50842231,
+  "title": "Store Sales Forecasting (Regression&Random Forest)",
+  "code_file": "store-sales-forecasting-regression-random-forest.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "random forest",
+    "time series analysis",
+    "pandas",
+    "sklearn",
+    "regression"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "store-sales-time-series-forecasting"
+  ],
+  "model_sources": []
+}

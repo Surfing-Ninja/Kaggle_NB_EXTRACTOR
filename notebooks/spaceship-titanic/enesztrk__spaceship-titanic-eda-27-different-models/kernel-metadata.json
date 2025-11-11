@@ -1,0 +1,25 @@
+{
+  "id": "enesztrk/spaceship-titanic-eda-27-different-models",
+  "id_no": 31545499,
+  "title": "\ud83d\ude80Spaceship Titanic - EDA - 27 Different Models",
+  "code_file": "spaceship-titanic-eda-27-different-models.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "data visualization",
+    "data analytics",
+    "automl",
+    "data cleaning",
+    "feature engineering"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "spaceship-titanic"
+  ],
+  "model_sources": []
+}

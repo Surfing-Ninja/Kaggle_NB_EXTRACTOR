@@ -1,0 +1,27 @@
+{
+  "id": "kanncaa1/recurrent-neural-network-with-pytorch",
+  "id_no": 991905,
+  "title": "Recurrent Neural Network with Pytorch",
+  "code_file": "recurrent-neural-network-with-pytorch.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "beginner",
+    "deep learning",
+    "neural networks",
+    "programming",
+    "matplotlib",
+    "numpy",
+    "pandas"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "digit-recognizer"
+  ],
+  "model_sources": []
+}

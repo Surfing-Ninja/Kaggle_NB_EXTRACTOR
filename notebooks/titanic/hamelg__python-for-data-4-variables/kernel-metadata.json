@@ -1,0 +1,21 @@
+{
+  "id": "hamelg/python-for-data-4-variables",
+  "id_no": 3477950,
+  "title": "Python for Data 4: Variables",
+  "code_file": "python-for-data-4-variables.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "programming"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "titanic"
+  ],
+  "model_sources": []
+}

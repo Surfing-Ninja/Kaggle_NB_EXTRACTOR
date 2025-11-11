@@ -1,0 +1,27 @@
+{
+  "id": "satyampandey4229/petal-to-metal",
+  "id_no": 33935591,
+  "title": "Petal to metal",
+  "code_file": "petal-to-metal.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": true,
+  "enable_internet": true,
+  "keywords": [
+    "tpu",
+    "cv2",
+    "beginner",
+    "computer vision",
+    "intermediate"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [
+    "ryanholbrook/petal-helper"
+  ],
+  "competition_sources": [
+    "tpu-getting-started"
+  ],
+  "model_sources": []
+}

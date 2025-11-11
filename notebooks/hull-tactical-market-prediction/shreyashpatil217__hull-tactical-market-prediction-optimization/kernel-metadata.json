@@ -1,0 +1,24 @@
+{
+  "id": "shreyashpatil217/hull-tactical-market-prediction-optimization",
+  "id_no": 96332443,
+  "title": "\ud83c\udfc6 Hull Tactical Market Prediction -Optimization",
+  "code_file": "hull-tactical-market-prediction-optimization.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "xgboost",
+    "lightgbm",
+    "sklearn",
+    "python"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "hull-tactical-market-prediction"
+  ],
+  "model_sources": []
+}

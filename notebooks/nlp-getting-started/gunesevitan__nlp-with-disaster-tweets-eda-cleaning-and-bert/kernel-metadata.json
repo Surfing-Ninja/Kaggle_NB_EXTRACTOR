@@ -1,0 +1,28 @@
+{
+  "id": "gunesevitan/nlp-with-disaster-tweets-eda-cleaning-and-bert",
+  "id_no": 7241037,
+  "title": "NLP with Disaster Tweets - EDA, Cleaning and BERT",
+  "code_file": "nlp-with-disaster-tweets-eda-cleaning-and-bert.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "beginner",
+    "exploratory data analysis",
+    "classification",
+    "nlp"
+  ],
+  "dataset_sources": [
+    "",
+    "authman/pickled-crawl300d2m-for-kernel-competitions",
+    "authman/pickled-glove840b300d-for-10sec-loading"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nlp-getting-started"
+  ],
+  "model_sources": []
+}

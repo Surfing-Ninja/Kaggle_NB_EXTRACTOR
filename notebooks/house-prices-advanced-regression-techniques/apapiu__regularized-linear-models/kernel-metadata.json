@@ -1,0 +1,23 @@
+{
+  "id": "apapiu/regularized-linear-models",
+  "id_no": 96093,
+  "title": "Regularized Linear Models",
+  "code_file": "regularized-linear-models.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "linear regression",
+    "xgboost",
+    "beginner"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "house-prices-advanced-regression-techniques"
+  ],
+  "model_sources": []
+}

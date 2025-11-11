@@ -1,0 +1,19 @@
+{
+  "id": "jekiwantaufik/nfl-big-data-bowl-2026-prediction-1",
+  "id_no": 98556676,
+  "title": "NFL Big Data Bowl 2026 - Prediction 1",
+  "code_file": "nfl-big-data-bowl-2026-prediction-1.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nfl-big-data-bowl-2026-prediction"
+  ],
+  "model_sources": []
+}

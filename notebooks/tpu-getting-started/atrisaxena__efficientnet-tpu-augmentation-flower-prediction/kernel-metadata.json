@@ -1,0 +1,23 @@
+{
+  "id": "atrisaxena/efficientnet-tpu-augmentation-flower-prediction",
+  "id_no": 11225265,
+  "title": "EfficientNet TPU Augmentation Flower Prediction",
+  "code_file": "efficientnet-tpu-augmentation-flower-prediction.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "tpu"
+  ],
+  "dataset_sources": [
+    "kirillblinov/tf-flower-photo-tfrec"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "tpu-getting-started"
+  ],
+  "model_sources": []
+}

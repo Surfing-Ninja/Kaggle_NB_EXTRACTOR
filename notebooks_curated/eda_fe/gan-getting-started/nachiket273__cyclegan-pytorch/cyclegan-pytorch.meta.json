@@ -1,0 +1,25 @@
+{
+  "original_path": "notebooks/gan-getting-started/nachiket273__cyclegan-pytorch/cyclegan-pytorch.ipynb",
+  "quality_score": 53.06275,
+  "grade": "C",
+  "techniques": {
+    "eda": [
+      "visualization"
+    ],
+    "hyperparameter": [
+      "cross_validation"
+    ],
+    "advanced_ml": [
+      "neural_network"
+    ]
+  },
+  "libraries": [
+    "pandas",
+    "numpy",
+    "sklearn",
+    "matplotlib",
+    "pytorch"
+  ],
+  "category": "eda_fe",
+  "competition": "gan-getting-started"
+}

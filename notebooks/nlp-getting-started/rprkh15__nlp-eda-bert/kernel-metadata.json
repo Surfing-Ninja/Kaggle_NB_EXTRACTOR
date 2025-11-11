@@ -1,0 +1,25 @@
+{
+  "id": "rprkh15/nlp-eda-bert",
+  "id_no": 26538277,
+  "title": "NLP: EDA + BERT\ud83e\udd17 ",
+  "code_file": "nlp-eda-bert.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "nlp",
+    "binary classification",
+    "exploratory data analysis",
+    "gpu",
+    "text"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nlp-getting-started"
+  ],
+  "model_sources": []
+}

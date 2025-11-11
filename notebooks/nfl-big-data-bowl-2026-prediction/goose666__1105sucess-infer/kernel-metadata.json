@@ -1,0 +1,37 @@
+{
+  "id": "goose666/1105sucess-infer",
+  "id_no": 96900286,
+  "title": "1105sucess_infer",
+  "code_file": "1105sucess-infer.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "",
+    "",
+    "goose666/1029addw",
+    "goose666/1101ensemble-model-test",
+    "goose666/epoch200",
+    "goose666/nfl-w1028"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nfl-big-data-bowl-2026-prediction"
+  ],
+  "model_sources": [
+    "",
+    "goose666/1031add/PyTorch/default/1",
+    "goose666/1031addmore/PyTorch/default/1",
+    "goose666/1031addmorenoeach/PyTorch/default/1",
+    "goose666/1031modelszjl/PyTorch/default/1",
+    "goose666/1101-all-ensmbel-direc/PyTorch/default/1",
+    "goose666/1101adddirec1/PyTorch/default/1",
+    "goose666/1101base-ensemble-direc/PyTorch/default/1",
+    "goose666/1101ensemblezjl/PyTorch/default/1",
+    "goose666/1103new-all-all-all/PyTorch/default/1"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "jakupymeraj/hull-tactical-10-237-score-solution",
+  "id_no": 92444017,
+  "title": "Hull Tactical - 10.237 Score Solution",
+  "code_file": "hull-tactical-10-237-score-solution.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "hull-tactical-market-prediction"
+  ],
+  "model_sources": []
+}

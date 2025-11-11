@@ -1,0 +1,19 @@
+{
+  "id": "ruwadnaswan/1-full-eda-extended-version",
+  "id_no": 94215546,
+  "title": "1. Full EDA - extended version",
+  "code_file": "1-full-eda-extended-version.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "MABe-mouse-behavior-detection"
+  ],
+  "model_sources": []
+}

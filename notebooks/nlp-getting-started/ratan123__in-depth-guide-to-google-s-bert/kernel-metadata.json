@@ -1,0 +1,24 @@
+{
+  "id": "ratan123/in-depth-guide-to-google-s-bert",
+  "id_no": 7636093,
+  "title": "In-Depth Guide \ud83d\udcd9 to Google's BERT  ",
+  "code_file": "in-depth-guide-to-google-s-bert.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "beginner",
+    "text",
+    "classification",
+    "deep learning"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nlp-getting-started"
+  ],
+  "model_sources": []
+}

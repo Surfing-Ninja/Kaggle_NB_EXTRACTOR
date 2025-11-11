@@ -1,0 +1,23 @@
+{
+  "id": "kushbhatnagar/disaster-tweets-eda-nlp-classifier-models",
+  "id_no": 7375382,
+  "title": "Disaster Tweets: EDA | NLP | Classifier Models",
+  "code_file": "disaster-tweets-eda-nlp-classifier-models.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "beginner",
+    "nlp",
+    "exploratory data analysis"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nlp-getting-started"
+  ],
+  "model_sources": []
+}

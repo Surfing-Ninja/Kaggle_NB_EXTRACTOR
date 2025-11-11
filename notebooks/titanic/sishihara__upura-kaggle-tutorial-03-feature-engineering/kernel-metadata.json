@@ -1,0 +1,21 @@
+{
+  "id": "sishihara/upura-kaggle-tutorial-03-feature-engineering",
+  "id_no": 5454450,
+  "title": "upura-kaggle-tutorial-03-feature-engineering",
+  "code_file": "upura-kaggle-tutorial-03-feature-engineering.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "beginner"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "titanic"
+  ],
+  "model_sources": []
+}

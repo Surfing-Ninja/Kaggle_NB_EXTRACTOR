@@ -1,0 +1,24 @@
+{
+  "id": "elcaiseri/mnist-simple-cnn-keras-accuracy-0-99-top-1",
+  "id_no": 3266938,
+  "title": "MNIST: Simple CNN keras (Accuracy : 0.99)=>Top 1%",
+  "code_file": "mnist-simple-cnn-keras-accuracy-0-99-top-1.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "deep learning",
+    "classification",
+    "beginner",
+    "cnn"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "digit-recognizer"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "wasiqaliyasir/score-prediction-0-32-cafa-6-protien",
+  "id_no": 98762390,
+  "title": "score prediction | 0.32 CAFA 6 Protien",
+  "code_file": "score-prediction-0-32-cafa-6-protien.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [
+    "sacuscreed/merge-of-2submission-lb-0-25",
+    "sacuscreed/gaf-submission",
+    "sacuscreed/submission-merging",
+    "seddiktrk/cafa-6-predictions"
+  ],
+  "competition_sources": [
+    "cafa-6-protein-function-prediction"
+  ],
+  "model_sources": []
+}

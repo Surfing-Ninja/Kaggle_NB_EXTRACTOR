@@ -1,0 +1,25 @@
+{
+  "id": "jacopoferretti/favorita-stores-grocery-sales-time-series",
+  "id_no": 53398509,
+  "title": "Favorita Stores Grocery Sales (Time Series)",
+  "code_file": "favorita-stores-grocery-sales-time-series.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "business",
+    "oil and gas",
+    "time series analysis",
+    "retail and shopping",
+    "datetime"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "store-sales-time-series-forecasting"
+  ],
+  "model_sources": []
+}

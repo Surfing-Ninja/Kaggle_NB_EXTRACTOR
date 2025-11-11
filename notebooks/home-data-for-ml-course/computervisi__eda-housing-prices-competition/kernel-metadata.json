@@ -1,0 +1,19 @@
+{
+  "id": "computervisi/eda-housing-prices-competition",
+  "id_no": 44565945,
+  "title": "EDA_Housing_Prices_Competition",
+  "code_file": "eda-housing-prices-competition.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "home-data-for-ml-course"
+  ],
+  "model_sources": []
+}

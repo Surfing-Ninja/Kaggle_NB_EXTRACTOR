@@ -1,0 +1,24 @@
+{
+  "id": "darkside92/detailed-examination-for-house-price-top-10",
+  "id_no": 8869064,
+  "title": "\ud83c\udfe0 Detailed Examination for House Price (Top%10)",
+  "code_file": "detailed-examination-for-house-price-top-10.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "data visualization",
+    "feature engineering"
+  ],
+  "dataset_sources": [
+    ""
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "house-prices-advanced-regression-techniques"
+  ],
+  "model_sources": []
+}

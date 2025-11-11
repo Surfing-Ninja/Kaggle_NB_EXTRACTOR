@@ -1,0 +1,24 @@
+{
+  "id": "jekiwantaufik/nfl-big-data-bowl-2026-analytics-5",
+  "id_no": 98509705,
+  "title": "NFL Big Data Bowl 2026 - Analytics 5",
+  "code_file": "nfl-big-data-bowl-2026-analytics-5.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [
+    "jekiwantaufik/nfl-big-data-bowl-2026-analytics-1",
+    "jekiwantaufik/nfl-big-data-bowl-2026-analytics-2",
+    "jekiwantaufik/nfl-big-data-bowl-2026-analytics-3",
+    "jekiwantaufik/nfl-big-data-bowl-2026-analytics-4"
+  ],
+  "competition_sources": [
+    "nfl-big-data-bowl-2026-analytics"
+  ],
+  "model_sources": []
+}

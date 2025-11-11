@@ -1,0 +1,37 @@
+{
+  "id": "whyisshizai/train-and-inference-llama-3-2-1b-3b",
+  "id_no": 75861992,
+  "title": "train-and-inference- llama-3.2-1b(3b)",
+  "code_file": "train-and-inference-llama-3-2-1b-3b.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu",
+    "classification",
+    "nlp",
+    "english"
+  ],
+  "dataset_sources": [
+    "linheshen/llama-fine-tune"
+  ],
+  "kernel_sources": [
+    "hotchpotch/llm-detect-pip",
+    "whyisshizai/llama3-pip",
+    "",
+    "whyisshizai/llama3-2-1b-train"
+  ],
+  "competition_sources": [
+    "llm-classification-finetuning"
+  ],
+  "model_sources": [
+    "",
+    "",
+    "",
+    "",
+    ""
+  ]
+}

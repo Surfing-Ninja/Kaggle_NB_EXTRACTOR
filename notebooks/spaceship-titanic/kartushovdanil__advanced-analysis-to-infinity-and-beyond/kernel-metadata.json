@@ -1,0 +1,19 @@
+{
+  "id": "kartushovdanil/advanced-analysis-to-infinity-and-beyond",
+  "id_no": 25686673,
+  "title": "\ud83d\ude80 ADVANCED ANALYSIS | To infinity and beyond! \ud83d\ude80",
+  "code_file": "advanced-analysis-to-infinity-and-beyond.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "spaceship-titanic"
+  ],
+  "model_sources": []
+}

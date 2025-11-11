@@ -1,0 +1,19 @@
+{
+  "id": "evanoleary/alexandria-ecg-competition-482255",
+  "id_no": 96654681,
+  "title": "Alexandria ECG Competition 482255",
+  "code_file": "alexandria-ecg-competition-482255.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "recodai-luc-scientific-image-forgery-detection"
+  ],
+  "model_sources": []
+}

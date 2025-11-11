@@ -1,0 +1,25 @@
+{
+  "id": "ryanholbrook/trend",
+  "id_no": 19615999,
+  "title": "Trend",
+  "code_file": "trend.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "matplotlib",
+    "pandas",
+    "arts and entertainment"
+  ],
+  "dataset_sources": [
+    "ryanholbrook/ts-course-data"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "store-sales-time-series-forecasting"
+  ],
+  "model_sources": []
+}

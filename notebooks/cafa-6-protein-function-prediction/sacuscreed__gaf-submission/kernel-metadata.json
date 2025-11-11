@@ -1,0 +1,21 @@
+{
+  "id": "sacuscreed/gaf-submission",
+  "id_no": 96402424,
+  "title": "GAF Submission",
+  "code_file": "gaf-submission.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [
+    "sacuscreed/gaf-gz"
+  ],
+  "competition_sources": [
+    "cafa-6-protein-function-prediction"
+  ],
+  "model_sources": []
+}

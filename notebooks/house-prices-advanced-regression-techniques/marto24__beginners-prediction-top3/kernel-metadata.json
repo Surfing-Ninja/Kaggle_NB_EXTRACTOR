@@ -1,0 +1,31 @@
+{
+  "id": "marto24/beginners-prediction-top3",
+  "id_no": 14365653,
+  "title": "Beginners_Prediction_Top3%\ud83c\udf03\ud83d\udcb2",
+  "code_file": "beginners-prediction-top3.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "regression",
+    "housing",
+    "beginner",
+    "matplotlib",
+    "numpy",
+    "pandas",
+    "scipy",
+    "seaborn",
+    "xgboost"
+  ],
+  "dataset_sources": [
+    "prevek18/ames-housing-dataset"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "house-prices-advanced-regression-techniques"
+  ],
+  "model_sources": []
+}

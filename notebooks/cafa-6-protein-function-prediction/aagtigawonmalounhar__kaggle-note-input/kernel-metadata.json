@@ -1,0 +1,23 @@
+{
+  "id": "aagtigawonmalounhar/kaggle-note-input",
+  "id_no": 95298660,
+  "title": "KAGGLE NOTE INPUT",
+  "code_file": "kaggle-note-input.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": true,
+  "enable_internet": true,
+  "keywords": [
+    "scheduled"
+  ],
+  "dataset_sources": [
+    "aagtigawonmalounhar/kaggle-note-in"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "cafa-6-protein-function-prediction"
+  ],
+  "model_sources": []
+}

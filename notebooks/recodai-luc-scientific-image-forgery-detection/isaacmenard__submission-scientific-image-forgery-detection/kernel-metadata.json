@@ -1,0 +1,26 @@
+{
+  "id": "isaacmenard/submission-scientific-image-forgery-detection",
+  "id_no": 96304968,
+  "title": "Submission- Scientific Image Forgery Detection",
+  "code_file": "submission-scientific-image-forgery-detection.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "recodai-luc-scientific-image-forgery-detection"
+  ],
+  "model_sources": [
+    "",
+    "",
+    "",
+    "isaacmenard/scientific-image-forgery-detection/PyTorch/default/13"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "nobodymartin/practice-with-visualization-eda-xgb-in-ds",
+  "id_no": 30727821,
+  "title": "Practice with Visualization & EDA & XGB in DS",
+  "code_file": "practice-with-visualization-eda-xgb-in-ds.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "mlg-ulb/creditcardfraud",
+    "vjchoudhary7/customer-segmentation-tutorial-in-python",
+    "blastchar/telco-customer-churn"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "house-prices-advanced-regression-techniques",
+    "spaceship-titanic",
+    "titanic"
+  ],
+  "model_sources": []
+}

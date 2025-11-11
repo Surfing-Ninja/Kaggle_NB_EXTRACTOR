@@ -1,0 +1,27 @@
+{
+  "id": "datafan07/disaster-tweets-nlp-eda-bert-with-transformers",
+  "id_no": 10087696,
+  "title": "Disaster Tweets NLP: EDA & BERT With Transformers",
+  "code_file": "disaster-tweets-nlp-eda-bert-with-transformers.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "nlp",
+    "exploratory data analysis",
+    "deep learning",
+    "classification",
+    "beginner"
+  ],
+  "dataset_sources": [
+    "datafan07/twittermaskn"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nlp-getting-started"
+  ],
+  "model_sources": []
+}

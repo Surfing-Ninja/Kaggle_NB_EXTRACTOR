@@ -1,0 +1,25 @@
+{
+  "id": "maheshnanavare/housing-prices-xgboost-gridsearch-pipeline",
+  "id_no": 30915832,
+  "title": "Housing Prices (XGBoost, GridSearch, Pipeline)",
+  "code_file": "housing-prices-xgboost-gridsearch-pipeline.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "beginner",
+    "tabular",
+    "pandas",
+    "xgboost",
+    "regression"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "home-data-for-ml-course"
+  ],
+  "model_sources": []
+}

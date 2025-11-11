@@ -1,0 +1,23 @@
+{
+  "id": "mathieuduverne/csiro-simple-baseline",
+  "id_no": 97138903,
+  "title": "CSIRO simple baseline",
+  "code_file": "csiro-simple-baseline.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [
+    "mathieuduverne/timm-weights"
+  ],
+  "competition_sources": [
+    "csiro-biomass"
+  ],
+  "model_sources": []
+}

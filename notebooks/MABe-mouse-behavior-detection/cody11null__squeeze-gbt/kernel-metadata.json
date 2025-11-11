@@ -1,0 +1,21 @@
+{
+  "id": "cody11null/squeeze-gbt",
+  "id_no": 96257128,
+  "title": "Squeeze GBT",
+  "code_file": "squeeze-gbt.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "MABe-mouse-behavior-detection"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,22 @@
+{
+  "id": "prashant111/mnist-deep-neural-network-with-keras",
+  "id_no": 6512878,
+  "title": "MNIST - Deep Neural Network with Keras",
+  "code_file": "mnist-deep-neural-network-with-keras.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "deep learning",
+    "beginner"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "digit-recognizer"
+  ],
+  "model_sources": []
+}

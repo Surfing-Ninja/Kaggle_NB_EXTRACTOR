@@ -1,0 +1,19 @@
+{
+  "id": "jieuna1/nfl-feature-engineering",
+  "id_no": 95949637,
+  "title": "NFL Feature Engineering",
+  "code_file": "nfl-feature-engineering.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nfl-big-data-bowl-2026-analytics"
+  ],
+  "model_sources": []
+}

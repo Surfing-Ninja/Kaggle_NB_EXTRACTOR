@@ -1,0 +1,23 @@
+{
+  "id": "user123454321/bert-starter-inference",
+  "id_no": 7254409,
+  "title": "Bert starter (inference)",
+  "code_file": "bert-starter-inference.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "user123454321/nlpgetstartedbertbasemoel"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nlp-getting-started"
+  ],
+  "model_sources": []
+}

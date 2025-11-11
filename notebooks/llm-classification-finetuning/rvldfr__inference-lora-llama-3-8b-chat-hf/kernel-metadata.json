@@ -1,0 +1,28 @@
+{
+  "id": "rvldfr/inference-lora-llama-3-8b-chat-hf",
+  "id_no": 76069044,
+  "title": "[Inference] LoRA Llama 3 8B-Chat_hf",
+  "code_file": "inference-lora-llama-3-8b-chat-hf.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "kishanvavdara/lmsys-model"
+  ],
+  "kernel_sources": [
+    "hotchpotch/llm-detect-pip",
+    "rvldfr/tpu-train-lora-llama-3-8b-chat-hf"
+  ],
+  "competition_sources": [
+    "llm-classification-finetuning"
+  ],
+  "model_sources": [
+    "metaresearch/llama-3/Transformers/8b-chat-hf/1"
+  ]
+}

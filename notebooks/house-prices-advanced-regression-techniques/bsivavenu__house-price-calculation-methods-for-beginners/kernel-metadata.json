@@ -1,0 +1,24 @@
+{
+  "id": "bsivavenu/house-price-calculation-methods-for-beginners",
+  "id_no": 387120,
+  "title": "House Price Calculation  methods for beginners",
+  "code_file": "house-price-calculation-methods-for-beginners.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "data visualization",
+    "beginner",
+    "exploratory data analysis",
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "house-prices-advanced-regression-techniques"
+  ],
+  "model_sources": []
+}

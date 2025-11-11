@@ -1,0 +1,35 @@
+{
+  "original_path": "notebooks/store-sales-time-series-forecasting/ivanlydkin__time-series-course-a-practical-guide/time-series-course-a-practical-guide.ipynb",
+  "quality_score": 81.75,
+  "grade": "A",
+  "techniques": {
+    "feature_engineering": [
+      "aggregation",
+      "lag_features",
+      "label_encoding",
+      "onehot_encoding"
+    ],
+    "eda": [
+      "correlation",
+      "scatter",
+      "missing_analysis",
+      "visualization"
+    ],
+    "hyperparameter": [
+      "cross_validation"
+    ],
+    "advanced_ml": [
+      "xgboost"
+    ]
+  },
+  "libraries": [
+    "pandas",
+    "numpy",
+    "sklearn",
+    "xgboost",
+    "matplotlib",
+    "seaborn"
+  ],
+  "category": "complete_pipeline",
+  "competition": "store-sales-time-series-forecasting"
+}

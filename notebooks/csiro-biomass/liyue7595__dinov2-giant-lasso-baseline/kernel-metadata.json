@@ -1,0 +1,24 @@
+{
+  "id": "liyue7595/dinov2-giant-lasso-baseline",
+  "id_no": 98805153,
+  "title": "DINOv2  Giant+ Lasso baseline \u4e2d\u6587\u81ea\u7f16\u8f91",
+  "code_file": "dinov2-giant-lasso-baseline.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "csiro-biomass"
+  ],
+  "model_sources": [
+    "metaresearch/dinov2/PyTorch/base/1",
+    "metaresearch/dinov2/PyTorch/giant/1"
+  ]
+}

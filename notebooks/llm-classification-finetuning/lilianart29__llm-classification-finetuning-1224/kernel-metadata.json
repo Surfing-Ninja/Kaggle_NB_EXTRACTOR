@@ -1,0 +1,29 @@
+{
+  "id": "lilianart29/llm-classification-finetuning-1224",
+  "id_no": 71831123,
+  "title": "LLM Classification Finetuning_1224",
+  "code_file": "llm-classification-finetuning-1224.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    ""
+  ],
+  "kernel_sources": [
+    "hotchpotch/llm-detect-pip"
+  ],
+  "competition_sources": [
+    "llm-classification-finetuning"
+  ],
+  "model_sources": [
+    "",
+    "",
+    "lilianart29/llama3.2-3b-instruct-hf/Transformers/default/1"
+  ]
+}

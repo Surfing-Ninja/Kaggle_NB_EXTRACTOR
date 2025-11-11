@@ -1,0 +1,23 @@
+{
+  "id": "ryanholbrook/exercise-hybrid-models",
+  "id_no": 19616007,
+  "title": "Exercise: Hybrid Models",
+  "code_file": "exercise-hybrid-models.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "pandas"
+  ],
+  "dataset_sources": [
+    "ryanholbrook/ts-course-data"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "store-sales-time-series-forecasting"
+  ],
+  "model_sources": []
+}

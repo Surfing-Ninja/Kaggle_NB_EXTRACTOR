@@ -1,0 +1,19 @@
+{
+  "id": "sujithmandala/house-price-prediction-regressor-models-top-2",
+  "id_no": 35164768,
+  "title": "\ud83c\udfe0House Price Prediction|Regressor Models|Top 2% ",
+  "code_file": "house-price-prediction-regressor-models-top-2.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "home-data-for-ml-course"
+  ],
+  "model_sources": []
+}

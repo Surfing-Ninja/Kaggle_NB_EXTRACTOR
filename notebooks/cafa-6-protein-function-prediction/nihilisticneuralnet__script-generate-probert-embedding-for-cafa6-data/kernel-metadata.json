@@ -1,0 +1,29 @@
+{
+  "id": "nihilisticneuralnet/script-generate-probert-embedding-for-cafa6-data",
+  "id_no": 95484098,
+  "title": "[Script] Generate ProBERT Embedding for CAFA6 data",
+  "code_file": "script-generate-probert-embedding-for-cafa6-data.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "",
+    "viktorfairuschin/cafa-5-ems-2-embeddings-numpy",
+    "henriupton/protbert-embeddings-for-cafa5",
+    "sergeifironov/t5embeds",
+    "siddhvr/train-targets-top500"
+  ],
+  "kernel_sources": [
+    "nihilisticneuralnet/protbert-ensemble"
+  ],
+  "competition_sources": [
+    "cafa-6-protein-function-prediction"
+  ],
+  "model_sources": []
+}

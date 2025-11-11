@@ -1,0 +1,24 @@
+{
+  "id": "poonaml/titanic-survival-prediction-end-to-end-ml-pipeline",
+  "id_no": 145170,
+  "title": "Titanic Survival Prediction End to End ML Pipeline",
+  "code_file": "titanic-survival-prediction-end-to-end-ml-pipeline.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "data visualization",
+    "ensembling",
+    "exploratory data analysis",
+    "beginner"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "titanic"
+  ],
+  "model_sources": []
+}

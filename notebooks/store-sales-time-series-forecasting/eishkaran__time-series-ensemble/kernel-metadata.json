@@ -1,0 +1,22 @@
+{
+  "id": "eishkaran/time-series-ensemble",
+  "id_no": 39809838,
+  "title": "Time Series- Ensemble",
+  "code_file": "time-series-ensemble.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "ensembling",
+    "time series analysis"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "store-sales-time-series-forecasting"
+  ],
+  "model_sources": []
+}

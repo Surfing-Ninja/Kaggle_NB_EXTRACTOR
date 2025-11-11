@@ -1,0 +1,22 @@
+{
+  "id": "arthurtok/interactive-intro-to-dimensionality-reduction",
+  "id_no": 166861,
+  "title": "Interactive Intro to Dimensionality Reduction",
+  "code_file": "interactive-intro-to-dimensionality-reduction.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "dimensionality reduction",
+    "pca"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "digit-recognizer"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,26 @@
+{
+  "id": "unfriendlyai/cyclegan-without-identity-loss",
+  "id_no": 12631609,
+  "title": "CycleGAN without identity loss",
+  "code_file": "cyclegan-without-identity-loss.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": true,
+  "enable_internet": true,
+  "keywords": [
+    "art",
+    "tpu",
+    "gan"
+  ],
+  "dataset_sources": [
+    "dimitreoliveira/monet-tfrecords-256x256",
+    "dimitreoliveira/tfrecords-monet-paintings-256x256"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "gan-getting-started"
+  ],
+  "model_sources": []
+}

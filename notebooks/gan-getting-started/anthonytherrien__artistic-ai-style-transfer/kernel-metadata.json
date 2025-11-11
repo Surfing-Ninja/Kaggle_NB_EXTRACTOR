@@ -1,0 +1,21 @@
+{
+  "id": "anthonytherrien/artistic-ai-style-transfer",
+  "id_no": 47910937,
+  "title": "\ud83c\udfa8 Artistic AI: Style Transfer \ud83c\udf0c",
+  "code_file": "artistic-ai-style-transfer.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "gan-getting-started"
+  ],
+  "model_sources": []
+}

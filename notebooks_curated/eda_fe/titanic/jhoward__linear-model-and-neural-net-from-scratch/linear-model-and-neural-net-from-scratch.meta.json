@@ -1,0 +1,24 @@
+{
+  "original_path": "notebooks/titanic/jhoward__linear-model-and-neural-net-from-scratch/linear-model-and-neural-net-from-scratch.ipynb",
+  "quality_score": 44.506,
+  "grade": "C",
+  "techniques": {
+    "feature_engineering": [
+      "onehot_encoding"
+    ],
+    "eda": [
+      "histogram",
+      "missing_analysis",
+      "statistics"
+    ],
+    "advanced_ml": [
+      "neural_network"
+    ]
+  },
+  "libraries": [
+    "numpy",
+    "pytorch"
+  ],
+  "category": "eda_fe",
+  "competition": "titanic"
+}

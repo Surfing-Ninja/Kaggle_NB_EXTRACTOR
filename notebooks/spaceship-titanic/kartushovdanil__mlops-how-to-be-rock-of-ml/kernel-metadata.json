@@ -1,0 +1,21 @@
+{
+  "id": "kartushovdanil/mlops-how-to-be-rock-of-ml",
+  "id_no": 25803398,
+  "title": "\u2699\ufe0f MLops | How to be Rock of ML \u2699\ufe0f",
+  "code_file": "mlops-how-to-be-rock-of-ml.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "house-prices-advanced-regression-techniques",
+    "spaceship-titanic",
+    "titanic"
+  ],
+  "model_sources": []
+}

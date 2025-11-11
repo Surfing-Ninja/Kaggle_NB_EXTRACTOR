@@ -1,0 +1,29 @@
+{
+  "id": "frankmollard/a-story-about-unsupervised-learning",
+  "id_no": 15917112,
+  "title": "A Story about Unsupervised Learning \u2728",
+  "code_file": "a-story-about-unsupervised-learning.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "outlier analysis",
+    "lstm",
+    "clustering",
+    "deep learning",
+    "dimensionality reduction"
+  ],
+  "dataset_sources": [
+    "balraj98/modelnet40-princeton-3d-object-dataset",
+    "boltzmannbrain/nab",
+    "uciml/red-wine-quality-cortez-et-al-2009"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "digit-recognizer"
+  ],
+  "model_sources": []
+}

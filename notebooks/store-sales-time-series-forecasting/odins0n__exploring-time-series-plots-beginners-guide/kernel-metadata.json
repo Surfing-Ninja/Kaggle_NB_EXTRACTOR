@@ -1,0 +1,30 @@
+{
+  "id": "odins0n/exploring-time-series-plots-beginners-guide",
+  "id_no": 22055351,
+  "title": "\ud83d\udcc8Exploring Time Series plots: Beginners Guide\ud83d\udcc8",
+  "code_file": "exploring-time-series-plots-beginners-guide.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "time series analysis",
+    "matplotlib",
+    "data visualization",
+    "beginner"
+  ],
+  "dataset_sources": [
+    "berkeleyearth/climate-change-earth-surface-temperature-data",
+    "sumanthvrao/daily-climate-time-series-data",
+    "szrlee/stock-time-series-20050101-to-20171231",
+    "borismarjanovic/price-volume-data-for-all-us-stocks-etfs"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "g-research-crypto-forecasting",
+    "store-sales-time-series-forecasting"
+  ],
+  "model_sources": []
+}

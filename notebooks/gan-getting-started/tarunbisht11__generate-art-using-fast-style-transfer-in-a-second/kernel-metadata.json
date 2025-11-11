@@ -1,0 +1,25 @@
+{
+  "id": "tarunbisht11/generate-art-using-fast-style-transfer-in-a-second",
+  "id_no": 11941346,
+  "title": "Generate Art using Fast Style Transfer in a second",
+  "code_file": "generate-art-using-fast-style-transfer-in-a-second.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu",
+    "art",
+    "artificial intelligence",
+    "arts and entertainment",
+    "deep learning"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "gan-getting-started"
+  ],
+  "model_sources": []
+}

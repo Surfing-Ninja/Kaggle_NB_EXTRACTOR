@@ -1,0 +1,669 @@
+---
+title: "Bank Loan Payback"
+date: '`r Sys.Date()`'
+output:
+  html_document:
+    number_sections: true
+    fig_caption: true
+    toc: true
+    fig_width: 7
+    fig_height: 4.5
+    theme: cosmo
+    highlight: tango
+    code_folding: hide
+---
+  
+# Introduction  {.tabset .tabset-fade .tabset-pills}
+
+The goal of this competition is to predict the crop yield.
+
+My notebook serves as a demonstration of some of the possible techniques available to arrive at a solution.  I intend to add to this as I have time available. Your questions and comments are welcome.
+
+Lets dive right in.
+
+The Kaggle kernels have many of the common r packages built in.  
+
+## Load libraries
+
+```{r }
+#| label: setup
+#| warning: false
+#| message: false
+
+if (dir.exists("/kaggle")){
+  path <- "/kaggle/input/playground-series-s5e11/"
+    
+# options(repos = c(CRAN = "https://packagemanager.posit.co/cran/2021-03-22"))
+
+install.packages("pak")
+pak::pak("bonsai")
+
+remotes::install_github("luisdva/hexsession", quiet = TRUE)    
+#remotes::install_github("tidymodels/plsmod", quiet = TRUE)    
+remotes::install_url('https://github.com/catboost/catboost/releases/download/v1.2.8/catboost-R-linux-x86_64-1.2.8.tgz', 
+                     INSTALL_opts = c("--no-multiarch", "--no-test-load"),
+                     quiet = TRUE)  
+
+cores <- future::availableCores()
+
+} else {
+  path <- stringr::str_c(here::here("data"),"/")
+  orig_path <- stringr::str_c(here::here("data"),"/")
+
+  cores <- future::availableCores(omit = 2)
+}
+ 
+suppressPackageStartupMessages({
+library(tidyverse, quietly = TRUE) # metapackage of all tidyverse packages
+library(tidymodels, quietly = TRUE) # metapackage see https://www.tidymodels.org/
+    
+library(bonsai)  # Tidymodels access to Catboost
+library(catboost)
+library(stacks)  # Tidymodels ensembling
+    
+library(DALEXtra) # Tidymodels Explainability         
+
+# library(mirai)
+# daemons(cores)
+    
+})
+
+tidymodels_prefer()
+
+options(tidymodels.dark = TRUE)
+
+theme_set(theme_minimal())
+
+hexsession::make_tile(packages = c("DALEXtra", "DALEX", "catboost","bonsai","correlationfunnel","yardstick","workflows",
+                                   "tune","rsample","recipes","parsnip","infer","dials","broom","tidymodels","lubridate",
+                                   "forcats","stringr","dplyr","purrr","readr","tidyr","tibble","ggplot2","tidyverse","reprex","testthat","usethis"))
+
+
+```
+
+
+
+## Load Data
+
+```{r }
+#| label: load data
+#| warning: false
+#| message: false
+future::plan("multisession")
+
+alphabet_lookup <- setNames(1:26, LETTERS)
+
+preprocessor <- function(dataframe) {
+
+dataframe <- dataframe |>
+    janitor::clean_names() |>
+    
+    mutate(loan_to_income = loan_amount / annual_income,
+          risk_score = debt_to_income_ratio *40 + (1 - credit_score/850)*30 + interest_rate ^2,
+          grade_combined = as.integer( alphabet_lookup[str_sub(grade_subgrade, 1, 1)]*5 +  as.integer(str_sub(grade_subgrade, 2,2))),
+          credit_interest = credit_score * interest_rate / 100,
+          income_credit = log1p(annual_income) * credit_score / 100,
+          debt_loan = debt_to_income_ratio / log1p(loan_amount),
+          factor_income = factor(round(annual_income, -3)),
+          factor_loan_amount = factor(round(loan_amount, -2))
+     ) |> 
+  
+    mutate(freq_annual_income = n(),
+          .by = annual_income) |> 
+    mutate(freq_debt_to_income_ratio = n(),
+          .by = debt_to_income_ratio) |> 
+    mutate(freq_credit_score = n(),
+          .by = credit_score) |> 
+    mutate(freq_loan_amount = n(),
+          .by = loan_amount) |> 
+      mutate(freq_interest_rate = n(),
+          .by = interest_rate) |> 
+   
+    mutate(across(c(annual_income, debt_to_income_ratio, credit_score, loan_amount, interest_rate),
+           \(x) as.numeric(scale(x)),
+           .names = "scale_employment_status_{.col}"),
+           .by = employment_status) |> 
+  
+    mutate(across(c(annual_income, debt_to_income_ratio, credit_score, loan_amount, interest_rate),
+           \(x) as.numeric(scale(x)),
+           .names = "scale_loan_purpose_{.col}"),
+           .by = loan_purpose) |> 
+
+    mutate(across(c(annual_income, debt_to_income_ratio, credit_score, loan_amount, interest_rate),
+           \(x) as.numeric(scale(x)),
+           .names = "scale_marital_status{.col}"),
+           .by = marital_status) |> 
+
+    mutate(across(c(annual_income, debt_to_income_ratio, credit_score, loan_amount, interest_rate),
+           \(x) as.numeric(scale(x)),
+           .names = "scale_grade_subgrade{.col}"),
+           .by = grade_subgrade) |> 
+    
+    mutate(across(c(where(is.character)), ~ as.factor(.x))) 
+
+return(dataframe)
+}
+
+raw_df <- read_csv(str_c(path, "train.csv"),
+                   show_col_types = FALSE) 
+
+tst_df <- read_csv(str_c(path, "test.csv"),
+                   show_col_types = FALSE)  
+
+all_df <-
+    bind_rows(raw_df %>% mutate(source = "train"),
+              tst_df %>% mutate(source = "test")) |>
+          preprocessor() |> 
+   mutate(loan_paid_back = factor(loan_paid_back))
+
+train_df <- all_df %>% 
+  filter(source == "train") %>% 
+  select(-source) 
+
+competition_df <- all_df %>% 
+  filter(source == "test") %>% 
+  select(-source, -loan_paid_back)
+
+future::plan("sequential")
+
+```
+
+# EDA {.tabset .tabset-fade .tabset-pills}
+
+## Features
+
+We will de-duplicate the training set and calculate a mean loan_paid_back figure.
+
+```{r}
+#| label: Features
+#| warning: false
+#| message: false
+#| fig.width: 6
+
+conflicted::conflict_prefer("select", "dplyr")
+conflicted::conflict_prefer("where", "dplyr")
+
+features <- train_df %>%
+  dplyr::select(-id, -loan_paid_back) |> 
+  names()
+
+train_df <- train_df %>% 
+  dplyr::group_by_at(all_of(features)) |> 
+  dplyr::summarise(id = min(id),
+            loan_paid_back = first(loan_paid_back),
+            .groups = "drop")
+
+nom_features <- train_df |> 
+  dplyr::select(dplyr::all_of(features)) |> 
+  dplyr::select(dplyr::where(is.factor)) |> 
+  names() 
+
+logical_features <- train_df |> 
+  dplyr::select(dplyr::all_of(features)) |> 
+  dplyr::select(dplyr::where(is.logical)) |> 
+  names() 
+
+num_features <- train_df |> 
+  dplyr::select(dplyr::all_of(features)) |> 
+  dplyr::select(dplyr::where(is.numeric)) |> 
+  names()
+```
+
+Nominal features:
+
+`r nom_features`
+
+Numeric features: 
+
+`r num_features`
+
+Logical features: 
+
+`r logical_features`
+
+
+Size of the combined train and competition datasets:
+
+`r nrow(all_df)`
+
+Size of training set after de-duplication
+
+`r nrow(train_df)`
+
+
+## Numeric features
+
+
+
+```{r}
+#| label: numeric
+#| warning: false
+#| message: false
+#| fig.height: 9
+
+train_df %>% 
+  dplyr::select(all_of(num_features), loan_paid_back ) %>% 
+  pivot_longer(-loan_paid_back,
+    names_to = "metric",
+    values_to = "value"
+  ) %>%
+  ggplot(aes(value, fill = loan_paid_back)) +
+  geom_density(position = "stack") +
+  scale_fill_brewer(type = "seq", palette = "Greens") +
+  facet_wrap(vars(metric), scales = "free", ncol = 2) +
+  theme(panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank(),
+        legend.position = "top") +
+  labs(color = NULL, fill = "loan_paid_back",
+       title = "Numeric Feature Univariate Distributions",
+       caption = "Data: Kaggle | Visual: Jim Gruman")
+
+```
+
+
+## Nominal and Logical features
+
+Explore the distribution of outcome class by factor level.
+
+
+```{r}
+#| label: nominal
+#| warning: false
+#| message: false
+#| fig.height: 6
+#| fig.width: 6
+
+
+if(length(nom_features) >0){
+
+train_df %>% 
+  select(all_of(nom_features), all_of(logical_features), loan_paid_back) %>% 
+  mutate(across(nom_features, fct_lump_n,n = 10, other_level = 'other'),
+         across(logical_features, \(x) factor(x))) %>%
+  pivot_longer(-loan_paid_back,
+    names_to = "metric",
+    values_to = "value"
+  ) %>%
+    
+  filter(!is.na(loan_paid_back)) %>% 
+    
+  summarise(n = n(),
+            .by = c(loan_paid_back, metric, value)) %>%
+      
+  mutate(value = tidytext::reorder_within(value, n, metric)) %>%
+    
+  ggplot(aes(x = n, y = value, fill = loan_paid_back)) +
+  geom_col() +
+  tidytext::scale_y_reordered() +
+  scale_x_continuous(n.breaks = 3, guide = guide_axis(n.dodge = 2))  +
+  scale_fill_brewer(type = "seq", palette = "Greens") +
+  facet_wrap(vars(metric), scales = "free", ncol = 2) +
+  theme(panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank(),
+       legend.position = "bottom") +
+  labs(title = "Nominal Feature Counts",
+       fill = NULL, y = NULL,
+       caption = "Data: Kaggle | Visual: Jim Gruman")
+
+}
+
+```
+
+## Counts of Missingness
+
+                  
+```{r}
+#| label: counts of missingness
+
+train_df %>% 
+  summarize(across(all_of(features), function(x) sum(is.na(x)))) %>% 
+  pivot_longer(everything(),
+              names_to = "feature",
+              values_to = "Count of Missing") %>% 
+                   knitr::kable()
+
+competition_df %>% 
+  summarize(across(all_of(features), function(x) sum(is.na(x)))) %>% 
+  pivot_longer(everything(),
+              names_to = "feature",
+              values_to = "Count of Missing") %>% 
+                   knitr::kable()
+
+```
+
+## Counts of Distinct
+                   
+               
+```{r}
+#| label: counts of distinct
+               
+train_df %>%
+  summarize(across(all_of(features), n_distinct)) %>%
+  pivot_longer(everything(), names_to = "feature", values_to = "Count of distinct train") |>
+  left_join(
+    competition_df %>%
+      summarize(across(all_of(features), n_distinct)) %>%
+      pivot_longer(everything(), names_to = "feature", values_to = "Count of distinct test"),
+    by = join_by(feature)
+  ) %>% 
+                   knitr::kable()
+               
+```
+
+## Duplicated
+
+Is this competition transaction already in the training data with a correct label?
+
+
+```{r}
+#| label: duplicates
+#| warning: false
+#| message: false
+
+bind_rows(train_df %>% mutate(source = "train"),
+              competition_df %>% mutate(source = "test")) |> 
+    group_by_at(features) %>%
+    mutate(num_dups = n(),
+           dup_id = row_number()) %>% 
+    ungroup() %>% 
+    group_by(source) %>%
+    mutate(is_duplicated = dup_id > 1) %>% 
+    count(is_duplicated) %>% 
+                   knitr::kable()
+
+
+
+```
+
+
+## Pairwise Correlations
+                   
+`ggcorrplot` provides a quick look at numeric features where the correlation may be significant. 
+
+```{r}
+#| label: pairwise correlations
+#| fig.width: 9
+#| fig.height: 9                 
+                 
+trainp.mat <- train_df %>% 
+  mutate(loan_paid_back = as.numeric(loan_paid_back)) |> 
+  select(all_of(num_features), loan_paid_back) %>% 
+  ggcorrplot::cor_pmat() 
+                   
+train_df %>% 
+  mutate(loan_paid_back = as.numeric(loan_paid_back)) |> 
+  select(all_of(num_features), loan_paid_back) %>%                    
+  cor() %>% 
+  ggcorrplot::ggcorrplot(hc.order = TRUE, 
+                         lab = TRUE,
+                         p.mat = trainp.mat,
+    type = "lower", insig = "blank") +
+  labs(title = "Pairwise Correlations Training Set")
+                   
+competitionp.mat <- competition_df %>% 
+  select(all_of(num_features)) %>% 
+  ggcorrplot::cor_pmat() 
+                   
+competition_df %>% 
+  select(all_of(num_features)) %>%                   
+  cor()   %>% 
+  ggcorrplot::ggcorrplot(hc.order = TRUE, lab = TRUE,
+                         p.mat = competitionp.mat,
+    type = "lower", insig = "blank") +
+  labs(title = "Pairwise Correlations Competition Set")
+
+```                    
+               
+                   
+## Target
+
+```{r}
+#| label: outcome 
+#| warning: false
+#| message: false
+#| fig.width: 6
+
+
+train_df %>%
+  summarize(outcome_sum = n(), .by = loan_paid_back) %>%
+  arrange(desc(outcome_sum)) %>%
+  mutate(prop = outcome_sum / nrow(train_df)) %>%
+  mutate(ypos = cumsum(prop) - 0.5 * prop) %>%
+  ggplot(aes(x = "", y = prop, fill = loan_paid_back)) +
+  geom_bar(stat = "identity",
+           width = 1,
+           show.legend = FALSE) +
+  geom_text(
+    aes(
+      y = ypos,
+      label= paste0(loan_paid_back
+                     , "\n", round(prop, 2) * 100, "%")
+    ),
+    color = "white",
+    nudge_x = 0,
+    size = 3
+  ) +
+  scale_fill_brewer(type = "qual", palette = "Dark2") +                   
+  coord_polar("y", start = 0) +
+  theme(
+    axis.text = element_blank(),
+    axis.title = element_blank()  ) +
+  labs(title = "loan_paid_back", caption = "Data: Kaggle.com | Visual: Jim Gruman")
+
+``` 
+                
+# Regression Machine Learning {.tabset .tabset-fade .tabset-pills}
+
+
+## Recipe
+
+```{r}
+#| label: recipe
+#| warning: false
+#| message: false
+#| fig.width: 6
+                   
+catboost_rec <- recipe(formula(paste0("loan_paid_back ~ ", str_c(features, collapse = " + "))), data = train_df) 
+
+folds <- vfold_cv(train_df,
+                  v = 12,
+                  repeats = 1,
+                  strata = loan_paid_back)
+                   
+```
+
+
+## Catboost 
+
+
+```{r}
+#| label: catboost 
+#| warning: false
+#| message: false
+
+boost_tree_catboost_spec <- 
+  boost_tree(
+    trees = 300,
+    tree_depth = tune(),
+    learn_rate =  tune(),
+    stop_iter = 110L
+  ) %>% 
+  set_engine(engine = "catboost" ,
+             thread_count = cores,
+             eval_metric = "AUC",
+             loss_function =  "Logloss",
+         #    early_stopping_rounds = 100,
+             bagging_temperature = 1,    # default is 1.0
+             l2_leaf_reg = 3.0) %>%  #3.0 is the default. Any positive number is allowed.
+  set_mode(mode = "classification") 
+
+
+dep_models <-
+   workflow_set(
+      preproc = list(base = catboost_rec),
+      models = list(catboost = boost_tree_catboost_spec),
+      cross = FALSE
+   ) %>%
+  option_add_parameters() |>
+  option_add(
+    control = finetune::control_sim_anneal( save_pred = TRUE, save_workflow = TRUE, verbose = TRUE, verbose_iter = TRUE),
+    metrics = metric_set(roc_auc)
+  )
+
+catboost_params <- dep_models |>
+ extract_workflow("base_catboost") |>
+ extract_parameter_set_dials() |>
+ update(
+         tree_depth = tree_depth(range = c(10, 12)),
+         learn_rate = learn_rate(range = c(-1.3,-0.8))
+ ) 
+
+catboost_models <- dep_models |>
+ option_add(
+   param_info = catboost_params,
+   id = "base_catboost"
+ ) |>
+  workflow_map("tune_sim_anneal", 
+               resamples = folds, 
+               iter = 7,
+               metrics = metric_set(roc_auc), verbose = TRUE)
+                   
+
+autoplot(catboost_models) +
+  geom_text(aes(y = mean -0.02, label = wflow_id), angle = 90, hjust = 1)+
+  scale_y_continuous(limits = c(0,NA), expand = c(0, 0)) |>
+  theme(legend.position = "none")
+
+rank_results(catboost_models, rank_metric = "roc_auc", select_best = TRUE) %>%
+   select(rank, mean, model, wflow_id, .config) |> 
+   arrange(desc(mean))
+ 
+catboost_models %>%
+  dplyr::filter(grepl("catboost", wflow_id)) %>%
+  mutate(metrics = map(result, collect_metrics)) %>%
+  dplyr::select(wflow_id, metrics) %>%
+  tidyr::unnest(cols = metrics) |>
+  arrange(desc(mean))
+
+catboost_models |>
+  workflowsets::extract_workflow_set_result("base_catboost") |>
+  autoplot() +
+  labs(title = "Catboost Hyperparameter Search")
+
+
+dep_stack <- stacks() %>%
+  add_candidates(catboost_models) %>%
+  blend_predictions(  metric =  metric_set(roc_auc),
+      penalty = c(10^seq(-2.7, -1.3, 0.1)),
+      non_negative = TRUE,
+      control = tune::control_grid(allow_par = TRUE))
+
+autoplot(dep_stack)
+
+autoplot(dep_stack, type = "members")        
+                   
+autoplot(dep_stack, "weights")
+                   
+classification_fit <- dep_stack %>% 
+    fit_members()                   
+
+```
+
+
+
+# Performance {.tabset .tabset-fade .tabset-pills}
+
+```{r}
+#| label: explainer
+#| warning: false
+#| message: false
+#| fig.height: 12
+                   
+                   
+explainer <- 
+  explain_tidymodels(
+    classification_fit, 
+    data = train_df %>% dplyr::select(all_of(features)), 
+    y = as.numeric(train_df$loan_paid_back),
+    label = "Ensemble",
+    verbose = FALSE
+  )  %>% 
+  model_parts()
+
+ggplot_imp <- function(...) {
+  obj <- list(...)
+  metric_name <- attr(obj[[1]], "loss_name")
+  metric_lab <- paste(metric_name, 
+                      "after permutations\n(lower indicates more important)")
+  
+  full_vip <- bind_rows(obj) %>%
+    filter(variable != "_baseline_")
+  
+  perm_vals <- full_vip %>% 
+    filter(variable == "_full_model_") %>% 
+    group_by(label) %>% 
+    summarise(dropout_loss = mean(dropout_loss))
+  
+  p <- full_vip %>%
+    filter(variable != "_full_model_") %>% 
+    mutate(variable = fct_reorder(variable, -dropout_loss)) %>%
+    ggplot(aes(dropout_loss, variable)) 
+  
+  if(length(obj) > 1) {
+    p <- p + 
+      facet_wrap(vars(label)) +
+      geom_vline(data = perm_vals, aes(xintercept = dropout_loss, color = label),
+                 linewidth = 1.4, lty = 2, alpha = 0.7) +
+      geom_boxplot(aes(color = label, fill = label), alpha = 0.2)
+  } else {
+    p <- p + 
+      geom_vline(data = perm_vals, aes(xintercept = dropout_loss),
+                 linewidth = 1.4, lty = 2, alpha = 0.7) +
+      geom_boxplot(fill = "#91CBD765", alpha = 0.4)
+    
+  }
+  p +
+    theme(legend.position = "none") +
+    labs(x = metric_lab, 
+         y = NULL,  fill = NULL,  color = NULL)
+}
+                   
+ggplot_imp(explainer)      
+                       
+
+```                      
+
+
+                   
+# Submission
+                   
+
+```{r}
+#| label: submission
+#| warning: false
+#| message: false
+#| fig.height: 6
+#| fig.width: 6   
+                 
+predict(classification_fit, train_df, type = "prob") %>% 
+  bind_cols(train_df) |> 
+  mutate(
+    .pred_class = factor(if_else(.pred_1 > 0.5, "1","0"))
+  ) |>                    
+  conf_mat(loan_paid_back, .pred_class) %>%
+  yardstick:::autoplot.conf_mat(type = "heatmap") +
+  scale_fill_distiller(palette = "RdPu")
+
+submit_df <- predict(classification_fit, competition_df, type = "prob") |>
+  bind_cols(competition_df) |>
+  transmute(
+    id,
+    loan_paid_back = .pred_1)
+
+
+head(submit_df)  %>% 
+     knitr::kable()      
+
+submit_df  %>% 
+  write_csv("submission.csv")
+```    

@@ -1,0 +1,19 @@
+{
+  "id": "computervisi/best-models-spaceship-titanic",
+  "id_no": 38637090,
+  "title": "Best models Spaceship_Titanic",
+  "code_file": "best-models-spaceship-titanic.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "spaceship-titanic"
+  ],
+  "model_sources": []
+}

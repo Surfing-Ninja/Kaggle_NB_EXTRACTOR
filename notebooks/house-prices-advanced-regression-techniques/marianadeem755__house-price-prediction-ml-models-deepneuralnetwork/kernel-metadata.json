@@ -1,0 +1,19 @@
+{
+  "id": "marianadeem755/house-price-prediction-ml-models-deepneuralnetwork",
+  "id_no": 50209804,
+  "title": "House Price prediction ML Models|DeepNeuralNetwork",
+  "code_file": "house-price-prediction-ml-models-deepneuralnetwork.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "house-prices-advanced-regression-techniques"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "furqonaryadana/classification-finetuning-with-machine-learning",
+  "id_no": 84431972,
+  "title": "Classification Finetuning With Machine Learning",
+  "code_file": "classification-finetuning-with-machine-learning.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "sauravmaheshkar/huggingface-bert-variants"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "llm-classification-finetuning"
+  ],
+  "model_sources": []
+}

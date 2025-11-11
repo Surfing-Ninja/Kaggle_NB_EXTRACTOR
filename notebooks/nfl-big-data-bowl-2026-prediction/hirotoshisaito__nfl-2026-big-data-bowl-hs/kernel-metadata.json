@@ -1,0 +1,21 @@
+{
+  "id": "hirotoshisaito/nfl-2026-big-data-bowl-hs",
+  "id_no": 94786625,
+  "title": "NFL 2026 - Big Data Bowl_HS",
+  "code_file": "nfl-2026-big-data-bowl-hs.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nfl-big-data-bowl-2026-prediction"
+  ],
+  "model_sources": []
+}

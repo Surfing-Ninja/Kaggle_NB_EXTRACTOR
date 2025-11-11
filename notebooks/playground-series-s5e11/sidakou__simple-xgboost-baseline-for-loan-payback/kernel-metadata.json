@@ -1,0 +1,19 @@
+{
+  "id": "sidakou/simple-xgboost-baseline-for-loan-payback",
+  "id_no": 97665870,
+  "title": "Simple XGBoost Baseline for Loan Payback",
+  "code_file": "simple-xgboost-baseline-for-loan-payback.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "playground-series-s5e11"
+  ],
+  "model_sources": []
+}

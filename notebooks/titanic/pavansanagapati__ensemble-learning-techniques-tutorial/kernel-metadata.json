@@ -1,0 +1,32 @@
+{
+  "id": "pavansanagapati/ensemble-learning-techniques-tutorial",
+  "id_no": 1359542,
+  "title": "Ensemble Learning Techniques Tutorial",
+  "code_file": "ensemble-learning-techniques-tutorial.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "matplotlib",
+    "numpy",
+    "pandas",
+    "xgboost"
+  ],
+  "dataset_sources": [
+    "faisallakhtarr/bostonhousing",
+    "brynja/wineuci",
+    "chuckyin/iris-datasets",
+    "uciml/iris",
+    "wilsonf/uci-credit-carefrom-python-woe-pkg",
+    "nareshbhat/wine-quality-binary-classification"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "house-prices-advanced-regression-techniques",
+    "titanic"
+  ],
+  "model_sources": []
+}

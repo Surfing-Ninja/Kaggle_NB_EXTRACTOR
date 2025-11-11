@@ -1,0 +1,34 @@
+{
+  "original_path": "notebooks/spaceship-titanic/arootda__pycaret-visualization-optimization-0-81/pycaret-visualization-optimization-0-81.ipynb",
+  "quality_score": 69.575,
+  "grade": "B",
+  "techniques": {
+    "feature_engineering": [
+      "label_encoding"
+    ],
+    "eda": [
+      "histogram",
+      "missing_analysis",
+      "outlier_detection",
+      "statistics",
+      "visualization"
+    ],
+    "hyperparameter": [
+      "optuna",
+      "cross_validation"
+    ],
+    "advanced_ml": [
+      "catboost"
+    ]
+  },
+  "libraries": [
+    "pandas",
+    "numpy",
+    "sklearn",
+    "matplotlib",
+    "seaborn",
+    "plotly"
+  ],
+  "category": "complete_pipeline",
+  "competition": "spaceship-titanic"
+}

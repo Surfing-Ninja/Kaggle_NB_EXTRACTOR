@@ -1,0 +1,27 @@
+{
+  "id": "dansbecker/exercise-classification",
+  "id_no": 3685412,
+  "title": "Exercise: Classification",
+  "code_file": "exercise-classification.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "music",
+    "sklearn",
+    "pandas"
+  ],
+  "dataset_sources": [
+    "",
+    "dansbecker/melbourne-housing-snapshot",
+    "iabhishekofficial/mobile-price-classification"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "home-data-for-ml-course"
+  ],
+  "model_sources": []
+}

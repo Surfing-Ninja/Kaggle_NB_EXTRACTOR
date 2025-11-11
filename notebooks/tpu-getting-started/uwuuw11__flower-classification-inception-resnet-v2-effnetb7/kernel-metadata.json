@@ -1,0 +1,27 @@
+{
+  "id": "uwuuw11/flower-classification-inception-resnet-v2-effnetb7",
+  "id_no": 19814590,
+  "title": "flower_classification_inception_resnet_v2+EffnetB7",
+  "code_file": "flower-classification-inception-resnet-v2-effnetb7.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "tpu",
+    "image",
+    "tensorflow",
+    "matplotlib",
+    "numpy"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [
+    "ryanholbrook/petal-helper"
+  ],
+  "competition_sources": [
+    "tpu-getting-started"
+  ],
+  "model_sources": []
+}

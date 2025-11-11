@@ -1,0 +1,23 @@
+{
+  "id": "lvalencia/gans-conquerts-impressionism",
+  "id_no": 14388783,
+  "title": "GANs conquerts impressionism",
+  "code_file": "gans-conquerts-impressionism.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "pytorch",
+    "gan",
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "gan-getting-started"
+  ],
+  "model_sources": []
+}

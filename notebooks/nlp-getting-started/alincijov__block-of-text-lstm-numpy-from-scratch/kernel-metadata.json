@@ -1,0 +1,24 @@
+{
+  "id": "alincijov/block-of-text-lstm-numpy-from-scratch",
+  "id_no": 9467478,
+  "title": "Block of Text \ud83d\udccb LSTM Numpy from Scratch",
+  "code_file": "block-of-text-lstm-numpy-from-scratch.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "nlp",
+    "beginner",
+    "python",
+    "lstm"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nlp-getting-started"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "wojteksy/housing-prices-pipelines-custom-transformer",
+  "id_no": 27890472,
+  "title": "\ud83c\udfe0 Housing Prices: Pipelines + Custom Transformer",
+  "code_file": "housing-prices-pipelines-custom-transformer.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "regression",
+    "xgboost",
+    "housing",
+    "exploratory data analysis",
+    "feature engineering"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "home-data-for-ml-course"
+  ],
+  "model_sources": []
+}

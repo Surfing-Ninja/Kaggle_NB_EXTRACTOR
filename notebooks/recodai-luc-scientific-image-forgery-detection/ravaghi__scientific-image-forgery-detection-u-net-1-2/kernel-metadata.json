@@ -1,0 +1,26 @@
+{
+  "id": "ravaghi/scientific-image-forgery-detection-u-net-1-2",
+  "id_no": 97080763,
+  "title": "Scientific Image Forgery Detection | U-Net 1/2",
+  "code_file": "scientific-image-forgery-detection-u-net-1-2.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "image classification",
+    "image segmentation",
+    "computer vision",
+    "pytorch",
+    "unet",
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "recodai-luc-scientific-image-forgery-detection"
+  ],
+  "model_sources": []
+}

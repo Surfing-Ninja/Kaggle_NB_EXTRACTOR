@@ -1,0 +1,24 @@
+{
+  "id": "hirotaka0122/triplet-loss-with-pytorch",
+  "id_no": 7467910,
+  "title": "Triplet Loss with PyTorch",
+  "code_file": "triplet-loss-with-pytorch.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "deep learning",
+    "beginner",
+    "feature engineering",
+    "classification"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "digit-recognizer"
+  ],
+  "model_sources": []
+}

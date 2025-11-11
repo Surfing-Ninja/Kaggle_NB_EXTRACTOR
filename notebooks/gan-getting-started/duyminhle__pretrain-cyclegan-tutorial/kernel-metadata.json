@@ -1,0 +1,26 @@
+{
+  "id": "duyminhle/pretrain-cyclegan-tutorial",
+  "id_no": 30414562,
+  "title": "pretrain_cycleGAN_tutorial",
+  "code_file": "pretrain-cyclegan-tutorial.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "art",
+    "tensorflow",
+    "pre-trained model",
+    "gan"
+  ],
+  "dataset_sources": [
+    "duyminhle/save-model"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "gan-getting-started"
+  ],
+  "model_sources": []
+}

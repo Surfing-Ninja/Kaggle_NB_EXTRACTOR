@@ -1,0 +1,17 @@
+{
+  "original_path": "notebooks/llm-classification-finetuning/kindasomethin__begineer-freindly-llm-classification-finetuning/begineer-freindly-llm-classification-finetuning.ipynb",
+  "quality_score": 35.14215,
+  "grade": "D",
+  "techniques": {
+    "feature_engineering": [
+      "text_features"
+    ]
+  },
+  "libraries": [
+    "pandas",
+    "numpy",
+    "sklearn"
+  ],
+  "category": "eda_fe",
+  "competition": "llm-classification-finetuning"
+}

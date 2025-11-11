@@ -1,0 +1,21 @@
+{
+  "id": "sishihara/upura-kaggle-tutorial-06-validation",
+  "id_no": 5519896,
+  "title": "upura-kaggle-tutorial-06-validation",
+  "code_file": "upura-kaggle-tutorial-06-validation.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "beginner"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "titanic"
+  ],
+  "model_sources": []
+}

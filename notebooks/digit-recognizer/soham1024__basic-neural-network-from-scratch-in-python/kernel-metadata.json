@@ -1,0 +1,26 @@
+{
+  "id": "soham1024/basic-neural-network-from-scratch-in-python",
+  "id_no": 9080374,
+  "title": "Basic Neural Network from Scratch in Python",
+  "code_file": "basic-neural-network-from-scratch-in-python.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "beginner",
+    "exploratory data analysis",
+    "deep learning",
+    "data visualization"
+  ],
+  "dataset_sources": [
+    "hojjatk/mnist-dataset"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "digit-recognizer"
+  ],
+  "model_sources": []
+}

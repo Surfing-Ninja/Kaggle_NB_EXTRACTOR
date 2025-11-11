@@ -1,0 +1,19 @@
+{
+  "id": "eneskosar19/titanic-spaceship-competition-complete-guide",
+  "id_no": 56354758,
+  "title": "Titanic Spaceship Competition [Complete Guide]",
+  "code_file": "titanic-spaceship-competition-complete-guide.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "spaceship-titanic"
+  ],
+  "model_sources": []
+}

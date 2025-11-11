@@ -1,0 +1,25 @@
+{
+  "original_path": "notebooks/physionet-ecg-image-digitization/antonoof__large-eda-and-statistical-model/large-eda-and-statistical-model.ipynb",
+  "quality_score": 49.5265,
+  "grade": "C",
+  "techniques": {
+    "feature_engineering": [
+      "aggregation"
+    ],
+    "eda": [
+      "histogram",
+      "correlation",
+      "missing_analysis",
+      "outlier_detection",
+      "statistics",
+      "visualization"
+    ]
+  },
+  "libraries": [
+    "pandas",
+    "numpy",
+    "matplotlib"
+  ],
+  "category": "eda_fe",
+  "competition": "physionet-ecg-image-digitization"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "taylorsamarel/v2-hybrid-solution-nfl-big-data",
+  "id_no": 93450324,
+  "title": "V2 HYBRID SOLUTION: NFL BIG DATA",
+  "code_file": "v2-hybrid-solution-nfl-big-data.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [
+    "mks2192/nfl-2026-big-data-bowl",
+    "llkh0a/nfl-big-data-bowl-2026-lstm"
+  ],
+  "competition_sources": [
+    "nfl-big-data-bowl-2026-prediction"
+  ],
+  "model_sources": []
+}

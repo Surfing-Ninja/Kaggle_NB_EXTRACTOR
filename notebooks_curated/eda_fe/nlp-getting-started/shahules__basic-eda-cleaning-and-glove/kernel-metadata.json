@@ -1,0 +1,25 @@
+{
+  "id": "shahules/basic-eda-cleaning-and-glove",
+  "id_no": 7192027,
+  "title": "Basic EDA,Cleaning and GloVe",
+  "code_file": "basic-eda-cleaning-and-glove.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "nlp",
+    "exploratory data analysis",
+    "data cleaning"
+  ],
+  "dataset_sources": [
+    "rtatman/glove-global-vectors-for-word-representation"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nlp-getting-started"
+  ],
+  "model_sources": []
+}

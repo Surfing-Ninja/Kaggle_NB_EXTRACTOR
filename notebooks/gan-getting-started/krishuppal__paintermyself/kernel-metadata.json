@@ -1,0 +1,19 @@
+{
+  "id": "krishuppal/paintermyself",
+  "id_no": 50524050,
+  "title": "PainterMyself",
+  "code_file": "paintermyself.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "gan-getting-started"
+  ],
+  "model_sources": []
+}

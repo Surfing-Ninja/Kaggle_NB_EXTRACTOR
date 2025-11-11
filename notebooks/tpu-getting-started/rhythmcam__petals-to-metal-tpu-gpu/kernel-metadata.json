@@ -1,0 +1,28 @@
+{
+  "id": "rhythmcam/petals-to-metal-tpu-gpu",
+  "id_no": 26878458,
+  "title": "Petals to Metal TPU GPU",
+  "code_file": "petals-to-metal-tpu-gpu.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu",
+    "tensorflow",
+    "tpu",
+    "beginner",
+    "image"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [
+    "dmitrynokhrin/xception-aug-additional-data",
+    "dmitrynokhrin/densenet201-aug-additional-data"
+  ],
+  "competition_sources": [
+    "tpu-getting-started"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "easterndundrey/csiro",
+  "id_no": 97036535,
+  "title": "CSIRO",
+  "code_file": "csiro.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [
+    "takaito/csiro-img2bio-training-notebook"
+  ],
+  "competition_sources": [
+    "csiro-biomass"
+  ],
+  "model_sources": []
+}

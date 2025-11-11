@@ -1,0 +1,30 @@
+{
+  "original_path": "notebooks/nfl-big-data-bowl-2026-analytics/vishakhsandwar__modeling-with-transformers-2026/modeling-with-transformers-2026.ipynb",
+  "quality_score": 53.7,
+  "grade": "C",
+  "techniques": {
+    "feature_engineering": [
+      "aggregation"
+    ],
+    "eda": [
+      "histogram",
+      "scatter",
+      "statistics",
+      "visualization"
+    ],
+    "advanced_ml": [
+      "neural_network"
+    ]
+  },
+  "libraries": [
+    "pandas",
+    "numpy",
+    "sklearn",
+    "matplotlib",
+    "seaborn",
+    "plotly",
+    "pytorch"
+  ],
+  "category": "eda_fe",
+  "competition": "nfl-big-data-bowl-2026-analytics"
+}

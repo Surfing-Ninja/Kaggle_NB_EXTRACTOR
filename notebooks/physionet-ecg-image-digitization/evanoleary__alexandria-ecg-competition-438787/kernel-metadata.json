@@ -1,0 +1,19 @@
+{
+  "id": "evanoleary/alexandria-ecg-competition-438787",
+  "id_no": 96582936,
+  "title": "Alexandria ECG Competition 438787",
+  "code_file": "alexandria-ecg-competition-438787.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "physionet-ecg-image-digitization"
+  ],
+  "model_sources": []
+}

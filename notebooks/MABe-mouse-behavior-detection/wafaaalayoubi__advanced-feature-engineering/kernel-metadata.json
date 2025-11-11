@@ -1,0 +1,19 @@
+{
+  "id": "wafaaalayoubi/advanced-feature-engineering",
+  "id_no": 93324906,
+  "title": "Advanced Feature Engineering\u00b6",
+  "code_file": "advanced-feature-engineering.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "MABe-mouse-behavior-detection"
+  ],
+  "model_sources": []
+}

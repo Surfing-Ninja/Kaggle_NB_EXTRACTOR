@@ -1,0 +1,22 @@
+{
+  "id": "jcodogno/neural-network-using-sgd-98-9",
+  "id_no": 207597,
+  "title": "Neural Network Using SGD - 98.9%",
+  "code_file": "neural-network-using-sgd-98-9.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "neural networks",
+    "classification"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "digit-recognizer"
+  ],
+  "model_sources": []
+}

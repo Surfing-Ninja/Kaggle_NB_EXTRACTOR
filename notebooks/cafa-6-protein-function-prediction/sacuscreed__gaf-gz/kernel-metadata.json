@@ -1,0 +1,19 @@
+{
+  "id": "sacuscreed/gaf-gz",
+  "id_no": 96393781,
+  "title": "GAF gz",
+  "code_file": "gaf-gz.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "cafa-6-protein-function-prediction"
+  ],
+  "model_sources": []
+}

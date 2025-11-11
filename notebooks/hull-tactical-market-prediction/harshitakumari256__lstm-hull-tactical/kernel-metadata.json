@@ -1,0 +1,21 @@
+{
+  "id": "harshitakumari256/lstm-hull-tactical",
+  "id_no": 94117958,
+  "title": "\ud83d\udc7d\ud83d\udc7dLSTM: HULL TACTICAL ",
+  "code_file": "lstm-hull-tactical.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "hull-tactical-market-prediction"
+  ],
+  "model_sources": []
+}

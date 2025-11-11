@@ -1,0 +1,25 @@
+{
+  "id": "wasiqaliyasir/lightgbm-hull-tactical-market-prediction",
+  "id_no": 93999545,
+  "title": "LightGBM \ud83d\udc68\u200d\ud83d\udcbb Hull Tactical Market Prediction",
+  "code_file": "lightgbm-hull-tactical-market-prediction.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "lightgbm",
+    "sklearn",
+    "statistical analysis",
+    "python",
+    "advanced"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "hull-tactical-market-prediction"
+  ],
+  "model_sources": []
+}

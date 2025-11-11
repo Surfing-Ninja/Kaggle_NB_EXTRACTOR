@@ -1,0 +1,19 @@
+{
+  "id": "seowoohyeon/physionet-adjust",
+  "id_no": 96804650,
+  "title": "PhysioNet_adjust",
+  "code_file": "physionet-adjust.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "physionet-ecg-image-digitization"
+  ],
+  "model_sources": []
+}

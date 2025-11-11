@@ -1,0 +1,21 @@
+{
+  "id": "loicge/sales-top-down-approach-with-prophet-0-52",
+  "id_no": 24047072,
+  "title": "Sales - Top down approach with Prophet - 0.52",
+  "code_file": "sales-top-down-approach-with-prophet-0-52.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "time series analysis"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "store-sales-time-series-forecasting"
+  ],
+  "model_sources": []
+}

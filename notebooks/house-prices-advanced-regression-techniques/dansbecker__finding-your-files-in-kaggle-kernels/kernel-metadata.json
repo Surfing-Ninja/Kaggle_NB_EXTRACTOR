@@ -1,0 +1,21 @@
+{
+  "id": "dansbecker/finding-your-files-in-kaggle-kernels",
+  "id_no": 368419,
+  "title": "Finding Your Files in Kaggle Kernels",
+  "code_file": "finding-your-files-in-kaggle-kernels.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "pandas"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "house-prices-advanced-regression-techniques"
+  ],
+  "model_sources": []
+}

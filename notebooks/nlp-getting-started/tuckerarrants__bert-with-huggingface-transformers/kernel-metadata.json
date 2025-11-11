@@ -1,0 +1,26 @@
+{
+  "id": "tuckerarrants/bert-with-huggingface-transformers",
+  "id_no": 10944529,
+  "title": "BERT with HuggingFace Transformers",
+  "code_file": "bert-with-huggingface-transformers.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "business",
+    "matplotlib",
+    "numpy",
+    "pandas",
+    "tensorflow",
+    "transformers"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nlp-getting-started"
+  ],
+  "model_sources": []
+}

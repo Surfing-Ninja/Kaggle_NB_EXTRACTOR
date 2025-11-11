@@ -1,0 +1,21 @@
+{
+  "id": "tomasa2/enhanced-loan-payback-prediction-with-4-models",
+  "id_no": 97884970,
+  "title": "Enhanced Loan Payback Prediction with 4 models ",
+  "code_file": "enhanced-loan-payback-prediction-with-4-models.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "nabihazahid/loan-prediction-dataset-2025"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "playground-series-s5e11"
+  ],
+  "model_sources": []
+}

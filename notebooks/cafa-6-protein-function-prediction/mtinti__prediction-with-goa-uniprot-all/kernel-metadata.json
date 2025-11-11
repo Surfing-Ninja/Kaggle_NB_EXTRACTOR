@@ -1,0 +1,21 @@
+{
+  "id": "mtinti/prediction-with-goa-uniprot-all",
+  "id_no": 96390539,
+  "title": "prediction-with-goa-uniprot-all",
+  "code_file": "prediction-with-goa-uniprot-all.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "mtinti/goa-uniprot-all"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "cafa-6-protein-function-prediction"
+  ],
+  "model_sources": []
+}

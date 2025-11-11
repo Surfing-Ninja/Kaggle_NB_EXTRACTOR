@@ -1,0 +1,23 @@
+{
+  "id": "rafaqatkhan608/llm-text-classification-fine-tuning",
+  "id_no": 86976313,
+  "title": "LLM Text Classification Fine-tuning",
+  "code_file": "llm-text-classification-fine-tuning.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "llm-classification-finetuning"
+  ],
+  "model_sources": [
+    ""
+  ]
+}

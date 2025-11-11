@@ -1,0 +1,25 @@
+{
+  "id": "kdsharma/spaceship-titanic-competition-end-to-end-project",
+  "id_no": 34891656,
+  "title": "Spaceship Titanic Competition End To End Project",
+  "code_file": "spaceship-titanic-competition-end-to-end-project.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "data analytics",
+    "exploratory data analysis",
+    "data visualization",
+    "data cleaning",
+    "model comparison"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "spaceship-titanic"
+  ],
+  "model_sources": []
+}

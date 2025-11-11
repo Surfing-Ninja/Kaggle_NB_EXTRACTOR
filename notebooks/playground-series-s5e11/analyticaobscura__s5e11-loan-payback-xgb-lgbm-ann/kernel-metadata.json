@@ -1,0 +1,23 @@
+{
+  "id": "analyticaobscura/s5e11-loan-payback-xgb-lgbm-ann",
+  "id_no": 97530278,
+  "title": "\u2699\ufe0f S5E11 | Loan Payback \ud83d\udd0d (XGB\u00b7LGBM\u00b7ANN)",
+  "code_file": "s5e11-loan-payback-xgb-lgbm-ann.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "nabihazahid/loan-prediction-dataset-2025"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "playground-series-s5e11"
+  ],
+  "model_sources": []
+}

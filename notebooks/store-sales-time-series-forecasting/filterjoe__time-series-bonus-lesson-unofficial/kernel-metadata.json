@@ -1,0 +1,19 @@
+{
+  "id": "filterjoe/time-series-bonus-lesson-unofficial",
+  "id_no": 22223578,
+  "title": "Time Series Bonus Lesson (Unofficial)",
+  "code_file": "time-series-bonus-lesson-unofficial.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "store-sales-time-series-forecasting"
+  ],
+  "model_sources": []
+}

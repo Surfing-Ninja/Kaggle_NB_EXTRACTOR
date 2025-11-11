@@ -1,0 +1,19 @@
+{
+  "id": "maheenriaz1122/rle-metric-simple-submission",
+  "id_no": 97496351,
+  "title": "RLE metric + Simple submission",
+  "code_file": "rle-metric-simple-submission.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "recodai-luc-scientific-image-forgery-detection"
+  ],
+  "model_sources": []
+}

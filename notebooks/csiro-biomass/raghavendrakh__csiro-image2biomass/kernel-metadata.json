@@ -1,0 +1,21 @@
+{
+  "id": "raghavendrakh/csiro-image2biomass",
+  "id_no": 97397265,
+  "title": "CSIRO - Image2Biomass",
+  "code_file": "csiro-image2biomass.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "csiro-biomass"
+  ],
+  "model_sources": []
+}

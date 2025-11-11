@@ -1,0 +1,34 @@
+{
+  "id": "faressayah/toxic-tweet-classification-with-tensorflow",
+  "id_no": 12167638,
+  "title": "Toxic Tweet Classification with TensorFlow \ud83e\udd17",
+  "code_file": "toxic-tweet-classification-with-tensorflow.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "nlp",
+    "nltk",
+    "tensorflow",
+    "text",
+    "matplotlib",
+    "numpy",
+    "pandas",
+    "seaborn"
+  ],
+  "dataset_sources": [
+    "smid80/coronavirus-covid19-tweets",
+    "gpreda/covid19-tweets",
+    "vstepanenko/disaster-tweets",
+    "lakshmi25npathi/imdb-dataset-of-50k-movie-reviews",
+    "austinreese/trump-tweets"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nlp-getting-started"
+  ],
+  "model_sources": []
+}

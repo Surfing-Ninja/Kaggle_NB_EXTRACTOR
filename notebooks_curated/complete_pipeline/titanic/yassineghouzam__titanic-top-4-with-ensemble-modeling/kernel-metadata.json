@@ -1,0 +1,22 @@
+{
+  "id": "yassineghouzam/titanic-top-4-with-ensemble-modeling",
+  "id_no": 310093,
+  "title": "Titanic Top 4% with ensemble modeling",
+  "code_file": "titanic-top-4-with-ensemble-modeling.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "classification",
+    "feature engineering"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "titanic"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "poojagpta/cyclegan-resnet",
+  "id_no": 14046466,
+  "title": "cycleGAN_ResNet",
+  "code_file": "cyclegan-resnet.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "gan-getting-started"
+  ],
+  "model_sources": []
+}

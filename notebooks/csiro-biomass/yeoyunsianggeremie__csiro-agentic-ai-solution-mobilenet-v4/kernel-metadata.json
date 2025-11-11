@@ -1,0 +1,23 @@
+{
+  "id": "yeoyunsianggeremie/csiro-agentic-ai-solution-mobilenet-v4",
+  "id_no": 97975204,
+  "title": "CSIRO | Agentic AI Solution [MobileNet v4]",
+  "code_file": "csiro-agentic-ai-solution-mobilenet-v4.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "yeoyunsianggeremie/timm-mobilenet-v4"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "csiro-biomass"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,29 @@
+{
+  "id": "kutaykutlu/efficientnetb3-tpu-beginner-ext-data-0-97",
+  "id_no": 15720868,
+  "title": "EfficientNetB3 - TPU Beginner - Ext. Data + 0.97",
+  "code_file": "efficientnetb3-tpu-beginner-ext-data-0-97.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "image",
+    "keras",
+    "beginner",
+    "tensorflow",
+    "deep learning"
+  ],
+  "dataset_sources": [
+    "kirillblinov/tf-flower-photo-tfrec"
+  ],
+  "kernel_sources": [
+    "ryanholbrook/petal-helper"
+  ],
+  "competition_sources": [
+    "tpu-getting-started"
+  ],
+  "model_sources": []
+}

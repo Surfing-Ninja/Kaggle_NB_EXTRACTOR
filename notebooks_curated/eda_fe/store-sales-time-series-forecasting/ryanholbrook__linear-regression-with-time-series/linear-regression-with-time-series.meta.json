@@ -1,0 +1,25 @@
+{
+  "original_path": "notebooks/store-sales-time-series-forecasting/ryanholbrook__linear-regression-with-time-series/linear-regression-with-time-series.ipynb",
+  "quality_score": 36.6576,
+  "grade": "D",
+  "techniques": {
+    "feature_engineering": [
+      "time_features",
+      "lag_features"
+    ],
+    "eda": [
+      "scatter",
+      "missing_analysis",
+      "visualization"
+    ]
+  },
+  "libraries": [
+    "pandas",
+    "numpy",
+    "sklearn",
+    "matplotlib",
+    "seaborn"
+  ],
+  "category": "eda_fe",
+  "competition": "store-sales-time-series-forecasting"
+}

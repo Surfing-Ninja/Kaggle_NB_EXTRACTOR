@@ -1,0 +1,28 @@
+{
+  "id": "mks2192/csiro-image2biomass-lb-59",
+  "id_no": 97678442,
+  "title": "CSIRO - Image2Biomass [LB-.59]",
+  "code_file": "csiro-image2biomass-lb-59.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "mks2192/csiro-trained-model"
+  ],
+  "kernel_sources": [
+    "none00000/csiro"
+  ],
+  "competition_sources": [
+    "csiro-biomass"
+  ],
+  "model_sources": [
+    "metaresearch/dinov2/PyTorch/base/1",
+    "metaresearch/dinov2/PyTorch/giant/1"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "nihilisticneuralnet/cafa-6-submission",
+  "id_no": 95194141,
+  "title": "CAFA 6 Submission",
+  "code_file": "cafa-6-submission.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "nihilisticneuralnet/high-score-submission"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "cafa-6-protein-function-prediction"
+  ],
+  "model_sources": []
+}

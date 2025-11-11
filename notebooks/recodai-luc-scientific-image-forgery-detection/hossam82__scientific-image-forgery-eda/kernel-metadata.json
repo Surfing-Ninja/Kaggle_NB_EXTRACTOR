@@ -1,0 +1,19 @@
+{
+  "id": "hossam82/scientific-image-forgery-eda",
+  "id_no": 96577404,
+  "title": "Scientific Image Forgery EDA",
+  "code_file": "scientific-image-forgery-eda.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "recodai-luc-scientific-image-forgery-detection"
+  ],
+  "model_sources": []
+}

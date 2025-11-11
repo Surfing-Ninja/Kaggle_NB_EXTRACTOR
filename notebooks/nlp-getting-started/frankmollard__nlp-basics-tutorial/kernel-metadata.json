@@ -1,0 +1,25 @@
+{
+  "id": "frankmollard/nlp-basics-tutorial",
+  "id_no": 11162444,
+  "title": "NLP Basics Tutorial",
+  "code_file": "nlp-basics-tutorial.irnb",
+  "language": "r",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "nlp",
+    "beginner",
+    "data visualization",
+    "deep learning",
+    "text"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nlp-getting-started"
+  ],
+  "model_sources": []
+}

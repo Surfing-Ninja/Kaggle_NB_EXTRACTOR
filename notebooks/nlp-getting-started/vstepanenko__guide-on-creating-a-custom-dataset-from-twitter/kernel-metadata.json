@@ -1,0 +1,24 @@
+{
+  "id": "vstepanenko/guide-on-creating-a-custom-dataset-from-twitter",
+  "id_no": 10475764,
+  "title": "Guide on creating a custom dataset from twitter",
+  "code_file": "guide-on-creating-a-custom-dataset-from-twitter.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "text",
+    "nlp"
+  ],
+  "dataset_sources": [
+    "vstepanenko/disaster-tweets"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nlp-getting-started"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "gowrishankarin/learn-ml-ml101-rank-4500-to-450-in-a-day",
+  "id_no": 3594690,
+  "title": "Learn ML - ML101, Rank 4500 to ~450 in a day",
+  "code_file": "learn-ml-ml101-rank-4500-to-450-in-a-day.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "learn",
+    "model comparison",
+    "business",
+    "numpy",
+    "pandas"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "home-data-for-ml-course"
+  ],
+  "model_sources": []
+}

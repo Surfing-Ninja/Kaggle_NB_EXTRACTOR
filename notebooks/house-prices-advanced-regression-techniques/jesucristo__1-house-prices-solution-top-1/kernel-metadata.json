@@ -1,0 +1,35 @@
+{
+  "id": "jesucristo/1-house-prices-solution-top-1",
+  "id_no": 3213502,
+  "title": "#1 House Prices Solution [top 1%]",
+  "code_file": "1-house-prices-solution-top-1.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "beginner",
+    "exploratory data analysis",
+    "data visualization",
+    "business",
+    "matplotlib",
+    "numpy",
+    "pandas",
+    "scipy",
+    "seaborn"
+  ],
+  "dataset_sources": [
+    ""
+  ],
+  "kernel_sources": [
+    "zavodrobotov/lasso-model-for-regression-problem",
+    "agehsbarg/top-10-0-10943-stacking-mice-and-brutal-force",
+    "couyang/hybrid-svm-benchmark-approach-0-11180-lb-top-2"
+  ],
+  "competition_sources": [
+    "house-prices-advanced-regression-techniques"
+  ],
+  "model_sources": []
+}

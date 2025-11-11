@@ -1,0 +1,21 @@
+{
+  "id": "jirkaborovec/csiro-img2bio-eda-end-to-end-lit-timm",
+  "id_no": 97143596,
+  "title": "CSIRO\ud83c\udf3fImg2Bio: EDA & End-to-End Lit\u26a1TIMM",
+  "code_file": "csiro-img2bio-eda-end-to-end-lit-timm.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "csiro-biomass"
+  ],
+  "model_sources": []
+}

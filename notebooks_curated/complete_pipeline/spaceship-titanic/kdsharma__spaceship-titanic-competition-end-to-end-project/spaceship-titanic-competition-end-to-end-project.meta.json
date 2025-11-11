@@ -1,0 +1,42 @@
+{
+  "original_path": "notebooks/spaceship-titanic/kdsharma__spaceship-titanic-competition-end-to-end-project/spaceship-titanic-competition-end-to-end-project.ipynb",
+  "quality_score": 84.5,
+  "grade": "A",
+  "techniques": {
+    "feature_engineering": [
+      "aggregation",
+      "label_encoding",
+      "onehot_encoding",
+      "scaling"
+    ],
+    "eda": [
+      "histogram",
+      "missing_analysis",
+      "statistics",
+      "visualization"
+    ],
+    "hyperparameter": [
+      "grid_search",
+      "random_search"
+    ],
+    "advanced_ml": [
+      "stacking",
+      "xgboost",
+      "lightgbm",
+      "catboost",
+      "ensemble"
+    ]
+  },
+  "libraries": [
+    "pandas",
+    "numpy",
+    "sklearn",
+    "xgboost",
+    "lightgbm",
+    "catboost",
+    "matplotlib",
+    "seaborn"
+  ],
+  "category": "complete_pipeline",
+  "competition": "spaceship-titanic"
+}

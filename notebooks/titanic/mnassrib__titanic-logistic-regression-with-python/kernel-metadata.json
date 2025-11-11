@@ -1,0 +1,24 @@
+{
+  "id": "mnassrib/titanic-logistic-regression-with-python",
+  "id_no": 399690,
+  "title": "Titanic: logistic regression with python",
+  "code_file": "titanic-logistic-regression-with-python.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "beginner",
+    "logistic regression",
+    "data visualization",
+    "feature engineering"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "titanic"
+  ],
+  "model_sources": []
+}

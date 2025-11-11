@@ -1,0 +1,19 @@
+{
+  "id": "qarisb/physionet-ecg-image-digitization-time-series",
+  "id_no": 96680049,
+  "title": "PhysioNet \u2014 ECG Image Digitization \u2192 Time\u2011Series",
+  "code_file": "physionet-ecg-image-digitization-time-series.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "physionet-ecg-image-digitization"
+  ],
+  "model_sources": []
+}

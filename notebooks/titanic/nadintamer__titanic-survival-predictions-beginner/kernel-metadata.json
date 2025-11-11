@@ -1,0 +1,23 @@
+{
+  "id": "nadintamer/titanic-survival-predictions-beginner",
+  "id_no": 412422,
+  "title": "Titanic Survival Predictions (Beginner)",
+  "code_file": "titanic-survival-predictions-beginner.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "data visualization",
+    "beginner",
+    "data cleaning"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "titanic"
+  ],
+  "model_sources": []
+}

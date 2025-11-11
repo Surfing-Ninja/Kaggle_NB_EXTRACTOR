@@ -1,0 +1,19 @@
+{
+  "id": "junjitakeshima/hull-basic-approach-and-new-feature-eng",
+  "id_no": 93508045,
+  "title": "[Hull] Basic Approach and new feature (\u65e5\u672c\u8a9e/Eng)",
+  "code_file": "hull-basic-approach-and-new-feature-eng.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "hull-tactical-market-prediction"
+  ],
+  "model_sources": []
+}

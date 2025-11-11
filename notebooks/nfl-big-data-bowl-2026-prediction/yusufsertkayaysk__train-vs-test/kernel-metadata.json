@@ -1,0 +1,19 @@
+{
+  "id": "yusufsertkayaysk/train-vs-test",
+  "id_no": 93117496,
+  "title": "Train vs Test",
+  "code_file": "train-vs-test.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nfl-big-data-bowl-2026-prediction"
+  ],
+  "model_sources": []
+}

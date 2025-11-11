@@ -1,0 +1,24 @@
+{
+  "id": "goose666/1101success-infer",
+  "id_no": 97504464,
+  "title": "1101success_infer",
+  "code_file": "1101success-infer.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nfl-big-data-bowl-2026-prediction"
+  ],
+  "model_sources": [
+    "goose666/1101adddirec/PyTorch/default/1",
+    "goose666/1101addjerk/PyTorch/default/1",
+    "goose666/1101addqb/PyTorch/default/1",
+    "goose666/1101addwin/PyTorch/default/1"
+  ]
+}

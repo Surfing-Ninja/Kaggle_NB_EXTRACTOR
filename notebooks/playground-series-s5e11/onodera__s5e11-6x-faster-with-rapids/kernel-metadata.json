@@ -1,0 +1,23 @@
+{
+  "id": "onodera/s5e11-6x-faster-with-rapids",
+  "id_no": 98501133,
+  "title": "[s5e11] \ud83d\ude80 6x Faster with RAPIDS!",
+  "code_file": "s5e11-6x-faster-with-rapids.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "nabihazahid/loan-prediction-dataset-2025"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "playground-series-s5e11"
+  ],
+  "model_sources": []
+}

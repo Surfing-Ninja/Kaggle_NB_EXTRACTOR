@@ -1,0 +1,21 @@
+{
+  "id": "abdullah0a/biomass-prediction-cnn-ensemble",
+  "id_no": 97105814,
+  "title": "Biomass Prediction: CNN Ensemble",
+  "code_file": "biomass-prediction-cnn-ensemble.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "csiro-biomass"
+  ],
+  "model_sources": []
+}

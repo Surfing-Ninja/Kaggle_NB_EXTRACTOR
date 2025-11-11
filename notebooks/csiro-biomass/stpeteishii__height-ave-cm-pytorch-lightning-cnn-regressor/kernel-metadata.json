@@ -1,0 +1,19 @@
+{
+  "id": "stpeteishii/height-ave-cm-pytorch-lightning-cnn-regressor",
+  "id_no": 97178625,
+  "title": "Height_Ave_cm Pytorch Lightning CNN Regressor",
+  "code_file": "height-ave-cm-pytorch-lightning-cnn-regressor.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "csiro-biomass"
+  ],
+  "model_sources": []
+}

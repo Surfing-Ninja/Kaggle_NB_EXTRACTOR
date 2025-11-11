@@ -1,0 +1,29 @@
+{
+  "original_path": "notebooks/spaceship-titanic/azminetoushikwasi__xgboost-wrangling-with-hyperparameters-guide/xgboost-wrangling-with-hyperparameters-guide.ipynb",
+  "quality_score": 63.105000000000004,
+  "grade": "B",
+  "techniques": {
+    "eda": [
+      "missing_analysis",
+      "visualization"
+    ],
+    "hyperparameter": [
+      "grid_search",
+      "random_search",
+      "cross_validation"
+    ],
+    "advanced_ml": [
+      "xgboost"
+    ]
+  },
+  "libraries": [
+    "pandas",
+    "numpy",
+    "sklearn",
+    "xgboost",
+    "matplotlib",
+    "seaborn"
+  ],
+  "category": "eda_fe",
+  "competition": "spaceship-titanic"
+}

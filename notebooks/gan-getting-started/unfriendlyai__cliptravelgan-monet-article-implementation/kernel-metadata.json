@@ -1,0 +1,24 @@
+{
+  "id": "unfriendlyai/cliptravelgan-monet-article-implementation",
+  "id_no": 43209319,
+  "title": "CLIPTraVeLGAN Monet article implementation ",
+  "code_file": "cliptravelgan-monet-article-implementation.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": true,
+  "enable_internet": true,
+  "keywords": [
+    "tpu"
+  ],
+  "dataset_sources": [
+    "",
+    "balraj98/monet2photo"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "gan-getting-started"
+  ],
+  "model_sources": []
+}

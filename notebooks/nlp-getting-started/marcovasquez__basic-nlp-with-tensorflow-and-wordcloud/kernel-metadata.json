@@ -1,0 +1,22 @@
+{
+  "id": "marcovasquez/basic-nlp-with-tensorflow-and-wordcloud",
+  "id_no": 7191399,
+  "title": "Basic NLP with TensorFlow and WordCloud\ud83d\udcc4 ",
+  "code_file": "basic-nlp-with-tensorflow-and-wordcloud.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "classification",
+    "exploratory data analysis"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nlp-getting-started"
+  ],
+  "model_sources": []
+}

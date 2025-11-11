@@ -1,0 +1,24 @@
+{
+  "id": "guntasdhanjal/cafa-6-protein-optimized-parameters-0-318",
+  "id_no": 96962883,
+  "title": "CAFA 6 Protein - Optimized Parameters (0.318)",
+  "code_file": "cafa-6-protein-optimized-parameters-0-318.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "seddiktrk/protein-go-annotations-taxonomy"
+  ],
+  "kernel_sources": [
+    "sacuscreed/merge-of-2submission-lb-0-25",
+    "sacuscreed/gaf-submission"
+  ],
+  "competition_sources": [
+    "cafa-6-protein-function-prediction"
+  ],
+  "model_sources": []
+}

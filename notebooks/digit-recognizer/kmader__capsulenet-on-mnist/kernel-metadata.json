@@ -1,0 +1,23 @@
+{
+  "id": "kmader/capsulenet-on-mnist",
+  "id_no": 420670,
+  "title": "CapsuleNet on MNIST",
+  "code_file": "capsulenet-on-mnist.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "data visualization",
+    "deep learning",
+    "cnn"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "digit-recognizer"
+  ],
+  "model_sources": []
+}

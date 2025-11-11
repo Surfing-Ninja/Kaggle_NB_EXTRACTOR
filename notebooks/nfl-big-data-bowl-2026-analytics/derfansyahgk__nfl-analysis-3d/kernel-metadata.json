@@ -1,0 +1,19 @@
+{
+  "id": "derfansyahgk/nfl-analysis-3d",
+  "id_no": 98584936,
+  "title": "nfl_analysis_3d",
+  "code_file": "nfl-analysis-3d.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nfl-big-data-bowl-2026-analytics"
+  ],
+  "model_sources": []
+}

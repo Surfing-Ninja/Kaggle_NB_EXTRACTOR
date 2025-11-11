@@ -1,0 +1,19 @@
+{
+  "id": "wassimtahir/animating-mouse-moves-advanced-eda-for-the-mabe",
+  "id_no": 92729998,
+  "title": "\ud83d\udc01Animating Mouse Moves: Advanced EDA for the MABe",
+  "code_file": "animating-mouse-moves-advanced-eda-for-the-mabe.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "MABe-mouse-behavior-detection"
+  ],
+  "model_sources": []
+}

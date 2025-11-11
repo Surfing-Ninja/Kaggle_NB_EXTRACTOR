@@ -1,0 +1,22 @@
+{
+  "id": "leokaka/pca-for-time-series-analysis",
+  "id_no": 31520971,
+  "title": "PCA for Time Series Analysis",
+  "code_file": "pca-for-time-series-analysis.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "time series analysis",
+    "pca"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "store-sales-time-series-forecasting"
+  ],
+  "model_sources": []
+}

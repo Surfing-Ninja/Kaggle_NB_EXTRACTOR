@@ -1,0 +1,19 @@
+{
+  "id": "antoninadolgorukova/mabe-sanity-checks-data-issues",
+  "id_no": 92728719,
+  "title": "MABe: Sanity checks (data issues)",
+  "code_file": "mabe-sanity-checks-data-issues.irnb",
+  "language": "r",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "MABe-mouse-behavior-detection"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "emrearslan123/house-price-prediction",
+  "id_no": 23068579,
+  "title": "House Price Prediction \ud83c\udfe1",
+  "code_file": "house-price-prediction.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "regression",
+    "numpy",
+    "sklearn",
+    "pandas",
+    "housing"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "house-prices-advanced-regression-techniques"
+  ],
+  "model_sources": []
+}

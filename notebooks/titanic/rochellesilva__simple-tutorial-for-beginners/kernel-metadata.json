@@ -1,0 +1,19 @@
+{
+  "id": "rochellesilva/simple-tutorial-for-beginners",
+  "id_no": 275113,
+  "title": "Simple tutorial for Beginners",
+  "code_file": "simple-tutorial-for-beginners.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "titanic"
+  ],
+  "model_sources": []
+}

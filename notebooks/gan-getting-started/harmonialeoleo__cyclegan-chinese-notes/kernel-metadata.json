@@ -1,0 +1,21 @@
+{
+  "id": "harmonialeoleo/cyclegan-chinese-notes",
+  "id_no": 16984983,
+  "title": "CycleGAN (Chinese Notes)",
+  "code_file": "cyclegan-chinese-notes.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": true,
+  "enable_internet": true,
+  "keywords": [
+    "tpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "gan-getting-started"
+  ],
+  "model_sources": []
+}

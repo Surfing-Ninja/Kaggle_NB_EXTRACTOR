@@ -1,0 +1,26 @@
+{
+  "id": "mrbisht/eda-on-spaceship-titanic",
+  "id_no": 30212275,
+  "title": "EDA on Spaceship Titanic",
+  "code_file": "eda-on-spaceship-titanic.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "exploratory data analysis",
+    "beginner",
+    "plotly",
+    "classification",
+    "numpy",
+    "pandas"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "spaceship-titanic"
+  ],
+  "model_sources": []
+}

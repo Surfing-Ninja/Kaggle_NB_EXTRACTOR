@@ -1,0 +1,22 @@
+{
+  "id": "sunbluesome123/00-mabe-eda-and-literature-information",
+  "id_no": 92900828,
+  "title": "00-[MABe]_EDA_and_Literature_Information",
+  "code_file": "00-mabe-eda-and-literature-information.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "python",
+    "exploratory data analysis"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "MABe-mouse-behavior-detection"
+  ],
+  "model_sources": []
+}

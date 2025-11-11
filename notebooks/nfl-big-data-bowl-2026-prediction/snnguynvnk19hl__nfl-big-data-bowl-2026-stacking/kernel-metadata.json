@@ -1,0 +1,19 @@
+{
+  "id": "snnguynvnk19hl/nfl-big-data-bowl-2026-stacking",
+  "id_no": 93531029,
+  "title": "NFL Big Data Bowl 2026 _ Stacking",
+  "code_file": "nfl-big-data-bowl-2026-stacking.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nfl-big-data-bowl-2026-prediction"
+  ],
+  "model_sources": []
+}

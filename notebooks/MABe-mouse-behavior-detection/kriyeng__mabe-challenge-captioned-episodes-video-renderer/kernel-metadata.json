@@ -1,0 +1,19 @@
+{
+  "id": "kriyeng/mabe-challenge-captioned-episodes-video-renderer",
+  "id_no": 92600043,
+  "title": "MABe Challenge:(Captioned) Episodes Video Renderer",
+  "code_file": "mabe-challenge-captioned-episodes-video-renderer.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "MABe-mouse-behavior-detection"
+  ],
+  "model_sources": []
+}

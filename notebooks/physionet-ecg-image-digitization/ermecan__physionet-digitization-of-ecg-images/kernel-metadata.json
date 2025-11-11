@@ -1,0 +1,19 @@
+{
+  "id": "ermecan/physionet-digitization-of-ecg-images",
+  "id_no": 96078706,
+  "title": "PhysioNet - Digitization of ECG Images",
+  "code_file": "physionet-digitization-of-ecg-images.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "physionet-ecg-image-digitization"
+  ],
+  "model_sources": []
+}

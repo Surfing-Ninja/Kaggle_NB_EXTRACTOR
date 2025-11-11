@@ -1,0 +1,23 @@
+{
+  "id": "ryanholbrook/exercise-create-your-first-submission",
+  "id_no": 10204702,
+  "title": "Exercise: Create Your First Submission",
+  "code_file": "exercise-create-your-first-submission.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "tpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [
+    "ryanholbrook/petal-helper"
+  ],
+  "competition_sources": [
+    "tpu-getting-started"
+  ],
+  "model_sources": []
+}

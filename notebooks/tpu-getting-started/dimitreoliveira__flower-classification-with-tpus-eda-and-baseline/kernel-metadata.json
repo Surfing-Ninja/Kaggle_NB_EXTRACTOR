@@ -1,0 +1,27 @@
+{
+  "id": "dimitreoliveira/flower-classification-with-tpus-eda-and-baseline",
+  "id_no": 7975972,
+  "title": "Flower Classification with TPUs - EDA and Baseline",
+  "code_file": "flower-classification-with-tpus-eda-and-baseline.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": true,
+  "enable_internet": true,
+  "keywords": [
+    "deep learning",
+    "beginner",
+    "exploratory data analysis",
+    "tpu",
+    "computer vision"
+  ],
+  "dataset_sources": [
+    "dimitreoliveira/efficientnet"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "tpu-getting-started"
+  ],
+  "model_sources": []
+}

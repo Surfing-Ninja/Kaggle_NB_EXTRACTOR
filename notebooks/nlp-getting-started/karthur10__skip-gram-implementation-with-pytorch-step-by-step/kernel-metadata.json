@@ -1,0 +1,19 @@
+{
+  "id": "karthur10/skip-gram-implementation-with-pytorch-step-by-step",
+  "id_no": 8704301,
+  "title": "Skip-Gram implementation with PyTorch step-by-step",
+  "code_file": "skip-gram-implementation-with-pytorch-step-by-step.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nlp-getting-started"
+  ],
+  "model_sources": []
+}

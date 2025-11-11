@@ -1,0 +1,21 @@
+{
+  "id": "computervisi/predict-models-densenet201",
+  "id_no": 37614123,
+  "title": "predict_models_DenseNet201",
+  "code_file": "predict-models-densenet201.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "computervisi/densenet201-petals"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "tpu-getting-started"
+  ],
+  "model_sources": []
+}

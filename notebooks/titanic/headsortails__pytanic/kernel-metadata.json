@@ -1,0 +1,24 @@
+{
+  "id": "headsortails/pytanic",
+  "id_no": 232566,
+  "title": "Pytanic",
+  "code_file": "pytanic.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "exploratory data analysis",
+    "data cleaning",
+    "feature engineering",
+    "model comparison"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "titanic"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,34 @@
+{
+  "original_path": "notebooks/titanic/helgejo__an-interactive-data-science-tutorial/an-interactive-data-science-tutorial.ipynb",
+  "quality_score": 76.3834,
+  "grade": "B",
+  "techniques": {
+    "feature_engineering": [
+      "aggregation",
+      "onehot_encoding",
+      "scaling"
+    ],
+    "eda": [
+      "histogram",
+      "correlation",
+      "missing_analysis",
+      "statistics",
+      "visualization"
+    ],
+    "hyperparameter": [
+      "cross_validation"
+    ],
+    "advanced_ml": [
+      "ensemble"
+    ]
+  },
+  "libraries": [
+    "pandas",
+    "numpy",
+    "sklearn",
+    "matplotlib",
+    "seaborn"
+  ],
+  "category": "complete_pipeline",
+  "competition": "titanic"
+}

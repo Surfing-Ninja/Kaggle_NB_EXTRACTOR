@@ -1,0 +1,24 @@
+{
+  "id": "erikbruin/house-prices-lasso-xgboost-and-a-detailed-eda",
+  "id_no": 699704,
+  "title": "House prices: Lasso, XGBoost, and a detailed EDA",
+  "code_file": "house-prices-lasso-xgboost-and-a-detailed-eda.Rmd",
+  "language": "rmarkdown",
+  "kernel_type": "script",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "data visualization",
+    "exploratory data analysis",
+    "feature engineering",
+    "xgboost"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "house-prices-advanced-regression-techniques"
+  ],
+  "model_sources": []
+}

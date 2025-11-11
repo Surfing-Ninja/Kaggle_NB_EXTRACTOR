@@ -1,0 +1,25 @@
+{
+  "id": "lonnieqin/cycle-gan",
+  "id_no": 20285134,
+  "title": "Cycle GAN",
+  "code_file": "cycle-gan.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": true,
+  "enable_internet": true,
+  "keywords": [
+    "arts and entertainment",
+    "matplotlib",
+    "numpy",
+    "PIL",
+    "tensorflow"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "gan-getting-started"
+  ],
+  "model_sources": []
+}

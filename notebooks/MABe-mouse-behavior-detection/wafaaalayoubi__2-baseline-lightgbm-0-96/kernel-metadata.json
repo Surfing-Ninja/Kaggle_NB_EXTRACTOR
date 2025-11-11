@@ -1,0 +1,19 @@
+{
+  "id": "wafaaalayoubi/2-baseline-lightgbm-0-96",
+  "id_no": 93071653,
+  "title": "2. Baseline | LightGBM |0.96",
+  "code_file": "2-baseline-lightgbm-0-96.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "MABe-mouse-behavior-detection"
+  ],
+  "model_sources": []
+}

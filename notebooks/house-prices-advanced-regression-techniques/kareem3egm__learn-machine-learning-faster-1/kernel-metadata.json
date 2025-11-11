@@ -1,0 +1,32 @@
+{
+  "id": "kareem3egm/learn-machine-learning-faster-1",
+  "id_no": 9271522,
+  "title": "Learn machine learning faster 1 ",
+  "code_file": "learn-machine-learning-faster-1.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "mrtechnical011/classification-suv-dataset",
+    "gpreda/coronavirus-2019ncov",
+    "valgares/datosimp",
+    "shazadudwadia/supermarket",
+    "uciml/iris",
+    "andonians/random-linear-regression",
+    "uciml/mushroom-classification",
+    "dgawlik/nyse",
+    "vinod00725/svm-classification"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "digit-recognizer",
+    "house-prices-advanced-regression-techniques",
+    "competitive-data-science-predict-future-sales",
+    "titanic"
+  ],
+  "model_sources": []
+}

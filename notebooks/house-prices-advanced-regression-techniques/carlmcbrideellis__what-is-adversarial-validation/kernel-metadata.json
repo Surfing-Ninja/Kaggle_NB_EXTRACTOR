@@ -1,0 +1,24 @@
+{
+  "id": "carlmcbrideellis/what-is-adversarial-validation",
+  "id_no": 17991285,
+  "title": "What is Adversarial Validation?",
+  "code_file": "what-is-adversarial-validation.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "matplotlib",
+    "pandas",
+    "xgboost"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "house-prices-advanced-regression-techniques",
+    "titanic"
+  ],
+  "model_sources": []
+}

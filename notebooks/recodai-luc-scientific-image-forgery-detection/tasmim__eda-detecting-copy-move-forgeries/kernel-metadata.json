@@ -1,0 +1,19 @@
+{
+  "id": "tasmim/eda-detecting-copy-move-forgeries",
+  "id_no": 96364678,
+  "title": "EDA- Detecting Copy-Move Forgeries",
+  "code_file": "eda-detecting-copy-move-forgeries.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "recodai-luc-scientific-image-forgery-detection"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "jaskaransingh/bert-fine-tuning-with-pytorch",
+  "id_no": 9474004,
+  "title": "BERT Fine-Tuning with PyTorch",
+  "code_file": "bert-fine-tuning-with-pytorch.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu",
+    "deep learning",
+    "nlp",
+    "classification"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nlp-getting-started"
+  ],
+  "model_sources": []
+}

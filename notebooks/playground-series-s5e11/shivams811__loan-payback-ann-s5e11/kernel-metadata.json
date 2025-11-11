@@ -1,0 +1,21 @@
+{
+  "id": "shivams811/loan-payback-ann-s5e11",
+  "id_no": 98153419,
+  "title": "Loan Payback | ANN | S5E11",
+  "code_file": "loan-payback-ann-s5e11.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "playground-series-s5e11"
+  ],
+  "model_sources": []
+}

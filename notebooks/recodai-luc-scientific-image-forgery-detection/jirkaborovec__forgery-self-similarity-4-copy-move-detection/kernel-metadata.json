@@ -1,0 +1,23 @@
+{
+  "id": "jirkaborovec/forgery-self-similarity-4-copy-move-detection",
+  "id_no": 98122928,
+  "title": "Forgery\ud83c\udfad: Self-Similarity 4 Copy-Move Detection",
+  "code_file": "forgery-self-similarity-4-copy-move-detection.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "recodai-luc-scientific-image-forgery-detection"
+  ],
+  "model_sources": [
+    ""
+  ]
+}

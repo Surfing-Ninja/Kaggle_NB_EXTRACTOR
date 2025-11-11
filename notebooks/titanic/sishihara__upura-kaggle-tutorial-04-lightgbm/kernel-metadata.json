@@ -1,0 +1,23 @@
+{
+  "id": "sishihara/upura-kaggle-tutorial-04-lightgbm",
+  "id_no": 5476428,
+  "title": "upura-kaggle-tutorial-04-lightgbm",
+  "code_file": "upura-kaggle-tutorial-04-lightgbm.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "beginner",
+    "lightgbm",
+    "xgboost"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "titanic"
+  ],
+  "model_sources": []
+}

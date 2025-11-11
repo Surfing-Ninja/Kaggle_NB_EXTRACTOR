@@ -1,0 +1,19 @@
+{
+  "id": "magantiit/arima-model-on-time-series-forecasting",
+  "id_no": 39178457,
+  "title": "arima-model-on-time-series-forecasting",
+  "code_file": "arima-model-on-time-series-forecasting.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "store-sales-time-series-forecasting"
+  ],
+  "model_sources": []
+}

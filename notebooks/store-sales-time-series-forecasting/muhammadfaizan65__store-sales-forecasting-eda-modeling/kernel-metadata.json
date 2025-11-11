@@ -1,0 +1,19 @@
+{
+  "id": "muhammadfaizan65/store-sales-forecasting-eda-modeling",
+  "id_no": 61304166,
+  "title": "Store Sales Forecasting | EDA+Modeling",
+  "code_file": "store-sales-forecasting-eda-modeling.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "store-sales-time-series-forecasting"
+  ],
+  "model_sources": []
+}

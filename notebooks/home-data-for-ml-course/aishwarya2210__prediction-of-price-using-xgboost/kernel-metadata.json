@@ -1,0 +1,27 @@
+{
+  "id": "aishwarya2210/prediction-of-price-using-xgboost",
+  "id_no": 24070712,
+  "title": "Prediction \u270d of\ud83c\udfe1\ud83d\udc92\ud83c\udfe0 Price using XGBoost\u2728\ud83d\udcb0",
+  "code_file": "prediction-of-price-using-xgboost.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "data analytics",
+    "xgboost",
+    "pandas",
+    "model comparison",
+    "python"
+  ],
+  "dataset_sources": [
+    ""
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "home-data-for-ml-course"
+  ],
+  "model_sources": []
+}

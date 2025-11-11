@@ -1,0 +1,21 @@
+{
+  "id": "larjeck/some-optimize-with-earlystop-and-totalloss",
+  "id_no": 31792057,
+  "title": "some optimize with earlystop and totalloss",
+  "code_file": "some-optimize-with-earlystop-and-totalloss.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": true,
+  "enable_internet": true,
+  "keywords": [
+    "tpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "gan-getting-started"
+  ],
+  "model_sources": []
+}

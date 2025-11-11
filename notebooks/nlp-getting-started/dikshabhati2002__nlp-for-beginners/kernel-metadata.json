@@ -1,0 +1,19 @@
+{
+  "id": "dikshabhati2002/nlp-for-beginners",
+  "id_no": 13951366,
+  "title": "NLP for beginners",
+  "code_file": "nlp-for-beginners.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nlp-getting-started"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "cheesu/house-prices-1st-approach-to-data-science-process",
+  "id_no": 2464106,
+  "title": "House Prices: 1st Approach to Data Science Process",
+  "code_file": "house-prices-1st-approach-to-data-science-process.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "beginner",
+    "regression",
+    "exploratory data analysis",
+    "data cleaning"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "home-data-for-ml-course"
+  ],
+  "model_sources": []
+}

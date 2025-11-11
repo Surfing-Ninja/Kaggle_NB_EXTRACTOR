@@ -1,0 +1,19 @@
+{
+  "id": "jhoward/how-random-forests-really-work",
+  "id_no": 27179917,
+  "title": "How random forests really work",
+  "code_file": "how-random-forests-really-work.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "titanic"
+  ],
+  "model_sources": []
+}

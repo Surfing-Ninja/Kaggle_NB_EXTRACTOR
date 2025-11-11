@@ -1,0 +1,25 @@
+{
+  "id": "lonnieqin/flower-classification-on-tpu",
+  "id_no": 20140737,
+  "title": "Flower Classification on TPU",
+  "code_file": "flower-classification-on-tpu.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": true,
+  "enable_internet": true,
+  "keywords": [
+    "tpu",
+    "numpy",
+    "pandas",
+    "tensorflow",
+    "matplotlib"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "tpu-getting-started"
+  ],
+  "model_sources": []
+}

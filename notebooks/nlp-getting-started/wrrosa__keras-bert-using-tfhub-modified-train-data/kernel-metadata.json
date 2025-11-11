@@ -1,0 +1,24 @@
+{
+  "id": "wrrosa/keras-bert-using-tfhub-modified-train-data",
+  "id_no": 7858359,
+  "title": "Keras BERT using TFHub (modified train data)",
+  "code_file": "keras-bert-using-tfhub-modified-train-data.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "data cleaning",
+    "gpu"
+  ],
+  "dataset_sources": [
+    "wrrosa/real-or-not-nlp-with-disaster-tweets-addings"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nlp-getting-started"
+  ],
+  "model_sources": []
+}

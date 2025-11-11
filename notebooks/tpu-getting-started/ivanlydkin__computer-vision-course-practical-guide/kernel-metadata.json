@@ -1,0 +1,27 @@
+{
+  "id": "ivanlydkin/computer-vision-course-practical-guide",
+  "id_no": 46211711,
+  "title": "\ud83e\udd16 Computer Vision course: Practical Guide ",
+  "code_file": "computer-vision-course-practical-guide.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "biology",
+    "computer vision",
+    "transfer learning",
+    "convolution",
+    "tpu"
+  ],
+  "dataset_sources": [
+    ""
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "tpu-getting-started"
+  ],
+  "model_sources": []
+}

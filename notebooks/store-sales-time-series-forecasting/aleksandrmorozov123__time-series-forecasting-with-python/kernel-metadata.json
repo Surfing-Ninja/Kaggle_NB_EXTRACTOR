@@ -1,0 +1,19 @@
+{
+  "id": "aleksandrmorozov123/time-series-forecasting-with-python",
+  "id_no": 28356206,
+  "title": "Time series forecasting with Python",
+  "code_file": "time-series-forecasting-with-python.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "store-sales-time-series-forecasting"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "lkatran/start-with-ensemble-v2",
+  "id_no": 12690809,
+  "title": "Start_with_ensemble_v2",
+  "code_file": "start-with-ensemble-v2.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": true,
+  "enable_internet": true,
+  "keywords": [
+    "tpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [
+    "lkatran/more-data-with-efficientnetb7",
+    "lkatran/more-data-with-densenet-v2"
+  ],
+  "competition_sources": [
+    "tpu-getting-started"
+  ],
+  "model_sources": []
+}

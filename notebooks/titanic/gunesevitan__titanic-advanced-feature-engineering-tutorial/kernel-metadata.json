@@ -1,0 +1,28 @@
+{
+  "id": "gunesevitan/titanic-advanced-feature-engineering-tutorial",
+  "id_no": 2725427,
+  "title": "Titanic - Advanced Feature Engineering Tutorial",
+  "code_file": "titanic-advanced-feature-engineering-tutorial.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "beginner",
+    "exploratory data analysis",
+    "feature engineering",
+    "random forest",
+    "matplotlib",
+    "numpy",
+    "pandas",
+    "seaborn"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "titanic"
+  ],
+  "model_sources": []
+}

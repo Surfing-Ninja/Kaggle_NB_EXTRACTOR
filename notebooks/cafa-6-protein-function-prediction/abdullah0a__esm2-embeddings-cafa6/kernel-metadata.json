@@ -1,0 +1,24 @@
+{
+  "id": "abdullah0a/esm2-embeddings-cafa6",
+  "id_no": 95640485,
+  "title": "ESM2 Embeddings-CAFA6",
+  "code_file": "esm2-embeddings-cafa6.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "",
+    ""
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "cafa-6-protein-function-prediction"
+  ],
+  "model_sources": []
+}

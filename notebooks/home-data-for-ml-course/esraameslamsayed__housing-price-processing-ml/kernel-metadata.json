@@ -1,0 +1,19 @@
+{
+  "id": "esraameslamsayed/housing-price-processing-ml",
+  "id_no": 49581528,
+  "title": "Housing Price \ud83c\udfe1\ud83c\udfe1 (Processing+ML)",
+  "code_file": "housing-price-processing-ml.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "home-data-for-ml-course"
+  ],
+  "model_sources": []
+}

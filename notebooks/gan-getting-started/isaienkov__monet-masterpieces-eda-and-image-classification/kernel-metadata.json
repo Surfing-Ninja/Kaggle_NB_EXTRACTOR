@@ -1,0 +1,25 @@
+{
+  "id": "isaienkov/monet-masterpieces-eda-and-image-classification",
+  "id_no": 11440173,
+  "title": "Monet masterpieces. EDA and image classification",
+  "code_file": "monet-masterpieces-eda-and-image-classification.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu",
+    "beginner",
+    "exploratory data analysis",
+    "image",
+    "classification"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "gan-getting-started"
+  ],
+  "model_sources": []
+}

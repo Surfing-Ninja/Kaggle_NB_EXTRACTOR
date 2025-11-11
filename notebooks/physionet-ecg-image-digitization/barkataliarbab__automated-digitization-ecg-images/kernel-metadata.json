@@ -1,0 +1,21 @@
+{
+  "id": "barkataliarbab/automated-digitization-ecg-images",
+  "id_no": 96492308,
+  "title": " Automated Digitization_ECG Images",
+  "code_file": "automated-digitization-ecg-images.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    ""
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "physionet-ecg-image-digitization"
+  ],
+  "model_sources": []
+}

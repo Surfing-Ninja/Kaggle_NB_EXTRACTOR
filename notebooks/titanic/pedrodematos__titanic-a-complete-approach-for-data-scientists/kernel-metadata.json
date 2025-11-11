@@ -1,0 +1,25 @@
+{
+  "id": "pedrodematos/titanic-a-complete-approach-for-data-scientists",
+  "id_no": 10991161,
+  "title": "Titanic: A complete approach for Data Scientists",
+  "code_file": "titanic-a-complete-approach-for-data-scientists.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "exploratory data analysis",
+    "feature engineering",
+    "classification",
+    "data cleaning",
+    "clustering"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "titanic"
+  ],
+  "model_sources": []
+}

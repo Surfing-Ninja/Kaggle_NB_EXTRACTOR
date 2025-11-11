@@ -1,0 +1,27 @@
+{
+  "id": "dimitreoliveira/improving-cyclegan-monet-paintings",
+  "id_no": 11453599,
+  "title": "Improving CycleGAN - Monet paintings",
+  "code_file": "improving-cyclegan-monet-paintings.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": true,
+  "enable_internet": true,
+  "keywords": [
+    "gan",
+    "art",
+    "computer vision",
+    "neural networks"
+  ],
+  "dataset_sources": [
+    "dimitreoliveira/monet-tfrecords-256x256",
+    "dimitreoliveira/tfrecords-monet-paintings-256x256"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "gan-getting-started"
+  ],
+  "model_sources": []
+}

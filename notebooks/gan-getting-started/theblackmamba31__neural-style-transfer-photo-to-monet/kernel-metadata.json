@@ -1,0 +1,26 @@
+{
+  "id": "theblackmamba31/neural-style-transfer-photo-to-monet",
+  "id_no": 16844622,
+  "title": "Neural Style Transfer: Photo to Monet",
+  "code_file": "neural-style-transfer-photo-to-monet.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "matplotlib",
+    "numpy",
+    "tensorflow",
+    "gpu",
+    "deep learning",
+    "transfer learning"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "gan-getting-started"
+  ],
+  "model_sources": []
+}

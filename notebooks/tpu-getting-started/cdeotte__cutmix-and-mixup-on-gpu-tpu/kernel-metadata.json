@@ -1,0 +1,22 @@
+{
+  "id": "cdeotte/cutmix-and-mixup-on-gpu-tpu",
+  "id_no": 8168142,
+  "title": "CutMix and MixUp on GPU/TPU",
+  "code_file": "cutmix-and-mixup-on-gpu-tpu.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "tpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "flower-classification-with-tpus",
+    "tpu-getting-started"
+  ],
+  "model_sources": []
+}

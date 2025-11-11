@@ -1,0 +1,23 @@
+{
+  "id": "gpreda/metal-flower-efficientnet-kaggle-model",
+  "id_no": 38296908,
+  "title": "Metal Flower: EfficientNet Kaggle Model",
+  "code_file": "metal-flower-efficientnet-kaggle-model.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "tpu-getting-started"
+  ],
+  "model_sources": [
+    "timm/tf-efficientnet/PyTorch/tf-efficientnet-b0/1"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "georgiisirotenko/pytorch-tpu-baseline-flowers-tranlearning-ensemble",
+  "id_no": 17514411,
+  "title": "Pytorch TPU Baseline|Flowers|TranLearning+Ensemble",
+  "code_file": "pytorch-tpu-baseline-flowers-tranlearning-ensemble.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "transfer learning",
+    "data visualization",
+    "pytorch",
+    "ensembling",
+    "computer vision",
+    "internet"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "tpu-getting-started"
+  ],
+  "model_sources": []
+}

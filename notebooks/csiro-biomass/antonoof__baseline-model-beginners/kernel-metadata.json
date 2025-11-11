@@ -1,0 +1,21 @@
+{
+  "id": "antonoof/baseline-model-beginners",
+  "id_no": 97013252,
+  "title": "baseline model | beginners",
+  "code_file": "baseline-model-beginners.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "csiro-biomass"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "seddiktrk/cafa-6-predictions",
+  "id_no": 96584453,
+  "title": "\ud83e\uddec CAFA 6: Predictions",
+  "code_file": "cafa-6-predictions.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "seddiktrk/cafa6-protein-embeddings-esm2",
+    "seddiktrk/protein-go-annotations-taxonomy"
+  ],
+  "kernel_sources": [
+    "nihilisticneuralnet/cafa-6-t5-embeddings-with-ensemble",
+    "sacuscreed/merge-of-2submission-lb-0-25"
+  ],
+  "competition_sources": [
+    "cafa-6-protein-function-prediction"
+  ],
+  "model_sources": []
+}

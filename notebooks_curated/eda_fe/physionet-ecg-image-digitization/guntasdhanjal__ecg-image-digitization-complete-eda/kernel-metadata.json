@@ -1,0 +1,25 @@
+{
+  "id": "guntasdhanjal/ecg-image-digitization-complete-eda",
+  "id_no": 96086556,
+  "title": "\u26a1 ECG Image Digitization - Complete EDA",
+  "code_file": "ecg-image-digitization-complete-eda.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "data visualization",
+    "exploratory data analysis",
+    "beginner",
+    "time series analysis",
+    "python"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "physionet-ecg-image-digitization"
+  ],
+  "model_sources": []
+}

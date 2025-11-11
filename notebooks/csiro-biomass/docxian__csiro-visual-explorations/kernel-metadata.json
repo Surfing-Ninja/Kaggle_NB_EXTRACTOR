@@ -1,0 +1,25 @@
+{
+  "id": "docxian/csiro-visual-explorations",
+  "id_no": 97430808,
+  "title": "\ud83c\udf40CSIRO - Visual Explorations",
+  "code_file": "csiro-visual-explorations.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "agriculture",
+    "tabular",
+    "image",
+    "regression",
+    "data visualization"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "csiro-biomass"
+  ],
+  "model_sources": []
+}

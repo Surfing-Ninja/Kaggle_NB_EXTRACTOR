@@ -1,0 +1,25 @@
+{
+  "id": "wafaaalayoubi/step-by-step-eda-for-player-prediction",
+  "id_no": 93582215,
+  "title": "Step-by-Step EDA for Player Prediction",
+  "code_file": "step-by-step-eda-for-player-prediction.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "data visualization",
+    "exploratory data analysis",
+    "data analytics",
+    "python",
+    "computer science"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nfl-big-data-bowl-2026-prediction"
+  ],
+  "model_sources": []
+}

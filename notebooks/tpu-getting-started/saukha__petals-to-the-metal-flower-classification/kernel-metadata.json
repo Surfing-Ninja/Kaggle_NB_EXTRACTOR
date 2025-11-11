@@ -1,0 +1,30 @@
+{
+  "id": "saukha/petals-to-the-metal-flower-classification",
+  "id_no": 12700685,
+  "title": "Petals-to-the-Metal-Flower-Classification",
+  "code_file": "petals-to-the-metal-flower-classification.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": true,
+  "enable_internet": true,
+  "keywords": [
+    "tensorflow",
+    "cnn",
+    "keras",
+    "classification",
+    "image",
+    "python",
+    "matplotlib",
+    "numpy"
+  ],
+  "dataset_sources": [
+    "kirillblinov/tf-flower-photo-tfrec"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "tpu-getting-started"
+  ],
+  "model_sources": []
+}

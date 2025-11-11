@@ -1,0 +1,24 @@
+{
+  "id": "ryanholbrook/feature-engineering-for-house-prices",
+  "id_no": 14393928,
+  "title": "Feature Engineering for House Prices",
+  "code_file": "feature-engineering-for-house-prices.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "matplotlib",
+    "numpy",
+    "pandas",
+    "seaborn"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "house-prices-advanced-regression-techniques"
+  ],
+  "model_sources": []
+}

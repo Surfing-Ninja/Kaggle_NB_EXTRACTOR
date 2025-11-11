@@ -1,0 +1,27 @@
+{
+  "id": "ishanpurohit/top-5-solution-with-detailed-explanation",
+  "id_no": 42255455,
+  "title": "Top 5% Solution with detailed explanation",
+  "code_file": "top-5-solution-with-detailed-explanation.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "data analytics",
+    "beginner",
+    "data visualization",
+    "exploratory data analysis",
+    "feature engineering"
+  ],
+  "dataset_sources": [
+    "ishanpurohit/pickle-files"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "spaceship-titanic"
+  ],
+  "model_sources": []
+}

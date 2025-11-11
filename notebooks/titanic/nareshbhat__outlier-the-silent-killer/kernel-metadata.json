@@ -1,0 +1,41 @@
+{
+  "id": "nareshbhat/outlier-the-silent-killer",
+  "id_no": 10533521,
+  "title": "Outlier!!! The Silent Killer",
+  "code_file": "outlier-the-silent-killer.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "outlier analysis",
+    "exploratory data analysis",
+    "data cleaning",
+    "beginner"
+  ],
+  "dataset_sources": [
+    "",
+    "neuromusic/avocado-prices",
+    "benroshan/factors-affecting-campus-placement",
+    "andytran11996/cost-of-living",
+    "mlg-ulb/creditcardfraud",
+    "pavansubhasht/ibm-hr-analytics-attrition-dataset",
+    "uciml/iris",
+    "anthonypino/melbourne-housing-market",
+    "uciml/pima-indians-diabetes-database",
+    "uciml/red-wine-quality-cortez-et-al-2009",
+    "ealaxi/paysim1",
+    "blastchar/telco-customer-churn",
+    "zynicide/wine-reviews",
+    "PromptCloudHQ/world-happiness-report-2019"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "house-prices-advanced-regression-techniques",
+    "competitive-data-science-predict-future-sales",
+    "titanic"
+  ],
+  "model_sources": []
+}

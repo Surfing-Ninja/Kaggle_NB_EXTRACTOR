@@ -1,0 +1,25 @@
+{
+  "id": "sasaleaf/csiro-pytorch-baseline-train",
+  "id_no": 98143880,
+  "title": "CSIRO | PyTorch baseline [train]",
+  "code_file": "csiro-pytorch-baseline-train.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "hmendonca/efficientnet-pytorch"
+  ],
+  "kernel_sources": [
+    "packagemanager/pm-98143880-at-11-07-2025-01-04-42"
+  ],
+  "competition_sources": [
+    "csiro-biomass"
+  ],
+  "model_sources": []
+}

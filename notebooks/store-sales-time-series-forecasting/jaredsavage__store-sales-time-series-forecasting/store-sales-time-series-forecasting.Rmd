@@ -1,0 +1,598 @@
+---
+title: "Store Sales - Time Series Forecasting"
+output:
+  html_document:
+    number_sections: yes
+    fig_caption: yes
+    toc: yes
+    fig_width: 20
+    fig_height: 12
+    theme: flatly
+    highlight: tango
+    code_folding: hide
+    df_print: paged
+---
+
+# Introduction  
+This is intended to be a full and comprehensive analysis of the data relating to the Store Sales Time Series Forecasting GettingStarted competition.  
+This is a work in progress and there will be many more additions to the notebook over time. I hope it proves useful and informative to people. Please remember to upvote if you like it.  
+
+In this competition, you will predict sales for the thousands of product families sold at Favorita stores located in Ecuador. The training data includes dates, store and product information, whether that item was being promoted, as well as the sales numbers. Additional files include supplementary information that may be useful in building your models.
+
+# File Descriptions and Data Field Information
+__*train.csv*__ - 
+
+The training data, comprising time series of features store_nbr, family, and onpromotion as well as the target sales.
+
+* store_nbr identifies the store at which the products are sold.
+
+* family identifies the type of product sold.
+
+* sales gives the total sales for a product family at a particular store at a given date. Fractional values are possible since products can be sold in fractional units (1.5 kg of cheese, for instance, as opposed to 1 bag of chips).
+
+* onpromotion gives the total number of items in a product family that were being promoted at a store at a given date.
+
+__*test.csv*__ - 
+
+The test data, having the same features as the training data. You will predict the target sales for the dates in this file.  
+The dates in the test data are for the 15 days after the last date in the training data.
+
+__*sample_submission.csv*__
+
+A sample submission file in the correct format.
+
+__*stores.csv*__
+
+Store metadata, including city, state, type, and cluster.
+
+* cluster is a grouping of similar stores.
+
+__*oil.csv*__
+
+Daily oil price. Includes values during both the train and test data timeframes. (Ecuador is an oil-dependent country and it's economical health is highly vulnerable to shocks in oil prices.)
+
+__*holidays_events.csv*__
+
+Holidays and Events, with metadata
+
+NOTE: Pay special attention to the transferred column. A holiday that is transferred officially falls on that calendar day, but was moved to another date by the government. A transferred day is more like a normal day than a holiday. To find the day that it was actually celebrated, look for the corresponding row where type is Transfer. For example, the holiday Independencia de Guayaquil was transferred from 2012-10-09 to 2012-10-12, which means it was celebrated on 2012-10-12. Days that are type Bridge are extra days that are added to a holiday (e.g., to extend the break across a long weekend). These are frequently made up by the type Work Day which is a day not normally scheduled for work (e.g., Saturday) that is meant to payback the Bridge.
+
+Additional holidays are days added a regular calendar holiday, for example, as typically happens around Christmas (making Christmas Eve a holiday).
+
+## Additional Notes
+
+* Wages in the public sector are paid every two weeks on the 15 th and on the last day of the month. Supermarket sales could be affected by this.
+
+* A magnitude 7.8 earthquake struck Ecuador on April 16, 2016. People rallied in relief efforts donating water and other first need products which greatly affected supermarket sales for several weeks after the earthquake.
+
+*****
+
+## Competition Metric
+The evaluation metric for this competition is Root Mean Squared Logarithmic Error.
+
+The RMSLE is calculated as:
+$$\sqrt{ \frac{1}{n} \sum_{i=1}^n \left(\log (\hat{y}_i + 1) - \log (y_i + 1)\right)^2}$$
+Where:
+
+$n$ is the total number of observations in the (public/private) data set,
+
+$\hat{y}_i$ is your prediction of target, and
+
+$y_i$ is the actual target for $i$
+
+$log(x)$ is the natural logarithm of $x (log_e(x))$.
+
+The two main differences between RMSE and RMSLE are:
+
+* RMSLE gives a more accurate _relative_ error
+
+* RMSLE penalises underestimates more than overestimates
+
+For a detailed comparison between RMSE and RMSLE see [this excelent article](https://medium.com/analytics-vidhya/root-mean-square-log-error-rmse-vs-rmlse-935c6cc1802a).
+
+RMSLE can be computed using the following methods:
+
+Python:
+```
+from sklearn.metrics import mean_squared_log_error
+np.sqrt(mean_squared_log_error(y_test, predictions))
+```
+
+R:
+```
+library(Metrics)
+rmsle(actual, predicted)
+```
+
+# Libraries & Data
+```{r message=FALSE, warning=FALSE}
+install.packages("OpenStreetMap")
+library(tidyverse)
+library(magrittr)
+library(Metrics)
+library(plotly)
+library(OpenStreetMap)
+library(maps)
+library(zeallot)
+library(lubridate)
+library(cowplot)
+library(forecast)
+```
+
+```{r message=FALSE, warning=FALSE}
+data_dir = '../input/store-sales-time-series-forecasting/'
+train = read_csv(str_c(data_dir,'train.csv'))
+transactions = read_csv(str_c(data_dir,'transactions.csv'))
+stores = read_csv(str_c(data_dir,'stores.csv'))
+oil = read_csv(str_c(data_dir,'oil.csv'))
+hol_events = read_csv(str_c(data_dir,'holidays_events.csv'))
+sub = read_csv(str_c(data_dir,'sample_submission.csv'))
+test = read_csv(str_c(data_dir,'test.csv'))
+cities <- read_csv('../input/world-cities/worldcities.csv')
+```
+
+# EDA
+We'll start by examining each of the CSV files in turn before looking at combining the data and analysing it further.
+## Train Set
+
+```{r}
+train
+```
+```{r}
+# Fix dates
+train$day <- train$date %>% day()
+train$month <- train$date %>% month()
+train$month_lab <- train$date %>% month(label = TRUE)
+train$year <- train$date %>% year()
+train$week <- train$date %>% week()
+train$week_day <- train$date %>% wday(week_start = getOption("lubridate.week.start", 1), label = TRUE)
+```
+
+
+Info in brief:
+
+* The training data covers a period of `r max(train$date)-min(train$date)` days.
+
+* There are `r n_distinct(train$store_nbr)` store ids in the training data. (just to double check that all stores are represented in the train set)
+
+* Store 25 (Salinas,	Santa Elena) is the only store open on New Years Day 2013. Other stores are open on this day in other years, but not many.
+
+Count of all product families in the training set:
+```{r}
+train$family %>% table() %>% as.data.frame()
+```
+
+The train set seems to be remarkably evenly stratified with 90,936 items in each category.  
+The following table shows proportions of each product category (family) by calculating some grouped statistics.
+
+```{r fig.height=5, fig.width=10}
+a <- train %>% group_by(family) %>% summarise(mean_sales = round(mean(sales, na.rm=TRUE),2),
+                                              median_sales = round(median(sales, na.rm = TRUE),2),
+                                              IQR_sales = IQR(sales),
+                                              max_sales = max(sales),
+                                              total_sales = sum(sales))
+a
+```
+
+
+```{r fig.height=5, fig.width=10}
+b <- ggplot(a)+
+    geom_col(aes(x = family, y = mean_sales, fill = str_to_title(family)))+
+    scale_fill_viridis_d()+
+    theme(axis.text.x=element_blank(),axis.ticks.x=element_blank())+
+    labs(title = 'Proportion of sales by product family (rollover to see labels)',
+         x = 'Product family',
+         y = 'Average daily sales',
+         legend = 'Family')
+
+ggplotly(b, width = 800, height = 450)
+
+
+```
+
+So we can see that some of the product families contribute much more to total sales than others. The categories Beverages, Cleaning, Grocery 1 & Produce make up about 80% of all sales.
+
+
+```{r}
+train %>% group_by(store_nbr) %>% summarise(avg_sales = mean(sales),
+                                            total_sales = sum(sales),
+                                            median_sales = median(sales),
+                                            IQR_sals = IQR(sales),
+                                            IQR_to_avg_sales = IQR(sales)/mean(sales))
+```
+
+```{r fig.height=5, fig.width=10, message=FALSE, warning=FALSE}
+plt <- train %>% 
+  filter(store_nbr <= 30 & sales > 0) %>%  
+  group_by(date, store_nbr) %>% 
+  summarise(daily_sales = sum(sales), .groups = "keep") %>% 
+  filter(daily_sales <= 45000) %>% 
+  ggplot()+
+    geom_density(aes(x = daily_sales, fill = as_factor(store_nbr)), alpha = 0.5)+
+    #scale_x_log10()+
+    labs(title = "Density plot of stores 1 to 30 ",
+         subtitle = "Click legend values to show/hide stores",
+         fill = "Store number",
+         x = "Total daily sales")
+    #xlim(0,45000) 
+ggplotly(plt)
+
+```
+
+This is interesting. It seems like many, but not all, of the stores' daily sales for a bi-modal distribution. 
+```{r fig.height=8, fig.width=10, message=FALSE, warning=FALSE}
+plt1 <- train %>% 
+  group_by(date) %>% 
+  summarise(avg_daily_sales = mean(sales)) %>% 
+  filter(date <= '2014-01-01') %>% 
+  ggplot()+
+    geom_line(aes(x = date, y = avg_daily_sales))+
+    labs(title = 'Average total sales by date',
+         subtitle = 'First quarter 2013',)
+
+plt2 <- train %>% 
+  group_by(date) %>% 
+  summarise(avg_daily_sales = mean(sales),
+            wday = week_day, .groups = "keep") %>% 
+  filter(date <= '2013-04-01') %>% 
+  ggplot()+
+    geom_col(aes(x = date, y = avg_daily_sales, fill=wday))+
+    scale_fill_viridis_d()+
+    labs(x = 'Date',
+         y = 'Averge daily sales',
+         fill = 'Day of week')
+
+plot_grid(plotlist = list(plt1,plt2), nrow = 2)
+```
+
+It is obvious that total sales are relatively stable during the week and spike at the weekends. This is in contrast to many countries where sales are somewhat lower on Sundays due to many shops and businesses being closed or open for shorter periods.
+
+Let's look at the average sales per weekday and month.
+```{r fig.height=8, fig.width=10}
+plt1 <- train %>% 
+  group_by(week_day) %>% 
+  summarise(avg_sales_by_day = mean(sales)) %>% 
+  ggplot()+
+    geom_col(aes(x=week_day, y=avg_sales_by_day, fill = week_day), size=1, colour="black")+
+    scale_fill_viridis_d()+
+    labs(title = "Average sales by day of the week",
+         x = "Day of the week",
+         y = "Average daily sales",
+         fill = "Day of week")+
+    guides(fill = "none")
+
+plt2 <- train %>% 
+  group_by(month_lab) %>% 
+  summarise(avg_sales_by_day = mean(sales)) %>% 
+  ggplot()+
+    geom_col(aes(x=month_lab, y=avg_sales_by_day, fill = month_lab), size=1, colour="black")+
+    scale_fill_viridis_d()+
+    labs(title = "Average sales by month of the year",
+         x = "Month",
+         y = "Average monthly sales",
+         fill = "Month")+
+    guides(fill = "none")
+
+plt3 <- train %>% 
+  group_by(year) %>% 
+  summarise(avg_sales_by_day = mean(sales)) %>% 
+  ggplot()+
+    geom_col(aes(x=year, y=avg_sales_by_day, fill = as_factor(year)), size=1, colour="black")+
+    scale_fill_viridis_d()+
+    labs(title = "Average sales by year",
+         x = "Year",
+         y = "Average monthly sales",
+         fill = "Year")+
+    guides(fill = "none")
+
+plt4 <- train %>% 
+  group_by(week) %>% 
+  summarise(avg_sales_by_day = mean(sales)) %>% 
+  ggplot()+
+    geom_col(aes(x=week, y=avg_sales_by_day, fill = as_factor(week)), size=1, colour="black")+
+    scale_fill_viridis_d()+
+    labs(title = "Average sales by week",
+         x = "Week",
+         y = "Average weekly sales",
+         fill = "Week")+
+    guides(fill = "none")
+
+plot_grid(plotlist = list(plt1,plt2, plt3, plt4), nrow = 2)
+```
+
+
+## Stores
+```{r}
+stores
+```
+
+* There are `r stores$store_nbr %>% max()` individual stores in the data set. 
+
+* These are located in `r stores$city %>% n_distinct()` cities and  `r stores$state %>% n_distinct()` states. 
+
+* There are `r stores$type %>% n_distinct()` different types of stores. What these types are is not clear.
+
+* The stores are organised into `r stores$cluster %>% n_distinct()` 'clusters'. 
+
+### Type
+
+There is no information as to what exactly is meant by store type. This subsection examines the type variable to try and shed some light on what this means.  
+The following graph shows the frequency of store types in the data set.
+```{r fig.height=5, fig.width=10}
+stores$type %>% 
+  table() %>% 
+  as.data.frame() %>% 
+  ggplot()+
+    geom_col(aes(y = Freq, x = ., fill = as_factor(.)), colour='black', size=1)+
+    scale_fill_viridis_d()+
+  labs(title = 'Distribution of store types',
+       fill = 'Type:',
+       x = 'Store type')
+  
+```
+
+The following tables show the daily average, total and standard deviation of transactions grouped by store type.
+```{r}
+left_join(stores, transactions, by = 'store_nbr') %>% group_by(type) %>% summarise(avg_trans = mean(transactions),
+                                                                                   total_trans = sum(transactions),
+                                                                                   sd_trans = sd(transactions))
+
+```
+
+* Store types A and D have around the same total transactions, but about half the number of transaction by store. The graph above shows that there are about twice the number of type D stores. So type A stores on average have twice the number of transactions as type D stores.
+
+* 
+
+The following table shows similar calculations to the previous table but relating to sales instead of transactions.
+```{r fig.height=5, fig.width=10}
+left_join(stores, train, by = 'store_nbr') %>% 
+  group_by(type) %>% 
+  summarise(avg_sales = mean(sales),
+            total_sales = sum(sales),
+            sd_sales = sd(sales),
+            .groups = 'keep')
+```
+The proportions are roughly the same as for transactions.  
+
+The following graph shows the growth of sales per store type during the period.
+
+```{r fig.height=5, fig.width=10}
+left_join(stores, train, by = 'store_nbr') %>% 
+  group_by(type, year) %>% 
+  summarise(avg_sales = mean(sales),
+            total_sales = sum(sales),
+            sd_sales = sd(sales),
+            .groups = 'keep') %>% 
+ggplot()+geom_line(aes(x = year, y = avg_sales, colour = type))+
+    labs(title = "Average daily sales per year by store type",
+         y = "Average daily sales")
+```
+
+
+
+### Clusters
+
+So what exactly does clusters mean? The data description states 'cluster is a grouping of similar stores'. Does this mean similar geographical location? Similar floor area? Same paint job? This may require some investigating.
+
+```{r message=FALSE, warning=FALSE}
+ec_cities <- data.frame(city=stores$city %>% unique())
+ec_cities <- inner_join(ec_cities, filter(cities, country=='Ecuador'), by='city')
+ec_cities <- bind_rows(ec_cities, filter(cities, id == '1218148017'))
+ec_cities_2 <- bind_cols(ec_cities, projectMercator(lat = ec_cities$lat, long = ec_cities$lng) %>% as.data.frame())
+
+```
+
+
+```{r fig.height=5, fig.width=10}
+cities_by_cluster <- left_join(stores, ec_cities_2, by = 'city')
+clust <- cities_by_cluster %>% group_by(cluster) %>% summarise(avg_pop=mean(population, na.rm = T),
+                                                      total_pop=sum(population, na.rm = T)) %>% 
+  ggplot()+geom_col(aes(x = cluster, y = avg_pop, fill=as_factor(cluster)), size=0.5, colour = 'black')+guides(fill='none')+
+  labs(title = 'Average area population by store cluster.')+
+  scale_fill_viridis_d()
+ggplotly(clust)
+```
+
+
+```{r fig.height=5, fig.width=10}
+df <- left_join(train, stores, by = 'store_nbr') 
+ggplot(df)+
+  geom_col(aes(x = cluster, y = sales, fill = as_factor(type)))+
+  labs(title = "Breakdown of sales by cluster and type",
+       fill = "Type",
+       x = "Cluster",
+       y = "Sales")+
+  scale_fill_viridis_d()
+
+```
+The previous two graphs show that there seems to be no distinct correlation between clusters and geographic location. Several of the clusters' areas have the same population value, meaning that there are numerous crossovers between the two factors.  
+The second graph shows a strong link between clusters and store types. Cluster 10 is the only cluster that is associated with multiple types: all other are associated with a single type.
+
+
+The following graph shows the location of each city in the data set within Ecuador. The size of the point is proportionate to the population of the city
+
+```{r fig.height=6, fig.width=10, message=FALSE, warning=FALSE}
+EcuadorMap <- openmap(c(1.494, -81.541),
+                      c(-5.069,-76),
+   type = "osm",
+#   type = "esri",
+#   type = "nps",
+    minNumTiles=6)
+
+
+ec_map <- OpenStreetMap::autoplot.OpenStreetMap(EcuadorMap, expand =T)+
+  geom_point(data=ec_cities_2,aes(x = x, y = y, colour = city, size=population, alpha = 0.7))+
+  geom_label(data=ec_cities_2, aes(x = x, y = y, label = city), nudge_x = 5)+
+  labs(title = 'Map of Ecuador with store locations (rollover for details).')+
+  guides(population='none', alpha='none')
+ggplotly(ec_map, 
+         tooltip = c('city','population'), 
+         height = 600, 
+         width = 800,
+         layerData=1)
+```
+
+
+
+## Transactions
+```{r}
+transactions
+```
+```{r}
+train_trans <- train %>% 
+  group_by(date, store_nbr) %>% 
+  summarise(sales_by_day = sum(sales), .groups = "keep") %>% 
+  left_join(transactions, by = c("date", "store_nbr"))
+train_trans[is.na(train_trans)] <- 0
+train_trans %<>% mutate(avg_cost_per_trans = sales_by_day/transactions)
+
+train_trans %>% summary()
+```
+
+```{r}
+transactions %>% group_by(date) %>% summarise(sum_trans=mean(transactions))
+```
+
+Average price per transaction
+```{r}
+round(sum(train$sales)/sum(transactions$transactions), digits=2)
+```
+
+
+## Holiday Events
+```{r}
+hol_events
+```
+
+The first thing to note is that the date range extends beyond the dates in the training set.
+
+```{r fig.height=5, fig.width=10}
+p1 <- hol_events %>% ggplot()+geom_bar(aes(x = locale, fill = locale), colour = 'black', size = 1)+
+  scale_fill_viridis_d()+
+  labs(title = "Holiday locale")+
+  guides(fill="none")
+
+p2 <- hol_events %>% ggplot()+geom_bar(aes(x = type, fill = type), colour = 'black', size = 1)+
+  scale_fill_viridis_d()+
+  labs(title = "Holiday type")+
+  guides(fill="none")
+
+plot_grid(plotlist = list(p1,p2), nrow = 1)
+```
+
+Number of national holidays in each month in the date:
+```{r}
+hol_events$day <- hol_events$date %>% day()
+hol_events$month <- hol_events$date %>% month()
+hol_events$month_lab <- hol_events$date %>% month(label = TRUE)
+hol_events$year <- hol_events$date %>% year()
+hol_events$week <- hol_events$date %>% week()
+hol_events$week_day <- hol_events$date %>% wday(week_start = getOption("lubridate.week.start", 1), label = TRUE)
+
+hol_events %>% 
+  filter(locale == "National" & transferred == "FALSE") %>% 
+  group_by(year, month_lab) %>% 
+  summarise(national_hols_per_month = n_distinct(description), .groups = "keep")
+
+
+```
+
+
+## Oil
+This data set lists the local price of oil in Ecuador on each day over the training period. It is highly likely that oil prices will be correlated to national sales to some extent for various reasons. Some of these reasons include:  
+
+* In 2019, oil accounted for about 38.5% of Ecuador's exports. Changes in oil prices will consequently cause changes in national income and affect people spending levels.
+
+* Oil prices has a substantial effect on the purchase of various fuels used in manufacturing and logistics. Increasing oil prices has a knock on effect that increases the price of goods and services, which usually causes a drop in demand.
+
+* The oil industry is a major source of employment in Ecuador. A drop in prices or production will result in rising unemployment and reduce demand for goods and services.
+```{r}
+oil
+```
+
+```{r}
+oil$dcoilwtico %>% summary()
+```
+
+```{r fig.height=5, fig.width=10}
+oil %>% ggplot(aes(x = date, y = dcoilwtico, colour = dcoilwtico))+geom_line(na.rm = TRUE)+
+  labs(y = 'Oil price',
+       colour = 'Oil price',
+       title = 'Local price of oil during the training period')
+```
+This does not look good!  
+In two and a half years the price dropped from 110.62 to 26.19. As the production level during this time was approximately 550,000 barrels per day, this represents a massive reduction in income.  
+
+The following graph shows the general trend of sales compared to oil prices over the training period. 
+
+```{r fig.height=5, fig.width=10}
+train %>% 
+  filter(sales>0) %>% 
+  group_by(date) %>% 
+  summarise(avg_sales_per_day = mean(sales, na.rm=TRUE)) %>% 
+  right_join(oil, by='date') %>% 
+  ggplot()+
+    geom_line(aes(x = date, y = scale(dcoilwtico), colour = 'Oil_price'), na.rm = TRUE)+
+    geom_line(aes(x = date, y = scale(avg_sales_per_day), colour = 'Sales'), na.rm = TRUE)+
+  labs(title = "Total store sales compared to local oil prices: 2013-2018",
+       subtitle = "Data has been normalised for comparrison")
+
+```
+
+At a glance, it doesn't look like there is a strong or persistent correlation between sales and oil prices.
+Below we'll look at a breakdown of these time series and look at the components individually.
+
+# Time Series Analysis
+
+
+The following plot breaks down the oil price time series into in components: data, trend, seasonality and residual.
+
+```{r fig.height=6, fig.width=10}
+oil_4_years <- oil %>% filter(date<'2017-01-01') 
+oil_4_years$dcoilwtico %>% 
+  na.omit() %>% 
+  ts(frequency = 52*4) %>% 
+  stl(s.window = 'periodic') %>% 
+  autoplot()+
+    labs(title='STL Plot of Oil data (weekly frequency)')
+
+```
+
+We can see from this plot that the seasonality of oil prices is extremely regular when looked at on a weekly basis
+Now we can look at a similar decomposition for average daily sales data and look at the trend without seasonal variations.
+                                                                                  
+```{r fig.height=6, fig.width=10}
+aspd <- train %>% 
+  filter(sales>0) %>% 
+  group_by(date) %>% 
+  summarise(avg_sales_per_day = mean(sales, na.rm=TRUE)) %>% 
+  filter(date<'2017-01-01')
+aspd$avg_sales_per_day %>% 
+  na.omit() %>% 
+  ts(frequency = 52*4) %>% 
+  stl(s.window = 'periodic') %>% 
+  autoplot()+
+    labs(title='STL Plot of daily average sales data (weekly frequency)')
+
+```
+
+Breaking the sales data down weekly shows that the seasonal component is not as regular as the oil data. 
+The following plot shows the exact same data but analysed an a monthly basis.
+```{r fig.height=6, fig.width=10}
+aspd$avg_sales_per_day %>% 
+  na.omit() %>% 
+  ts(frequency = 12*4) %>% 
+  stl(s.window = 'periodic') %>% 
+  autoplot()+
+    labs(title='STL Plot of daily average sales data (monthly frequency)')
+
+```
+
+Some points of note here:
+
+* The seasonality is much more regular and consistent
+
+* The seasonality also now accounts for a much smaller portion of the variance. The scale bars on the right of the plot show the scale of each plot element in relation to each other. 
+
+# Modelling
+TBA

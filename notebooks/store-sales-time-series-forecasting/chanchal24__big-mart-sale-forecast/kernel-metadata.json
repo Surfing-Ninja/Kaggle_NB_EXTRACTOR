@@ -1,0 +1,42 @@
+{
+  "id": "chanchal24/big-mart-sale-forecast",
+  "id_no": 61608734,
+  "title": "Big Mart Sale Forecast",
+  "code_file": "big-mart-sale-forecast.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "cnic92/200-financial-indicators-of-us-stocks-20142018",
+    "arashnic/big-mart-sale-forecast",
+    "miguelaenlle/massive-stock-news-analysis-db-for-nlpbacktests",
+    "aaron7sun/stocknews",
+    "shreenidhihipparagi/google-stock-prediction",
+    "borismarjanovic/price-volume-data-for-all-us-stocks-etfs",
+    "jainilcoder/netflix-stock-price-prediction",
+    "dgawlik/nyse",
+    "iamsouravbanerjee/nifty50-stocks-dataset",
+    "minatverma/nse-stocks-data",
+    "programmerrdai/nvidia-stock-historical-data",
+    "camnugent/sandp500",
+    "andrewmvd/sp-500-stocks",
+    "paultimothymooney/stock-market-data",
+    "jacksoncrow/stock-market-dataset",
+    "iamsouravbanerjee/nifty500-stocks-dataset",
+    "yash612/stockmarket-sentiment-dataset",
+    "hudsonstuck/stockx-data-contest",
+    "timoboz/tesla-stock-data-from-2010-to-2020",
+    "rpaguirre/tesla-stock-price",
+    "arashnic/time-series-forecasting-with-yahoo-stock-price",
+    "usfundamentals/us-stocks-fundamentals"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "store-sales-time-series-forecasting"
+  ],
+  "model_sources": []
+}

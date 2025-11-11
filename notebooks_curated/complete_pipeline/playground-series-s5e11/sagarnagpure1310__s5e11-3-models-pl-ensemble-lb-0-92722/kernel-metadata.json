@@ -1,0 +1,25 @@
+{
+  "id": "sagarnagpure1310/s5e11-3-models-pl-ensemble-lb-0-92722",
+  "id_no": 97544716,
+  "title": "S5E11 | 3 Models + PL Ensemble | LB : 0.92722 ",
+  "code_file": "s5e11-3-models-pl-ensemble-lb-0-92722.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu",
+    "sklearn",
+    "ensembling"
+  ],
+  "dataset_sources": [
+    "nabihazahid/loan-prediction-dataset-2025"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "playground-series-s5e11"
+  ],
+  "model_sources": []
+}

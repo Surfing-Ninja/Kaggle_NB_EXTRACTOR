@@ -1,0 +1,24 @@
+{
+  "id": "kunalinfinite/csiro-img2bio-tta-inference-notebook-lb-0-45",
+  "id_no": 97095150,
+  "title": "[CSIRO-img2bio] TTA Inference Notebook  [LB 0.45] ",
+  "code_file": "csiro-img2bio-tta-inference-notebook-lb-0-45.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [
+    "takaito/csiro-img2bio-training-notebook",
+    "kunalinfinite/csiro-img2bio-training-notebook"
+  ],
+  "competition_sources": [
+    "csiro-biomass"
+  ],
+  "model_sources": []
+}

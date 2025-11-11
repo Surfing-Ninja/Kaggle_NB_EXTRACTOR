@@ -1,0 +1,21 @@
+{
+  "id": "mauriciofigueiredo/cnn-simples-com-keras-para-iniciantes",
+  "id_no": 9912251,
+  "title": "CNN simples com Keras para Iniciantes",
+  "code_file": "cnn-simples-com-keras-para-iniciantes.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "digit-recognizer"
+  ],
+  "model_sources": []
+}

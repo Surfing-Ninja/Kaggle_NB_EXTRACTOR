@@ -1,0 +1,19 @@
+{
+  "id": "derfansyahgk/eda-nfl-p2",
+  "id_no": 95453096,
+  "title": "eda_nfl_p2",
+  "code_file": "eda-nfl-p2.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nfl-big-data-bowl-2026-analytics"
+  ],
+  "model_sources": []
+}

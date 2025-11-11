@@ -1,0 +1,21 @@
+{
+  "id": "jocelyndumlao/loan-prediction-with-lightgbm",
+  "id_no": 97600296,
+  "title": "Loan Prediction with LightGBM",
+  "code_file": "loan-prediction-with-lightgbm.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [
+    "nabihazahid/loan-prediction-dataset-2025"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "playground-series-s5e11"
+  ],
+  "model_sources": []
+}

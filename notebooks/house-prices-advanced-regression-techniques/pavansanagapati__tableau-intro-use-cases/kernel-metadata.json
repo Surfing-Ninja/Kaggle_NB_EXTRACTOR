@@ -1,0 +1,31 @@
+{
+  "id": "pavansanagapati/tableau-intro-use-cases",
+  "id_no": 863414,
+  "title": "Tableau Intro & Use Cases!!!!",
+  "code_file": "tableau-intro-use-cases.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "exploratory data analysis",
+    "data visualization",
+    "geospatial analysis",
+    "data cleaning",
+    "business",
+    "numpy",
+    "pandas"
+  ],
+  "dataset_sources": [
+    "START-UMD/gtd"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "house-prices-advanced-regression-techniques",
+    "competitive-data-science-predict-future-sales",
+    "titanic"
+  ],
+  "model_sources": []
+}

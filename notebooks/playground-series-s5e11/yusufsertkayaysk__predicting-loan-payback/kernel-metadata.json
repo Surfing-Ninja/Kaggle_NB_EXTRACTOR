@@ -1,0 +1,23 @@
+{
+  "id": "yusufsertkayaysk/predicting-loan-payback",
+  "id_no": 97528823,
+  "title": "Predicting Loan Payback ",
+  "code_file": "predicting-loan-payback.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "nabihazahid/loan-prediction-dataset-2025"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "playground-series-s5e11"
+  ],
+  "model_sources": []
+}

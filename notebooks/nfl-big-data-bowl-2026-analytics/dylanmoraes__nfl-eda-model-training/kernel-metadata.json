@@ -1,0 +1,19 @@
+{
+  "id": "dylanmoraes/nfl-eda-model-training",
+  "id_no": 93356407,
+  "title": "NFL EDA + Model Training",
+  "code_file": "nfl-eda-model-training.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nfl-big-data-bowl-2026-analytics"
+  ],
+  "model_sources": []
+}

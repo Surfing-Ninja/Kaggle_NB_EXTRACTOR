@@ -1,0 +1,21 @@
+{
+  "original_path": "notebooks/store-sales-time-series-forecasting/kashishrastogi__store-sales-analysis-time-serie/store-sales-analysis-time-serie.ipynb",
+  "quality_score": 36.9,
+  "grade": "D",
+  "techniques": {
+    "feature_engineering": [
+      "aggregation",
+      "time_features"
+    ],
+    "eda": [
+      "scatter"
+    ]
+  },
+  "libraries": [
+    "pandas",
+    "numpy",
+    "plotly"
+  ],
+  "category": "eda_fe",
+  "competition": "store-sales-time-series-forecasting"
+}

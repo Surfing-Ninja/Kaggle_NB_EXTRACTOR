@@ -1,0 +1,19 @@
+{
+  "id": "adarshsingh0903/llm-classification-finetuning-logistic-regression",
+  "id_no": 81351567,
+  "title": "LLM Classification Finetuning-Logistic Regression",
+  "code_file": "llm-classification-finetuning-logistic-regression.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "llm-classification-finetuning"
+  ],
+  "model_sources": []
+}

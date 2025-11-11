@@ -1,0 +1,23 @@
+{
+  "id": "takaito/csiro-img2bio-tta-inference-notebook",
+  "id_no": 97060151,
+  "title": "[CSIRO-img2bio] TTA Inference Notebook",
+  "code_file": "csiro-img2bio-tta-inference-notebook.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [
+    "takaito/csiro-img2bio-training-notebook"
+  ],
+  "competition_sources": [
+    "csiro-biomass"
+  ],
+  "model_sources": []
+}

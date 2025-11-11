@@ -1,0 +1,23 @@
+{
+  "id": "vishakhsandwar/modeling-with-transformers-2026",
+  "id_no": 97286538,
+  "title": "Modeling with Transformers 2026",
+  "code_file": "modeling-with-transformers-2026.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "vishakhsandwar/transformerutils"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nfl-big-data-bowl-2026-analytics"
+  ],
+  "model_sources": []
+}

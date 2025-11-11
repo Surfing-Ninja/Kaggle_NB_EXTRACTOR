@@ -1,0 +1,23 @@
+{
+  "id": "nina2025/ps-s5e11-first-glance-feats",
+  "id_no": 97532758,
+  "title": "PS-s5e11 | first glance + feats",
+  "code_file": "ps-s5e11-first-glance-feats.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [
+    ""
+  ],
+  "competition_sources": [
+    "playground-series-s5e11"
+  ],
+  "model_sources": []
+}

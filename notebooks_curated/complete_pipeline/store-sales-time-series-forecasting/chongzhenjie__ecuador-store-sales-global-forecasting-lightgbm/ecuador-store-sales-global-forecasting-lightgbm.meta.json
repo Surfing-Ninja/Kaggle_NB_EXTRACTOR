@@ -1,0 +1,38 @@
+{
+  "original_path": "notebooks/store-sales-time-series-forecasting/chongzhenjie__ecuador-store-sales-global-forecasting-lightgbm/ecuador-store-sales-global-forecasting-lightgbm.ipynb",
+  "quality_score": 81.0,
+  "grade": "A",
+  "techniques": {
+    "feature_engineering": [
+      "aggregation",
+      "time_features",
+      "onehot_encoding",
+      "scaling"
+    ],
+    "eda": [
+      "histogram",
+      "correlation",
+      "scatter",
+      "missing_analysis",
+      "outlier_detection",
+      "visualization"
+    ],
+    "hyperparameter": [
+      "cross_validation"
+    ],
+    "advanced_ml": [
+      "xgboost",
+      "lightgbm",
+      "catboost"
+    ]
+  },
+  "libraries": [
+    "pandas",
+    "numpy",
+    "sklearn",
+    "matplotlib",
+    "seaborn"
+  ],
+  "category": "complete_pipeline",
+  "competition": "store-sales-time-series-forecasting"
+}

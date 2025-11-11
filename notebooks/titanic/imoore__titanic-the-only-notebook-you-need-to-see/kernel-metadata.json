@@ -1,0 +1,31 @@
+{
+  "id": "imoore/titanic-the-only-notebook-you-need-to-see",
+  "id_no": 11416608,
+  "title": "Titanic - The Only Notebook You Need To See",
+  "code_file": "titanic-the-only-notebook-you-need-to-see.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "model comparison",
+    "exploratory data analysis",
+    "matplotlib",
+    "numpy",
+    "pandas",
+    "plotly",
+    "seaborn",
+    "xgboost"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [
+    "guesejustin/91-genetic-algorithms-explained-using-geap",
+    "vaishvik25/titanic-eda-fe-3-model-decision-tree-viz"
+  ],
+  "competition_sources": [
+    "titanic"
+  ],
+  "model_sources": []
+}

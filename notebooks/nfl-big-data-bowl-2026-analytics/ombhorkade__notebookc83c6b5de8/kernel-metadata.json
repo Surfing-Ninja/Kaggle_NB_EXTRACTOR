@@ -1,0 +1,19 @@
+{
+  "id": "ombhorkade/notebookc83c6b5de8",
+  "id_no": 93523027,
+  "title": "notebookc83c6b5de8",
+  "code_file": "notebookc83c6b5de8.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nfl-big-data-bowl-2026-analytics"
+  ],
+  "model_sources": []
+}

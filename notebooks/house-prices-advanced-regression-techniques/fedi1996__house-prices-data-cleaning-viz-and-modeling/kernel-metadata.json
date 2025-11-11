@@ -1,0 +1,24 @@
+{
+  "id": "fedi1996/house-prices-data-cleaning-viz-and-modeling",
+  "id_no": 6573501,
+  "title": "House Prices : Data cleaning, viz and modeling ",
+  "code_file": "house-prices-data-cleaning-viz-and-modeling.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "beginner",
+    "feature engineering",
+    "data cleaning",
+    "xgboost"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "house-prices-advanced-regression-techniques"
+  ],
+  "model_sources": []
+}

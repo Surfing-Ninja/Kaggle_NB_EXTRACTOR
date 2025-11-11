@@ -1,0 +1,22 @@
+{
+  "id": "loicge/time-series-forecasting-with-deep-learning-lstms",
+  "id_no": 24455866,
+  "title": "Time Series Forecasting with Deep Learning (LSTMs)",
+  "code_file": "time-series-forecasting-with-deep-learning-lstms.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "time series analysis",
+    "deep learning"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "store-sales-time-series-forecasting"
+  ],
+  "model_sources": []
+}

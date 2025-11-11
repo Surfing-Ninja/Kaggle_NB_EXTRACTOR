@@ -1,0 +1,21 @@
+{
+  "id": "nashizumi45/baseline-by-boyfriend-j",
+  "id_no": 96092311,
+  "title": "Baseline_by_boyfriend_J",
+  "code_file": "baseline-by-boyfriend-j.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    ""
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nfl-big-data-bowl-2026-prediction"
+  ],
+  "model_sources": []
+}

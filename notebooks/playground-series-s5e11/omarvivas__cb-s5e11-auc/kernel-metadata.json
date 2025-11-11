@@ -1,0 +1,19 @@
+{
+  "id": "omarvivas/cb-s5e11-auc",
+  "id_no": 98676071,
+  "title": "CB_s5e11_AUC",
+  "code_file": "cb-s5e11-auc.irnb",
+  "language": "r",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "playground-series-s5e11"
+  ],
+  "model_sources": []
+}

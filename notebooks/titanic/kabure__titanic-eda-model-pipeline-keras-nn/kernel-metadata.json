@@ -1,0 +1,30 @@
+{
+  "id": "kabure/titanic-eda-model-pipeline-keras-nn",
+  "id_no": 538832,
+  "title": "Titanic [EDA] + Model Pipeline + Keras NN",
+  "code_file": "titanic-eda-model-pipeline-keras-nn.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "data visualization",
+    "exploratory data analysis",
+    "random forest",
+    "feature engineering",
+    "matplotlib",
+    "numpy",
+    "pandas",
+    "scipy",
+    "seaborn",
+    "xgboost"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "titanic"
+  ],
+  "model_sources": []
+}

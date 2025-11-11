@@ -1,0 +1,19 @@
+{
+  "id": "tasmim/ecg-digitization-training-pipeline",
+  "id_no": 96345479,
+  "title": "ECG Digitization - Training Pipeline",
+  "code_file": "ecg-digitization-training-pipeline.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "physionet-ecg-image-digitization"
+  ],
+  "model_sources": []
+}

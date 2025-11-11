@@ -1,0 +1,24 @@
+{
+  "id": "dansbecker/deep-learning-from-scratch",
+  "id_no": 566363,
+  "title": "Deep Learning From Scratch",
+  "code_file": "deep-learning-from-scratch.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "pandas",
+    "tensorflow"
+  ],
+  "dataset_sources": [
+    "zalando-research/fashionmnist"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "digit-recognizer"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,21 @@
+{
+  "id": "spscientist/a-simple-tutorial-on-exploratory-data-analysis",
+  "id_no": 2052091,
+  "title": "A Simple Tutorial on Exploratory Data Analysis",
+  "code_file": "a-simple-tutorial-on-exploratory-data-analysis.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "house-prices-advanced-regression-techniques"
+  ],
+  "model_sources": []
+}

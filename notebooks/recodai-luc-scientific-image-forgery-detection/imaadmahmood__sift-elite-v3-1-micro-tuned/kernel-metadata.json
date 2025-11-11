@@ -1,0 +1,19 @@
+{
+  "id": "imaadmahmood/sift-elite-v3-1-micro-tuned",
+  "id_no": 97538522,
+  "title": "SIFT Elite v3.1: Micro-Tuned",
+  "code_file": "sift-elite-v3-1-micro-tuned.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "recodai-luc-scientific-image-forgery-detection"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,22 @@
+{
+  "id": "llkh0a/nfl-big-data-bowl-2026-bigru",
+  "id_no": 95121128,
+  "title": "NFL Big Data Bowl 2026| biGru",
+  "code_file": "nfl-big-data-bowl-2026-bigru.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "",
+    "llkh0a/nfl-big-data-bowl-2026-public"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nfl-big-data-bowl-2026-prediction"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "dansbecker/exercise-model-validation-daily",
+  "id_no": 2247663,
+  "title": "Exercise: Model Validation Daily",
+  "code_file": "exercise-model-validation-daily.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "pandas"
+  ],
+  "dataset_sources": [
+    "",
+    "dansbecker/melbourne-housing-snapshot",
+    "iabhishekofficial/mobile-price-classification"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "home-data-for-ml-course"
+  ],
+  "model_sources": []
+}

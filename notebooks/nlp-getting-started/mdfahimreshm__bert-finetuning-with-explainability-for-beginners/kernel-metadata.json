@@ -1,0 +1,23 @@
+{
+  "id": "mdfahimreshm/bert-finetuning-with-explainability-for-beginners",
+  "id_no": 51057162,
+  "title": "BERT Finetuning with Explainability for Beginners",
+  "code_file": "bert-finetuning-with-explainability-for-beginners.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "praveengovi/emotions-dataset-for-nlp"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "nlp-getting-started"
+  ],
+  "model_sources": []
+}

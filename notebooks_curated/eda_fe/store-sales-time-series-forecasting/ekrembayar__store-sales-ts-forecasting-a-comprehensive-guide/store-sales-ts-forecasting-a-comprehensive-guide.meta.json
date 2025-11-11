@@ -1,0 +1,28 @@
+{
+  "original_path": "notebooks/store-sales-time-series-forecasting/ekrembayar__store-sales-ts-forecasting-a-comprehensive-guide/store-sales-ts-forecasting-a-comprehensive-guide.ipynb",
+  "quality_score": 53.5,
+  "grade": "C",
+  "techniques": {
+    "feature_engineering": [
+      "aggregation",
+      "time_features",
+      "lag_features",
+      "onehot_encoding"
+    ],
+    "eda": [
+      "correlation",
+      "scatter",
+      "missing_analysis",
+      "visualization"
+    ]
+  },
+  "libraries": [
+    "pandas",
+    "numpy",
+    "matplotlib",
+    "seaborn",
+    "plotly"
+  ],
+  "category": "eda_fe",
+  "competition": "store-sales-time-series-forecasting"
+}

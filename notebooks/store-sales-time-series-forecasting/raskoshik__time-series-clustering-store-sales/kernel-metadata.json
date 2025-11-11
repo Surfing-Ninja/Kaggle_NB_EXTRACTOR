@@ -1,0 +1,23 @@
+{
+  "id": "raskoshik/time-series-clustering-store-sales",
+  "id_no": 24844356,
+  "title": "Time Series Clustering [Store Sales]",
+  "code_file": "time-series-clustering-store-sales.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "clustering",
+    "k-means",
+    "time series analysis"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "store-sales-time-series-forecasting"
+  ],
+  "model_sources": []
+}

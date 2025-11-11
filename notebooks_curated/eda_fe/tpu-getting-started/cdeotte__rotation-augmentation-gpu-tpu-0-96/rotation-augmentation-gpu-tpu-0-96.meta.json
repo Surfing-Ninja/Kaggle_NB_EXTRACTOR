@@ -1,0 +1,24 @@
+{
+  "original_path": "notebooks/tpu-getting-started/cdeotte__rotation-augmentation-gpu-tpu-0-96/rotation-augmentation-gpu-tpu-0-96.ipynb",
+  "quality_score": 57.15,
+  "grade": "C",
+  "techniques": {
+    "eda": [
+      "visualization"
+    ],
+    "hyperparameter": [
+      "cross_validation"
+    ],
+    "advanced_ml": [
+      "neural_network"
+    ]
+  },
+  "libraries": [
+    "numpy",
+    "sklearn",
+    "matplotlib",
+    "tensorflow"
+  ],
+  "category": "eda_fe",
+  "competition": "tpu-getting-started"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "abhi011097/eda-feature-engineering-automl-manual-model",
+  "id_no": 34199467,
+  "title": "Eda\ud83d\udccaFeature_Engineering\ud83d\udcc8AutoML_&_Manual_Model\ud83d\ude80",
+  "code_file": "eda-feature-engineering-automl-manual-model.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "feature engineering",
+    "logistic regression",
+    "exploratory data analysis",
+    "beginner",
+    "python"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "spaceship-titanic"
+  ],
+  "model_sources": []
+}

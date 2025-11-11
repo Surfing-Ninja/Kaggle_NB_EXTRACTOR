@@ -1,0 +1,19 @@
+{
+  "id": "nobita7/biomass-ensemble-regression",
+  "id_no": 98081042,
+  "title": "Biomass-Ensemble Regression",
+  "code_file": "biomass-ensemble-regression.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "csiro-biomass"
+  ],
+  "model_sources": []
+}

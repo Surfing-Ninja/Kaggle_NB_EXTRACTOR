@@ -1,0 +1,19 @@
+{
+  "id": "skirmer/fun-with-real-estate-data",
+  "id_no": 93115,
+  "title": "Fun with Real Estate Data",
+  "code_file": "fun-with-real-estate-data.Rmd",
+  "language": "rmarkdown",
+  "kernel_type": "script",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "house-prices-advanced-regression-techniques"
+  ],
+  "model_sources": []
+}

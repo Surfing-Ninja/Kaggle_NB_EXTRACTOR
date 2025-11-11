@@ -1,0 +1,21 @@
+{
+  "id": "olaflundstrom/physionet-ecg-g-r-nt-lerinden-zaman-serisi-karma",
+  "id_no": 96097840,
+  "title": "PhysioNet/ECG G\u00f6r\u00fcnt\u00fclerinden Zaman Serisi \u00c7\u0131karma",
+  "code_file": "physionet-ecg-g-r-nt-lerinden-zaman-serisi-karma.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "ekaterinadranitsyna/keras-applications-models"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "physionet-ecg-image-digitization"
+  ],
+  "model_sources": []
+}

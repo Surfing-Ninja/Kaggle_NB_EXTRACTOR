@@ -1,0 +1,23 @@
+{
+  "id": "umongsain/lb-0-9423-efficientnetb0-on-gpu-pytorch",
+  "id_no": 36214489,
+  "title": "\ud83c\udfaf LB=0.9423 | EfficientNetB0 on GPU [PyTorch]",
+  "code_file": "lb-0-9423-efficientnetb0-on-gpu-pytorch.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [
+    "umongsain/efficientnetb0-tpu-pytorch"
+  ],
+  "competition_sources": [
+    "tpu-getting-started"
+  ],
+  "model_sources": []
+}

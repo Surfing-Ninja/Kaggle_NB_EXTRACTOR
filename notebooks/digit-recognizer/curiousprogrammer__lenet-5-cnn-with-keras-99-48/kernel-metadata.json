@@ -1,0 +1,19 @@
+{
+  "id": "curiousprogrammer/lenet-5-cnn-with-keras-99-48",
+  "id_no": 2991475,
+  "title": "LeNet-5 CNN with Keras - 99.48%",
+  "code_file": "lenet-5-cnn-with-keras-99-48.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "digit-recognizer"
+  ],
+  "model_sources": []
+}

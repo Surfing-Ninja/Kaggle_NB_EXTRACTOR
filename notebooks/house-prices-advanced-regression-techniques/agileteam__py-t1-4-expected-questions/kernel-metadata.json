@@ -1,0 +1,21 @@
+{
+  "id": "agileteam/py-t1-4-expected-questions",
+  "id_no": 21160350,
+  "title": "[py] T1-4. \uc65c\ub3c4\uc640 \ucca8\ub3c4 \uad6c\ud558\uae30 (\ub85c\uadf8\uc2a4\ucf00\uc77c) Expected Questions",
+  "code_file": "py-t1-4-expected-questions.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [
+    "agileteam/bigdatacertificationkr"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "house-prices-advanced-regression-techniques"
+  ],
+  "model_sources": []
+}

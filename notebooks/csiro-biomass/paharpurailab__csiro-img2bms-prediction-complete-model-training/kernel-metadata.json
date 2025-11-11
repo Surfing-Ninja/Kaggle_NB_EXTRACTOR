@@ -1,0 +1,23 @@
+{
+  "id": "paharpurailab/csiro-img2bms-prediction-complete-model-training",
+  "id_no": 97354446,
+  "title": "CSIRO Img2Bms Prediction - Complete Model Training",
+  "code_file": "csiro-img2bms-prediction-complete-model-training.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [
+    "tasmim/csiro-models"
+  ],
+  "kernel_sources": [],
+  "competition_sources": [
+    "csiro-biomass"
+  ],
+  "model_sources": []
+}

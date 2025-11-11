@@ -1,0 +1,19 @@
+{
+  "id": "diegosiebra/neural-network-model-for-house-prices-keras",
+  "id_no": 418933,
+  "title": "Neural Network Model for House Prices (Keras)",
+  "code_file": "neural-network-model-for-house-prices-keras.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "house-prices-advanced-regression-techniques"
+  ],
+  "model_sources": []
+}

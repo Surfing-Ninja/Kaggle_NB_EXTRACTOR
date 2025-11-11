@@ -1,0 +1,19 @@
+{
+  "id": "evanoleary/alexandria-cafa-6-competition-483521",
+  "id_no": 96657478,
+  "title": "Alexandria CAFA 6 Competition 483521",
+  "code_file": "alexandria-cafa-6-competition-483521.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "cafa-6-protein-function-prediction"
+  ],
+  "model_sources": []
+}

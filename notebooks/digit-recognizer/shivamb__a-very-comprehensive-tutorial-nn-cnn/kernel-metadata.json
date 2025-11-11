@@ -1,0 +1,24 @@
+{
+  "id": "shivamb/a-very-comprehensive-tutorial-nn-cnn",
+  "id_no": 989740,
+  "title": "A Very Comprehensive Tutorial : NN + CNN ",
+  "code_file": "a-very-comprehensive-tutorial-nn-cnn.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "beginner",
+    "deep learning",
+    "neural networks",
+    "cnn"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "digit-recognizer"
+  ],
+  "model_sources": []
+}

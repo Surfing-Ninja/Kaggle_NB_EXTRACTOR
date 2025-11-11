@@ -1,0 +1,21 @@
+{
+  "id": "pinocookie/pytorch-dataset-and-dataloader",
+  "id_no": 1426205,
+  "title": "PyTorch Dataset and DataLoader",
+  "code_file": "pytorch-dataset-and-dataloader.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [
+    "programming"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "digit-recognizer"
+  ],
+  "model_sources": []
+}

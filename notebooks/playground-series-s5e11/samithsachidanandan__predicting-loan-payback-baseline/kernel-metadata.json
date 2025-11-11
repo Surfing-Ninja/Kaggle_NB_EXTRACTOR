@@ -1,0 +1,21 @@
+{
+  "id": "samithsachidanandan/predicting-loan-payback-baseline",
+  "id_no": 97590266,
+  "title": "Predicting Loan Payback | Baseline",
+  "code_file": "predicting-loan-payback-baseline.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "gpu"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "playground-series-s5e11"
+  ],
+  "model_sources": []
+}

@@ -1,0 +1,25 @@
+{
+  "id": "terhuichee/sales-forecasting-arima-model",
+  "id_no": 38472204,
+  "title": "Sales Forecasting (ARIMA MODEL) ",
+  "code_file": "sales-forecasting-arima-model.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "time series analysis",
+    "model explainability",
+    "matplotlib",
+    "data cleaning",
+    "statistical analysis"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "store-sales-time-series-forecasting"
+  ],
+  "model_sources": []
+}

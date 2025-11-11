@@ -1,0 +1,26 @@
+{
+  "id": "rv1922/predicting-loan-payback-eda",
+  "id_no": 97530423,
+  "title": "Predicting Loan Payback|EDA",
+  "code_file": "predicting-loan-payback-eda.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "exploratory data analysis",
+    "banking",
+    "classification",
+    "data analytics",
+    "data visualization",
+    "scheduled"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "playground-series-s5e11"
+  ],
+  "model_sources": []
+}

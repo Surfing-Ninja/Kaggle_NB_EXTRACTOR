@@ -1,0 +1,26 @@
+{
+  "id": "anandhuh/house-price-prediction-simple-solution-top-3",
+  "id_no": 19869627,
+  "title": "House Price Prediction Simple Solution (Top 3%)",
+  "code_file": "house-price-prediction-simple-solution-top-3.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "beginner",
+    "regression",
+    "xgboost",
+    "exploratory data analysis",
+    "python",
+    "pandas"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "home-data-for-ml-course"
+  ],
+  "model_sources": []
+}

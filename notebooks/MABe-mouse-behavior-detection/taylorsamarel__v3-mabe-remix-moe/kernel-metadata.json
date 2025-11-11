@@ -1,0 +1,19 @@
+{
+  "id": "taylorsamarel/v3-mabe-remix-moe",
+  "id_no": 94383262,
+  "title": "V3 MABe REMIX MoE",
+  "code_file": "v3-mabe-remix-moe.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_tpu": false,
+  "enable_internet": false,
+  "keywords": [],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": [
+    "MABe-mouse-behavior-detection"
+  ],
+  "model_sources": []
+}

@@ -4,18 +4,20 @@
 
 **Competition Name:** MABe-mouse-behavior-detection  
 **Kaggle URL:** https://www.kaggle.com/competitions/MABe-mouse-behavior-detection  
-**Data Collected:** 2025-11-11 15:37:56
+**Data Collected:** 2025-11-11 15:53:33
 
 ## Description
 
 This competition focuses on machine learning and data science challenges. The notebooks in this folder contain various approaches and solutions submitted by Kaggle community members.
+
+
 
 ## Dataset Information
 
 ### Files Available
 
 ```
-Next Page Token = CfDJ8J1i-7MzxEhBg3BSP9qFZm9bESwIHpLTOM29LAa7pRwX0lkfzvHLI_KRIgeXSfWBQ-3parj1CQI4U1MnYAx2N6AajRZx5onwNha93ctahkZn7s6fvr2ucrhmQC4d5RH7Pjf_2XbnxgqqYOyZRmveMZCh8xzkVvCrsgWCdGfOXIX5jk_fLOPT7GwfwYQ
+Next Page Token = CfDJ8J1i-7MzxEhBg3BSP9qFZm8YHIxeRQWiJKi_zSkoKf3hS2MGsI3FrkC91n1Hl3tO45BW5DJWvomAQMAfJEGqdKbRfBwvHel2vULgyXy0aTAJsiPARhvYkrMygC1WdVh6xaMGyujsJG3yzgmi7eazdzUxEZnAHfXct9Wu414tB-PCRYtkFxUNc46TWeQ
 name                                                      size  creationDate                
 --------------------------------------------------  ----------  --------------------------  
 sample_submission.csv                                      101  2025-09-26 22:12:04.516000  
@@ -40,6 +42,8 @@ train_annotation/AdaptableSnail/678426900.parquet         3654  2025-09-26 22:12
 train_annotation/AdaptableSnail/705948978.parquet         3938  2025-09-26 22:12:06.205000  
 
 ```
+
+
 
 ### Dataset Location
 

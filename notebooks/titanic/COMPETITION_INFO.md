@@ -4,11 +4,13 @@
 
 **Competition Name:** titanic  
 **Kaggle URL:** https://www.kaggle.com/competitions/titanic  
-**Data Collected:** 2025-11-11 15:39:25
+**Data Collected:** 2025-11-11 15:56:25
 
 ## Description
 
 This competition focuses on machine learning and data science challenges. The notebooks in this folder contain various approaches and solutions submitted by Kaggle community members.
+
+
 
 ## Dataset Information
 
@@ -22,6 +24,24 @@ test.csv                    28629  2019-12-11 02:17:10.222000
 train.csv                   61194  2019-12-11 02:17:10.398000  
 
 ```
+
+
+### Dataset Columns
+
+| Column Name | Data Type | Sample Values | Unique Values |
+|-------------|-----------|---------------|---------------|
+| `PassengerId` | int64 | 892, 893 | 5 |
+| `Pclass` | int64 | 3, 3 | 2 |
+| `Name` | object | Kelly, Mr. James, Wilkes, Mrs. James (Ellen Needs) | 5 |
+| `Sex` | object | male, female | 2 |
+| `Age` | float64 | 34.5, 47.0 | 5 |
+| `SibSp` | int64 | 0, 1 | 2 |
+| `Parch` | int64 | 0, 0 | 2 |
+| `Ticket` | int64 | 330911, 363272 | 5 |
+| `Fare` | float64 | 7.8292, 7.0 | 5 |
+| `Cabin` | float64 |  | 0 |
+| `Embarked` | object | Q, S | 2 |
+
 
 ### Dataset Location
 
@@ -42,10 +62,10 @@ This folder contains 87 downloaded notebooks from this competition.
 ```
 ref                                                                     deadline             category            reward  teamCount  userHasEntered  
 ----------------------------------------------------------------------  -------------------  ---------------  ---------  ---------  --------------  
-https://www.kaggle.com/competitions/titanic                             2030-01-01 00:00:00  Getting Started  Knowledge      16000           False  
-https://www.kaggle.com/competitions/spaceship-titanic                   2030-01-01 00:00:00  Getting Started  Knowledge       1965           False  
+https://www.kaggle.com/competitions/titanic                             2030-01-01 00:00:00  Getting Started  Knowledge      15917           False  
+https://www.kaggle.com/competitions/spaceship-titanic                   2030-01-01 00:00:00  Getting Started  Knowledge       1960           False  
 https://www.kaggle.com/competitions/tutorial-competition-for-beginners  2025-12-31 23:59:00  Community            Kudos        685           False  
-https://www.kaggle.com/competitions/titanic-machine-learning-u-lima     2025-12-01 05:00:00  Community            Kudos         98           False  
+https://www.kaggle.com/competitions/titanic-machine-learning-u-lima     2025-12-01 05:00:00  Community            Kudos         99           False  
 https://www.kaggle.com/competitions/aiaa-soobi-titanic                  2030-11-07 23:59:00  Community            Kudos         92           False  
 https://www.kaggle.com/competitions/ulsu-titanic-comp                   2070-01-01 23:59:00  Community            Kudos         85           False  
 https://www.kaggle.com/competitions/titanic-privat                      2030-12-31 23:59:00  Community            Kudos         77           False  

@@ -4,18 +4,20 @@
 
 **Competition Name:** nfl-big-data-bowl-2026-prediction  
 **Kaggle URL:** https://www.kaggle.com/competitions/nfl-big-data-bowl-2026-prediction  
-**Data Collected:** 2025-11-11 15:38:48
+**Data Collected:** 2025-11-11 15:55:13
 
 ## Description
 
 This competition focuses on machine learning and data science challenges. The notebooks in this folder contain various approaches and solutions submitted by Kaggle community members.
+
+
 
 ## Dataset Information
 
 ### Files Available
 
 ```
-Next Page Token = CfDJ8J1i-7MzxEhBg3BSP9qFZm9RZXSe3p4p6Hcn8JhxscOu3B1YXI1U4vJU_DA8WZegOChUeWVL74xMymsAjOpSqptYLuvsFp2DIXMbBWAEuhkauL8jFGTllF48mlcNOaX8RwZ-iGenFp8Xz3kzSB-SSl4-oUc
+Next Page Token = CfDJ8J1i-7MzxEhBg3BSP9qFZm_0sTYQimjxDBUzVbJI-u0dMNiX-MOE2OHEIPsvE1lDjFbPKpk0sGbHyf6BHecmajyCI2kaZQJI0xHa_ZrA9Ahw5XdWRjctegb_-MiECInxCv04ww6vrbuGfCT-kx_FDoLf5K4
 name                                                                  size  creationDate                
 --------------------------------------------------------------  ----------  --------------------------  
 kaggle_evaluation/__init__.py                                            0  2025-10-24 17:08:57.267000  
@@ -41,6 +43,8 @@ train/input_2023_w07.csv                                          39972688  2025
 
 ```
 
+
+
 ### Dataset Location
 
 The competition dataset is available in the `dataset/` subdirectory of this folder.
@@ -60,7 +64,7 @@ This folder contains 96 downloaded notebooks from this competition.
 ```
 ref                                                                    deadline             category      reward  teamCount  userHasEntered  
 ---------------------------------------------------------------------  -------------------  --------  ----------  ---------  --------------  
-https://www.kaggle.com/competitions/nfl-big-data-bowl-2026-prediction  2025-12-03 23:59:00  Featured  50,000 Usd        647           False  
+https://www.kaggle.com/competitions/nfl-big-data-bowl-2026-prediction  2025-12-03 23:59:00  Featured  50,000 Usd        648           False  
 
 ```
 

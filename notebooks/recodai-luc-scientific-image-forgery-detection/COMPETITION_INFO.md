@@ -4,18 +4,20 @@
 
 **Competition Name:** recodai-luc-scientific-image-forgery-detection  
 **Kaggle URL:** https://www.kaggle.com/competitions/recodai-luc-scientific-image-forgery-detection  
-**Data Collected:** 2025-11-11 15:39:05
+**Data Collected:** 2025-11-11 15:55:53
 
 ## Description
 
 This competition focuses on machine learning and data science challenges. The notebooks in this folder contain various approaches and solutions submitted by Kaggle community members.
+
+
 
 ## Dataset Information
 
 ### Files Available
 
 ```
-Next Page Token = CfDJ8J1i-7MzxEhBg3BSP9qFZm9ZSWU8QtCX4Vpcmqe1VuvLiTyDZHlpctbwfNIgSl5f5OYI926_JHUxnIyePCadLQgcduPOFvW_2gE_b8HbECMw6RIzrYOq4kh_6Yyhlms2y0IlD52X74ABXEPiSUiPzPXICz8Z8-Nz4kk-Lw
+Next Page Token = CfDJ8J1i-7MzxEhBg3BSP9qFZm_xNR-caUfYrrlpTt6DWoHP-siEzsU2kcyYcP2s7Lh3kBIxGY2T3WkxvU0Sp-9a-oowi2ILO-DCXf3dnkLwWxFRxxmzG3Bsyza7XOPZDASceG4DSGc6GA6Kgfh0QgjF-UuPYoabq8pVUDsTWA
 name                                    size  creationDate                
 --------------------------------  ----------  --------------------------  
 sample_submission.csv                     32  2025-10-21 18:30:55.071000  
@@ -40,6 +42,8 @@ train_images/authentic/10296.png       18276  2025-10-21 18:31:02.167000
 train_images/authentic/10348.png      108448  2025-10-21 18:31:07.800000  
 
 ```
+
+
 
 ### Dataset Location
 

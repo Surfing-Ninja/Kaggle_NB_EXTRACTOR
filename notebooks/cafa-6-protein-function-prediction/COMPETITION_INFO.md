@@ -4,11 +4,13 @@
 
 **Competition Name:** cafa-6-protein-function-prediction  
 **Kaggle URL:** https://www.kaggle.com/competitions/cafa-6-protein-function-prediction  
-**Data Collected:** 2025-11-11 15:38:01
+**Data Collected:** 2025-11-11 15:53:43
 
 ## Description
 
 This competition focuses on machine learning and data science challenges. The notebooks in this folder contain various approaches and solutions submitted by Kaggle community members.
+
+
 
 ## Dataset Information
 
@@ -27,6 +29,8 @@ Train/train_terms.tsv               10753628  2025-10-14 00:36:47.622000
 sample_submission.tsv                 480534  2025-10-14 00:36:47.519000  
 
 ```
+
+
 
 ### Dataset Location
 

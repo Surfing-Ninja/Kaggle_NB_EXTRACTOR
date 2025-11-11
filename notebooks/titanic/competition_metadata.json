@@ -1,68 +1,188 @@
 {
   "competition_name": "titanic",
   "kaggle_url": "https://www.kaggle.com/competitions/titanic",
-  "api_output": "ref                                                                     deadline             category            reward  teamCount  userHasEntered  \n----------------------------------------------------------------------  -------------------  ---------------  ---------  ---------  --------------  \nhttps://www.kaggle.com/competitions/titanic                             2030-01-01 00:00:00  Getting Started  Knowledge      16000           False  \nhttps://www.kaggle.com/competitions/spaceship-titanic                   2030-01-01 00:00:00  Getting Started  Knowledge       1965           False  \nhttps://www.kaggle.com/competitions/tutorial-competition-for-beginners  2025-12-31 23:59:00  Community            Kudos        685           False  \nhttps://www.kaggle.com/competitions/titanic-machine-learning-u-lima     2025-12-01 05:00:00  Community            Kudos         98           False  \nhttps://www.kaggle.com/competitions/aiaa-soobi-titanic                  2030-11-07 23:59:00  Community            Kudos         92           False  \nhttps://www.kaggle.com/competitions/ulsu-titanic-comp                   2070-01-01 23:59:00  Community            Kudos         85           False  \nhttps://www.kaggle.com/competitions/titanic-privat                      2030-12-31 23:59:00  Community            Kudos         77           False  \nhttps://www.kaggle.com/competitions/hselyc181018                        2100-10-17 23:59:00  Community            Kudos         17           False  \nhttps://www.kaggle.com/competitions/titanic-mth-3302-a-25               2025-12-25 05:00:00  Community            Kudos         16           False  \nhttps://www.kaggle.com/competitions/another-titanics                    2030-12-05 23:59:00  Community            Kudos         13           False  \nhttps://www.kaggle.com/competitions/u-tad-spaceship-titanic-2025        2025-12-05 11:45:00  Community            Kudos          0           False  \n",
+  "api_output": "ref                                                                     deadline             category            reward  teamCount  userHasEntered  \n----------------------------------------------------------------------  -------------------  ---------------  ---------  ---------  --------------  \nhttps://www.kaggle.com/competitions/titanic                             2030-01-01 00:00:00  Getting Started  Knowledge      15917           False  \nhttps://www.kaggle.com/competitions/spaceship-titanic                   2030-01-01 00:00:00  Getting Started  Knowledge       1960           False  \nhttps://www.kaggle.com/competitions/tutorial-competition-for-beginners  2025-12-31 23:59:00  Community            Kudos        685           False  \nhttps://www.kaggle.com/competitions/titanic-machine-learning-u-lima     2025-12-01 05:00:00  Community            Kudos         99           False  \nhttps://www.kaggle.com/competitions/aiaa-soobi-titanic                  2030-11-07 23:59:00  Community            Kudos         92           False  \nhttps://www.kaggle.com/competitions/ulsu-titanic-comp                   2070-01-01 23:59:00  Community            Kudos         85           False  \nhttps://www.kaggle.com/competitions/titanic-privat                      2030-12-31 23:59:00  Community            Kudos         77           False  \nhttps://www.kaggle.com/competitions/hselyc181018                        2100-10-17 23:59:00  Community            Kudos         17           False  \nhttps://www.kaggle.com/competitions/titanic-mth-3302-a-25               2025-12-25 05:00:00  Community            Kudos         16           False  \nhttps://www.kaggle.com/competitions/another-titanics                    2030-12-05 23:59:00  Community            Kudos         13           False  \nhttps://www.kaggle.com/competitions/u-tad-spaceship-titanic-2025        2025-12-05 11:45:00  Community            Kudos          0           False  \n",
   "dataset_files": "name                         size  creationDate                \n---------------------  ----------  --------------------------  \ngender_submission.csv        3258  2019-12-11 02:17:10.222000  \ntest.csv                    28629  2019-12-11 02:17:10.222000  \ntrain.csv                   61194  2019-12-11 02:17:10.398000  \n",
-  "collected_at": "2025-11-11 15:39:25",
+  "collected_at": "2025-11-11 15:56:25",
+  "dataset_downloaded": true,
+  "columns_info": [
+    {
+      "name": "PassengerId",
+      "dtype": "int64",
+      "sample_values": [
+        892,
+        893,
+        894
+      ],
+      "null_count": 0,
+      "unique_count": 5
+    },
+    {
+      "name": "Pclass",
+      "dtype": "int64",
+      "sample_values": [
+        3,
+        3,
+        2
+      ],
+      "null_count": 0,
+      "unique_count": 2
+    },
+    {
+      "name": "Name",
+      "dtype": "object",
+      "sample_values": [
+        "Kelly, Mr. James",
+        "Wilkes, Mrs. James (Ellen Needs)",
+        "Myles, Mr. Thomas Francis"
+      ],
+      "null_count": 0,
+      "unique_count": 5
+    },
+    {
+      "name": "Sex",
+      "dtype": "object",
+      "sample_values": [
+        "male",
+        "female",
+        "male"
+      ],
+      "null_count": 0,
+      "unique_count": 2
+    },
+    {
+      "name": "Age",
+      "dtype": "float64",
+      "sample_values": [
+        34.5,
+        47.0,
+        62.0
+      ],
+      "null_count": 0,
+      "unique_count": 5
+    },
+    {
+      "name": "SibSp",
+      "dtype": "int64",
+      "sample_values": [
+        0,
+        1,
+        0
+      ],
+      "null_count": 0,
+      "unique_count": 2
+    },
+    {
+      "name": "Parch",
+      "dtype": "int64",
+      "sample_values": [
+        0,
+        0,
+        0
+      ],
+      "null_count": 0,
+      "unique_count": 2
+    },
+    {
+      "name": "Ticket",
+      "dtype": "int64",
+      "sample_values": [
+        330911,
+        363272,
+        240276
+      ],
+      "null_count": 0,
+      "unique_count": 5
+    },
+    {
+      "name": "Fare",
+      "dtype": "float64",
+      "sample_values": [
+        7.8292,
+        7.0,
+        9.6875
+      ],
+      "null_count": 0,
+      "unique_count": 5
+    },
+    {
+      "name": "Cabin",
+      "dtype": "float64",
+      "sample_values": [],
+      "null_count": 5,
+      "unique_count": 0
+    },
+    {
+      "name": "Embarked",
+      "dtype": "object",
+      "sample_values": [
+        "Q",
+        "S",
+        "Q"
+      ],
+      "null_count": 0,
+      "unique_count": 2
+    }
+  ],
+  "column_count": 11,
   "notebook_count": 87,
   "notebook_authors": [
-    "kabure",
-    "frtgnn",
-    "tientd95",
-    "brendan45774",
-    "poonaml",
-    "nkitgupta",
-    "funxexcel",
-    "jamesleslie",
-    "andreshg",
-    "omarelgabry",
-    "zlatankr",
-    "jhoward",
-    "soham1024",
-    "startupsci",
-    "dmilla",
-    "kanncaa1",
-    "tarunpaparaju",
-    "sandragracenelson",
-    "arthurtok",
     "faressayah",
-    "shivamb",
-    "konstantinmasich",
-    "ldfreeman3",
-    "agileteam",
-    "vinothan",
-    "rochellesilva",
-    "fatmakursun",
-    "eraaz1",
-    "kenjee",
-    "ash316",
-    "masumrumi",
-    "chapagain",
-    "dansbecker",
-    "headsortails",
-    "pedrodematos",
-    "joshuajhchoi",
-    "niklasdonges",
     "nadintamer",
-    "yassineghouzam",
-    "helgejo",
-    "gunesevitan",
-    "preejababu",
-    "pmarcelino",
-    "alexisbcook",
-    "hamelg",
-    "szamil",
-    "mnassrib",
-    "werooring",
-    "nareshbhat",
-    "jeffd23",
-    "pavansanagapati",
+    "chapagain",
+    "funxexcel",
+    "tientd95",
+    "ash316",
+    "headsortails",
+    "eraaz1",
+    "dmilla",
     "gusthema",
-    "imoore",
-    "parulpandey",
+    "omarelgabry",
+    "szamil",
+    "nkitgupta",
+    "gunesevitan",
+    "zlatankr",
+    "frtgnn",
+    "brendan45774",
+    "mnassrib",
+    "kanncaa1",
+    "masumrumi",
+    "kenjee",
+    "pedrodematos",
     "subinium",
+    "soham1024",
+    "shivamb",
+    "parulpandey",
+    "alexisbcook",
+    "pavansanagapati",
+    "werooring",
+    "jeffd23",
+    "startupsci",
+    "andreshg",
+    "sandragracenelson",
+    "agileteam",
+    "sishihara",
     "sinakhorami",
-    "sishihara"
-  ],
-  "dataset_downloaded": true
+    "rochellesilva",
+    "poonaml",
+    "tarunpaparaju",
+    "niklasdonges",
+    "dansbecker",
+    "fatmakursun",
+    "pmarcelino",
+    "preejababu",
+    "imoore",
+    "ldfreeman3",
+    "vinothan",
+    "kabure",
+    "jhoward",
+    "arthurtok",
+    "helgejo",
+    "konstantinmasich",
+    "jamesleslie",
+    "nareshbhat",
+    "hamelg",
+    "joshuajhchoi",
+    "yassineghouzam"
+  ]
 }

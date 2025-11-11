@@ -4,18 +4,20 @@
 
 **Competition Name:** nfl-big-data-bowl-2026-analytics  
 **Kaggle URL:** https://www.kaggle.com/competitions/nfl-big-data-bowl-2026-analytics  
-**Data Collected:** 2025-11-11 15:38:44
+**Data Collected:** 2025-11-11 15:55:03
 
 ## Description
 
 This competition focuses on machine learning and data science challenges. The notebooks in this folder contain various approaches and solutions submitted by Kaggle community members.
+
+
 
 ## Dataset Information
 
 ### Files Available
 
 ```
-Next Page Token = CfDJ8J1i-7MzxEhBg3BSP9qFZm-0weJi9vggPaKT8bJRVPoWyHEf5AhVhYAWJNQwNWG6UCclbyAI6aSCPaF0BClXRGCc0RQ-eDeV7K9CBKnfn95Z9ymY1UUoR2fb897XEuoh5QPPgSy0sCUC-9YN21TJlP80U2H70oWwfZYA6lLA8A3vQMOsrBhldxDpd5mi7U3dn9tO6n_iQGYaodBnX-BXNGJBVHPRVXJ_j1Ob7g
+Next Page Token = CfDJ8J1i-7MzxEhBg3BSP9qFZm-Dm_dyYtDoAIguPhmHG0gOkL7b0Cr6IM2xHR86s_FDAuNYVwuCpznZUriTih7wkXeQpxLDvNSL2_J2iDfqYvLjCLgv_JzijgO44DCNK6rw4YDUCTP9hsOcBenVxd39lWawSBK7Ko3T8HbI5x5MO6iSGoBhpptk25S5sNrvhKzCuBO9HxxT-eC-jWEIgvl8Rwv4m5paM6XojBx1yQ
 name                                                                                    size  creationDate                
 --------------------------------------------------------------------------------  ----------  --------------------------  
 114239_nfl_competition_files_published_analytics_final/supplementary_data.csv        7763752  2025-09-23 18:36:30.567000  
@@ -40,6 +42,8 @@ name                                                                            
 114239_nfl_competition_files_published_analytics_final/train/output_2023_w01.csv     1149693  2025-09-23 18:36:34.329000  
 
 ```
+
+
 
 ### Dataset Location
 

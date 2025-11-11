@@ -4,11 +4,13 @@
 
 **Competition Name:** store-sales-time-series-forecasting  
 **Kaggle URL:** https://www.kaggle.com/competitions/store-sales-time-series-forecasting  
-**Data Collected:** 2025-11-11 15:39:14
+**Data Collected:** 2025-11-11 15:56:13
 
 ## Description
 
 This competition focuses on machine learning and data science challenges. The notebooks in this folder contain various approaches and solutions submitted by Kaggle community members.
+
+
 
 ## Dataset Information
 
@@ -26,6 +28,18 @@ train.csv               121800373  2021-11-22 20:13:15.754000
 transactions.csv          1552637  2021-11-22 20:13:14.386000  
 
 ```
+
+
+### Dataset Columns
+
+| Column Name | Data Type | Sample Values | Unique Values |
+|-------------|-----------|---------------|---------------|
+| `id` | int64 | 3000888, 3000889 | 5 |
+| `date` | object | 2017-08-16, 2017-08-16 | 1 |
+| `store_nbr` | int64 | 1, 1 | 1 |
+| `family` | object | AUTOMOTIVE, BABY CARE | 5 |
+| `onpromotion` | int64 | 0, 0 | 3 |
+
 
 ### Dataset Location
 
@@ -46,7 +60,7 @@ This folder contains 98 downloaded notebooks from this competition.
 ```
 ref                                                                      deadline             category            reward  teamCount  userHasEntered  
 -----------------------------------------------------------------------  -------------------  ---------------  ---------  ---------  --------------  
-https://www.kaggle.com/competitions/store-sales-time-series-forecasting  2030-06-30 23:59:00  Getting Started  Knowledge        547           False  
+https://www.kaggle.com/competitions/store-sales-time-series-forecasting  2030-06-30 23:59:00  Getting Started  Knowledge        544           False  
 
 ```
 

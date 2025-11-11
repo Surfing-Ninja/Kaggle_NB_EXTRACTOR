@@ -4,18 +4,20 @@
 
 **Competition Name:** tpu-getting-started  
 **Kaggle URL:** https://www.kaggle.com/competitions/tpu-getting-started  
-**Data Collected:** 2025-11-11 15:39:30
+**Data Collected:** 2025-11-11 15:56:32
 
 ## Description
 
 This competition focuses on machine learning and data science challenges. The notebooks in this folder contain various approaches and solutions submitted by Kaggle community members.
+
+
 
 ## Dataset Information
 
 ### Files Available
 
 ```
-Next Page Token = CfDJ8J1i-7MzxEhBg3BSP9qFZm_R8Zc7Vy8oCRhJn-WT9omqtagvzMSDkELkJW1CVOwIU6-06L7J-iTFH22I9bGYF61lA2GZ_ANCBw6DyODryPNZNxzvU0X9bwRvfO-sanhftN06QB9eE-BADKLvVpqV6UcZx_uYlJrg0aUlhMWlZc0zkWH5AU3Xz8T2oQ
+Next Page Token = CfDJ8J1i-7MzxEhBg3BSP9qFZm9kpSRXR7qATxSQBqn2sgZvP_DGZMcHpmkdUrELT5H7dkOvAg3aBkTsACjdrKDRL4TdY1YNzWb1iihnZQyomN1vg2aIfkP8_rsGLMLseq-QiVmaSxBXhIdNZ2dvsoWIA4EPW4b3XZJX6Hr6E_gNcrJmxSagfL4A5XHZMA
 name                                                     size  creationDate                
 -------------------------------------------------  ----------  --------------------------  
 sample_submission.csv                                   88593  2020-06-04 00:39:05.933000  
@@ -41,6 +43,8 @@ tfrecords-jpeg-192x192/train/02-192x192-798.tfrec    20086871  2020-06-04 00:39:
 
 ```
 
+
+
 ### Dataset Location
 
 The competition dataset is available in the `dataset/` subdirectory of this folder.
@@ -60,7 +64,7 @@ This folder contains 97 downloaded notebooks from this competition.
 ```
 ref                                                      deadline             category            reward  teamCount  userHasEntered  
 -------------------------------------------------------  -------------------  ---------------  ---------  ---------  --------------  
-https://www.kaggle.com/competitions/tpu-getting-started  2030-06-03 23:59:00  Getting Started  Knowledge        227           False  
+https://www.kaggle.com/competitions/tpu-getting-started  2030-06-03 23:59:00  Getting Started  Knowledge        226           False  
 
 ```
 

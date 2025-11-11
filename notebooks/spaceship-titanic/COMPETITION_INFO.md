@@ -4,11 +4,13 @@
 
 **Competition Name:** spaceship-titanic  
 **Kaggle URL:** https://www.kaggle.com/competitions/spaceship-titanic  
-**Data Collected:** 2025-11-11 15:39:09
+**Data Collected:** 2025-11-11 15:56:03
 
 ## Description
 
 This competition focuses on machine learning and data science challenges. The notebooks in this folder contain various approaches and solutions submitted by Kaggle community members.
+
+
 
 ## Dataset Information
 
@@ -22,6 +24,8 @@ test.csv                   372487  2022-02-11 14:02:48.951000
 train.csv                  805421  2022-02-11 14:02:48.963000  
 
 ```
+
+
 
 ### Dataset Location
 
@@ -42,7 +46,7 @@ This folder contains 97 downloaded notebooks from this competition.
 ```
 ref                                                               deadline             category            reward  teamCount  userHasEntered  
 ----------------------------------------------------------------  -------------------  ---------------  ---------  ---------  --------------  
-https://www.kaggle.com/competitions/spaceship-titanic             2030-01-01 00:00:00  Getting Started  Knowledge       1965           False  
+https://www.kaggle.com/competitions/spaceship-titanic             2030-01-01 00:00:00  Getting Started  Knowledge       1960           False  
 https://www.kaggle.com/competitions/u-tad-spaceship-titanic-2025  2025-12-05 11:45:00  Community            Kudos          0           False  
 
 ```

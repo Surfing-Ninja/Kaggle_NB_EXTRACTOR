@@ -4,18 +4,20 @@
 
 **Competition Name:** physionet-ecg-image-digitization  
 **Kaggle URL:** https://www.kaggle.com/competitions/physionet-ecg-image-digitization  
-**Data Collected:** 2025-11-11 15:38:56
+**Data Collected:** 2025-11-11 15:55:33
 
 ## Description
 
 This competition focuses on machine learning and data science challenges. The notebooks in this folder contain various approaches and solutions submitted by Kaggle community members.
+
+
 
 ## Dataset Information
 
 ### Files Available
 
 ```
-Next Page Token = CfDJ8J1i-7MzxEhBg3BSP9qFZm-ly4axSTx0ExD4lq7cb4t1z2GwK15yonAXWQuq18QYfdmONNqQSKQvalfZnC8NmsDlCjxio4x_almj-xAtHXrT0f2KAuY2r7rhE6WfAXnAVztb2G-XORmpRQda8L_pavqImObkNn_AGLx6yZif5w
+Next Page Token = CfDJ8J1i-7MzxEhBg3BSP9qFZm8bkSfg_weCKVpcjiygV_c6JK2KGc6atVdbCOLUbnbfgHAXuJQshjrF8PIr3Lfwtqgs--VmKz6Eduz1GRgJP9WQDv5qSYr5l-9d_AP2CdznUv9Alq-dFCG4pQgFFaXl4zzDqr5doYvrO0NTTeHtyg
 name                                        size  creationDate                
 ------------------------------------  ----------  --------------------------  
 sample_submission.parquet                 462298  2025-10-14 22:09:55.504000  
@@ -40,6 +42,8 @@ train/1006867983/1006867983-0005.png    14726845  2025-10-14 22:19:56.032000
 train/1006867983/1006867983-0006.png    18561538  2025-10-14 22:19:57.693000  
 
 ```
+
+
 
 ### Dataset Location
 

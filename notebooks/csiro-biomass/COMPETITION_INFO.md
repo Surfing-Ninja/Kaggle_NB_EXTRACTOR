@@ -4,18 +4,20 @@
 
 **Competition Name:** csiro-biomass  
 **Kaggle URL:** https://www.kaggle.com/competitions/csiro-biomass  
-**Data Collected:** 2025-11-11 15:38:05
+**Data Collected:** 2025-11-11 15:53:53
 
 ## Description
 
 This competition focuses on machine learning and data science challenges. The notebooks in this folder contain various approaches and solutions submitted by Kaggle community members.
+
+
 
 ## Dataset Information
 
 ### Files Available
 
 ```
-Next Page Token = CfDJ8J1i-7MzxEhBg3BSP9qFZm-behawQZb3sb-vzbb5l1lZ70BpCqi4TPniYfbbWY4IoGqQ0zbXiTsefOpCLWaO-Hd7Tsgm1XQMs16TlfN_N4sKmnZBcTvzkW7eFJ32aTiRiCJ2CEpfSTaAyESuW755gc9r
+Next Page Token = CfDJ8J1i-7MzxEhBg3BSP9qFZm8FsurStvn89tNZePOEnBE1fjL5kRwV7wAXUWK1Q4gU74GAHp7Zd462LHLgIKXRO-beVOjrN-vzME24qHteFsS49ajKKJJ5tSxDkNLfsEZDMPLMyDnYb3EU9QQPWuaFo54u
 name                          size  creationDate                
 ----------------------  ----------  --------------------------  
 sample_submission.csv          161  2025-10-28 10:34:07.221000  
@@ -41,6 +43,8 @@ train/ID1084819986.jpg     3083596  2025-10-28 10:34:10.236000
 
 ```
 
+
+
 ### Dataset Location
 
 The competition dataset is available in the `dataset/` subdirectory of this folder.
@@ -60,7 +64,7 @@ This folder contains 99 downloaded notebooks from this competition.
 ```
 ref                                                deadline             category      reward  teamCount  userHasEntered  
 -------------------------------------------------  -------------------  --------  ----------  ---------  --------------  
-https://www.kaggle.com/competitions/csiro-biomass  2026-01-28 23:59:00  Research  75,000 Usd        939           False  
+https://www.kaggle.com/competitions/csiro-biomass  2026-01-28 23:59:00  Research  75,000 Usd        942           False  
 
 ```
 

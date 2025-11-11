@@ -4,18 +4,20 @@
 
 **Competition Name:** gan-getting-started  
 **Kaggle URL:** https://www.kaggle.com/competitions/gan-getting-started  
-**Data Collected:** 2025-11-11 15:38:20
+**Data Collected:** 2025-11-11 15:54:15
 
 ## Description
 
 This competition focuses on machine learning and data science challenges. The notebooks in this folder contain various approaches and solutions submitted by Kaggle community members.
+
+
 
 ## Dataset Information
 
 ### Files Available
 
 ```
-Next Page Token = CfDJ8J1i-7MzxEhBg3BSP9qFZm_xsKjc7BGNeRpyIxmxjy6Peis8Pya1-l_5Zdw9cRiI8JUuTr_GdRicymONIX5D6K5rm2D5tvAxVSCKDUCUDfT6trUtHw5suYhsc56ZoQh2mh8go7wkniMPwCu6D3jyWVA5
+Next Page Token = CfDJ8J1i-7MzxEhBg3BSP9qFZm-UJG61l7jlBSPA9q2crbkh2toFrid_Ba3dDpRkttAKMdCVMx_IiKloMtc-a3hYs6sAVEmx9rWuk38v6sYeKDl6EH_SWHYuV8N3f_edS5hOoVKrfAazuMaAxCs9REaCEUft
 name                            size  creationDate                
 ------------------------  ----------  --------------------------  
 monet_jpg/000c1e3bff.jpg       13346  2020-08-25 20:07:20.760000  
@@ -40,6 +42,8 @@ monet_jpg/118da0690c.jpg       20132  2020-08-25 20:07:20.649000
 monet_jpg/11ab570c5e.jpg       16663  2020-08-25 20:07:20.901000  
 
 ```
+
+
 
 ### Dataset Location
 

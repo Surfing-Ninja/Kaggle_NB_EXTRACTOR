@@ -4,11 +4,13 @@
 
 **Competition Name:** nlp-getting-started  
 **Kaggle URL:** https://www.kaggle.com/competitions/nlp-getting-started  
-**Data Collected:** 2025-11-11 15:38:52
+**Data Collected:** 2025-11-11 15:55:23
 
 ## Description
 
 This competition focuses on machine learning and data science challenges. The notebooks in this folder contain various approaches and solutions submitted by Kaggle community members.
+
+
 
 ## Dataset Information
 
@@ -22,6 +24,8 @@ test.csv                   420783  2019-12-16 20:36:22.367000
 train.csv                  987712  2019-12-16 20:36:22.420000  
 
 ```
+
+
 
 ### Dataset Location
 
@@ -42,7 +46,7 @@ This folder contains 98 downloaded notebooks from this competition.
 ```
 ref                                                      deadline             category            reward  teamCount  userHasEntered  
 -------------------------------------------------------  -------------------  ---------------  ---------  ---------  --------------  
-https://www.kaggle.com/competitions/nlp-getting-started  2030-01-01 00:00:00  Getting Started  Knowledge        919           False  
+https://www.kaggle.com/competitions/nlp-getting-started  2030-01-01 00:00:00  Getting Started  Knowledge        918           False  
 
 ```
 

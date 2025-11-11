@@ -4,11 +4,13 @@
 
 **Competition Name:** llm-classification-finetuning  
 **Kaggle URL:** https://www.kaggle.com/competitions/llm-classification-finetuning  
-**Data Collected:** 2025-11-11 15:38:40
+**Data Collected:** 2025-11-11 15:54:53
 
 ## Description
 
 This competition focuses on machine learning and data science challenges. The notebooks in this folder contain various approaches and solutions submitted by Kaggle community members.
+
+
 
 ## Dataset Information
 
@@ -22,6 +24,8 @@ test.csv                    10658  2024-10-09 19:28:11.597000
 train.csv               184175071  2024-10-09 19:28:16.402000  
 
 ```
+
+
 
 ### Dataset Location
 
@@ -42,7 +46,7 @@ This folder contains 99 downloaded notebooks from this competition.
 ```
 ref                                                                deadline             category            reward  teamCount  userHasEntered  
 -----------------------------------------------------------------  -------------------  ---------------  ---------  ---------  --------------  
-https://www.kaggle.com/competitions/llm-classification-finetuning  2030-07-01 23:59:00  Getting Started  Knowledge        284           False  
+https://www.kaggle.com/competitions/llm-classification-finetuning  2030-07-01 23:59:00  Getting Started  Knowledge        283           False  
 
 ```
 

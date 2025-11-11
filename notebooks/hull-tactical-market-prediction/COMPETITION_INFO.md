@@ -4,11 +4,13 @@
 
 **Competition Name:** hull-tactical-market-prediction  
 **Kaggle URL:** https://www.kaggle.com/competitions/hull-tactical-market-prediction  
-**Data Collected:** 2025-11-11 15:38:36
+**Data Collected:** 2025-11-11 15:54:43
 
 ## Description
 
 This competition focuses on machine learning and data science challenges. The notebooks in this folder contain various approaches and solutions submitted by Kaggle community members.
+
+
 
 ## Dataset Information
 
@@ -33,6 +35,8 @@ train.csv                                                         12365421  2025
 
 ```
 
+
+
 ### Dataset Location
 
 The competition dataset is available in the `dataset/` subdirectory of this folder.
@@ -52,7 +56,7 @@ This folder contains 99 downloaded notebooks from this competition.
 ```
 ref                                                                  deadline             category       reward  teamCount  userHasEntered  
 -------------------------------------------------------------------  -------------------  --------  -----------  ---------  --------------  
-https://www.kaggle.com/competitions/hull-tactical-market-prediction  2025-12-15 23:59:00  Featured  100,000 Usd       2051           False  
+https://www.kaggle.com/competitions/hull-tactical-market-prediction  2025-12-15 23:59:00  Featured  100,000 Usd       2053           False  
 
 ```
 

@@ -1,62 +1,932 @@
 {
   "competition_name": "home-data-for-ml-course",
   "kaggle_url": "https://www.kaggle.com/competitions/home-data-for-ml-course",
-  "api_output": "ref                                                          deadline             category            reward  teamCount  userHasEntered  \n-----------------------------------------------------------  -------------------  ---------------  ---------  ---------  --------------  \nhttps://www.kaggle.com/competitions/home-data-for-ml-course  2030-01-01 23:59:00  Getting Started  Knowledge       5395           False  \n",
+  "api_output": "ref                                                          deadline             category            reward  teamCount  userHasEntered  \n-----------------------------------------------------------  -------------------  ---------------  ---------  ---------  --------------  \nhttps://www.kaggle.com/competitions/home-data-for-ml-course  2030-01-01 23:59:00  Getting Started  Knowledge       5373           False  \n",
   "dataset_files": "name                            size  creationDate                \n------------------------  ----------  --------------------------  \ndata_description.txt           13370  2019-11-30 13:52:25.068000  \nsample_submission.csv          31939  2019-11-30 13:52:24.982000  \nsample_submission.csv.gz       15685  2019-11-30 13:52:24.975000  \ntest.csv                      451405  2019-11-30 13:52:25.228000  \ntest.csv.gz                    83948  2019-11-30 13:52:25.179000  \ntrain.csv                     460676  2019-11-30 13:52:25.134000  \ntrain.csv.gz                   91387  2019-11-30 13:52:25.063000  \n",
-  "collected_at": "2025-11-11 15:38:25",
+  "collected_at": "2025-11-11 15:54:25",
+  "dataset_downloaded": true,
+  "columns_info": [
+    {
+      "name": "Id",
+      "dtype": "int64",
+      "sample_values": [
+        1461,
+        1462,
+        1463
+      ],
+      "null_count": 0,
+      "unique_count": 5
+    },
+    {
+      "name": "MSSubClass",
+      "dtype": "int64",
+      "sample_values": [
+        20,
+        20,
+        60
+      ],
+      "null_count": 0,
+      "unique_count": 3
+    },
+    {
+      "name": "MSZoning",
+      "dtype": "object",
+      "sample_values": [
+        "RH",
+        "RL",
+        "RL"
+      ],
+      "null_count": 0,
+      "unique_count": 2
+    },
+    {
+      "name": "LotFrontage",
+      "dtype": "int64",
+      "sample_values": [
+        80,
+        81,
+        74
+      ],
+      "null_count": 0,
+      "unique_count": 5
+    },
+    {
+      "name": "LotArea",
+      "dtype": "int64",
+      "sample_values": [
+        11622,
+        14267,
+        13830
+      ],
+      "null_count": 0,
+      "unique_count": 5
+    },
+    {
+      "name": "Street",
+      "dtype": "object",
+      "sample_values": [
+        "Pave",
+        "Pave",
+        "Pave"
+      ],
+      "null_count": 0,
+      "unique_count": 1
+    },
+    {
+      "name": "Alley",
+      "dtype": "float64",
+      "sample_values": [],
+      "null_count": 5,
+      "unique_count": 0
+    },
+    {
+      "name": "LotShape",
+      "dtype": "object",
+      "sample_values": [
+        "Reg",
+        "IR1",
+        "IR1"
+      ],
+      "null_count": 0,
+      "unique_count": 2
+    },
+    {
+      "name": "LandContour",
+      "dtype": "object",
+      "sample_values": [
+        "Lvl",
+        "Lvl",
+        "Lvl"
+      ],
+      "null_count": 0,
+      "unique_count": 2
+    },
+    {
+      "name": "Utilities",
+      "dtype": "object",
+      "sample_values": [
+        "AllPub",
+        "AllPub",
+        "AllPub"
+      ],
+      "null_count": 0,
+      "unique_count": 1
+    },
+    {
+      "name": "LotConfig",
+      "dtype": "object",
+      "sample_values": [
+        "Inside",
+        "Corner",
+        "Inside"
+      ],
+      "null_count": 0,
+      "unique_count": 2
+    },
+    {
+      "name": "LandSlope",
+      "dtype": "object",
+      "sample_values": [
+        "Gtl",
+        "Gtl",
+        "Gtl"
+      ],
+      "null_count": 0,
+      "unique_count": 1
+    },
+    {
+      "name": "Neighborhood",
+      "dtype": "object",
+      "sample_values": [
+        "NAmes",
+        "NAmes",
+        "Gilbert"
+      ],
+      "null_count": 0,
+      "unique_count": 3
+    },
+    {
+      "name": "Condition1",
+      "dtype": "object",
+      "sample_values": [
+        "Feedr",
+        "Norm",
+        "Norm"
+      ],
+      "null_count": 0,
+      "unique_count": 2
+    },
+    {
+      "name": "Condition2",
+      "dtype": "object",
+      "sample_values": [
+        "Norm",
+        "Norm",
+        "Norm"
+      ],
+      "null_count": 0,
+      "unique_count": 1
+    },
+    {
+      "name": "BldgType",
+      "dtype": "object",
+      "sample_values": [
+        "1Fam",
+        "1Fam",
+        "1Fam"
+      ],
+      "null_count": 0,
+      "unique_count": 2
+    },
+    {
+      "name": "HouseStyle",
+      "dtype": "object",
+      "sample_values": [
+        "1Story",
+        "1Story",
+        "2Story"
+      ],
+      "null_count": 0,
+      "unique_count": 2
+    },
+    {
+      "name": "OverallQual",
+      "dtype": "int64",
+      "sample_values": [
+        5,
+        6,
+        5
+      ],
+      "null_count": 0,
+      "unique_count": 3
+    },
+    {
+      "name": "OverallCond",
+      "dtype": "int64",
+      "sample_values": [
+        6,
+        6,
+        5
+      ],
+      "null_count": 0,
+      "unique_count": 2
+    },
+    {
+      "name": "YearBuilt",
+      "dtype": "int64",
+      "sample_values": [
+        1961,
+        1958,
+        1997
+      ],
+      "null_count": 0,
+      "unique_count": 5
+    },
+    {
+      "name": "YearRemodAdd",
+      "dtype": "int64",
+      "sample_values": [
+        1961,
+        1958,
+        1998
+      ],
+      "null_count": 0,
+      "unique_count": 4
+    },
+    {
+      "name": "RoofStyle",
+      "dtype": "object",
+      "sample_values": [
+        "Gable",
+        "Hip",
+        "Gable"
+      ],
+      "null_count": 0,
+      "unique_count": 2
+    },
+    {
+      "name": "RoofMatl",
+      "dtype": "object",
+      "sample_values": [
+        "CompShg",
+        "CompShg",
+        "CompShg"
+      ],
+      "null_count": 0,
+      "unique_count": 1
+    },
+    {
+      "name": "Exterior1st",
+      "dtype": "object",
+      "sample_values": [
+        "VinylSd",
+        "Wd Sdng",
+        "VinylSd"
+      ],
+      "null_count": 0,
+      "unique_count": 3
+    },
+    {
+      "name": "Exterior2nd",
+      "dtype": "object",
+      "sample_values": [
+        "VinylSd",
+        "Wd Sdng",
+        "VinylSd"
+      ],
+      "null_count": 0,
+      "unique_count": 3
+    },
+    {
+      "name": "MasVnrType",
+      "dtype": "object",
+      "sample_values": [
+        "BrkFace",
+        "BrkFace"
+      ],
+      "null_count": 3,
+      "unique_count": 1
+    },
+    {
+      "name": "MasVnrArea",
+      "dtype": "int64",
+      "sample_values": [
+        0,
+        108,
+        0
+      ],
+      "null_count": 0,
+      "unique_count": 3
+    },
+    {
+      "name": "ExterQual",
+      "dtype": "object",
+      "sample_values": [
+        "TA",
+        "TA",
+        "TA"
+      ],
+      "null_count": 0,
+      "unique_count": 2
+    },
+    {
+      "name": "ExterCond",
+      "dtype": "object",
+      "sample_values": [
+        "TA",
+        "TA",
+        "TA"
+      ],
+      "null_count": 0,
+      "unique_count": 1
+    },
+    {
+      "name": "Foundation",
+      "dtype": "object",
+      "sample_values": [
+        "CBlock",
+        "CBlock",
+        "PConc"
+      ],
+      "null_count": 0,
+      "unique_count": 2
+    },
+    {
+      "name": "BsmtQual",
+      "dtype": "object",
+      "sample_values": [
+        "TA",
+        "TA",
+        "Gd"
+      ],
+      "null_count": 0,
+      "unique_count": 2
+    },
+    {
+      "name": "BsmtCond",
+      "dtype": "object",
+      "sample_values": [
+        "TA",
+        "TA",
+        "TA"
+      ],
+      "null_count": 0,
+      "unique_count": 1
+    },
+    {
+      "name": "BsmtExposure",
+      "dtype": "object",
+      "sample_values": [
+        "No",
+        "No",
+        "No"
+      ],
+      "null_count": 0,
+      "unique_count": 1
+    },
+    {
+      "name": "BsmtFinType1",
+      "dtype": "object",
+      "sample_values": [
+        "Rec",
+        "ALQ",
+        "GLQ"
+      ],
+      "null_count": 0,
+      "unique_count": 3
+    },
+    {
+      "name": "BsmtFinSF1",
+      "dtype": "int64",
+      "sample_values": [
+        468,
+        923,
+        791
+      ],
+      "null_count": 0,
+      "unique_count": 5
+    },
+    {
+      "name": "BsmtFinType2",
+      "dtype": "object",
+      "sample_values": [
+        "LwQ",
+        "Unf",
+        "Unf"
+      ],
+      "null_count": 0,
+      "unique_count": 2
+    },
+    {
+      "name": "BsmtFinSF2",
+      "dtype": "int64",
+      "sample_values": [
+        144,
+        0,
+        0
+      ],
+      "null_count": 0,
+      "unique_count": 2
+    },
+    {
+      "name": "BsmtUnfSF",
+      "dtype": "int64",
+      "sample_values": [
+        270,
+        406,
+        137
+      ],
+      "null_count": 0,
+      "unique_count": 5
+    },
+    {
+      "name": "TotalBsmtSF",
+      "dtype": "int64",
+      "sample_values": [
+        882,
+        1329,
+        928
+      ],
+      "null_count": 0,
+      "unique_count": 5
+    },
+    {
+      "name": "Heating",
+      "dtype": "object",
+      "sample_values": [
+        "GasA",
+        "GasA",
+        "GasA"
+      ],
+      "null_count": 0,
+      "unique_count": 1
+    },
+    {
+      "name": "HeatingQC",
+      "dtype": "object",
+      "sample_values": [
+        "TA",
+        "TA",
+        "Gd"
+      ],
+      "null_count": 0,
+      "unique_count": 3
+    },
+    {
+      "name": "CentralAir",
+      "dtype": "object",
+      "sample_values": [
+        "Y",
+        "Y",
+        "Y"
+      ],
+      "null_count": 0,
+      "unique_count": 1
+    },
+    {
+      "name": "Electrical",
+      "dtype": "object",
+      "sample_values": [
+        "SBrkr",
+        "SBrkr",
+        "SBrkr"
+      ],
+      "null_count": 0,
+      "unique_count": 1
+    },
+    {
+      "name": "1stFlrSF",
+      "dtype": "int64",
+      "sample_values": [
+        896,
+        1329,
+        928
+      ],
+      "null_count": 0,
+      "unique_count": 5
+    },
+    {
+      "name": "2ndFlrSF",
+      "dtype": "int64",
+      "sample_values": [
+        0,
+        0,
+        701
+      ],
+      "null_count": 0,
+      "unique_count": 3
+    },
+    {
+      "name": "LowQualFinSF",
+      "dtype": "int64",
+      "sample_values": [
+        0,
+        0,
+        0
+      ],
+      "null_count": 0,
+      "unique_count": 1
+    },
+    {
+      "name": "GrLivArea",
+      "dtype": "int64",
+      "sample_values": [
+        896,
+        1329,
+        1629
+      ],
+      "null_count": 0,
+      "unique_count": 5
+    },
+    {
+      "name": "BsmtFullBath",
+      "dtype": "int64",
+      "sample_values": [
+        0,
+        0,
+        0
+      ],
+      "null_count": 0,
+      "unique_count": 1
+    },
+    {
+      "name": "BsmtHalfBath",
+      "dtype": "int64",
+      "sample_values": [
+        0,
+        0,
+        0
+      ],
+      "null_count": 0,
+      "unique_count": 1
+    },
+    {
+      "name": "FullBath",
+      "dtype": "int64",
+      "sample_values": [
+        1,
+        1,
+        2
+      ],
+      "null_count": 0,
+      "unique_count": 2
+    },
+    {
+      "name": "HalfBath",
+      "dtype": "int64",
+      "sample_values": [
+        0,
+        1,
+        1
+      ],
+      "null_count": 0,
+      "unique_count": 2
+    },
+    {
+      "name": "BedroomAbvGr",
+      "dtype": "int64",
+      "sample_values": [
+        2,
+        3,
+        3
+      ],
+      "null_count": 0,
+      "unique_count": 2
+    },
+    {
+      "name": "KitchenAbvGr",
+      "dtype": "int64",
+      "sample_values": [
+        1,
+        1,
+        1
+      ],
+      "null_count": 0,
+      "unique_count": 1
+    },
+    {
+      "name": "KitchenQual",
+      "dtype": "object",
+      "sample_values": [
+        "TA",
+        "Gd",
+        "TA"
+      ],
+      "null_count": 0,
+      "unique_count": 2
+    },
+    {
+      "name": "TotRmsAbvGrd",
+      "dtype": "int64",
+      "sample_values": [
+        5,
+        6,
+        6
+      ],
+      "null_count": 0,
+      "unique_count": 3
+    },
+    {
+      "name": "Functional",
+      "dtype": "object",
+      "sample_values": [
+        "Typ",
+        "Typ",
+        "Typ"
+      ],
+      "null_count": 0,
+      "unique_count": 1
+    },
+    {
+      "name": "Fireplaces",
+      "dtype": "int64",
+      "sample_values": [
+        0,
+        0,
+        1
+      ],
+      "null_count": 0,
+      "unique_count": 2
+    },
+    {
+      "name": "FireplaceQu",
+      "dtype": "object",
+      "sample_values": [
+        "TA",
+        "Gd"
+      ],
+      "null_count": 3,
+      "unique_count": 2
+    },
+    {
+      "name": "GarageType",
+      "dtype": "object",
+      "sample_values": [
+        "Attchd",
+        "Attchd",
+        "Attchd"
+      ],
+      "null_count": 0,
+      "unique_count": 1
+    },
+    {
+      "name": "GarageYrBlt",
+      "dtype": "int64",
+      "sample_values": [
+        1961,
+        1958,
+        1997
+      ],
+      "null_count": 0,
+      "unique_count": 5
+    },
+    {
+      "name": "GarageFinish",
+      "dtype": "object",
+      "sample_values": [
+        "Unf",
+        "Unf",
+        "Fin"
+      ],
+      "null_count": 0,
+      "unique_count": 3
+    },
+    {
+      "name": "GarageCars",
+      "dtype": "int64",
+      "sample_values": [
+        1,
+        1,
+        2
+      ],
+      "null_count": 0,
+      "unique_count": 2
+    },
+    {
+      "name": "GarageArea",
+      "dtype": "int64",
+      "sample_values": [
+        730,
+        312,
+        482
+      ],
+      "null_count": 0,
+      "unique_count": 5
+    },
+    {
+      "name": "GarageQual",
+      "dtype": "object",
+      "sample_values": [
+        "TA",
+        "TA",
+        "TA"
+      ],
+      "null_count": 0,
+      "unique_count": 1
+    },
+    {
+      "name": "GarageCond",
+      "dtype": "object",
+      "sample_values": [
+        "TA",
+        "TA",
+        "TA"
+      ],
+      "null_count": 0,
+      "unique_count": 1
+    },
+    {
+      "name": "PavedDrive",
+      "dtype": "object",
+      "sample_values": [
+        "Y",
+        "Y",
+        "Y"
+      ],
+      "null_count": 0,
+      "unique_count": 1
+    },
+    {
+      "name": "WoodDeckSF",
+      "dtype": "int64",
+      "sample_values": [
+        140,
+        393,
+        212
+      ],
+      "null_count": 0,
+      "unique_count": 5
+    },
+    {
+      "name": "OpenPorchSF",
+      "dtype": "int64",
+      "sample_values": [
+        0,
+        36,
+        34
+      ],
+      "null_count": 0,
+      "unique_count": 4
+    },
+    {
+      "name": "EnclosedPorch",
+      "dtype": "int64",
+      "sample_values": [
+        0,
+        0,
+        0
+      ],
+      "null_count": 0,
+      "unique_count": 1
+    },
+    {
+      "name": "3SsnPorch",
+      "dtype": "int64",
+      "sample_values": [
+        0,
+        0,
+        0
+      ],
+      "null_count": 0,
+      "unique_count": 1
+    },
+    {
+      "name": "ScreenPorch",
+      "dtype": "int64",
+      "sample_values": [
+        120,
+        0,
+        0
+      ],
+      "null_count": 0,
+      "unique_count": 3
+    },
+    {
+      "name": "PoolArea",
+      "dtype": "int64",
+      "sample_values": [
+        0,
+        0,
+        0
+      ],
+      "null_count": 0,
+      "unique_count": 1
+    },
+    {
+      "name": "PoolQC",
+      "dtype": "float64",
+      "sample_values": [],
+      "null_count": 5,
+      "unique_count": 0
+    },
+    {
+      "name": "Fence",
+      "dtype": "object",
+      "sample_values": [
+        "MnPrv",
+        "MnPrv"
+      ],
+      "null_count": 3,
+      "unique_count": 1
+    },
+    {
+      "name": "MiscFeature",
+      "dtype": "object",
+      "sample_values": [
+        "Gar2"
+      ],
+      "null_count": 4,
+      "unique_count": 1
+    },
+    {
+      "name": "MiscVal",
+      "dtype": "int64",
+      "sample_values": [
+        0,
+        12500,
+        0
+      ],
+      "null_count": 0,
+      "unique_count": 2
+    },
+    {
+      "name": "MoSold",
+      "dtype": "int64",
+      "sample_values": [
+        6,
+        6,
+        3
+      ],
+      "null_count": 0,
+      "unique_count": 3
+    },
+    {
+      "name": "YrSold",
+      "dtype": "int64",
+      "sample_values": [
+        2010,
+        2010,
+        2010
+      ],
+      "null_count": 0,
+      "unique_count": 1
+    },
+    {
+      "name": "SaleType",
+      "dtype": "object",
+      "sample_values": [
+        "WD",
+        "WD",
+        "WD"
+      ],
+      "null_count": 0,
+      "unique_count": 1
+    },
+    {
+      "name": "SaleCondition",
+      "dtype": "object",
+      "sample_values": [
+        "Normal",
+        "Normal",
+        "Normal"
+      ],
+      "null_count": 0,
+      "unique_count": 1
+    }
+  ],
+  "column_count": 80,
   "notebook_count": 99,
   "notebook_authors": [
-    "ehsandahesh",
-    "maheshnanavare",
-    "donaldst",
-    "usamabalochhh",
-    "aipi12",
-    "cheesu",
-    "tnr1337",
-    "nischaydnk",
-    "sagarmainkar",
-    "nancyalaswad90",
-    "mauriciofigueiredo",
-    "gokulprakash22",
-    "wojteksy",
-    "swathianil",
-    "annastasy",
     "abdelwahed43",
-    "ialimustufa",
-    "nickyarovoi",
-    "esraameslamsayed",
-    "samanyuk",
-    "datafan07",
-    "justinianus",
-    "rzatemizel",
-    "lazer999",
-    "anandhuh",
-    "gowrishankarin",
-    "ajaypalsinghlo",
-    "tirendazacademy",
-    "arezoodahesh",
-    "manvalls",
-    "johannaschmidle7",
-    "aishwarya2210",
+    "vishalvanpariya",
+    "mdfahimreshm",
+    "angqx95",
+    "nischaydnk",
+    "olaflundstrom",
     "erkanhatipoglu",
-    "dansbecker",
+    "nancyalaswad90",
     "yogeshtak",
-    "abhishekaggarwal896",
+    "justinianus",
+    "gowrishankarin",
+    "donaldst",
+    "aipi12",
+    "usamabalochhh",
+    "lazer999",
+    "samanyuk",
+    "nickyarovoi",
+    "pcbreviglieri",
+    "wojteksy",
+    "cheesu",
+    "manvalls",
+    "ialimustufa",
     "michaelfumery",
+    "gokulprakash22",
+    "alexisbcook",
+    "sahib12",
+    "tnr1337",
+    "olegkochetkov",
     "sujithmandala",
     "azminetoushikwasi",
-    "alexisbcook",
-    "angqx95",
-    "mdfahimreshm",
+    "datafan07",
+    "rzatemizel",
+    "annastasy",
+    "ehsandahesh",
+    "dansbecker",
+    "swathianil",
+    "ajaypalsinghlo",
     "raj401",
-    "thesnak",
+    "sagarmainkar",
+    "abhishekaggarwal896",
+    "anandhuh",
+    "arezoodahesh",
+    "maheshnanavare",
     "rakkesharv",
-    "vishalvanpariya",
-    "pcbreviglieri",
-    "olaflundstrom",
-    "sahib12",
-    "olegkochetkov",
-    "computervisi"
-  ],
-  "dataset_downloaded": true
+    "computervisi",
+    "mauriciofigueiredo",
+    "johannaschmidle7",
+    "esraameslamsayed",
+    "tirendazacademy",
+    "thesnak",
+    "aishwarya2210"
+  ]
 }

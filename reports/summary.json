@@ -1,0 +1,18 @@
+{
+  "generated_at": "2025-11-11T00:37:04.171929",
+  "total_notebooks": 130,
+  "categories": {
+    "pure_fe": 0,
+    "eda_fe": 69,
+    "hyperparam_fe": 4,
+    "complete_pipeline": 57,
+    "advanced": 0
+  },
+  "statistics": {
+    "avg_quality_score": 61.268281153846154,
+    "competitions_represented": 19,
+    "unique_authors": 0,
+    "total_size_gb": 0.010916221886873245
+  },
+  "pipeline_time": 144.90361976623535
+}

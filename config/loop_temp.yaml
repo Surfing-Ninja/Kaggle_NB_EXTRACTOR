@@ -1,0 +1,12 @@
+collection:
+  target_count: 500
+indexing:
+  target_count: 5000
+  min_votes: 1
+download:
+  batch_size: 100
+  rate_limit: 1.5
+analysis:
+  min_score: 40
+  target_count: 5000
+  workers: 4

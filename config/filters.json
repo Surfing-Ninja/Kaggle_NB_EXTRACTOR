@@ -1,0 +1,386 @@
+{
+  "keywords": {
+    "feature_engineering": {
+      "terms": [
+        "feature engineering",
+        "feature creation",
+        "feature extraction",
+        "feature construction",
+        "new features",
+        "engineered features",
+        "feature transform",
+        "polynomial features",
+        "interaction features",
+        "feature interaction",
+        "cross features",
+        "aggregate features",
+        "aggregation",
+        "groupby transform",
+        "rolling window",
+        "rolling mean",
+        "rolling statistics",
+        "lag features",
+        "time lag",
+        "shift features",
+        "window features",
+        "binning",
+        "discretization",
+        "target encoding",
+        "frequency encoding",
+        "count encoding",
+        "mean encoding",
+        "woe encoding",
+        "cyclical features",
+        "datetime features",
+        "temporal features",
+        "text features",
+        "tf-idf",
+        "count vectorizer",
+        "embedding",
+        "feature hashing"
+      ],
+      "libraries": [
+        "featuretools",
+        "category_encoders",
+        "feature_engine"
+      ],
+      "functions": [
+        "PolynomialFeatures",
+        "make_column_transformer",
+        "FunctionTransformer"
+      ]
+    },
+    "eda": {
+      "terms": [
+        "exploratory data analysis",
+        "eda",
+        "data exploration",
+        "data visualization",
+        "statistical analysis",
+        "distribution analysis",
+        "correlation analysis",
+        "correlation matrix",
+        "heatmap",
+        "pair plot",
+        "scatter plot",
+        "histogram",
+        "box plot",
+        "violin plot",
+        "kde plot",
+        "joint plot",
+        "missing values",
+        "null values",
+        "data profiling",
+        "summary statistics",
+        "descriptive statistics",
+        "outlier detection",
+        "outlier analysis",
+        "data quality",
+        "univariate analysis",
+        "bivariate analysis",
+        "multivariate analysis",
+        "target distribution",
+        "class imbalance",
+        "feature distribution",
+        "statistical test",
+        "hypothesis test"
+      ],
+      "libraries": [
+        "seaborn",
+        "matplotlib",
+        "plotly",
+        "pandas_profiling",
+        "sweetviz",
+        "missingno",
+        "ydata_profiling"
+      ],
+      "functions": [
+        "sns.heatmap",
+        "sns.pairplot",
+        "sns.distplot",
+        "describe()",
+        "corr()",
+        "value_counts()"
+      ]
+    },
+    "dimensionality": {
+      "terms": [
+        "dimensionality reduction",
+        "dimension reduction",
+        "pca",
+        "principal component",
+        "principal component analysis",
+        "t-sne",
+        "tsne",
+        "t-distributed stochastic",
+        "umap",
+        "uniform manifold",
+        "svd",
+        "singular value decomposition",
+        "truncated svd",
+        "lda",
+        "linear discriminant",
+        "factor analysis",
+        "ica",
+        "independent component",
+        "nmf",
+        "non-negative matrix",
+        "autoencoder",
+        "manifold learning",
+        "isomap",
+        "locally linear embedding",
+        "lle",
+        "spectral embedding",
+        "mds",
+        "multidimensional scaling",
+        "feature selection",
+        "variance threshold",
+        "recursive feature elimination",
+        "rfe"
+      ],
+      "libraries": [
+        "sklearn.decomposition",
+        "umap-learn",
+        "sklearn.manifold"
+      ],
+      "functions": [
+        "PCA",
+        "TSNE",
+        "TruncatedSVD",
+        "UMAP",
+        "FactorAnalysis",
+        "NMF",
+        "IncrementalPCA"
+      ]
+    },
+    "hyperparameter": {
+      "terms": [
+        "hyperparameter tuning",
+        "hyperparameter optimization",
+        "hyperparameter search",
+        "grid search",
+        "gridsearchcv",
+        "random search",
+        "randomizedsearchcv",
+        "bayesian optimization",
+        "optuna",
+        "hyperopt",
+        "cross validation",
+        "k-fold",
+        "stratified k-fold",
+        "nested cross validation",
+        "parameter tuning",
+        "model selection",
+        "model tuning",
+        "auto ml",
+        "automl",
+        "tpot",
+        "auto-sklearn",
+        "learning rate schedule",
+        "early stopping",
+        "validation curve",
+        "learning curve",
+        "hyperband",
+        "successive halving",
+        "population based training"
+      ],
+      "libraries": [
+        "optuna",
+        "hyperopt",
+        "ray.tune",
+        "sklearn.model_selection",
+        "keras_tuner"
+      ],
+      "functions": [
+        "GridSearchCV",
+        "RandomizedSearchCV",
+        "cross_val_score",
+        "StratifiedKFold",
+        "TimeSeriesSplit"
+      ]
+    },
+    "preprocessing": {
+      "terms": [
+        "data preprocessing",
+        "data cleaning",
+        "missing value imputation",
+        "imputation",
+        "normalization",
+        "standardization",
+        "scaling",
+        "standard scaler",
+        "min max scaler",
+        "robust scaler",
+        "label encoding",
+        "one hot encoding",
+        "ordinal encoding",
+        "categorical encoding",
+        "pipeline",
+        "column transformer",
+        "feature scaling",
+        "data transformation",
+        "outlier removal",
+        "noise reduction",
+        "text preprocessing",
+        "tokenization",
+        "lemmatization",
+        "stemming",
+        "stop words",
+        "regex cleaning",
+        "data augmentation",
+        "smote",
+        "oversampling",
+        "undersampling"
+      ],
+      "libraries": [
+        "sklearn.preprocessing",
+        "sklearn.impute",
+        "sklearn.pipeline",
+        "imblearn"
+      ],
+      "functions": [
+        "StandardScaler",
+        "MinMaxScaler",
+        "RobustScaler",
+        "SimpleImputer",
+        "LabelEncoder",
+        "OneHotEncoder",
+        "Pipeline",
+        "make_pipeline"
+      ]
+    },
+    "advanced_ml": {
+      "terms": [
+        "xgboost",
+        "xgb",
+        "lightgbm",
+        "lgbm",
+        "catboost",
+        "gradient boosting",
+        "ensemble learning",
+        "ensemble methods",
+        "stacking",
+        "blending",
+        "voting classifier",
+        "bagging",
+        "boosting",
+        "random forest",
+        "extra trees",
+        "adaboost",
+        "neural network",
+        "deep learning",
+        "keras",
+        "tensorflow",
+        "pytorch",
+        "feature importance",
+        "shap",
+        "lime",
+        "permutation importance",
+        "model interpretation",
+        "explainable ai"
+      ],
+      "libraries": [
+        "xgboost",
+        "lightgbm",
+        "catboost",
+        "tensorflow",
+        "keras",
+        "torch",
+        "pytorch",
+        "shap"
+      ],
+      "functions": [
+        "XGBClassifier",
+        "XGBRegressor",
+        "LGBMClassifier",
+        "LGBMRegressor",
+        "CatBoostClassifier",
+        "VotingClassifier",
+        "StackingClassifier"
+      ]
+    },
+    "ensemble": {
+      "terms": [
+        "ensemble",
+        "stacking classifier",
+        "stacking regressor",
+        "voting ensemble",
+        "weighted average",
+        "model averaging",
+        "meta learner",
+        "base learner",
+        "level-1 model",
+        "level-2 model",
+        "out-of-fold",
+        "oof predictions",
+        "blend predictions",
+        "ensemble weights"
+      ],
+      "libraries": [
+        "mlxtend",
+        "vecstack"
+      ],
+      "functions": [
+        "StackingCVClassifier",
+        "StackingClassifier",
+        "VotingClassifier",
+        "VotingRegressor"
+      ]
+    }
+  },
+  "exclusions": {
+    "titles": [
+      "fork",
+      "copy",
+      "duplicate",
+      "test notebook",
+      "playground"
+    ],
+    "authors": [
+      "kaggle-bot"
+    ],
+    "content_patterns": [
+      "TODO",
+      "FIXME",
+      "work in progress",
+      "under construction"
+    ]
+  },
+  "required_libraries": {
+    "core": [
+      "pandas",
+      "numpy"
+    ],
+    "ml": [
+      "sklearn",
+      "scikit-learn",
+      "xgboost",
+      "lightgbm",
+      "catboost"
+    ],
+    "visualization": [
+      "matplotlib",
+      "seaborn",
+      "plotly"
+    ]
+  },
+  "quality_indicators": {
+    "positive_markers": [
+      "comprehensive analysis",
+      "detailed explanation",
+      "step by step",
+      "tutorial",
+      "in-depth",
+      "advanced techniques",
+      "best practices",
+      "production ready"
+    ],
+    "negative_markers": [
+      "quick test",
+      "simple baseline",
+      "basic example",
+      "minimal code",
+      "placeholder"
+    ]
+  }
+}

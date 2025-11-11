@@ -1,0 +1,18 @@
+collection:
+  target_count: 500
+  min_notebooks: 1
+  
+indexing:
+  target_count: 10000
+  min_votes: 0        # NO MINIMUM VOTES - get everything!
+  per_competition: 500 # Get up to 500 per competition
+  
+download:
+  batch_size: 100
+  rate_limit: 1.5
+  max_retries: 3
+  
+analysis:
+  min_score: 30       # Very low threshold - keep almost everything
+  target_count: 10000
+  workers: 4

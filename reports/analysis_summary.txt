@@ -1,0 +1,34 @@
+======================================================================
+NOTEBOOK ANALYSIS REPORT
+======================================================================
+
+Generated: 2025-11-11 00:37:02
+
+EXECUTIVE SUMMARY
+----------------------------------------------------------------------
+Total Notebooks Analyzed: 295
+Final Curated Count: 130
+Average Quality Score: 61.3
+Competitions Represented: 19
+Total Size: 0.01 GB
+
+CATEGORY DISTRIBUTION
+----------------------------------------------------------------------
+pure_fe                       :     0 (  0.0%)
+eda_fe                        :    69 ( 53.1%)
+hyperparam_fe                 :     4 (  3.1%)
+complete_pipeline             :    57 ( 43.8%)
+advanced                      :     0 (  0.0%)
+
+TOP TECHNIQUES DETECTED
+----------------------------------------------------------------------
+ 1. visualization                           :   159 notebooks
+ 2. neural_network                          :   132 notebooks
+ 3. missing_analysis                        :   123 notebooks
+ 4. aggregation                             :   103 notebooks
+ 5. statistics                              :    83 notebooks
+ 6. cross_validation                        :    82 notebooks
+ 7. correlation                             :    59 notebooks
+ 8. histogram                               :    56 notebooks
+ 9. ensemble                                :    51 notebooks
+10. xgboost                                 :    51 notebooks

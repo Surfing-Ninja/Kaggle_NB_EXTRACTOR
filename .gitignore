@@ -1,0 +1,77 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Project Specific
+notebooks/**
+!notebooks/.gitkeep
+notebooks_curated/**
+!notebooks_curated/.gitkeep
+logs/**
+!logs/.gitkeep
+metadata/**
+!metadata/.gitkeep
+*.log
+
+# Kaggle API Key (NEVER COMMIT!)
+kaggle.json
+.kaggle/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_backup
+
+# Data
+*.csv
+*.parquet
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+
+# Temporary
+*.tmp
+*.bak
+*.swp
+*.cache
+.pytest_cache/
+.coverage
+htmlcov/
+
+# OS
+Thumbs.db
+.DS_Store

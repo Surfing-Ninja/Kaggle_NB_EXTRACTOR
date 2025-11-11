@@ -1,0 +1,159 @@
+# Kaggle 5K Notebook Extraction - Configuration File
+# =================================================
+
+# Pipeline Stage Configuration
+# -----------------------------
+collection:
+  target_count: 500  # Number of competitions to collect
+  
+indexing:
+  target_count: 5000  # Number of kernels to index
+  min_votes: 1  # Minimum votes for a kernel (LOWERED from 10)
+  
+download:
+  batch_size: 100  # Notebooks per batch
+  rate_limit: 1.5  # Seconds between downloads
+  
+analysis:
+  min_score: 35  # Quality threshold (0-100) - LOWERED from 50
+  target_count: 5000  # Target curated notebooks
+  workers: 4  # Parallel analysis workers
+
+# Target Configuration
+# --------------------
+target_notebooks: 5000
+notebooks_per_competition: 10
+min_votes: 1
+min_views: 100
+
+# API & Rate Limiting
+# -------------------
+rate_limit_delay: 2  # seconds between API calls
+max_retries: 3
+retry_backoff_factor: 2  # exponential backoff multiplier
+timeout: 60  # request timeout in seconds
+batch_size: 100
+
+# Parallel Processing
+# -------------------
+max_workers: 4  # concurrent download threads
+enable_parallel: true
+
+# Quality Filters
+# ---------------
+quality_filters:
+  min_code_cells: 5
+  min_markdown_cells: 2
+  min_code_length: 500  # total characters in code cells
+  max_code_length: 50000  # avoid extremely long notebooks
+  min_unique_imports: 3  # pandas, numpy, sklearn, etc.
+  require_outputs: false  # whether notebook must have execution outputs
+
+# Competition Filters
+# -------------------
+competition_filters:
+  # Competition types to include
+  types:
+    - "featured"
+    - "research"
+    - "playground"
+    - "getting-started"
+  
+  # Minimum participants to consider competition
+  min_participants: 100
+  
+  # Only include competitions with these tags (empty = all)
+  required_tags: []
+  
+  # Date range (YYYY-MM-DD format, null = no limit)
+  start_date: "2018-01-01"
+  end_date: null
+
+# Kernel/Notebook Filters
+# ------------------------
+kernel_filters:
+  # Kernel types
+  types:
+    - "notebook"  # Jupyter notebooks
+  
+  # Languages (empty = all)
+  languages:
+    - "python"
+    - "r"
+  
+  # Kernel output types
+  output_types:
+    - "visualization"
+    - "data"
+  
+  # Sort criteria for selecting notebooks
+  sort_by: "voteCount"  # voteCount, dateCreated, dateRun
+  
+  # Minimum execution time (seconds) - filters out trivial notebooks
+  min_execution_time: 10
+
+# Content Analysis Keywords
+# --------------------------
+# These are loaded from filters.json but can be overridden here
+keywords_weight:
+  feature_engineering: 3.0
+  eda: 2.5
+  dimensionality: 2.0
+  hyperparameter: 2.5
+  preprocessing: 1.5
+  advanced_ml: 2.0
+  ensemble: 2.0
+
+# Deduplication
+# -------------
+deduplication:
+  enabled: true
+  method: "sha256"  # sha256, simhash, or content_similarity
+  similarity_threshold: 0.85  # for content_similarity method
+  compare_code_only: true  # ignore markdown for similarity
+
+# Storage
+# -------
+storage:
+  notebooks_dir: "notebooks"
+  curated_dir: "notebooks_curated"
+  metadata_dir: "metadata"
+  logs_dir: "logs"
+  
+  # Save formats
+  save_raw_ipynb: true
+  save_metadata_json: true
+  save_analysis_csv: true
+  
+  # Compression
+  compress_notebooks: false
+  compression_format: "gzip"  # gzip or zip
+
+# Logging
+# -------
+logging:
+  level: "INFO"  # DEBUG, INFO, WARNING, ERROR
+  format: "jsonl"  # jsonl or text
+  console_output: true
+  file_output: true
+  max_log_size_mb: 100
+  backup_count: 5
+
+# Advanced Options
+# ----------------
+advanced:
+  # Resume from previous run
+  resume_enabled: true
+  
+  # Verify notebook integrity after download
+  verify_notebooks: true
+  
+  # Save intermediate progress
+  checkpoint_interval: 100  # save state every N notebooks
+  
+  # Cache API responses
+  cache_api_responses: true
+  cache_ttl_hours: 24
+  
+  # User agent for API calls
+  user_agent: "Kaggle5K-Extractor/1.0"

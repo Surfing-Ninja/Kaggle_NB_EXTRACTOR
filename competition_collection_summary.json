@@ -1,0 +1,28 @@
+{
+  "total_competitions": 19,
+  "processed": 19,
+  "failed": 0,
+  "datasets_downloaded": 0,
+  "timestamp": "2025-11-11 15:39:33",
+  "competitions": [
+    "MABe-mouse-behavior-detection",
+    "cafa-6-protein-function-prediction",
+    "csiro-biomass",
+    "digit-recognizer",
+    "gan-getting-started",
+    "home-data-for-ml-course",
+    "house-prices-advanced-regression-techniques",
+    "hull-tactical-market-prediction",
+    "llm-classification-finetuning",
+    "nfl-big-data-bowl-2026-analytics",
+    "nfl-big-data-bowl-2026-prediction",
+    "nlp-getting-started",
+    "physionet-ecg-image-digitization",
+    "playground-series-s5e11",
+    "recodai-luc-scientific-image-forgery-detection",
+    "spaceship-titanic",
+    "store-sales-time-series-forecasting",
+    "titanic",
+    "tpu-getting-started"
+  ]
+}
